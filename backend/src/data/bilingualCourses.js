@@ -3374,10 +3374,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q1",
               "question": "Question: Which letter does the word Apple begin with?",
               "options": [
-                "12 (12 - Twelve))",
-                "13 (13 - Thirteen))",
-                "14 (14 - Fourteen))",
-                "15 (15 - Fifteen))"
+                "14 (Fourteen)",
+                "15 (Fifteen)",
+                "16 (Sixteen)",
+                "12 (Twelve)"
               ],
               "correct_index": 1,
               "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -3386,10 +3386,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q2",
               "question": "Question: Which word is a Noun?",
               "options": [
-                "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-                "ನಾಮಪದ (Naamapada - Noun))",
-                "ವಿಶೇಷಣ (Viseshana - Adjective))",
-                "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
+                "ಕ್ರಿಯಾಪದ (Kriyapada)",
+                "ನಾಮಪದ (Namapada)",
+                "ಗುಣವಾಚಕ (Gunavachaka)",
+                "ಸರ್ವನಾಮ (Sarvanama)"
               ],
               "correct_index": 1,
               "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -3398,10 +3398,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q3",
               "question": "Question: What is the plural form of the word Tree?",
               "options": [
-                "ಮರ (Mara - Tree))",
-                "ಮರಗಳು (Maragalu - Trees))",
-                "ಮರಗಳ",
-                "ಮರವು"
+                "ಮರ (Mara)",
+                "ಮರಗಳು (Maragalu)",
+                "ಮರಗಳಿಂದ (Maragalinda)",
+                "ಮರಕ್ಕೆ (Marakke)"
               ],
               "correct_index": 1,
               "explanation": "“ಮರ” ಪದದ ಬಹುವಚನ “ಮರಗಳು”."
@@ -3410,10 +3410,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q4",
               "question": "Question: Which word is an Adjective?",
               "options": [
-                "ವಿಶೇಷಣ (Viseshana - Adjective))",
-                "ನಾಮಪದ (Naamapada - Noun))",
-                "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-                "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
+                "ಗುಣವಾಚಕ (Gunavachaka)",
+                "ನಾಮಪದ (Namapada)",
+                "ಕ್ರಿಯಾಪದ (Kriyapada)",
+                "ಅವ್ಯಯ (Avyaya)"
               ],
               "correct_index": 0,
               "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -3422,10 +3422,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q5",
               "question": "Question: Which word is a Verb?",
               "options": [
-                "ನಾಮಪದ (Naamapada - Noun))",
-                "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-                "ವಿಶೇಷಣ (Viseshana - Adjective))",
-                "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
+                "ಕ್ರಿಯಾಪದ (Kriyapada)",
+                "ನಾಮಪದ (Namapada)",
+                "ಗುಣವಾಚಕ (Gunavachaka)",
+                "ಅವ್ಯಯ (Avyaya)"
               ],
               "correct_index": 1,
               "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -3434,10 +3434,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q6",
               "question": "Question: What is the meaning of the word House?",
               "options": [
-                "ಮನೆ",
-                "ಗ್ರಂಥ",
-                "ರಸ್ತೆ",
-                "ಮರ (Mara - Tree))"
+                "ಮನೆ (Mane)",
+                "ಗ್ರಂಥ (Grantha)",
+                "ರಸ್ತೆ (Raste)",
+                "ಮರ (Mara)"
               ],
               "correct_index": 1,
               "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -3446,10 +3446,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q7",
               "question": "Question: What is the meaning of the word School?",
               "options": [
-                "ಆಸ್ಪತ್ರೆ",
-                "ಕಲಿಯುವ ಸ್ಥಳ",
-                "ಮಾರುಕಟ್ಟೆ",
-                "ಉದ್ಯಾನ"
+                "ಶಾಲೆ (Shale)",
+                "ಆಸ್ಪತ್ರೆ (Aaspatre)",
+                "ಮಾರುಕಟ್ಟೆ (Marukatte)",
+                "ಉದ್ಯಾನವನ (Udyanavana)"
               ],
               "correct_index": 1,
               "explanation": "ಶಾಲೆ ಎಂದರೆ ಕಲಿಯುವ ಸ್ಥಳ."
@@ -3464,10 +3464,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q1",
             "question": "Question: Which letter does the word Apple begin with?",
             "options": [
-              "12 (12 - Twelve))",
-              "13 (13 - Thirteen))",
-              "14 (14 - Fourteen))",
-              "15 (15 - Fifteen))"
+              "14 (Fourteen)",
+              "15 (Fifteen)",
+              "16 (Sixteen)",
+              "12 (Twelve)"
             ],
             "correct_index": 1,
             "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -3476,10 +3476,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q2",
             "question": "Question: Which word is a Noun?",
             "options": [
-              "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-              "ನಾಮಪದ (Naamapada - Noun))",
-              "ವಿಶೇಷಣ (Viseshana - Adjective))",
-              "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
+              "ಕ್ರಿಯಾಪದ (Kriyapada)",
+              "ನಾಮಪದ (Namapada)",
+              "ಗುಣವಾಚಕ (Gunavachaka)",
+              "ಸರ್ವನಾಮ (Sarvanama)"
             ],
             "correct_index": 1,
             "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -3488,10 +3488,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q3",
             "question": "Question: What is the plural form of the word Tree?",
             "options": [
-              "ಮರ (Mara - Tree))",
-              "ಮರಗಳು (Maragalu - Trees))",
-              "ಮರಗಳ",
-              "ಮರವು"
+              "ಮರ (Mara)",
+              "ಮರಗಳು (Maragalu)",
+              "ಮರಗಳಿಂದ (Maragalinda)",
+              "ಮರಕ್ಕೆ (Marakke)"
             ],
             "correct_index": 1,
             "explanation": "“ಮರ” ಪದದ ಬಹುವಚನ “ಮರಗಳು”."
@@ -3500,10 +3500,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q4",
             "question": "Question: Which word is an Adjective?",
             "options": [
-              "ವಿಶೇಷಣ (Viseshana - Adjective))",
-              "ನಾಮಪದ (Naamapada - Noun))",
-              "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-              "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
+              "ಗುಣವಾಚಕ (Gunavachaka)",
+              "ನಾಮಪದ (Namapada)",
+              "ಕ್ರಿಯಾಪದ (Kriyapada)",
+              "ಅವ್ಯಯ (Avyaya)"
             ],
             "correct_index": 0,
             "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -3512,10 +3512,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q5",
             "question": "Question: Which word is a Verb?",
             "options": [
-              "ನಾಮಪದ (Naamapada - Noun))",
-              "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-              "ವಿಶೇಷಣ (Viseshana - Adjective))",
-              "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
+              "ಕ್ರಿಯಾಪದ (Kriyapada)",
+              "ನಾಮಪದ (Namapada)",
+              "ಗುಣವಾಚಕ (Gunavachaka)",
+              "ಅವ್ಯಯ (Avyaya)"
             ],
             "correct_index": 1,
             "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -3524,10 +3524,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q6",
             "question": "Question: What is the meaning of the word House?",
             "options": [
-              "ಮನೆ",
-              "ಗ್ರಂಥ",
-              "ರಸ್ತೆ",
-              "ಮರ (Mara - Tree))"
+              "ಮನೆ (Mane)",
+              "ಗ್ರಂಥ (Grantha)",
+              "ರಸ್ತೆ (Raste)",
+              "ಮರ (Mara)"
             ],
             "correct_index": 1,
             "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -3536,10 +3536,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q7",
             "question": "Question: What is the meaning of the word School?",
             "options": [
-              "ಆಸ್ಪತ್ರೆ",
-              "ಕಲಿಯುವ ಸ್ಥಳ",
-              "ಮಾರುಕಟ್ಟೆ",
-              "ಉದ್ಯಾನ"
+              "ಶಾಲೆ (Shale)",
+              "ಆಸ್ಪತ್ರೆ (Aaspatre)",
+              "ಮಾರುಕಟ್ಟೆ (Marukatte)",
+              "ಉದ್ಯಾನವನ (Udyanavana)"
             ],
             "correct_index": 1,
             "explanation": "ಶಾಲೆ ಎಂದರೆ ಕಲಿಯುವ ಸ್ಥಳ."
@@ -3551,10 +3551,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q1",
           "question": "Question: Which letter does the word Apple begin with?",
           "options": [
-            "12 (12 - Twelve))",
-            "13 (13 - Thirteen))",
-            "14 (14 - Fourteen))",
-            "15 (15 - Fifteen))"
+            "14 (Fourteen)",
+            "15 (Fifteen)",
+            "16 (Sixteen)",
+            "12 (Twelve)"
           ],
           "correct_index": 1,
           "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -3563,10 +3563,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q2",
           "question": "Question: Which word is a Noun?",
           "options": [
-            "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-            "ನಾಮಪದ (Naamapada - Noun))",
-            "ವಿಶೇಷಣ (Viseshana - Adjective))",
-            "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
+            "ಕ್ರಿಯಾಪದ (Kriyapada)",
+            "ನಾಮಪದ (Namapada)",
+            "ಗುಣವಾಚಕ (Gunavachaka)",
+            "ಸರ್ವನಾಮ (Sarvanama)"
           ],
           "correct_index": 1,
           "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -3575,10 +3575,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q3",
           "question": "Question: What is the plural form of the word Tree?",
           "options": [
-            "ಮರ (Mara - Tree))",
-            "ಮರಗಳು (Maragalu - Trees))",
-            "ಮರಗಳ",
-            "ಮರವು"
+            "ಮರ (Mara)",
+            "ಮರಗಳು (Maragalu)",
+            "ಮರಗಳಿಂದ (Maragalinda)",
+            "ಮರಕ್ಕೆ (Marakke)"
           ],
           "correct_index": 1,
           "explanation": "“ಮರ” ಪದದ ಬಹುವಚನ “ಮರಗಳು”."
@@ -3587,10 +3587,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q4",
           "question": "Question: Which word is an Adjective?",
           "options": [
-            "ವಿಶೇಷಣ (Viseshana - Adjective))",
-            "ನಾಮಪದ (Naamapada - Noun))",
-            "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-            "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
+            "ಗುಣವಾಚಕ (Gunavachaka)",
+            "ನಾಮಪದ (Namapada)",
+            "ಕ್ರಿಯಾಪದ (Kriyapada)",
+            "ಅವ್ಯಯ (Avyaya)"
           ],
           "correct_index": 0,
           "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -3599,10 +3599,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q5",
           "question": "Question: Which word is a Verb?",
           "options": [
-            "ನಾಮಪದ (Naamapada - Noun))",
-            "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-            "ವಿಶೇಷಣ (Viseshana - Adjective))",
-            "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
+            "ಕ್ರಿಯಾಪದ (Kriyapada)",
+            "ನಾಮಪದ (Namapada)",
+            "ಗುಣವಾಚಕ (Gunavachaka)",
+            "ಅವ್ಯಯ (Avyaya)"
           ],
           "correct_index": 1,
           "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -3611,10 +3611,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q6",
           "question": "Question: What is the meaning of the word House?",
           "options": [
-            "ಮನೆ",
-            "ಗ್ರಂಥ",
-            "ರಸ್ತೆ",
-            "ಮರ (Mara - Tree))"
+            "ಮನೆ (Mane)",
+            "ಗ್ರಂಥ (Grantha)",
+            "ರಸ್ತೆ (Raste)",
+            "ಮರ (Mara)"
           ],
           "correct_index": 1,
           "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -3623,10 +3623,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q7",
           "question": "Question: What is the meaning of the word School?",
           "options": [
-            "ಆಸ್ಪತ್ರೆ",
-            "ಕಲಿಯುವ ಸ್ಥಳ",
-            "ಮಾರುಕಟ್ಟೆ",
-            "ಉದ್ಯಾನ"
+            "ಶಾಲೆ (Shale)",
+            "ಆಸ್ಪತ್ರೆ (Aaspatre)",
+            "ಮಾರುಕಟ್ಟೆ (Marukatte)",
+            "ಉದ್ಯಾನವನ (Udyanavana)"
           ],
           "correct_index": 1,
           "explanation": "ಶಾಲೆ ಎಂದರೆ ಕಲಿಯುವ ಸ್ಥಳ."
@@ -3653,10 +3653,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q1",
               "question": "Question: \"I am going to school.\" Which tense is this?",
               "options": [
-                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-                "ಆಜ್ಞಾರ್ಥಕ"
+                "ಭೂತಕಾಲ (Bhoothakala)",
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+                "ಆಜ್ಞಾರ್ಥಕ (Agnyarthaka)"
               ],
               "correct_index": 1,
               "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -3665,10 +3665,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q2",
               "question": "Question: \"He came yesterday.\" Which tense is this?",
               "options": [
-                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-                "ಯಾವುದೂ ಅಲ್ಲ"
+                "ಭೂತಕಾಲ (Bhoothakala)",
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+                "ಯಾವುದೂ ಅಲ್ಲ (Yavudoo alla)"
               ],
               "correct_index": 0,
               "explanation": "ಇದು ಭೂತಕಾಲ."
@@ -3677,10 +3677,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q3",
               "question": "Question: \"I will go tomorrow.\" Which tense is this?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-                "ನಾಮಪದ (Naamapada - Noun))"
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+                "ಭೂತಕಾಲ (Bhoothakala)",
+                "ನಾಮಪದ (Namapada)"
               ],
               "correct_index": 1,
               "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3689,10 +3689,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q4",
               "question": "Question: \"She is singing a song.\" Which tense is this?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-                "ವಿಶೇಷಣ (Viseshana - Adjective))"
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+                "ಭೂತಕಾಲ (Bhoothakala)",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+                "ಗುಣವಾಚಕ (Gunavachaka)"
               ],
               "correct_index": 0,
               "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -3701,10 +3701,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q5",
               "question": "Question: \"Ate\" — Which tense does this indicate?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-                "ಯಾವುದೂ ಅಲ್ಲ"
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+                "ಭೂತಕಾಲ (Bhoothakala)",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+                "ಯಾವುದೂ ಅಲ್ಲ (Yavudoo alla)"
               ],
               "correct_index": 1,
               "explanation": "ತಿಂದನು ಭೂತಕಾಲ."
@@ -3713,10 +3713,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q6",
               "question": "Question: \"Will read\" — Which tense does this belong to?",
               "options": [
-                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-                "ವಿಶೇಷಣ (Viseshana - Adjective))"
+                "ಭೂತಕಾಲ (Bhoothakala)",
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+                "ಗುಣವಾಚಕ (Gunavachaka)"
               ],
               "correct_index": 2,
               "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3725,10 +3725,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q7",
               "question": "Question: \"Is playing\" — Which tense is this an example of?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-                "ನಾಮಪದ (Naamapada - Noun))"
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+                "ಭೂತಕಾಲ (Bhoothakala)",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+                "ನಾಮಪದ (Namapada)"
               ],
               "correct_index": 0,
               "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -3743,10 +3743,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q1",
             "question": "Question: \"I am going to school.\" Which tense is this?",
             "options": [
-              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-              "ಆಜ್ಞಾರ್ಥಕ"
+              "ಭೂತಕಾಲ (Bhoothakala)",
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+              "ಆಜ್ಞಾರ್ಥಕ (Agnyarthaka)"
             ],
             "correct_index": 1,
             "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -3755,10 +3755,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q2",
             "question": "Question: \"He came yesterday.\" Which tense is this?",
             "options": [
-              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-              "ಯಾವುದೂ ಅಲ್ಲ"
+              "ಭೂತಕಾಲ (Bhoothakala)",
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+              "ಯಾವುದೂ ಅಲ್ಲ (Yavudoo alla)"
             ],
             "correct_index": 0,
             "explanation": "ಇದು ಭೂತಕಾಲ."
@@ -3767,10 +3767,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q3",
             "question": "Question: \"I will go tomorrow.\" Which tense is this?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-              "ನಾಮಪದ (Naamapada - Noun))"
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+              "ಭೂತಕಾಲ (Bhoothakala)",
+              "ನಾಮಪದ (Namapada)"
             ],
             "correct_index": 1,
             "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3779,10 +3779,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q4",
             "question": "Question: \"She is singing a song.\" Which tense is this?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-              "ವಿಶೇಷಣ (Viseshana - Adjective))"
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+              "ಭೂತಕಾಲ (Bhoothakala)",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+              "ಗುಣವಾಚಕ (Gunavachaka)"
             ],
             "correct_index": 0,
             "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -3791,10 +3791,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q5",
             "question": "Question: \"Ate\" — Which tense does this indicate?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-              "ಯಾವುದೂ ಅಲ್ಲ"
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+              "ಭೂತಕಾಲ (Bhoothakala)",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+              "ಯಾವುದೂ ಅಲ್ಲ (Yavudoo alla)"
             ],
             "correct_index": 1,
             "explanation": "ತಿಂದನು ಭೂತಕಾಲ."
@@ -3803,10 +3803,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q6",
             "question": "Question: \"Will read\" — Which tense does this belong to?",
             "options": [
-              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-              "ವಿಶೇಷಣ (Viseshana - Adjective))"
+              "ಭೂತಕಾಲ (Bhoothakala)",
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+              "ಗುಣವಾಚಕ (Gunavachaka)"
             ],
             "correct_index": 2,
             "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3815,10 +3815,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q7",
             "question": "Question: \"Is playing\" — Which tense is this an example of?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-              "ನಾಮಪದ (Naamapada - Noun))"
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+              "ಭೂತಕಾಲ (Bhoothakala)",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+              "ನಾಮಪದ (Namapada)"
             ],
             "correct_index": 0,
             "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -3830,10 +3830,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q1",
           "question": "Question: \"I am going to school.\" Which tense is this?",
           "options": [
-            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-            "ಆಜ್ಞಾರ್ಥಕ"
+            "ಭೂತಕಾಲ (Bhoothakala)",
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+            "ಆಜ್ಞಾರ್ಥಕ (Agnyarthaka)"
           ],
           "correct_index": 1,
           "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -3842,10 +3842,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q2",
           "question": "Question: \"He came yesterday.\" Which tense is this?",
           "options": [
-            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-            "ಯಾವುದೂ ಅಲ್ಲ"
+            "ಭೂತಕಾಲ (Bhoothakala)",
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+            "ಯಾವುದೂ ಅಲ್ಲ (Yavudoo alla)"
           ],
           "correct_index": 0,
           "explanation": "ಇದು ಭೂತಕಾಲ."
@@ -3854,10 +3854,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q3",
           "question": "Question: \"I will go tomorrow.\" Which tense is this?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-            "ನಾಮಪದ (Naamapada - Noun))"
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+            "ಭೂತಕಾಲ (Bhoothakala)",
+            "ನಾಮಪದ (Namapada)"
           ],
           "correct_index": 1,
           "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3866,10 +3866,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q4",
           "question": "Question: \"She is singing a song.\" Which tense is this?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-            "ವಿಶೇಷಣ (Viseshana - Adjective))"
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+            "ಭೂತಕಾಲ (Bhoothakala)",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+            "ಗುಣವಾಚಕ (Gunavachaka)"
           ],
           "correct_index": 0,
           "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -3878,10 +3878,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q5",
           "question": "Question: \"Ate\" — Which tense does this indicate?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-            "ಯಾವುದೂ ಅಲ್ಲ"
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+            "ಭೂತಕಾಲ (Bhoothakala)",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+            "ಯಾವುದೂ ಅಲ್ಲ (Yavudoo alla)"
           ],
           "correct_index": 1,
           "explanation": "ತಿಂದನು ಭೂತಕಾಲ."
@@ -3890,10 +3890,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q6",
           "question": "Question: \"Will read\" — Which tense does this belong to?",
           "options": [
-            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-            "ವಿಶೇಷಣ (Viseshana - Adjective))"
+            "ಭೂತಕಾಲ (Bhoothakala)",
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+            "ಗುಣವಾಚಕ (Gunavachaka)"
           ],
           "correct_index": 2,
           "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3902,10 +3902,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q7",
           "question": "Question: \"Is playing\" — Which tense is this an example of?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
-            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
-            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
-            "ನಾಮಪದ (Naamapada - Noun))"
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala)",
+            "ಭೂತಕಾಲ (Bhoothakala)",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala)",
+            "ನಾಮಪದ (Namapada)"
           ],
           "correct_index": 0,
           "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -3932,10 +3932,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_i1_q1",
               "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
               "options": [
-                "ಆದರೆ (Aadare - But))",
-                "ಮತ್ತು (Mattu - And))",
-                "ಏಕೆಂದರೆ",
-                "ಅಥವಾ (Athavaa - Or))"
+                "ಆದರೆ (Adare)",
+                "ಮತ್ತು (Mattu)",
+                "ಏಕೆಂದರೆ (Ekendare)",
+                "ಅಥವಾ (Athava)"
               ],
               "correct_index": 1,
               "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -3944,10 +3944,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_i1_q2",
               "question": "Question: In \"Mother and Father\", which word is the conjunction?",
               "options": [
-                "ಅಮ್ಮ",
-                "ಮತ್ತು (Mattu - And))",
-                "ಅಪ್ಪ",
-                "ನಲ್ಲಿ"
+                "ತಾಯಿ (Thayi)",
+                "ಮತ್ತು (Mattu)",
+                "ತಂದೆ (Thande)",
+                "ಅಲ್ಲಿ (Alli)"
               ],
               "correct_index": 1,
               "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -3956,10 +3956,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_i1_q3",
               "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
               "options": [
-                "ಆದರೆ (Aadare - But))",
-                "ಓದಿದನು",
-                "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
-                "ಅವನು"
+                "ಆದರೆ (Adare)",
+                "ಓದಿದನು (Odidanu)",
+                "ಉತ್ತೀರ್ಣ (Utteerna)",
+                "ಇಲ್ಲ (Illa)"
               ],
               "correct_index": 0,
               "explanation": "ಆದರೆ ಸಂಪರ್ಕ ಪದ."
@@ -3968,10 +3968,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_i1_q4",
               "question": "Question: What part of speech is the word \"And\"?",
               "options": [
-                "ಸಂಪರ್ಕಪದ",
-                "ನಾಮಪದ (Naamapada - Noun))",
-                "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-                "ವಿಶೇಷಣ (Viseshana - Adjective))"
+                "ಸಂಯೋಜಕ ಪದ (Sanyojaka Pada)",
+                "ನಾಮಪದ (Namapada)",
+                "ಕ್ರಿಯಾಪದ (Kriyapada)",
+                "ಗುಣವಾಚಕ (Gunavachaka)"
               ],
               "correct_index": 0,
               "explanation": "ಸಂಪರ್ಕಪದ."
@@ -3980,10 +3980,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_i1_q5",
               "question": "Question: When is the word \"Therefore\" used?",
               "options": [
-                "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
-                "ನಾಮಪದವಾಗಿ",
-                "ಕ್ರಿಯಾಪದವಾಗಿ",
-                "ಕಾಲ ಸೂಚಿಸಲು"
+                "ಕಾರಣ (Karana)",
+                "ನಾಮಪದ (Namapada)",
+                "ಕ್ರಿಯಾಪದ (Kriyapada)",
+                "ಸಮಯ (Samaya)"
               ],
               "correct_index": 0,
               "explanation": "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು."
@@ -3992,10 +3992,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_i1_q6",
               "question": "Question: Which of the following is a valid conjunction?",
               "options": [
-                "ಮತ್ತು (Mattu - And))",
-                "ಪುಸ್ತಕ",
-                "ಮನೆ",
-                "ಓಡು"
+                "ಮತ್ತು (Mattu)",
+                "ಪುಸ್ತಕ (Pustaka)",
+                "ಮನೆ (Mane)",
+                "ಓಡು (Odu)"
               ],
               "correct_index": 0,
               "explanation": "ಮತ್ತು ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ."
@@ -4004,10 +4004,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_i1_q7",
               "question": "Question: What does the word \"Or\" mean?",
               "options": [
-                "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
-                "ಸಮಯ",
-                "ಸ್ಥಳ",
-                "ಕ್ರಿಯೆ"
+                "ಆಯ್ಕೆ (Aayke)",
+                "ಸಮಯ (Samaya)",
+                "ಸ್ಥಳ (Sthala)",
+                "ಕ್ರಿಯೆ (Kriye)"
               ],
               "correct_index": 0,
               "explanation": "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು."
@@ -4022,10 +4022,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_i1_q1",
             "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
             "options": [
-              "ಆದರೆ (Aadare - But))",
-              "ಮತ್ತು (Mattu - And))",
-              "ಏಕೆಂದರೆ",
-              "ಅಥವಾ (Athavaa - Or))"
+              "ಆದರೆ (Adare)",
+              "ಮತ್ತು (Mattu)",
+              "ಏಕೆಂದರೆ (Ekendare)",
+              "ಅಥವಾ (Athava)"
             ],
             "correct_index": 1,
             "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -4034,10 +4034,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_i1_q2",
             "question": "Question: In \"Mother and Father\", which word is the conjunction?",
             "options": [
-              "ಅಮ್ಮ",
-              "ಮತ್ತು (Mattu - And))",
-              "ಅಪ್ಪ",
-              "ನಲ್ಲಿ"
+              "ತಾಯಿ (Thayi)",
+              "ಮತ್ತು (Mattu)",
+              "ತಂದೆ (Thande)",
+              "ಅಲ್ಲಿ (Alli)"
             ],
             "correct_index": 1,
             "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -4046,10 +4046,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_i1_q3",
             "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
             "options": [
-              "ಆದರೆ (Aadare - But))",
-              "ಓದಿದನು",
-              "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
-              "ಅವನು"
+              "ಆದರೆ (Adare)",
+              "ಓದಿದನು (Odidanu)",
+              "ಉತ್ತೀರ್ಣ (Utteerna)",
+              "ಇಲ್ಲ (Illa)"
             ],
             "correct_index": 0,
             "explanation": "ಆದರೆ ಸಂಪರ್ಕ ಪದ."
@@ -4058,10 +4058,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_i1_q4",
             "question": "Question: What part of speech is the word \"And\"?",
             "options": [
-              "ಸಂಪರ್ಕಪದ",
-              "ನಾಮಪದ (Naamapada - Noun))",
-              "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-              "ವಿಶೇಷಣ (Viseshana - Adjective))"
+              "ಸಂಯೋಜಕ ಪದ (Sanyojaka Pada)",
+              "ನಾಮಪದ (Namapada)",
+              "ಕ್ರಿಯಾಪದ (Kriyapada)",
+              "ಗುಣವಾಚಕ (Gunavachaka)"
             ],
             "correct_index": 0,
             "explanation": "ಸಂಪರ್ಕಪದ."
@@ -4070,10 +4070,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_i1_q5",
             "question": "Question: When is the word \"Therefore\" used?",
             "options": [
-              "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
-              "ನಾಮಪದವಾಗಿ",
-              "ಕ್ರಿಯಾಪದವಾಗಿ",
-              "ಕಾಲ ಸೂಚಿಸಲು"
+              "ಕಾರಣ (Karana)",
+              "ನಾಮಪದ (Namapada)",
+              "ಕ್ರಿಯಾಪದ (Kriyapada)",
+              "ಸಮಯ (Samaya)"
             ],
             "correct_index": 0,
             "explanation": "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು."
@@ -4082,10 +4082,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_i1_q6",
             "question": "Question: Which of the following is a valid conjunction?",
             "options": [
-              "ಮತ್ತು (Mattu - And))",
-              "ಪುಸ್ತಕ",
-              "ಮನೆ",
-              "ಓಡು"
+              "ಮತ್ತು (Mattu)",
+              "ಪುಸ್ತಕ (Pustaka)",
+              "ಮನೆ (Mane)",
+              "ಓಡು (Odu)"
             ],
             "correct_index": 0,
             "explanation": "ಮತ್ತು ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ."
@@ -4094,10 +4094,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_i1_q7",
             "question": "Question: What does the word \"Or\" mean?",
             "options": [
-              "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
-              "ಸಮಯ",
-              "ಸ್ಥಳ",
-              "ಕ್ರಿಯೆ"
+              "ಆಯ್ಕೆ (Aayke)",
+              "ಸಮಯ (Samaya)",
+              "ಸ್ಥಳ (Sthala)",
+              "ಕ್ರಿಯೆ (Kriye)"
             ],
             "correct_index": 0,
             "explanation": "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು."
@@ -4109,10 +4109,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_i1_q1",
           "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
           "options": [
-            "ಆದರೆ (Aadare - But))",
-            "ಮತ್ತು (Mattu - And))",
-            "ಏಕೆಂದರೆ",
-            "ಅಥವಾ (Athavaa - Or))"
+            "ಆದರೆ (Adare)",
+            "ಮತ್ತು (Mattu)",
+            "ಏಕೆಂದರೆ (Ekendare)",
+            "ಅಥವಾ (Athava)"
           ],
           "correct_index": 1,
           "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -4121,10 +4121,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_i1_q2",
           "question": "Question: In \"Mother and Father\", which word is the conjunction?",
           "options": [
-            "ಅಮ್ಮ",
-            "ಮತ್ತು (Mattu - And))",
-            "ಅಪ್ಪ",
-            "ನಲ್ಲಿ"
+            "ತಾಯಿ (Thayi)",
+            "ಮತ್ತು (Mattu)",
+            "ತಂದೆ (Thande)",
+            "ಅಲ್ಲಿ (Alli)"
           ],
           "correct_index": 1,
           "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -4133,10 +4133,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_i1_q3",
           "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
           "options": [
-            "ಆದರೆ (Aadare - But))",
-            "ಓದಿದನು",
-            "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
-            "ಅವನು"
+            "ಆದರೆ (Adare)",
+            "ಓದಿದನು (Odidanu)",
+            "ಉತ್ತೀರ್ಣ (Utteerna)",
+            "ಇಲ್ಲ (Illa)"
           ],
           "correct_index": 0,
           "explanation": "ಆದರೆ ಸಂಪರ್ಕ ಪದ."
@@ -4145,10 +4145,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_i1_q4",
           "question": "Question: What part of speech is the word \"And\"?",
           "options": [
-            "ಸಂಪರ್ಕಪದ",
-            "ನಾಮಪದ (Naamapada - Noun))",
-            "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
-            "ವಿಶೇಷಣ (Viseshana - Adjective))"
+            "ಸಂಯೋಜಕ ಪದ (Sanyojaka Pada)",
+            "ನಾಮಪದ (Namapada)",
+            "ಕ್ರಿಯಾಪದ (Kriyapada)",
+            "ಗುಣವಾಚಕ (Gunavachaka)"
           ],
           "correct_index": 0,
           "explanation": "ಸಂಪರ್ಕಪದ."
@@ -4157,10 +4157,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_i1_q5",
           "question": "Question: When is the word \"Therefore\" used?",
           "options": [
-            "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
-            "ನಾಮಪದವಾಗಿ",
-            "ಕ್ರಿಯಾಪದವಾಗಿ",
-            "ಕಾಲ ಸೂಚಿಸಲು"
+            "ಕಾರಣ (Karana)",
+            "ನಾಮಪದ (Namapada)",
+            "ಕ್ರಿಯಾಪದ (Kriyapada)",
+            "ಸಮಯ (Samaya)"
           ],
           "correct_index": 0,
           "explanation": "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು."
@@ -4169,10 +4169,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_i1_q6",
           "question": "Question: Which of the following is a valid conjunction?",
           "options": [
-            "ಮತ್ತು (Mattu - And))",
-            "ಪುಸ್ತಕ",
-            "ಮನೆ",
-            "ಓಡು"
+            "ಮತ್ತು (Mattu)",
+            "ಪುಸ್ತಕ (Pustaka)",
+            "ಮನೆ (Mane)",
+            "ಓಡು (Odu)"
           ],
           "correct_index": 0,
           "explanation": "ಮತ್ತು ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ."
@@ -4181,10 +4181,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_i1_q7",
           "question": "Question: What does the word \"Or\" mean?",
           "options": [
-            "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
-            "ಸಮಯ",
-            "ಸ್ಥಳ",
-            "ಕ್ರಿಯೆ"
+            "ಆಯ್ಕೆ (Aayke)",
+            "ಸಮಯ (Samaya)",
+            "ಸ್ಥಳ (Sthala)",
+            "ಕ್ರಿಯೆ (Kriye)"
           ],
           "correct_index": 0,
           "explanation": "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು."
@@ -4211,10 +4211,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_a1_q1",
               "question": "Question: Where does Rahul go?",
               "options": [
-                "ಮಾರುಕಟ್ಟೆ",
-                "ಶಾಲೆ",
-                "ಉದ್ಯಾನ",
-                "ಮನೆ"
+                "ಮಾರುಕಟ್ಟೆ (Marukatte)",
+                "ಶಾಲೆ (Shale)",
+                "ಉದ್ಯಾನವನ (Udyanavana)",
+                "ಮನೆ (Mane)"
               ],
               "correct_index": 1,
               "explanation": "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ."
@@ -4223,10 +4223,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_a1_q2",
               "question": "Question: What does Rahul like to do?",
               "options": [
-                "ಆಟ ಆಡುವುದು",
-                "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
-                "ನಿದ್ರೆ ಮಾಡುವುದು",
-                "ದೂರದರ್ಶನ ನೋಡುವುದು"
+                "ಆಟ ಆಡುವುದು (Aata aaduvudu)",
+                "ಪುಸ್ತಕ ಓದುವುದು (Pustaka oduvudu)",
+                "ಮಲಗುವುದು (Malaguvudu)",
+                "ಟಿವಿ ನೋಡುವುದು (TV noduvudu)"
               ],
               "correct_index": 1,
               "explanation": "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ."
@@ -4235,10 +4235,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_a1_q3",
               "question": "Question: Who is this passage about?",
               "options": [
-                "ಸೀತಾ",
-                "ರಾಹುಲ್",
-                "ಮೋಹನ್",
-                "ಲತಾ"
+                "ರೀನಾ (Reena)",
+                "ರಾಹುಲ್ (Rahul)",
+                "ಮೋಹನ್ (Mohan)",
+                "ಸೀಮಾ (Seema)"
               ],
               "correct_index": 1,
               "explanation": "ರಾಹುಲ್ ಬಗ್ಗೆ ಇದೆ."
@@ -4247,10 +4247,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_a1_q4",
               "question": "Question: What does the term \"Every day\" mean?",
               "options": [
-                "ಪ್ರತಿ ದಿನ",
-                "ನಿನ್ನೆ",
-                "ಎಂದಿಗೂ ಇಲ್ಲ",
-                "ಮುಂದಿನ ವಾರ"
+                "ಪ್ರತಿದಿನ (Prathidina)",
+                "ನಿನ್ನೆ (Ninne)",
+                "ಎಂದಿಗೂ ಇಲ್ಲ (Endigoo illa)",
+                "ಮುಂದಿನ ವಾರ (Mundina vaara)"
               ],
               "correct_index": 0,
               "explanation": "ಪ್ರತಿ ದಿನ."
@@ -4259,10 +4259,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_a1_q5",
               "question": "Question: What does Rahul do every day?",
               "options": [
-                "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
-                "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
-                "ಮನೆಯಲ್ಲಿ ಇರುತ್ತಾನೆ",
-                "ಆಸ್ಪತ್ರೆಗೆ ಹೋಗುತ್ತಾನೆ"
+                "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ (Shalege hoguttane)",
+                "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ (Marukattege hoguttane)",
+                "ಮನೆಯಲ್ಲಿ ಇರುತ್ತಾನೆ (Maneyalli iruttane)",
+                "ಆಸ್ಪತ್ರೆಗೆ ಹೋಗುತ್ತಾನೆ (Aaspatrege hoguttane)"
               ],
               "correct_index": 0,
               "explanation": "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ."
@@ -4271,10 +4271,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_a1_q6",
               "question": "Question: What is the main idea of this passage?",
               "options": [
-                "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
-                "ಪ್ರವಾಸ",
-                "ಮಳೆ",
-                "ಬೆಟ್ಟಗಳು"
+                "ಅಭ್ಯಾಸ (Abhyasa)",
+                "ಪ್ರಯಾಣ (Prayana)",
+                "ಮಳೆ (Male)",
+                "ಬೆಟ್ಟಗಳು (Bettagalu)"
               ],
               "correct_index": 0,
               "explanation": "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ."
@@ -4283,10 +4283,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_a1_q7",
               "question": "Question: Which statement is correct according to the passage?",
               "options": [
-                "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
-                "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
-                "ರಾಹುಲ್ ಯಾವಾಗಲೂ ಆಟವಾಡುತ್ತಾನೆ.",
-                "ರಾಹುಲ್ ಓದುವುದಿಲ್ಲ."
+                "ರಾಹುಲ್ ಪುಸ್ತಕ ಓದಲು ಇಷ್ಟಪಡುತ್ತಾನೆ (Rahul pustaka odalu ishtapaduttane)",
+                "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ (Rahul shalege hoguvudilla)",
+                "ರಾಹುಲ್ ಆಟ ಮಾತ್ರ ಆಡುತ್ತಾನೆ (Rahul aata maatra aaduttane)",
+                "ರಾಹುಲ್ ದಿನವಿಡೀ ಮಲಗುತ್ತಾನೆ (Rahul dinavidee malaguttane)"
               ],
               "correct_index": 0,
               "explanation": "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ."
@@ -4301,10 +4301,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_a1_q1",
             "question": "Question: Where does Rahul go?",
             "options": [
-              "ಮಾರುಕಟ್ಟೆ",
-              "ಶಾಲೆ",
-              "ಉದ್ಯಾನ",
-              "ಮನೆ"
+              "ಮಾರುಕಟ್ಟೆ (Marukatte)",
+              "ಶಾಲೆ (Shale)",
+              "ಉದ್ಯಾನವನ (Udyanavana)",
+              "ಮನೆ (Mane)"
             ],
             "correct_index": 1,
             "explanation": "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ."
@@ -4313,10 +4313,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_a1_q2",
             "question": "Question: What does Rahul like to do?",
             "options": [
-              "ಆಟ ಆಡುವುದು",
-              "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
-              "ನಿದ್ರೆ ಮಾಡುವುದು",
-              "ದೂರದರ್ಶನ ನೋಡುವುದು"
+              "ಆಟ ಆಡುವುದು (Aata aaduvudu)",
+              "ಪುಸ್ತಕ ಓದುವುದು (Pustaka oduvudu)",
+              "ಮಲಗುವುದು (Malaguvudu)",
+              "ಟಿವಿ ನೋಡುವುದು (TV noduvudu)"
             ],
             "correct_index": 1,
             "explanation": "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ."
@@ -4325,10 +4325,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_a1_q3",
             "question": "Question: Who is this passage about?",
             "options": [
-              "ಸೀತಾ",
-              "ರಾಹುಲ್",
-              "ಮೋಹನ್",
-              "ಲತಾ"
+              "ರೀನಾ (Reena)",
+              "ರಾಹುಲ್ (Rahul)",
+              "ಮೋಹನ್ (Mohan)",
+              "ಸೀಮಾ (Seema)"
             ],
             "correct_index": 1,
             "explanation": "ರಾಹುಲ್ ಬಗ್ಗೆ ಇದೆ."
@@ -4337,10 +4337,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_a1_q4",
             "question": "Question: What does the term \"Every day\" mean?",
             "options": [
-              "ಪ್ರತಿ ದಿನ",
-              "ನಿನ್ನೆ",
-              "ಎಂದಿಗೂ ಇಲ್ಲ",
-              "ಮುಂದಿನ ವಾರ"
+              "ಪ್ರತಿದಿನ (Prathidina)",
+              "ನಿನ್ನೆ (Ninne)",
+              "ಎಂದಿಗೂ ಇಲ್ಲ (Endigoo illa)",
+              "ಮುಂದಿನ ವಾರ (Mundina vaara)"
             ],
             "correct_index": 0,
             "explanation": "ಪ್ರತಿ ದಿನ."
@@ -4349,10 +4349,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_a1_q5",
             "question": "Question: What does Rahul do every day?",
             "options": [
-              "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
-              "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
-              "ಮನೆಯಲ್ಲಿ ಇರುತ್ತಾನೆ",
-              "ಆಸ್ಪತ್ರೆಗೆ ಹೋಗುತ್ತಾನೆ"
+              "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ (Shalege hoguttane)",
+              "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ (Marukattege hoguttane)",
+              "ಮನೆಯಲ್ಲಿ ಇರುತ್ತಾನೆ (Maneyalli iruttane)",
+              "ಆಸ್ಪತ್ರೆಗೆ ಹೋಗುತ್ತಾನೆ (Aaspatrege hoguttane)"
             ],
             "correct_index": 0,
             "explanation": "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ."
@@ -4361,10 +4361,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_a1_q6",
             "question": "Question: What is the main idea of this passage?",
             "options": [
-              "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
-              "ಪ್ರವಾಸ",
-              "ಮಳೆ",
-              "ಬೆಟ್ಟಗಳು"
+              "ಅಭ್ಯಾಸ (Abhyasa)",
+              "ಪ್ರಯಾಣ (Prayana)",
+              "ಮಳೆ (Male)",
+              "ಬೆಟ್ಟಗಳು (Bettagalu)"
             ],
             "correct_index": 0,
             "explanation": "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ."
@@ -4373,10 +4373,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_a1_q7",
             "question": "Question: Which statement is correct according to the passage?",
             "options": [
-              "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
-              "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
-              "ರಾಹುಲ್ ಯಾವಾಗಲೂ ಆಟವಾಡುತ್ತಾನೆ.",
-              "ರಾಹುಲ್ ಓದುವುದಿಲ್ಲ."
+              "ರಾಹುಲ್ ಪುಸ್ತಕ ಓದಲು ಇಷ್ಟಪಡುತ್ತಾನೆ (Rahul pustaka odalu ishtapaduttane)",
+              "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ (Rahul shalege hoguvudilla)",
+              "ರಾಹುಲ್ ಆಟ ಮಾತ್ರ ಆಡುತ್ತಾನೆ (Rahul aata maatra aaduttane)",
+              "ರಾಹುಲ್ ದಿನವಿಡೀ ಮಲಗುತ್ತಾನೆ (Rahul dinavidee malaguttane)"
             ],
             "correct_index": 0,
             "explanation": "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ."
@@ -4388,10 +4388,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_a1_q1",
           "question": "Question: Where does Rahul go?",
           "options": [
-            "ಮಾರುಕಟ್ಟೆ",
-            "ಶಾಲೆ",
-            "ಉದ್ಯಾನ",
-            "ಮನೆ"
+            "ಮಾರುಕಟ್ಟೆ (Marukatte)",
+            "ಶಾಲೆ (Shale)",
+            "ಉದ್ಯಾನವನ (Udyanavana)",
+            "ಮನೆ (Mane)"
           ],
           "correct_index": 1,
           "explanation": "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ."
@@ -4400,10 +4400,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_a1_q2",
           "question": "Question: What does Rahul like to do?",
           "options": [
-            "ಆಟ ಆಡುವುದು",
-            "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
-            "ನಿದ್ರೆ ಮಾಡುವುದು",
-            "ದೂರದರ್ಶನ ನೋಡುವುದು"
+            "ಆಟ ಆಡುವುದು (Aata aaduvudu)",
+            "ಪುಸ್ತಕ ಓದುವುದು (Pustaka oduvudu)",
+            "ಮಲಗುವುದು (Malaguvudu)",
+            "ಟಿವಿ ನೋಡುವುದು (TV noduvudu)"
           ],
           "correct_index": 1,
           "explanation": "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ."
@@ -4412,10 +4412,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_a1_q3",
           "question": "Question: Who is this passage about?",
           "options": [
-            "ಸೀತಾ",
-            "ರಾಹುಲ್",
-            "ಮೋಹನ್",
-            "ಲತಾ"
+            "ರೀನಾ (Reena)",
+            "ರಾಹುಲ್ (Rahul)",
+            "ಮೋಹನ್ (Mohan)",
+            "ಸೀಮಾ (Seema)"
           ],
           "correct_index": 1,
           "explanation": "ರಾಹುಲ್ ಬಗ್ಗೆ ಇದೆ."
@@ -4424,10 +4424,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_a1_q4",
           "question": "Question: What does the term \"Every day\" mean?",
           "options": [
-            "ಪ್ರತಿ ದಿನ",
-            "ನಿನ್ನೆ",
-            "ಎಂದಿಗೂ ಇಲ್ಲ",
-            "ಮುಂದಿನ ವಾರ"
+            "ಪ್ರತಿದಿನ (Prathidina)",
+            "ನಿನ್ನೆ (Ninne)",
+            "ಎಂದಿಗೂ ಇಲ್ಲ (Endigoo illa)",
+            "ಮುಂದಿನ ವಾರ (Mundina vaara)"
           ],
           "correct_index": 0,
           "explanation": "ಪ್ರತಿ ದಿನ."
@@ -4436,10 +4436,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_a1_q5",
           "question": "Question: What does Rahul do every day?",
           "options": [
-            "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
-            "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
-            "ಮನೆಯಲ್ಲಿ ಇರುತ್ತಾನೆ",
-            "ಆಸ್ಪತ್ರೆಗೆ ಹೋಗುತ್ತಾನೆ"
+            "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ (Shalege hoguttane)",
+            "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ (Marukattege hoguttane)",
+            "ಮನೆಯಲ್ಲಿ ಇರುತ್ತಾನೆ (Maneyalli iruttane)",
+            "ಆಸ್ಪತ್ರೆಗೆ ಹೋಗುತ್ತಾನೆ (Aaspatrege hoguttane)"
           ],
           "correct_index": 0,
           "explanation": "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ."
@@ -4448,10 +4448,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_a1_q6",
           "question": "Question: What is the main idea of this passage?",
           "options": [
-            "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
-            "ಪ್ರವಾಸ",
-            "ಮಳೆ",
-            "ಬೆಟ್ಟಗಳು"
+            "ಅಭ್ಯಾಸ (Abhyasa)",
+            "ಪ್ರಯಾಣ (Prayana)",
+            "ಮಳೆ (Male)",
+            "ಬೆಟ್ಟಗಳು (Bettagalu)"
           ],
           "correct_index": 0,
           "explanation": "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ."
@@ -4460,10 +4460,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_a1_q7",
           "question": "Question: Which statement is correct according to the passage?",
           "options": [
-            "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
-            "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
-            "ರಾಹುಲ್ ಯಾವಾಗಲೂ ಆಟವಾಡುತ್ತಾನೆ.",
-            "ರಾಹುಲ್ ಓದುವುದಿಲ್ಲ."
+            "ರಾಹುಲ್ ಪುಸ್ತಕ ಓದಲು ಇಷ್ಟಪಡುತ್ತಾನೆ (Rahul pustaka odalu ishtapaduttane)",
+            "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ (Rahul shalege hoguvudilla)",
+            "ರಾಹುಲ್ ಆಟ ಮಾತ್ರ ಆಡುತ್ತಾನೆ (Rahul aata maatra aaduttane)",
+            "ರಾಹುಲ್ ದಿನವಿಡೀ ಮಲಗುತ್ತಾನೆ (Rahul dinavidee malaguttane)"
           ],
           "correct_index": 0,
           "explanation": "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ."
@@ -13495,10 +13495,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
               "options": [
-                "Home (హోమ్)",
-                "Garden (గార్డెన్)",
-                "Car (కార్)",
-                "Book (బుక్)"
+                "House (హౌస్)",
+                "Granthalayam (గ్రంథాలయం)",
+                "Veedhi (వీధి)",
+                "Chettu (చెట్టు)"
               ],
               "correct_index": 0,
               "explanation": "House అంటే ఇల్లు (Home).",
@@ -13507,8 +13507,8 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
               "options": [
-                "Hospital (హాస్పిటల్)",
                 "School (స్కూల్)",
+                "Hospital (హాస్పిటల్)",
                 "Market (మార్కెట్)",
                 "Park (పార్క్)"
               ],
@@ -13585,10 +13585,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
             "options": [
-              "Home (హోమ్)",
-              "Garden (గార్డెన్)",
-              "Car (కార్)",
-              "Book (బుక్)"
+              "House (హౌస్)",
+              "Granthalayam (గ్రంథాలయం)",
+              "Veedhi (వీధి)",
+              "Chettu (చెట్టు)"
             ],
             "correct_index": 0,
             "explanation": "House అంటే ఇల్లు (Home).",
@@ -13597,8 +13597,8 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
             "options": [
-              "Hospital (హాస్పిటల్)",
               "School (స్కూల్)",
+              "Hospital (హాస్పిటల్)",
               "Market (మార్కెట్)",
               "Park (పార్క్)"
             ],
@@ -13672,10 +13672,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
           "options": [
-            "Home (హోమ్)",
-            "Garden (గార్డెన్)",
-            "Car (కార్)",
-            "Book (బుక్)"
+            "House (హౌస్)",
+            "Granthalayam (గ్రంథాలయం)",
+            "Veedhi (వీధి)",
+            "Chettu (చెట్టు)"
           ],
           "correct_index": 0,
           "explanation": "House అంటే ఇల్లు (Home).",
@@ -13684,8 +13684,8 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
           "options": [
-            "Hospital (హాస్పిటల్)",
             "School (స్కూల్)",
+            "Hospital (హాస్పిటల్)",
             "Market (మార్కెట్)",
             "Park (పార్క్)"
           ],
@@ -17968,10 +17968,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_f1_q6",
               "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
               "options": [
-                "Home (ಹೋಮ್)",
-                "Garden (ಗಾರ್ಡನ್)",
-                "Car (ಕಾರ್)",
-                "Book (ಬುಕ್)"
+                "House (ಹೌಸ್)",
+                "Grantha (ಗ್ರಂಥ)",
+                "Raste (ರಸ್ತೆ)",
+                "Mara (ಮರ)"
               ],
               "correct_index": 3,
               "explanation": "Volume means Book."
@@ -17980,8 +17980,8 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_f1_q7",
               "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
               "options": [
-                "Hospital (ಹಾಸ್ಪಿಟಲ್)",
                 "School (ಸ್ಕೂಲ್)",
+                "Hospital (ಹಾಸ್ಪಿಟಲ್)",
                 "Market (ಮಾರ್ಕೆಟ್)",
                 "Park (ಪಾರ್ಕ್)"
               ],
@@ -18058,10 +18058,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_f1_q6",
             "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
             "options": [
-              "Home (ಹೋಮ್)",
-              "Garden (ಗಾರ್ಡನ್)",
-              "Car (ಕಾರ್)",
-              "Book (ಬುಕ್)"
+              "House (ಹೌಸ್)",
+              "Grantha (ಗ್ರಂಥ)",
+              "Raste (ರಸ್ತೆ)",
+              "Mara (ಮರ)"
             ],
             "correct_index": 3,
             "explanation": "Volume means Book."
@@ -18070,8 +18070,8 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_f1_q7",
             "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
             "options": [
-              "Hospital (ಹಾಸ್ಪಿಟಲ್)",
               "School (ಸ್ಕೂಲ್)",
+              "Hospital (ಹಾಸ್ಪಿಟಲ್)",
               "Market (ಮಾರ್ಕೆಟ್)",
               "Park (ಪಾರ್ಕ್)"
             ],
@@ -18145,10 +18145,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_f1_q6",
           "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
           "options": [
-            "Home (ಹೋಮ್)",
-            "Garden (ಗಾರ್ಡನ್)",
-            "Car (ಕಾರ್)",
-            "Book (ಬುಕ್)"
+            "House (ಹೌಸ್)",
+            "Grantha (ಗ್ರಂಥ)",
+            "Raste (ರಸ್ತೆ)",
+            "Mara (ಮರ)"
           ],
           "correct_index": 3,
           "explanation": "Volume means Book."
@@ -18157,8 +18157,8 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_f1_q7",
           "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
           "options": [
-            "Hospital (ಹಾಸ್ಪಿಟಲ್)",
             "School (ಸ್ಕೂಲ್)",
+            "Hospital (ಹಾಸ್ಪಿಟಲ್)",
             "Market (ಮಾರ್ಕೆಟ್)",
             "Park (ಪಾರ್ಕ್)"
           ],
@@ -18490,7 +18490,7 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_i1_q3",
               "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
-                "But (బట్ / ಬಟ್)",
+                "But (ಬಟ್)",
                 "Studied (ಸ್ಟಡೀಡ್)",
                 "Pass (ಪಾಸ್)",
                 "Did not (ಡಿಡ್ ನಾಟ್)"
@@ -18580,7 +18580,7 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_i1_q3",
             "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
-              "But (బట్ / ಬಟ್)",
+              "But (ಬಟ್)",
               "Studied (ಸ್ಟಡೀಡ್)",
               "Pass (ಪಾಸ್)",
               "Did not (ಡಿಡ್ ನಾಟ್)"
@@ -18667,7 +18667,7 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_i1_q3",
           "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
-            "But (బట్ / ಬಟ್)",
+            "But (ಬಟ್)",
             "Studied (ಸ್ಟಡೀಡ್)",
             "Pass (ಪಾಸ್)",
             "Did not (ಡಿಡ್ ನಾಟ್)"
