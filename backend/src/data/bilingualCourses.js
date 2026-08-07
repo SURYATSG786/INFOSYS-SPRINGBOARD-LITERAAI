@@ -20,10 +20,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_f1_q1",
               "question": "Question: हिंदी भाषा में स्वर कितने हैं?",
               "options": [
-                "10",
-                "11",
-                "13",
-                "12"
+                "10 (10 - Ten))",
+                "11 (11 - Eleven))",
+                "13 (13 - Thirteen))",
+                "12 (12 - Twelve))"
               ],
               "correct_index": 2,
               "explanation": "हिंदी में 13 स्वर हैं।"
@@ -32,10 +32,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_f1_q2",
               "question": "Question: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
               "options": [
-                "क्रिया",
-                "संज्ञा",
-                "विशेषण",
-                "सर्वनाम"
+                "क्रिया (Kriya - Verb))",
+                "संज्ञा (Sangya - Noun))",
+                "विशेषण (Visheshana - Adjective))",
+                "सर्वनाम (Sarvanaam - Pronoun))"
               ],
               "correct_index": 1,
               "explanation": "\"माँ\" संज्ञा है।"
@@ -44,10 +44,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_f1_q3",
               "question": "Question: \"लड़का\" (Ladka) का बहुवचन क्या है?",
               "options": [
-                "लड़कियाँ",
-                "लड़के",
+                "लड़कियाँ (Ladkiyan - Girls))",
+                "लड़के (Ladke - Boys))",
                 "लड़कों",
-                "लड़का"
+                "लड़का (Ladka - Boy))"
               ],
               "correct_index": 1,
               "explanation": "लड़का का बहुवचन लड़के है।"
@@ -56,10 +56,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_f1_q4",
               "question": "Question: \"सुंदर\" (Sundar) शब्द क्या है?",
               "options": [
-                "विशेषण",
-                "संज्ञा",
-                "क्रिया",
-                "सर्वनाम"
+                "विशेषण (Visheshana - Adjective))",
+                "संज्ञा (Sangya - Noun))",
+                "क्रिया (Kriya - Verb))",
+                "सर्वनाम (Sarvanaam - Pronoun))"
               ],
               "correct_index": 0,
               "explanation": "सुंदर विशेषण है।"
@@ -68,10 +68,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_f1_q5",
               "question": "Question: \"पढ़ना\" (Padhna) शब्द क्या है?",
               "options": [
-                "संज्ञा",
-                "क्रिया",
-                "विशेषण",
-                "सर्वनाम"
+                "संज्ञा (Sangya - Noun))",
+                "क्रिया (Kriya - Verb))",
+                "विशेषण (Visheshana - Adjective))",
+                "सर्वनाम (Sarvanaam - Pronoun))"
               ],
               "correct_index": 1,
               "explanation": "पढ़ना क्रिया है।"
@@ -110,10 +110,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_f1_q1",
             "question": "Question: हिंदी भाषा में स्वर कितने हैं?",
             "options": [
-              "10",
-              "11",
-              "13",
-              "12"
+              "10 (10 - Ten))",
+              "11 (11 - Eleven))",
+              "13 (13 - Thirteen))",
+              "12 (12 - Twelve))"
             ],
             "correct_index": 2,
             "explanation": "हिंदी में 13 स्वर हैं।"
@@ -122,10 +122,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_f1_q2",
             "question": "Question: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
             "options": [
-              "क्रिया",
-              "संज्ञा",
-              "विशेषण",
-              "सर्वनाम"
+              "क्रिया (Kriya - Verb))",
+              "संज्ञा (Sangya - Noun))",
+              "विशेषण (Visheshana - Adjective))",
+              "सर्वनाम (Sarvanaam - Pronoun))"
             ],
             "correct_index": 1,
             "explanation": "\"माँ\" संज्ञा है।"
@@ -134,10 +134,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_f1_q3",
             "question": "Question: \"लड़का\" (Ladka) का बहुवचन क्या है?",
             "options": [
-              "लड़कियाँ",
-              "लड़के",
+              "लड़कियाँ (Ladkiyan - Girls))",
+              "लड़के (Ladke - Boys))",
               "लड़कों",
-              "लड़का"
+              "लड़का (Ladka - Boy))"
             ],
             "correct_index": 1,
             "explanation": "लड़का का बहुवचन लड़के है।"
@@ -146,10 +146,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_f1_q4",
             "question": "Question: \"सुंदर\" (Sundar) शब्द क्या है?",
             "options": [
-              "विशेषण",
-              "संज्ञा",
-              "क्रिया",
-              "सर्वनाम"
+              "विशेषण (Visheshana - Adjective))",
+              "संज्ञा (Sangya - Noun))",
+              "क्रिया (Kriya - Verb))",
+              "सर्वनाम (Sarvanaam - Pronoun))"
             ],
             "correct_index": 0,
             "explanation": "सुंदर विशेषण है।"
@@ -158,10 +158,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_f1_q5",
             "question": "Question: \"पढ़ना\" (Padhna) शब्द क्या है?",
             "options": [
-              "संज्ञा",
-              "क्रिया",
-              "विशेषण",
-              "सर्वनाम"
+              "संज्ञा (Sangya - Noun))",
+              "क्रिया (Kriya - Verb))",
+              "विशेषण (Visheshana - Adjective))",
+              "सर्वनाम (Sarvanaam - Pronoun))"
             ],
             "correct_index": 1,
             "explanation": "पढ़ना क्रिया है।"
@@ -197,10 +197,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_f1_q1",
           "question": "Question: हिंदी भाषा में स्वर कितने हैं?",
           "options": [
-            "10",
-            "11",
-            "13",
-            "12"
+            "10 (10 - Ten))",
+            "11 (11 - Eleven))",
+            "13 (13 - Thirteen))",
+            "12 (12 - Twelve))"
           ],
           "correct_index": 2,
           "explanation": "हिंदी में 13 स्वर हैं।"
@@ -209,10 +209,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_f1_q2",
           "question": "Question: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
           "options": [
-            "क्रिया",
-            "संज्ञा",
-            "विशेषण",
-            "सर्वनाम"
+            "क्रिया (Kriya - Verb))",
+            "संज्ञा (Sangya - Noun))",
+            "विशेषण (Visheshana - Adjective))",
+            "सर्वनाम (Sarvanaam - Pronoun))"
           ],
           "correct_index": 1,
           "explanation": "\"माँ\" संज्ञा है।"
@@ -221,10 +221,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_f1_q3",
           "question": "Question: \"लड़का\" (Ladka) का बहुवचन क्या है?",
           "options": [
-            "लड़कियाँ",
-            "लड़के",
+            "लड़कियाँ (Ladkiyan - Girls))",
+            "लड़के (Ladke - Boys))",
             "लड़कों",
-            "लड़का"
+            "लड़का (Ladka - Boy))"
           ],
           "correct_index": 1,
           "explanation": "लड़का का बहुवचन लड़के है।"
@@ -233,10 +233,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_f1_q4",
           "question": "Question: \"सुंदर\" (Sundar) शब्द क्या है?",
           "options": [
-            "विशेषण",
-            "संज्ञा",
-            "क्रिया",
-            "सर्वनाम"
+            "विशेषण (Visheshana - Adjective))",
+            "संज्ञा (Sangya - Noun))",
+            "क्रिया (Kriya - Verb))",
+            "सर्वनाम (Sarvanaam - Pronoun))"
           ],
           "correct_index": 0,
           "explanation": "सुंदर विशेषण है।"
@@ -245,10 +245,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_f1_q5",
           "question": "Question: \"पढ़ना\" (Padhna) शब्द क्या है?",
           "options": [
-            "संज्ञा",
-            "क्रिया",
-            "विशेषण",
-            "सर्वनाम"
+            "संज्ञा (Sangya - Noun))",
+            "क्रिया (Kriya - Verb))",
+            "विशेषण (Visheshana - Adjective))",
+            "सर्वनाम (Sarvanaam - Pronoun))"
           ],
           "correct_index": 1,
           "explanation": "पढ़ना क्रिया है।"
@@ -299,9 +299,9 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_b1_q1",
               "question": "Question: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
               "options": [
-                "भूतकाल",
-                "वर्तमान काल",
-                "भविष्य काल",
+                "भूतकाल (Bhootkaal - Past Tense))",
+                "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+                "भविष्य काल (Bhavishyat Kaal - Future Tense))",
                 "आज्ञार्थ"
               ],
               "correct_index": 1,
@@ -311,9 +311,9 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_b1_q2",
               "question": "Question: \"वह कल आया।\" यह कौन सा काल है?",
               "options": [
-                "भूतकाल",
-                "वर्तमान काल",
-                "भविष्य काल",
+                "भूतकाल (Bhootkaal - Past Tense))",
+                "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+                "भविष्य काल (Bhavishyat Kaal - Future Tense))",
                 "कोई नहीं"
               ],
               "correct_index": 0,
@@ -323,10 +323,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_b1_q3",
               "question": "Question: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
               "options": [
-                "वर्तमान काल",
-                "भविष्य काल",
-                "भूतकाल",
-                "संज्ञा"
+                "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+                "भविष्य काल (Bhavishyat Kaal - Future Tense))",
+                "भूतकाल (Bhootkaal - Past Tense))",
+                "संज्ञा (Sangya - Noun))"
               ],
               "correct_index": 1,
               "explanation": "यह भविष्य काल है।"
@@ -335,10 +335,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_b1_q4",
               "question": "Question: \"वह गा रही है।\" यह कौन सा काल है?",
               "options": [
-                "वर्तमान काल",
-                "भूतकाल",
-                "भविष्य काल",
-                "विशेषण"
+                "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+                "भूतकाल (Bhootkaal - Past Tense))",
+                "भविष्य काल (Bhavishyat Kaal - Future Tense))",
+                "विशेषण (Visheshana - Adjective))"
               ],
               "correct_index": 0,
               "explanation": "यह वर्तमान काल है।"
@@ -371,10 +371,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_b1_q7",
               "question": "Question: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
               "options": [
-                "वर्तमान काल",
-                "भूतकाल",
-                "भविष्य काल",
-                "संज्ञा"
+                "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+                "भूतकाल (Bhootkaal - Past Tense))",
+                "भविष्य काल (Bhavishyat Kaal - Future Tense))",
+                "संज्ञा (Sangya - Noun))"
               ],
               "correct_index": 0,
               "explanation": "यह वर्तमान काल है।"
@@ -389,9 +389,9 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_b1_q1",
             "question": "Question: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
             "options": [
-              "भूतकाल",
-              "वर्तमान काल",
-              "भविष्य काल",
+              "भूतकाल (Bhootkaal - Past Tense))",
+              "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+              "भविष्य काल (Bhavishyat Kaal - Future Tense))",
               "आज्ञार्थ"
             ],
             "correct_index": 1,
@@ -401,9 +401,9 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_b1_q2",
             "question": "Question: \"वह कल आया।\" यह कौन सा काल है?",
             "options": [
-              "भूतकाल",
-              "वर्तमान काल",
-              "भविष्य काल",
+              "भूतकाल (Bhootkaal - Past Tense))",
+              "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+              "भविष्य काल (Bhavishyat Kaal - Future Tense))",
               "कोई नहीं"
             ],
             "correct_index": 0,
@@ -413,10 +413,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_b1_q3",
             "question": "Question: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
             "options": [
-              "वर्तमान काल",
-              "भविष्य काल",
-              "भूतकाल",
-              "संज्ञा"
+              "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+              "भविष्य काल (Bhavishyat Kaal - Future Tense))",
+              "भूतकाल (Bhootkaal - Past Tense))",
+              "संज्ञा (Sangya - Noun))"
             ],
             "correct_index": 1,
             "explanation": "यह भविष्य काल है।"
@@ -425,10 +425,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_b1_q4",
             "question": "Question: \"वह गा रही है।\" यह कौन सा काल है?",
             "options": [
-              "वर्तमान काल",
-              "भूतकाल",
-              "भविष्य काल",
-              "विशेषण"
+              "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+              "भूतकाल (Bhootkaal - Past Tense))",
+              "भविष्य काल (Bhavishyat Kaal - Future Tense))",
+              "विशेषण (Visheshana - Adjective))"
             ],
             "correct_index": 0,
             "explanation": "यह वर्तमान काल है।"
@@ -461,10 +461,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_b1_q7",
             "question": "Question: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
             "options": [
-              "वर्तमान काल",
-              "भूतकाल",
-              "भविष्य काल",
-              "संज्ञा"
+              "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+              "भूतकाल (Bhootkaal - Past Tense))",
+              "भविष्य काल (Bhavishyat Kaal - Future Tense))",
+              "संज्ञा (Sangya - Noun))"
             ],
             "correct_index": 0,
             "explanation": "यह वर्तमान काल है।"
@@ -476,9 +476,9 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_b1_q1",
           "question": "Question: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
           "options": [
-            "भूतकाल",
-            "वर्तमान काल",
-            "भविष्य काल",
+            "भूतकाल (Bhootkaal - Past Tense))",
+            "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+            "भविष्य काल (Bhavishyat Kaal - Future Tense))",
             "आज्ञार्थ"
           ],
           "correct_index": 1,
@@ -488,9 +488,9 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_b1_q2",
           "question": "Question: \"वह कल आया।\" यह कौन सा काल है?",
           "options": [
-            "भूतकाल",
-            "वर्तमान काल",
-            "भविष्य काल",
+            "भूतकाल (Bhootkaal - Past Tense))",
+            "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+            "भविष्य काल (Bhavishyat Kaal - Future Tense))",
             "कोई नहीं"
           ],
           "correct_index": 0,
@@ -500,10 +500,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_b1_q3",
           "question": "Question: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
           "options": [
-            "वर्तमान काल",
-            "भविष्य काल",
-            "भूतकाल",
-            "संज्ञा"
+            "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+            "भविष्य काल (Bhavishyat Kaal - Future Tense))",
+            "भूतकाल (Bhootkaal - Past Tense))",
+            "संज्ञा (Sangya - Noun))"
           ],
           "correct_index": 1,
           "explanation": "यह भविष्य काल है।"
@@ -512,10 +512,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_b1_q4",
           "question": "Question: \"वह गा रही है।\" यह कौन सा काल है?",
           "options": [
-            "वर्तमान काल",
-            "भूतकाल",
-            "भविष्य काल",
-            "विशेषण"
+            "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+            "भूतकाल (Bhootkaal - Past Tense))",
+            "भविष्य काल (Bhavishyat Kaal - Future Tense))",
+            "विशेषण (Visheshana - Adjective))"
           ],
           "correct_index": 0,
           "explanation": "यह वर्तमान काल है।"
@@ -548,10 +548,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_b1_q7",
           "question": "Question: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
           "options": [
-            "वर्तमान काल",
-            "भूतकाल",
-            "भविष्य काल",
-            "संज्ञा"
+            "वर्तमान काल (Vartamaan Kaal - Present Tense))",
+            "भूतकाल (Bhootkaal - Past Tense))",
+            "भविष्य काल (Bhavishyat Kaal - Future Tense))",
+            "संज्ञा (Sangya - Noun))"
           ],
           "correct_index": 0,
           "explanation": "यह वर्तमान काल है।"
@@ -578,10 +578,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_i1_q1",
               "question": "Question: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
               "options": [
-                "लेकिन",
-                "और",
-                "क्योंकि",
-                "या"
+                "लेकिन (Lekin - But))",
+                "और (Aur - And))",
+                "क्योंकि (Kyonki - Because))",
+                "या (Yaa - Or))"
               ],
               "correct_index": 1,
               "explanation": "और विचारों को जोड़ता है।"
@@ -591,7 +591,7 @@ export const BILINGUAL_COURSES = {
               "question": "Question: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
               "options": [
                 "माता",
-                "और",
+                "और (Aur - And))",
                 "पिता",
                 "परिवार"
               ],
@@ -602,7 +602,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_i1_q3",
               "question": "Question: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
               "options": [
-                "लेकिन",
+                "लेकिन (Lekin - But))",
                 "पढ़ाई",
                 "पास",
                 "वह"
@@ -614,10 +614,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_i1_q4",
               "question": "Question: \"और\" एक ______ है।",
               "options": [
-                "संयोजक (Conjunction)",
-                "संज्ञा",
-                "क्रिया",
-                "विशेषण"
+                "संयोजक (Sanyojak - Conjunction))",
+                "संज्ञा (Sangya - Noun))",
+                "क्रिया (Kriya - Verb))",
+                "विशेषण (Visheshana - Adjective))"
               ],
               "correct_index": 0,
               "explanation": "और संयोजक है।"
@@ -638,7 +638,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_hi_i1_q6",
               "question": "Question: निम्न में से कौन सा संयोजक है?",
               "options": [
-                "और",
+                "और (Aur - And))",
                 "घर",
                 "किताब",
                 "दौड़ना"
@@ -653,7 +653,7 @@ export const BILINGUAL_COURSES = {
                 "दो विकल्पों में से एक का चयन",
                 "स्थान",
                 "समय",
-                "क्रिया"
+                "क्रिया (Kriya - Verb))"
               ],
               "correct_index": 0,
               "explanation": "या विकल्प दर्शाता है।"
@@ -668,10 +668,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_i1_q1",
             "question": "Question: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
             "options": [
-              "लेकिन",
-              "और",
-              "क्योंकि",
-              "या"
+              "लेकिन (Lekin - But))",
+              "और (Aur - And))",
+              "क्योंकि (Kyonki - Because))",
+              "या (Yaa - Or))"
             ],
             "correct_index": 1,
             "explanation": "और विचारों को जोड़ता है।"
@@ -681,7 +681,7 @@ export const BILINGUAL_COURSES = {
             "question": "Question: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
             "options": [
               "माता",
-              "और",
+              "और (Aur - And))",
               "पिता",
               "परिवार"
             ],
@@ -692,7 +692,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_i1_q3",
             "question": "Question: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
             "options": [
-              "लेकिन",
+              "लेकिन (Lekin - But))",
               "पढ़ाई",
               "पास",
               "वह"
@@ -704,10 +704,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_i1_q4",
             "question": "Question: \"और\" एक ______ है।",
             "options": [
-              "संयोजक (Conjunction)",
-              "संज्ञा",
-              "क्रिया",
-              "विशेषण"
+              "संयोजक (Sanyojak - Conjunction))",
+              "संज्ञा (Sangya - Noun))",
+              "क्रिया (Kriya - Verb))",
+              "विशेषण (Visheshana - Adjective))"
             ],
             "correct_index": 0,
             "explanation": "और संयोजक है।"
@@ -728,7 +728,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_hi_i1_q6",
             "question": "Question: निम्न में से कौन सा संयोजक है?",
             "options": [
-              "और",
+              "और (Aur - And))",
               "घर",
               "किताब",
               "दौड़ना"
@@ -743,7 +743,7 @@ export const BILINGUAL_COURSES = {
               "दो विकल्पों में से एक का चयन",
               "स्थान",
               "समय",
-              "क्रिया"
+              "क्रिया (Kriya - Verb))"
             ],
             "correct_index": 0,
             "explanation": "या विकल्प दर्शाता है।"
@@ -755,10 +755,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_i1_q1",
           "question": "Question: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
           "options": [
-            "लेकिन",
-            "और",
-            "क्योंकि",
-            "या"
+            "लेकिन (Lekin - But))",
+            "और (Aur - And))",
+            "क्योंकि (Kyonki - Because))",
+            "या (Yaa - Or))"
           ],
           "correct_index": 1,
           "explanation": "और विचारों को जोड़ता है।"
@@ -768,7 +768,7 @@ export const BILINGUAL_COURSES = {
           "question": "Question: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
           "options": [
             "माता",
-            "और",
+            "और (Aur - And))",
             "पिता",
             "परिवार"
           ],
@@ -779,7 +779,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_i1_q3",
           "question": "Question: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
           "options": [
-            "लेकिन",
+            "लेकिन (Lekin - But))",
             "पढ़ाई",
             "पास",
             "वह"
@@ -791,10 +791,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_i1_q4",
           "question": "Question: \"और\" एक ______ है।",
           "options": [
-            "संयोजक (Conjunction)",
-            "संज्ञा",
-            "क्रिया",
-            "विशेषण"
+            "संयोजक (Sanyojak - Conjunction))",
+            "संज्ञा (Sangya - Noun))",
+            "क्रिया (Kriya - Verb))",
+            "विशेषण (Visheshana - Adjective))"
           ],
           "correct_index": 0,
           "explanation": "और संयोजक है।"
@@ -815,7 +815,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_hi_i1_q6",
           "question": "Question: निम्न में से कौन सा संयोजक है?",
           "options": [
-            "और",
+            "और (Aur - And))",
             "घर",
             "किताब",
             "दौड़ना"
@@ -830,7 +830,7 @@ export const BILINGUAL_COURSES = {
             "दो विकल्पों में से एक का चयन",
             "स्थान",
             "समय",
-            "क्रिया"
+            "क्रिया (Kriya - Verb))"
           ],
           "correct_index": 0,
           "explanation": "या विकल्प दर्शाता है।"
@@ -1138,10 +1138,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_f1_q1",
               "question": "Question: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
               "options": [
-                "14",
-                "15",
-                "12",
-                "13"
+                "14 (14 - Fourteen))",
+                "15 (15 - Fifteen))",
+                "12 (12 - Twelve))",
+                "13 (13 - Thirteen))"
               ],
               "correct_index": 2,
               "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
@@ -1150,9 +1150,9 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_f1_q2",
               "question": "Question: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
               "options": [
-                "வினைச்சொல்",
-                "பெயர்ச்சொல்",
-                "உரிச்சொல்",
+                "வினைச்சொல் (Vinaicholl - Verb))",
+                "பெயர்ச்சொல் (Peyarcholl - Noun))",
+                "உரிச்சொல் (Uricholl - Adjective))",
                 "பிரதிபெயர்"
               ],
               "correct_index": 1,
@@ -1162,8 +1162,8 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_f1_q3",
               "question": "Question: \"மரம்\" என்பதன் பன்மை?",
               "options": [
-                "மரம்",
-                "மரங்கள்",
+                "மரம் (Maram - Tree))",
+                "மரங்கள் (Marangal - Trees))",
                 "மரத்தால்",
                 "மரங்கள்ல்"
               ],
@@ -1174,10 +1174,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_f1_q4",
               "question": "Question: \"அழகான\" என்பது எந்த வகைச் சொல்?",
               "options": [
-                "உரிச்சொல்",
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "இடைச்சொல்"
+                "உரிச்சொல் (Uricholl - Adjective))",
+                "பெயர்ச்சொல் (Peyarcholl - Noun))",
+                "வினைச்சொல் (Vinaicholl - Verb))",
+                "இடைச்சொல் (Idaicholl - Interjection))"
               ],
               "correct_index": 0,
               "explanation": "அழகான உரிச்சொல் ஆகும்."
@@ -1186,9 +1186,9 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_f1_q5",
               "question": "Question: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
               "options": [
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "உரிச்சொல்",
+                "பெயர்ச்சொல் (Peyarcholl - Noun))",
+                "வினைச்சொல் (Vinaicholl - Verb))",
+                "உரிச்சொல் (Uricholl - Adjective))",
                 "பிரதிபெயர்"
               ],
               "correct_index": 1,
@@ -1228,10 +1228,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_f1_q1",
             "question": "Question: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
             "options": [
-              "14",
-              "15",
-              "12",
-              "13"
+              "14 (14 - Fourteen))",
+              "15 (15 - Fifteen))",
+              "12 (12 - Twelve))",
+              "13 (13 - Thirteen))"
             ],
             "correct_index": 2,
             "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
@@ -1240,9 +1240,9 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_f1_q2",
             "question": "Question: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
             "options": [
-              "வினைச்சொல்",
-              "பெயர்ச்சொல்",
-              "உரிச்சொல்",
+              "வினைச்சொல் (Vinaicholl - Verb))",
+              "பெயர்ச்சொல் (Peyarcholl - Noun))",
+              "உரிச்சொல் (Uricholl - Adjective))",
               "பிரதிபெயர்"
             ],
             "correct_index": 1,
@@ -1252,8 +1252,8 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_f1_q3",
             "question": "Question: \"மரம்\" என்பதன் பன்மை?",
             "options": [
-              "மரம்",
-              "மரங்கள்",
+              "மரம் (Maram - Tree))",
+              "மரங்கள் (Marangal - Trees))",
               "மரத்தால்",
               "மரங்கள்ல்"
             ],
@@ -1264,10 +1264,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_f1_q4",
             "question": "Question: \"அழகான\" என்பது எந்த வகைச் சொல்?",
             "options": [
-              "உரிச்சொல்",
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "இடைச்சொல்"
+              "உரிச்சொல் (Uricholl - Adjective))",
+              "பெயர்ச்சொல் (Peyarcholl - Noun))",
+              "வினைச்சொல் (Vinaicholl - Verb))",
+              "இடைச்சொல் (Idaicholl - Interjection))"
             ],
             "correct_index": 0,
             "explanation": "அழகான உரிச்சொல் ஆகும்."
@@ -1276,9 +1276,9 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_f1_q5",
             "question": "Question: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
             "options": [
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "உரிச்சொல்",
+              "பெயர்ச்சொல் (Peyarcholl - Noun))",
+              "வினைச்சொல் (Vinaicholl - Verb))",
+              "உரிச்சொல் (Uricholl - Adjective))",
               "பிரதிபெயர்"
             ],
             "correct_index": 1,
@@ -1315,10 +1315,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_f1_q1",
           "question": "Question: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
           "options": [
-            "14",
-            "15",
-            "12",
-            "13"
+            "14 (14 - Fourteen))",
+            "15 (15 - Fifteen))",
+            "12 (12 - Twelve))",
+            "13 (13 - Thirteen))"
           ],
           "correct_index": 2,
           "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
@@ -1327,9 +1327,9 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_f1_q2",
           "question": "Question: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
           "options": [
-            "வினைச்சொல்",
-            "பெயர்ச்சொல்",
-            "உரிச்சொல்",
+            "வினைச்சொல் (Vinaicholl - Verb))",
+            "பெயர்ச்சொல் (Peyarcholl - Noun))",
+            "உரிச்சொல் (Uricholl - Adjective))",
             "பிரதிபெயர்"
           ],
           "correct_index": 1,
@@ -1339,8 +1339,8 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_f1_q3",
           "question": "Question: \"மரம்\" என்பதன் பன்மை?",
           "options": [
-            "மரம்",
-            "மரங்கள்",
+            "மரம் (Maram - Tree))",
+            "மரங்கள் (Marangal - Trees))",
             "மரத்தால்",
             "மரங்கள்ல்"
           ],
@@ -1351,10 +1351,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_f1_q4",
           "question": "Question: \"அழகான\" என்பது எந்த வகைச் சொல்?",
           "options": [
-            "உரிச்சொல்",
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "இடைச்சொல்"
+            "உரிச்சொல் (Uricholl - Adjective))",
+            "பெயர்ச்சொல் (Peyarcholl - Noun))",
+            "வினைச்சொல் (Vinaicholl - Verb))",
+            "இடைச்சொல் (Idaicholl - Interjection))"
           ],
           "correct_index": 0,
           "explanation": "அழகான உரிச்சொல் ஆகும்."
@@ -1363,9 +1363,9 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_f1_q5",
           "question": "Question: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
           "options": [
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "உரிச்சொல்",
+            "பெயர்ச்சொல் (Peyarcholl - Noun))",
+            "வினைச்சொல் (Vinaicholl - Verb))",
+            "உரிச்சொல் (Uricholl - Adjective))",
             "பிரதிபெயர்"
           ],
           "correct_index": 1,
@@ -1417,9 +1417,9 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_b1_q1",
               "question": "Question: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
               "options": [
-                "இறந்தகாலம்",
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
+                "இறந்தகாலம் (Irandakalam - Past Tense))",
+                "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+                "எதிர்காலம் (Edirkalam - Future Tense))",
                 "கட்டளை"
               ],
               "correct_index": 1,
@@ -1429,9 +1429,9 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_b1_q2",
               "question": "Question: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
               "options": [
-                "இறந்தகாலம்",
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
+                "இறந்தகாலம் (Irandakalam - Past Tense))",
+                "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+                "எதிர்காலம் (Edirkalam - Future Tense))",
                 "எதுவுமில்லை"
               ],
               "correct_index": 0,
@@ -1441,10 +1441,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_b1_q3",
               "question": "Question: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
               "options": [
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
-                "இறந்தகாலம்",
-                "பெயர்ச்சொல்"
+                "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+                "எதிர்காலம் (Edirkalam - Future Tense))",
+                "இறந்தகாலம் (Irandakalam - Past Tense))",
+                "பெயர்ச்சொல் (Peyarcholl - Noun))"
               ],
               "correct_index": 1,
               "explanation": "செல்வேன் எதிர்காலம்."
@@ -1453,10 +1453,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_b1_q4",
               "question": "Question: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
               "options": [
-                "நிகழ்காலம்",
-                "இறந்தகாலம்",
-                "எதிர்காலம்",
-                "உரிச்சொல்"
+                "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+                "இறந்தகாலம் (Irandakalam - Past Tense))",
+                "எதிர்காலம் (Edirkalam - Future Tense))",
+                "உரிச்சொல் (Uricholl - Adjective))"
               ],
               "correct_index": 0,
               "explanation": "பாடுகிறாள் நிகழ்காலம்."
@@ -1489,10 +1489,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_b1_q7",
               "question": "Question: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
               "options": [
-                "நிகழ்காலம்",
-                "இறந்தகாலம்",
-                "எதிர்காலம்",
-                "பெயர்ச்சொல்"
+                "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+                "இறந்தகாலம் (Irandakalam - Past Tense))",
+                "எதிர்காலம் (Edirkalam - Future Tense))",
+                "பெயர்ச்சொல் (Peyarcholl - Noun))"
               ],
               "correct_index": 0,
               "explanation": "நிகழ்காலம்."
@@ -1507,9 +1507,9 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_b1_q1",
             "question": "Question: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
             "options": [
-              "இறந்தகாலம்",
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
+              "இறந்தகாலம் (Irandakalam - Past Tense))",
+              "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+              "எதிர்காலம் (Edirkalam - Future Tense))",
               "கட்டளை"
             ],
             "correct_index": 1,
@@ -1519,9 +1519,9 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_b1_q2",
             "question": "Question: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
             "options": [
-              "இறந்தகாலம்",
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
+              "இறந்தகாலம் (Irandakalam - Past Tense))",
+              "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+              "எதிர்காலம் (Edirkalam - Future Tense))",
               "எதுவுமில்லை"
             ],
             "correct_index": 0,
@@ -1531,10 +1531,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_b1_q3",
             "question": "Question: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
             "options": [
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
-              "இறந்தகாலம்",
-              "பெயர்ச்சொல்"
+              "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+              "எதிர்காலம் (Edirkalam - Future Tense))",
+              "இறந்தகாலம் (Irandakalam - Past Tense))",
+              "பெயர்ச்சொல் (Peyarcholl - Noun))"
             ],
             "correct_index": 1,
             "explanation": "செல்வேன் எதிர்காலம்."
@@ -1543,10 +1543,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_b1_q4",
             "question": "Question: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
             "options": [
-              "நிகழ்காலம்",
-              "இறந்தகாலம்",
-              "எதிர்காலம்",
-              "உரிச்சொல்"
+              "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+              "இறந்தகாலம் (Irandakalam - Past Tense))",
+              "எதிர்காலம் (Edirkalam - Future Tense))",
+              "உரிச்சொல் (Uricholl - Adjective))"
             ],
             "correct_index": 0,
             "explanation": "பாடுகிறாள் நிகழ்காலம்."
@@ -1579,10 +1579,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_b1_q7",
             "question": "Question: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
             "options": [
-              "நிகழ்காலம்",
-              "இறந்தகாலம்",
-              "எதிர்காலம்",
-              "பெயர்ச்சொல்"
+              "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+              "இறந்தகாலம் (Irandakalam - Past Tense))",
+              "எதிர்காலம் (Edirkalam - Future Tense))",
+              "பெயர்ச்சொல் (Peyarcholl - Noun))"
             ],
             "correct_index": 0,
             "explanation": "நிகழ்காலம்."
@@ -1594,9 +1594,9 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_b1_q1",
           "question": "Question: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
           "options": [
-            "இறந்தகாலம்",
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
+            "இறந்தகாலம் (Irandakalam - Past Tense))",
+            "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+            "எதிர்காலம் (Edirkalam - Future Tense))",
             "கட்டளை"
           ],
           "correct_index": 1,
@@ -1606,9 +1606,9 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_b1_q2",
           "question": "Question: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
           "options": [
-            "இறந்தகாலம்",
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
+            "இறந்தகாலம் (Irandakalam - Past Tense))",
+            "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+            "எதிர்காலம் (Edirkalam - Future Tense))",
             "எதுவுமில்லை"
           ],
           "correct_index": 0,
@@ -1618,10 +1618,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_b1_q3",
           "question": "Question: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
           "options": [
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
-            "இறந்தகாலம்",
-            "பெயர்ச்சொல்"
+            "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+            "எதிர்காலம் (Edirkalam - Future Tense))",
+            "இறந்தகாலம் (Irandakalam - Past Tense))",
+            "பெயர்ச்சொல் (Peyarcholl - Noun))"
           ],
           "correct_index": 1,
           "explanation": "செல்வேன் எதிர்காலம்."
@@ -1630,10 +1630,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_b1_q4",
           "question": "Question: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
           "options": [
-            "நிகழ்காலம்",
-            "இறந்தகாலம்",
-            "எதிர்காலம்",
-            "உரிச்சொல்"
+            "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+            "இறந்தகாலம் (Irandakalam - Past Tense))",
+            "எதிர்காலம் (Edirkalam - Future Tense))",
+            "உரிச்சொல் (Uricholl - Adjective))"
           ],
           "correct_index": 0,
           "explanation": "பாடுகிறாள் நிகழ்காலம்."
@@ -1666,10 +1666,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_b1_q7",
           "question": "Question: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
           "options": [
-            "நிகழ்காலம்",
-            "இறந்தகாலம்",
-            "எதிர்காலம்",
-            "பெயர்ச்சொல்"
+            "நிகழ்காலம் (Nigazhkalam - Present Tense))",
+            "இறந்தகாலம் (Irandakalam - Past Tense))",
+            "எதிர்காலம் (Edirkalam - Future Tense))",
+            "பெயர்ச்சொல் (Peyarcholl - Noun))"
           ],
           "correct_index": 0,
           "explanation": "நிகழ்காலம்."
@@ -1696,10 +1696,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_i1_q1",
               "question": "Question: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
               "options": [
-                "ஆனால்",
-                "மற்றும்",
+                "ஆனால் (Aanaal - But))",
+                "மற்றும் (Mattrum - And))",
                 "ஏனெனில்",
-                "அல்லது"
+                "அல்லது (Allathu - Or))"
               ],
               "correct_index": 1,
               "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -1709,7 +1709,7 @@ export const BILINGUAL_COURSES = {
               "question": "Question: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
               "options": [
                 "அம்மா",
-                "மற்றும்",
+                "மற்றும் (Mattrum - And))",
                 "அப்பா",
                 "குடும்பம்"
               ],
@@ -1720,7 +1720,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_i1_q3",
               "question": "Question: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
               "options": [
-                "ஆனால்",
+                "ஆனால் (Aanaal - But))",
                 "படித்தான்",
                 "தேர்ச்சி",
                 "அவன்"
@@ -1732,10 +1732,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_i1_q4",
               "question": "Question: \"மற்றும்\" என்பது ஒரு ______.",
               "options": [
-                "இணைப்புச் சொல்",
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "உரிச்சொல்"
+                "இணைப்புச் சொல் (Inaippucholl - Conjunction))",
+                "பெயர்ச்சொல் (Peyarcholl - Noun))",
+                "வினைச்சொல் (Vinaicholl - Verb))",
+                "உரிச்சொல் (Uricholl - Adjective))"
               ],
               "correct_index": 0,
               "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -1756,7 +1756,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_ta_i1_q6",
               "question": "Question: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
               "options": [
-                "மற்றும்",
+                "மற்றும் (Mattrum - And))",
                 "வீடு",
                 "புத்தகம்",
                 "ஓடு"
@@ -1786,10 +1786,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_i1_q1",
             "question": "Question: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
             "options": [
-              "ஆனால்",
-              "மற்றும்",
+              "ஆனால் (Aanaal - But))",
+              "மற்றும் (Mattrum - And))",
               "ஏனெனில்",
-              "அல்லது"
+              "அல்லது (Allathu - Or))"
             ],
             "correct_index": 1,
             "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -1799,7 +1799,7 @@ export const BILINGUAL_COURSES = {
             "question": "Question: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
             "options": [
               "அம்மா",
-              "மற்றும்",
+              "மற்றும் (Mattrum - And))",
               "அப்பா",
               "குடும்பம்"
             ],
@@ -1810,7 +1810,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_i1_q3",
             "question": "Question: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
             "options": [
-              "ஆனால்",
+              "ஆனால் (Aanaal - But))",
               "படித்தான்",
               "தேர்ச்சி",
               "அவன்"
@@ -1822,10 +1822,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_i1_q4",
             "question": "Question: \"மற்றும்\" என்பது ஒரு ______.",
             "options": [
-              "இணைப்புச் சொல்",
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "உரிச்சொல்"
+              "இணைப்புச் சொல் (Inaippucholl - Conjunction))",
+              "பெயர்ச்சொல் (Peyarcholl - Noun))",
+              "வினைச்சொல் (Vinaicholl - Verb))",
+              "உரிச்சொல் (Uricholl - Adjective))"
             ],
             "correct_index": 0,
             "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -1846,7 +1846,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_ta_i1_q6",
             "question": "Question: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
             "options": [
-              "மற்றும்",
+              "மற்றும் (Mattrum - And))",
               "வீடு",
               "புத்தகம்",
               "ஓடு"
@@ -1873,10 +1873,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_i1_q1",
           "question": "Question: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
           "options": [
-            "ஆனால்",
-            "மற்றும்",
+            "ஆனால் (Aanaal - But))",
+            "மற்றும் (Mattrum - And))",
             "ஏனெனில்",
-            "அல்லது"
+            "அல்லது (Allathu - Or))"
           ],
           "correct_index": 1,
           "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -1886,7 +1886,7 @@ export const BILINGUAL_COURSES = {
           "question": "Question: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
           "options": [
             "அம்மா",
-            "மற்றும்",
+            "மற்றும் (Mattrum - And))",
             "அப்பா",
             "குடும்பம்"
           ],
@@ -1897,7 +1897,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_i1_q3",
           "question": "Question: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
           "options": [
-            "ஆனால்",
+            "ஆனால் (Aanaal - But))",
             "படித்தான்",
             "தேர்ச்சி",
             "அவன்"
@@ -1909,10 +1909,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_i1_q4",
           "question": "Question: \"மற்றும்\" என்பது ஒரு ______.",
           "options": [
-            "இணைப்புச் சொல்",
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "உரிச்சொல்"
+            "இணைப்புச் சொல் (Inaippucholl - Conjunction))",
+            "பெயர்ச்சொல் (Peyarcholl - Noun))",
+            "வினைச்சொல் (Vinaicholl - Verb))",
+            "உரிச்சொல் (Uricholl - Adjective))"
           ],
           "correct_index": 0,
           "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -1933,7 +1933,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_ta_i1_q6",
           "question": "Question: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
           "options": [
-            "மற்றும்",
+            "மற்றும் (Mattrum - And))",
             "வீடு",
             "புத்தகம்",
             "ஓடு"
@@ -2241,100 +2241,100 @@ export const BILINGUAL_COURSES = {
       "path": "foundation",
       "lang": "te",
       "uiLang": "en",
-      "title": "Course 1: Foundation (Building My Reading Confidence)",
-      "description": "Learn letters, nouns, plurals, adjectives, verbs, and basic vocabulary.",
-      "objective": "Learn letters, nouns, plurals, adjectives, verbs, and basic vocabulary.",
+      "title": "Course 1: Foundation (My Telugu Literacy Journey)",
+      "description": "Learn TE curriculum with EN UI guidance (foundation).",
+      "objective": "Learn TE curriculum with EN UI guidance (foundation).",
       "lessons": [
         {
           "id": "foundation-en-te-l1",
-          "title": "Course 1: Foundation (Building My Reading Confidence)",
-          "learning_goal": "Learn letters, nouns, plurals, adjectives, verbs, and basic vocabulary.",
+          "title": "Course 1: Foundation (My Telugu Literacy Journey)",
+          "learning_goal": "Learn TE curriculum with EN UI guidance (foundation).",
           "teaching_content": "Practice learning TE curriculum with EN guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "en_te_f1_q1",
-              "question": "Question: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+              "question": "Question: How many vowels (అచ్చులు) are there in the Telugu alphabet?",
               "options": [
-                "14",
-                "15",
-                "16",
-                "12"
+                "14 (Fourteen)",
+                "15 (Fifteen)",
+                "16 (Sixteen)",
+                "12 (Twelve)"
               ],
               "correct_index": 2,
-              "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
+              "explanation": "There are 16 vowels (అచ్చులు) in the Telugu alphabet.",
+              "id": "en_te_f_1"
             },
             {
-              "id": "en_te_f1_q2",
-              "question": "Question: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "Question: What part of speech is the word “అమ్మ” (Amma)?",
               "options": [
-                "క్రియ",
-                "నామవాచకం",
-                "విశేషణం",
-                "సర్వనామం"
+                "క్రియ (Verb)",
+                "నామవాచకం (Noun)",
+                "విశేషణం (Adjective)",
+                "సర్వనామం (Pronoun)"
               ],
               "correct_index": 1,
-              "explanation": "“అమ్మ” నామవాచకం."
+              "explanation": "“అమ్మ” is a Noun (నామవాచకం).",
+              "id": "en_te_f_2"
             },
             {
-              "id": "en_te_f1_q3",
-              "question": "Question: “చెట్టు” పదానికి బహువచనం ఏది?",
+              "question": "Question: What is the plural form of “చెట్టు” (Chettu)?",
               "options": [
-                "చెట్టు",
-                "చెట్లు",
-                "చెట్టులు",
-                "చెట్ల"
+                "చెట్టు (Tree)",
+                "చెట్లు (Trees)",
+                "చెట్టులు (Chettulu)",
+                "చెట్ల (Chetla)"
               ],
               "correct_index": 1,
-              "explanation": "చెట్టు పదానికి బహువచనం చెట్లు."
+              "explanation": "The plural form of “చెట్టు” is “చెట్లు”.",
+              "id": "en_te_f_3"
             },
             {
-              "id": "en_te_f1_q4",
-              "question": "Question: “మంచి” ఏ పదవర్గం?",
+              "question": "Question: What part of speech is “మంచి” (Manchi)?",
               "options": [
-                "విశేషణం",
-                "నామవాచకం",
-                "క్రియ",
-                "అవ్యయం"
+                "విశేషణం (Adjective)",
+                "నామవాచకం (Noun)",
+                "క్రియ (Verb)",
+                "అవ్యయం (Invariable)"
               ],
               "correct_index": 0,
-              "explanation": "మంచి విశేషణం."
+              "explanation": "“మంచి” is an Adjective (విశేషణం).",
+              "id": "en_te_f_4"
             },
             {
-              "id": "en_te_f1_q5",
-              "question": "Question: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "Question: What part of speech is “చదువుతున్నాను” (Chaduvutunnanu)?",
               "options": [
-                "నామవాచకం",
-                "క్రియ",
-                "విశేషణం",
-                "సర్వనామం"
+                "నామవాచకం (Noun)",
+                "క్రియ (Verb)",
+                "విశేషణం (Adjective)",
+                "సర్వనామం (Pronoun)"
               ],
               "correct_index": 1,
-              "explanation": "చదువుతున్నాను క్రియ."
+              "explanation": "“చదువుతున్నాను” is a Verb (క్రియ).",
+              "id": "en_te_f_5"
             },
             {
-              "id": "en_te_f1_q6",
-              "question": "Question: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+              "question": "Question: What is the meaning of the word “పుస్తకం” (Pustakam)?",
               "options": [
-                "ఇల్లు",
-                "గ్రంథం",
-                "చెట్టు",
-                "రహదారి"
+                "ఇల్లు (House)",
+                "గ్రంథం (Book)",
+                "చెట్టు (Tree)",
+                "రహదారి (Road)"
               ],
               "correct_index": 1,
-              "explanation": "పుస్తకం అంటే గ్రంథం."
+              "explanation": "“పుస్తకం” means Book (గ్రంథం).",
+              "id": "en_te_f_6"
             },
             {
-              "id": "en_te_f1_q7",
-              "question": "Question: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+              "question": "Question: What is the meaning of the word “పాఠశాల” (Pathashala)?",
               "options": [
-                "ఆసుపత్రి",
-                "పాఠాలు నేర్చుకునే స్థలం",
-                "మార్కెట్",
-                "ఉద్యానవనం"
+                "ఆసుపత్రి (Hospital)",
+                "పాఠాలు నేర్చుకునే స్థలం (Place for learning)",
+                "మార్కెట్ (Market)",
+                "ఉద్యానవనం (Park)"
               ],
               "correct_index": 1,
-              "explanation": "పాఠశాల అంటే పాఠాలు నేర్చుకునే స్థలం."
+              "explanation": "“పాఠశాల” means Place for learning (School).",
+              "id": "en_te_f_7"
             }
           ]
         }
@@ -2343,175 +2343,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "en_te_f1_q1",
-            "question": "Question: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+            "question": "Question: How many vowels (అచ్చులు) are there in the Telugu alphabet?",
             "options": [
-              "14",
-              "15",
-              "16",
-              "12"
+              "14 (Fourteen)",
+              "15 (Fifteen)",
+              "16 (Sixteen)",
+              "12 (Twelve)"
             ],
             "correct_index": 2,
-            "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
+            "explanation": "There are 16 vowels (అచ్చులు) in the Telugu alphabet.",
+            "id": "en_te_f_1"
           },
           {
-            "id": "en_te_f1_q2",
-            "question": "Question: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "Question: What part of speech is the word “అమ్మ” (Amma)?",
             "options": [
-              "క్రియ",
-              "నామవాచకం",
-              "విశేషణం",
-              "సర్వనామం"
+              "క్రియ (Verb)",
+              "నామవాచకం (Noun)",
+              "విశేషణం (Adjective)",
+              "సర్వనామం (Pronoun)"
             ],
             "correct_index": 1,
-            "explanation": "“అమ్మ” నామవాచకం."
+            "explanation": "“అమ్మ” is a Noun (నామవాచకం).",
+            "id": "en_te_f_2"
           },
           {
-            "id": "en_te_f1_q3",
-            "question": "Question: “చెట్టు” పదానికి బహువచనం ఏది?",
+            "question": "Question: What is the plural form of “చెట్టు” (Chettu)?",
             "options": [
-              "చెట్టు",
-              "చెట్లు",
-              "చెట్టులు",
-              "చెట్ల"
+              "చెట్టు (Tree)",
+              "చెట్లు (Trees)",
+              "చెట్టులు (Chettulu)",
+              "చెట్ల (Chetla)"
             ],
             "correct_index": 1,
-            "explanation": "చెట్టు పదానికి బహువచనం చెట్లు."
+            "explanation": "The plural form of “చెట్టు” is “చెట్లు”.",
+            "id": "en_te_f_3"
           },
           {
-            "id": "en_te_f1_q4",
-            "question": "Question: “మంచి” ఏ పదవర్గం?",
+            "question": "Question: What part of speech is “మంచి” (Manchi)?",
             "options": [
-              "విశేషణం",
-              "నామవాచకం",
-              "క్రియ",
-              "అవ్యయం"
+              "విశేషణం (Adjective)",
+              "నామవాచకం (Noun)",
+              "క్రియ (Verb)",
+              "అవ్యయం (Invariable)"
             ],
             "correct_index": 0,
-            "explanation": "మంచి విశేషణం."
+            "explanation": "“మంచి” is an Adjective (విశేషణం).",
+            "id": "en_te_f_4"
           },
           {
-            "id": "en_te_f1_q5",
-            "question": "Question: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "Question: What part of speech is “చదువుతున్నాను” (Chaduvutunnanu)?",
             "options": [
-              "నామవాచకం",
-              "క్రియ",
-              "విశేషణం",
-              "సర్వనామం"
+              "నామవాచకం (Noun)",
+              "క్రియ (Verb)",
+              "విశేషణం (Adjective)",
+              "సర్వనామం (Pronoun)"
             ],
             "correct_index": 1,
-            "explanation": "చదువుతున్నాను క్రియ."
+            "explanation": "“చదువుతున్నాను” is a Verb (క్రియ).",
+            "id": "en_te_f_5"
           },
           {
-            "id": "en_te_f1_q6",
-            "question": "Question: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+            "question": "Question: What is the meaning of the word “పుస్తకం” (Pustakam)?",
             "options": [
-              "ఇల్లు",
-              "గ్రంథం",
-              "చెట్టు",
-              "రహదారి"
+              "ఇల్లు (House)",
+              "గ్రంథం (Book)",
+              "చెట్టు (Tree)",
+              "రహదారి (Road)"
             ],
             "correct_index": 1,
-            "explanation": "పుస్తకం అంటే గ్రంథం."
+            "explanation": "“పుస్తకం” means Book (గ్రంథం).",
+            "id": "en_te_f_6"
           },
           {
-            "id": "en_te_f1_q7",
-            "question": "Question: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+            "question": "Question: What is the meaning of the word “పాఠశాల” (Pathashala)?",
             "options": [
-              "ఆసుపత్రి",
-              "పాఠాలు నేర్చుకునే స్థలం",
-              "మార్కెట్",
-              "ఉద్యానవనం"
+              "ఆసుపత్రి (Hospital)",
+              "పాఠాలు నేర్చుకునే స్థలం (Place for learning)",
+              "మార్కెట్ (Market)",
+              "ఉద్యానవనం (Park)"
             ],
             "correct_index": 1,
-            "explanation": "పాఠశాల అంటే పాఠాలు నేర్చుకునే స్థలం."
+            "explanation": "“పాఠశాల” means Place for learning (School).",
+            "id": "en_te_f_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "en_te_f1_q1",
-          "question": "Question: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+          "question": "Question: How many vowels (అచ్చులు) are there in the Telugu alphabet?",
           "options": [
-            "14",
-            "15",
-            "16",
-            "12"
+            "14 (Fourteen)",
+            "15 (Fifteen)",
+            "16 (Sixteen)",
+            "12 (Twelve)"
           ],
           "correct_index": 2,
-          "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
+          "explanation": "There are 16 vowels (అచ్చులు) in the Telugu alphabet.",
+          "id": "en_te_f_1"
         },
         {
-          "id": "en_te_f1_q2",
-          "question": "Question: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "Question: What part of speech is the word “అమ్మ” (Amma)?",
           "options": [
-            "క్రియ",
-            "నామవాచకం",
-            "విశేషణం",
-            "సర్వనామం"
+            "క్రియ (Verb)",
+            "నామవాచకం (Noun)",
+            "విశేషణం (Adjective)",
+            "సర్వనామం (Pronoun)"
           ],
           "correct_index": 1,
-          "explanation": "“అమ్మ” నామవాచకం."
+          "explanation": "“అమ్మ” is a Noun (నామవాచకం).",
+          "id": "en_te_f_2"
         },
         {
-          "id": "en_te_f1_q3",
-          "question": "Question: “చెట్టు” పదానికి బహువచనం ఏది?",
+          "question": "Question: What is the plural form of “చెట్టు” (Chettu)?",
           "options": [
-            "చెట్టు",
-            "చెట్లు",
-            "చెట్టులు",
-            "చెట్ల"
+            "చెట్టు (Tree)",
+            "చెట్లు (Trees)",
+            "చెట్టులు (Chettulu)",
+            "చెట్ల (Chetla)"
           ],
           "correct_index": 1,
-          "explanation": "చెట్టు పదానికి బహువచనం చెట్లు."
+          "explanation": "The plural form of “చెట్టు” is “చెట్లు”.",
+          "id": "en_te_f_3"
         },
         {
-          "id": "en_te_f1_q4",
-          "question": "Question: “మంచి” ఏ పదవర్గం?",
+          "question": "Question: What part of speech is “మంచి” (Manchi)?",
           "options": [
-            "విశేషణం",
-            "నామవాచకం",
-            "క్రియ",
-            "అవ్యయం"
+            "విశేషణం (Adjective)",
+            "నామవాచకం (Noun)",
+            "క్రియ (Verb)",
+            "అవ్యయం (Invariable)"
           ],
           "correct_index": 0,
-          "explanation": "మంచి విశేషణం."
+          "explanation": "“మంచి” is an Adjective (విశేషణం).",
+          "id": "en_te_f_4"
         },
         {
-          "id": "en_te_f1_q5",
-          "question": "Question: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "Question: What part of speech is “చదువుతున్నాను” (Chaduvutunnanu)?",
           "options": [
-            "నామవాచకం",
-            "క్రియ",
-            "విశేషణం",
-            "సర్వనామం"
+            "నామవాచకం (Noun)",
+            "క్రియ (Verb)",
+            "విశేషణం (Adjective)",
+            "సర్వనామం (Pronoun)"
           ],
           "correct_index": 1,
-          "explanation": "చదువుతున్నాను క్రియ."
+          "explanation": "“చదువుతున్నాను” is a Verb (క్రియ).",
+          "id": "en_te_f_5"
         },
         {
-          "id": "en_te_f1_q6",
-          "question": "Question: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+          "question": "Question: What is the meaning of the word “పుస్తకం” (Pustakam)?",
           "options": [
-            "ఇల్లు",
-            "గ్రంథం",
-            "చెట్టు",
-            "రహదారి"
+            "ఇల్లు (House)",
+            "గ్రంథం (Book)",
+            "చెట్టు (Tree)",
+            "రహదారి (Road)"
           ],
           "correct_index": 1,
-          "explanation": "పుస్తకం అంటే గ్రంథం."
+          "explanation": "“పుస్తకం” means Book (గ్రంథం).",
+          "id": "en_te_f_6"
         },
         {
-          "id": "en_te_f1_q7",
-          "question": "Question: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+          "question": "Question: What is the meaning of the word “పాఠశాల” (Pathashala)?",
           "options": [
-            "ఆసుపత్రి",
-            "పాఠాలు నేర్చుకునే స్థలం",
-            "మార్కెట్",
-            "ఉద్యానవనం"
+            "ఆసుపత్రి (Hospital)",
+            "పాఠాలు నేర్చుకునే స్థలం (Place for learning)",
+            "మార్కెట్ (Market)",
+            "ఉద్యానవనం (Park)"
           ],
           "correct_index": 1,
-          "explanation": "పాఠశాల అంటే పాఠాలు నేర్చుకునే స్థలం."
+          "explanation": "“పాఠశాల” means Place for learning (School).",
+          "id": "en_te_f_7"
         }
       ]
     },
@@ -2520,100 +2520,100 @@ export const BILINGUAL_COURSES = {
       "path": "beginner",
       "lang": "te",
       "uiLang": "en",
-      "title": "Course 2: Beginner (Everyday Action Words)",
-      "description": "Master present, past, and future tenses in everyday conversation.",
-      "objective": "Master present, past, and future tenses in everyday conversation.",
+      "title": "Course 2: Beginner (Telugu Words Around Me)",
+      "description": "Learn TE curriculum with EN UI guidance (beginner).",
+      "objective": "Learn TE curriculum with EN UI guidance (beginner).",
       "lessons": [
         {
           "id": "beginner-en-te-l1",
-          "title": "Course 2: Beginner (Everyday Action Words)",
-          "learning_goal": "Master present, past, and future tenses in everyday conversation.",
+          "title": "Course 2: Beginner (Telugu Words Around Me)",
+          "learning_goal": "Learn TE curriculum with EN UI guidance (beginner).",
           "teaching_content": "Practice learning TE curriculum with EN guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "en_te_b1_q1",
-              "question": "Question: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+              "question": "Question: “నేను పాఠశాలకు వెళుతున్నాను.” (I am going to school) — Which tense is this?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "ఆజ్ఞార్థకం"
+                "భూతకాలం (Past Tense)",
+                "వర్తమాన కాలం (Present Tense)",
+                "భవిష్యత్ కాలం (Future Tense)",
+                "ఆజ్ఞార్థకం (Command)"
               ],
               "correct_index": 1,
-              "explanation": "ఇది వర్తమాన కాలం."
+              "explanation": "It is Present Tense (వర్తమాన కాలం).",
+              "id": "en_te_b_1"
             },
             {
-              "id": "en_te_b1_q2",
-              "question": "Question: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+              "question": "Question: “అతను నిన్న వచ్చాడు.” (He came yesterday) — Which tense is this?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "లేదు"
+                "భూతకాలం (Past Tense)",
+                "వర్తమాన కాలం (Present Tense)",
+                "భవిష్యత్ కాలం (Future Tense)",
+                "లేదు (None)"
               ],
               "correct_index": 0,
-              "explanation": "వచ్చాడు భూతకాలం."
+              "explanation": "“వచ్చాడు” is Past Tense (భూతకాలం).",
+              "id": "en_te_b_2"
             },
             {
-              "id": "en_te_b1_q3",
-              "question": "Question: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+              "question": "Question: “నేను రేపు వెళ్తాను.” (I will go tomorrow) — Which tense is this?",
               "options": [
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "భూతకాలం",
-                "నామవాచకం"
+                "వర్తమాన కాలం (Present Tense)",
+                "భవిష్యత్ కాలం (Future Tense)",
+                "భూతకాలం (Past Tense)",
+                "నామవాచకం (Noun)"
               ],
               "correct_index": 1,
-              "explanation": "వెళ్తాను భవిష్యత్ కాలం."
+              "explanation": "“వెళ్తాను” is Future Tense (భవిష్యత్ కాలం).",
+              "id": "en_te_b_3"
             },
             {
-              "id": "en_te_b1_q4",
-              "question": "Question: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+              "question": "Question: “ఆమె పాట పాడుతోంది.” (She is singing a song) — Which tense is this?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "విశేషణం"
+                "వర్తమాన కాలం (Present Tense)",
+                "భూతకాలం (Past Tense)",
+                "భవిష్యత్ కాలం (Future Tense)",
+                "విశేషణం (Adjective)"
               ],
               "correct_index": 0,
-              "explanation": "పాడుతోంది వర్తమాన కాలం."
+              "explanation": "It is Present Tense (వర్తమాన కాలం).",
+              "id": "en_te_b_4"
             },
             {
-              "id": "en_te_b1_q5",
-              "question": "Question: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+              "question": "Question: “తిన్నాడు” (Ate) — Which tense does this indicate?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "లేదు"
+                "వర్తమాన కాలం (Present Tense)",
+                "భూతకాలం (Past Tense)",
+                "భవిష్యత్ కాలం (Future Tense)",
+                "లేదు (None)"
               ],
               "correct_index": 1,
-              "explanation": "తిన్నాడు భూతకాలం."
+              "explanation": "“తిన్నాడు” indicates Past Tense (భూతకాలం).",
+              "id": "en_te_b_5"
             },
             {
-              "id": "en_te_b1_q6",
-              "question": "Question: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+              "question": "Question: “చదువుతాను” (Will read) — Which tense does this belong to?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "విశేషణం"
+                "భూతకాలం (Past Tense)",
+                "వర్తమాన కాలం (Present Tense)",
+                "భవిష్యత్ కాలం (Future Tense)",
+                "విశేషణం (Adjective)"
               ],
               "correct_index": 2,
-              "explanation": "చదువుతాను భవిష్యత్ కాలం."
+              "explanation": "“చదువుతాను” is Future Tense (భవిష్యత్ కాలం).",
+              "id": "en_te_b_6"
             },
             {
-              "id": "en_te_b1_q7",
-              "question": "Question: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+              "question": "Question: “ఆడుతున్నాడు” (Is playing) — Which tense is this an example of?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "నామవాచకం"
+                "వర్తమాన కాలం (Present Tense)",
+                "భూతకాలం (Past Tense)",
+                "భవిష్యత్ కాలం (Future Tense)",
+                "నామవాచకం (Noun)"
               ],
               "correct_index": 0,
-              "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
+              "explanation": "It is Present Tense (వర్తమాన కాలం).",
+              "id": "en_te_b_7"
             }
           ]
         }
@@ -2622,175 +2622,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "en_te_b1_q1",
-            "question": "Question: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+            "question": "Question: “నేను పాఠశాలకు వెళుతున్నాను.” (I am going to school) — Which tense is this?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "ఆజ్ఞార్థకం"
+              "భూతకాలం (Past Tense)",
+              "వర్తమాన కాలం (Present Tense)",
+              "భవిష్యత్ కాలం (Future Tense)",
+              "ఆజ్ఞార్థకం (Command)"
             ],
             "correct_index": 1,
-            "explanation": "ఇది వర్తమాన కాలం."
+            "explanation": "It is Present Tense (వర్తమాన కాలం).",
+            "id": "en_te_b_1"
           },
           {
-            "id": "en_te_b1_q2",
-            "question": "Question: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+            "question": "Question: “అతను నిన్న వచ్చాడు.” (He came yesterday) — Which tense is this?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "లేదు"
+              "భూతకాలం (Past Tense)",
+              "వర్తమాన కాలం (Present Tense)",
+              "భవిష్యత్ కాలం (Future Tense)",
+              "లేదు (None)"
             ],
             "correct_index": 0,
-            "explanation": "వచ్చాడు భూతకాలం."
+            "explanation": "“వచ్చాడు” is Past Tense (భూతకాలం).",
+            "id": "en_te_b_2"
           },
           {
-            "id": "en_te_b1_q3",
-            "question": "Question: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+            "question": "Question: “నేను రేపు వెళ్తాను.” (I will go tomorrow) — Which tense is this?",
             "options": [
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "భూతకాలం",
-              "నామవాచకం"
+              "వర్తమాన కాలం (Present Tense)",
+              "భవిష్యత్ కాలం (Future Tense)",
+              "భూతకాలం (Past Tense)",
+              "నామవాచకం (Noun)"
             ],
             "correct_index": 1,
-            "explanation": "వెళ్తాను భవిష్యత్ కాలం."
+            "explanation": "“వెళ్తాను” is Future Tense (భవిష్యత్ కాలం).",
+            "id": "en_te_b_3"
           },
           {
-            "id": "en_te_b1_q4",
-            "question": "Question: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+            "question": "Question: “ఆమె పాట పాడుతోంది.” (She is singing a song) — Which tense is this?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "విశేషణం"
+              "వర్తమాన కాలం (Present Tense)",
+              "భూతకాలం (Past Tense)",
+              "భవిష్యత్ కాలం (Future Tense)",
+              "విశేషణం (Adjective)"
             ],
             "correct_index": 0,
-            "explanation": "పాడుతోంది వర్తమాన కాలం."
+            "explanation": "It is Present Tense (వర్తమాన కాలం).",
+            "id": "en_te_b_4"
           },
           {
-            "id": "en_te_b1_q5",
-            "question": "Question: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+            "question": "Question: “తిన్నాడు” (Ate) — Which tense does this indicate?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "లేదు"
+              "వర్తమాన కాలం (Present Tense)",
+              "భూతకాలం (Past Tense)",
+              "భవిష్యత్ కాలం (Future Tense)",
+              "లేదు (None)"
             ],
             "correct_index": 1,
-            "explanation": "తిన్నాడు భూతకాలం."
+            "explanation": "“తిన్నాడు” indicates Past Tense (భూతకాలం).",
+            "id": "en_te_b_5"
           },
           {
-            "id": "en_te_b1_q6",
-            "question": "Question: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+            "question": "Question: “చదువుతాను” (Will read) — Which tense does this belong to?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "విశేషణం"
+              "భూతకాలం (Past Tense)",
+              "వర్తమాన కాలం (Present Tense)",
+              "భవిష్యత్ కాలం (Future Tense)",
+              "విశేషణం (Adjective)"
             ],
             "correct_index": 2,
-            "explanation": "చదువుతాను భవిష్యత్ కాలం."
+            "explanation": "“చదువుతాను” is Future Tense (భవిష్యత్ కాలం).",
+            "id": "en_te_b_6"
           },
           {
-            "id": "en_te_b1_q7",
-            "question": "Question: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+            "question": "Question: “ఆడుతున్నాడు” (Is playing) — Which tense is this an example of?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "నామవాచకం"
+              "వర్తమాన కాలం (Present Tense)",
+              "భూతకాలం (Past Tense)",
+              "భవిష్యత్ కాలం (Future Tense)",
+              "నామవాచకం (Noun)"
             ],
             "correct_index": 0,
-            "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
+            "explanation": "It is Present Tense (వర్తమాన కాలం).",
+            "id": "en_te_b_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "en_te_b1_q1",
-          "question": "Question: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+          "question": "Question: “నేను పాఠశాలకు వెళుతున్నాను.” (I am going to school) — Which tense is this?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "ఆజ్ఞార్థకం"
+            "భూతకాలం (Past Tense)",
+            "వర్తమాన కాలం (Present Tense)",
+            "భవిష్యత్ కాలం (Future Tense)",
+            "ఆజ్ఞార్థకం (Command)"
           ],
           "correct_index": 1,
-          "explanation": "ఇది వర్తమాన కాలం."
+          "explanation": "It is Present Tense (వర్తమాన కాలం).",
+          "id": "en_te_b_1"
         },
         {
-          "id": "en_te_b1_q2",
-          "question": "Question: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+          "question": "Question: “అతను నిన్న వచ్చాడు.” (He came yesterday) — Which tense is this?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "లేదు"
+            "భూతకాలం (Past Tense)",
+            "వర్తమాన కాలం (Present Tense)",
+            "భవిష్యత్ కాలం (Future Tense)",
+            "లేదు (None)"
           ],
           "correct_index": 0,
-          "explanation": "వచ్చాడు భూతకాలం."
+          "explanation": "“వచ్చాడు” is Past Tense (భూతకాలం).",
+          "id": "en_te_b_2"
         },
         {
-          "id": "en_te_b1_q3",
-          "question": "Question: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+          "question": "Question: “నేను రేపు వెళ్తాను.” (I will go tomorrow) — Which tense is this?",
           "options": [
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "భూతకాలం",
-            "నామవాచకం"
+            "వర్తమాన కాలం (Present Tense)",
+            "భవిష్యత్ కాలం (Future Tense)",
+            "భూతకాలం (Past Tense)",
+            "నామవాచకం (Noun)"
           ],
           "correct_index": 1,
-          "explanation": "వెళ్తాను భవిష్యత్ కాలం."
+          "explanation": "“వెళ్తాను” is Future Tense (భవిష్యత్ కాలం).",
+          "id": "en_te_b_3"
         },
         {
-          "id": "en_te_b1_q4",
-          "question": "Question: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+          "question": "Question: “ఆమె పాట పాడుతోంది.” (She is singing a song) — Which tense is this?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "విశేషణం"
+            "వర్తమాన కాలం (Present Tense)",
+            "భూతకాలం (Past Tense)",
+            "భవిష్యత్ కాలం (Future Tense)",
+            "విశేషణం (Adjective)"
           ],
           "correct_index": 0,
-          "explanation": "పాడుతోంది వర్తమాన కాలం."
+          "explanation": "It is Present Tense (వర్తమాన కాలం).",
+          "id": "en_te_b_4"
         },
         {
-          "id": "en_te_b1_q5",
-          "question": "Question: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+          "question": "Question: “తిన్నాడు” (Ate) — Which tense does this indicate?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "లేదు"
+            "వర్తమాన కాలం (Present Tense)",
+            "భూతకాలం (Past Tense)",
+            "భవిష్యత్ కాలం (Future Tense)",
+            "లేదు (None)"
           ],
           "correct_index": 1,
-          "explanation": "తిన్నాడు భూతకాలం."
+          "explanation": "“తిన్నాడు” indicates Past Tense (భూతకాలం).",
+          "id": "en_te_b_5"
         },
         {
-          "id": "en_te_b1_q6",
-          "question": "Question: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+          "question": "Question: “చదువుతాను” (Will read) — Which tense does this belong to?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "విశేషణం"
+            "భూతకాలం (Past Tense)",
+            "వర్తమాన కాలం (Present Tense)",
+            "భవిష్యత్ కాలం (Future Tense)",
+            "విశేషణం (Adjective)"
           ],
           "correct_index": 2,
-          "explanation": "చదువుతాను భవిష్యత్ కాలం."
+          "explanation": "“చదువుతాను” is Future Tense (భవిష్యత్ కాలం).",
+          "id": "en_te_b_6"
         },
         {
-          "id": "en_te_b1_q7",
-          "question": "Question: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+          "question": "Question: “ఆడుతున్నాడు” (Is playing) — Which tense is this an example of?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "నామవాచకం"
+            "వర్తమాన కాలం (Present Tense)",
+            "భూతకాలం (Past Tense)",
+            "భవిష్యత్ కాలం (Future Tense)",
+            "నామవాచకం (Noun)"
           ],
           "correct_index": 0,
-          "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
+          "explanation": "It is Present Tense (వర్తమాన కాలం).",
+          "id": "en_te_b_7"
         }
       ]
     },
@@ -2799,100 +2799,100 @@ export const BILINGUAL_COURSES = {
       "path": "intermediate",
       "lang": "te",
       "uiLang": "en",
-      "title": "Course 3: Intermediate (Describing My Day)",
-      "description": "Learn conjunctions and joining words like and, but, because, and or.",
-      "objective": "Learn conjunctions and joining words like and, but, because, and or.",
+      "title": "Course 3: Intermediate (New Steps in Telugu Vocabulary)",
+      "description": "Learn TE curriculum with EN UI guidance (intermediate).",
+      "objective": "Learn TE curriculum with EN UI guidance (intermediate).",
       "lessons": [
         {
           "id": "intermediate-en-te-l1",
-          "title": "Course 3: Intermediate (Describing My Day)",
-          "learning_goal": "Learn conjunctions and joining words like and, but, because, and or.",
+          "title": "Course 3: Intermediate (New Steps in Telugu Vocabulary)",
+          "learning_goal": "Learn TE curriculum with EN UI guidance (intermediate).",
           "teaching_content": "Practice learning TE curriculum with EN guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "en_te_i1_q1",
-              "question": "Question: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+              "question": "Question: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” — Which word is the conjunction (సంధాన పదం)?",
               "options": [
-                "కానీ",
-                "మరియు",
-                "ఎందుకంటే",
-                "లేదా"
+                "కానీ (But)",
+                "మరియు (And)",
+                "ఎందుకంటే (Because)",
+                "లేదా (Or)"
               ],
               "correct_index": 1,
-              "explanation": "మరియు సంధాన పదం."
+              "explanation": "“మరియు” is the conjunction.",
+              "id": "en_te_i_1"
             },
             {
-              "id": "en_te_i1_q2",
-              "question": "Question: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+              "question": "Question: In “అమ్మ మరియు నాన్న”, which word is the conjunction?",
               "options": [
-                "అమ్మ",
-                "మరియు",
-                "నాన్న",
-                "లో"
+                "అమ్మ (Mother)",
+                "మరియు (And)",
+                "నాన్న (Father)",
+                "లో (In)"
               ],
               "correct_index": 1,
-              "explanation": "మరియు సంధాన పదం."
+              "explanation": "“మరియు” is the conjunction.",
+              "id": "en_te_i_2"
             },
             {
-              "id": "en_te_i1_q3",
-              "question": "Question: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+              "question": "Question: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” — Which word is the conjunction?",
               "options": [
-                "కానీ",
-                "చదివాడు",
-                "ఉత్తీర్ణుడు",
-                "కాలేదు"
+                "కానీ (But)",
+                "చదివాడు (Studied)",
+                "ఉత్తీర్ణుడు (Passed)",
+                "కాలేదు (Did not)"
               ],
               "correct_index": 0,
-              "explanation": "కానీ సంధాన పదం."
+              "explanation": "“కానీ” is the conjunction.",
+              "id": "en_te_i_3"
             },
             {
-              "id": "en_te_i1_q4",
-              "question": "Question: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "Question: What part of speech is “మరియు” (And)?",
               "options": [
-                "సంధాన పదం",
-                "నామవాచకం",
-                "క్రియ",
-                "విశేషణం"
+                "సంధాన పదం (Conjunction)",
+                "నామవాచకం (Noun)",
+                "క్రియ (Verb)",
+                "విశేషణం (Adjective)"
               ],
               "correct_index": 0,
-              "explanation": "మరియు సంధాన పదం."
+              "explanation": "“మరియు” is a Conjunction (సంధాన పదం).",
+              "id": "en_te_i_4"
             },
             {
-              "id": "en_te_i1_q5",
-              "question": "Question: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+              "question": "Question: When is the word “అందువల్ల” (Therefore) used?",
               "options": [
-                "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
-                "నామవాచకంగా",
-                "క్రియగా",
-                "కాలాన్ని సూచించడానికి"
+                "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (To convey Cause and Effect)",
+                "నామవాచకంగా (As a Noun)",
+                "క్రియగా (As a Verb)",
+                "కాలాన్ని సూచించడానికి (To show Time)"
               ],
               "correct_index": 0,
-              "explanation": "అందువల్ల కారణం తెలియజేస్తుంది."
+              "explanation": "“అందువల్ల” is used to convey cause and effect.",
+              "id": "en_te_i_5"
             },
             {
-              "id": "en_te_i1_q6",
-              "question": "Question: సరైన సంధాన పదం ఏది?",
+              "question": "Question: Which is a valid conjunction (సంధాన పదం)?",
               "options": [
-                "మరియు",
-                "పుస్తకం",
-                "ఇల్లు",
-                "పరుగెత్తు"
+                "మరియు (And)",
+                "పుస్తకం (Book)",
+                "ఇల్లు (House)",
+                "పరుగెత్తు (Run)"
               ],
               "correct_index": 0,
-              "explanation": "మరియు సరైన సంధాన పదం."
+              "explanation": "“మరియు” is a valid conjunction.",
+              "id": "en_te_i_6"
             },
             {
-              "id": "en_te_i1_q7",
-              "question": "Question: “లేదా” అంటే ఏమిటి?",
+              "question": "Question: What does “లేదా” (Or) mean?",
               "options": [
-                "రెండు ఎంపికల్లో ఒకటి",
-                "సమయం",
-                "స్థలం",
-                "క్రియ"
+                "రెండు ఎంపికల్లో ఒకటి (One of two options)",
+                "సమయం (Time)",
+                "స్థలం (Place)",
+                "క్రియ (Action)"
               ],
               "correct_index": 0,
-              "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
+              "explanation": "“లేదా” means choice between options.",
+              "id": "en_te_i_7"
             }
           ]
         }
@@ -2901,175 +2901,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "en_te_i1_q1",
-            "question": "Question: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+            "question": "Question: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” — Which word is the conjunction (సంధాన పదం)?",
             "options": [
-              "కానీ",
-              "మరియు",
-              "ఎందుకంటే",
-              "లేదా"
+              "కానీ (But)",
+              "మరియు (And)",
+              "ఎందుకంటే (Because)",
+              "లేదా (Or)"
             ],
             "correct_index": 1,
-            "explanation": "మరియు సంధాన పదం."
+            "explanation": "“మరియు” is the conjunction.",
+            "id": "en_te_i_1"
           },
           {
-            "id": "en_te_i1_q2",
-            "question": "Question: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+            "question": "Question: In “అమ్మ మరియు నాన్న”, which word is the conjunction?",
             "options": [
-              "అమ్మ",
-              "మరియు",
-              "నాన్న",
-              "లో"
+              "అమ్మ (Mother)",
+              "మరియు (And)",
+              "నాన్న (Father)",
+              "లో (In)"
             ],
             "correct_index": 1,
-            "explanation": "మరియు సంధాన పదం."
+            "explanation": "“మరియు” is the conjunction.",
+            "id": "en_te_i_2"
           },
           {
-            "id": "en_te_i1_q3",
-            "question": "Question: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+            "question": "Question: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” — Which word is the conjunction?",
             "options": [
-              "కానీ",
-              "చదివాడు",
-              "ఉత్తీర్ణుడు",
-              "కాలేదు"
+              "కానీ (But)",
+              "చదివాడు (Studied)",
+              "ఉత్తీర్ణుడు (Passed)",
+              "కాలేదు (Did not)"
             ],
             "correct_index": 0,
-            "explanation": "కానీ సంధాన పదం."
+            "explanation": "“కానీ” is the conjunction.",
+            "id": "en_te_i_3"
           },
           {
-            "id": "en_te_i1_q4",
-            "question": "Question: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "Question: What part of speech is “మరియు” (And)?",
             "options": [
-              "సంధాన పదం",
-              "నామవాచకం",
-              "క్రియ",
-              "విశేషణం"
+              "సంధాన పదం (Conjunction)",
+              "నామవాచకం (Noun)",
+              "క్రియ (Verb)",
+              "విశేషణం (Adjective)"
             ],
             "correct_index": 0,
-            "explanation": "మరియు సంధాన పదం."
+            "explanation": "“మరియు” is a Conjunction (సంధాన పదం).",
+            "id": "en_te_i_4"
           },
           {
-            "id": "en_te_i1_q5",
-            "question": "Question: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+            "question": "Question: When is the word “అందువల్ల” (Therefore) used?",
             "options": [
-              "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
-              "నామవాచకంగా",
-              "క్రియగా",
-              "కాలాన్ని సూచించడానికి"
+              "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (To convey Cause and Effect)",
+              "నామవాచకంగా (As a Noun)",
+              "క్రియగా (As a Verb)",
+              "కాలాన్ని సూచించడానికి (To show Time)"
             ],
             "correct_index": 0,
-            "explanation": "అందువల్ల కారణం తెలియజేస్తుంది."
+            "explanation": "“అందువల్ల” is used to convey cause and effect.",
+            "id": "en_te_i_5"
           },
           {
-            "id": "en_te_i1_q6",
-            "question": "Question: సరైన సంధాన పదం ఏది?",
+            "question": "Question: Which is a valid conjunction (సంధాన పదం)?",
             "options": [
-              "మరియు",
-              "పుస్తకం",
-              "ఇల్లు",
-              "పరుగెత్తు"
+              "మరియు (And)",
+              "పుస్తకం (Book)",
+              "ఇల్లు (House)",
+              "పరుగెత్తు (Run)"
             ],
             "correct_index": 0,
-            "explanation": "మరియు సరైన సంధాన పదం."
+            "explanation": "“మరియు” is a valid conjunction.",
+            "id": "en_te_i_6"
           },
           {
-            "id": "en_te_i1_q7",
-            "question": "Question: “లేదా” అంటే ఏమిటి?",
+            "question": "Question: What does “లేదా” (Or) mean?",
             "options": [
-              "రెండు ఎంపికల్లో ఒకటి",
-              "సమయం",
-              "స్థలం",
-              "క్రియ"
+              "రెండు ఎంపికల్లో ఒకటి (One of two options)",
+              "సమయం (Time)",
+              "స్థలం (Place)",
+              "క్రియ (Action)"
             ],
             "correct_index": 0,
-            "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
+            "explanation": "“లేదా” means choice between options.",
+            "id": "en_te_i_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "en_te_i1_q1",
-          "question": "Question: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+          "question": "Question: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” — Which word is the conjunction (సంధాన పదం)?",
           "options": [
-            "కానీ",
-            "మరియు",
-            "ఎందుకంటే",
-            "లేదా"
+            "కానీ (But)",
+            "మరియు (And)",
+            "ఎందుకంటే (Because)",
+            "లేదా (Or)"
           ],
           "correct_index": 1,
-          "explanation": "మరియు సంధాన పదం."
+          "explanation": "“మరియు” is the conjunction.",
+          "id": "en_te_i_1"
         },
         {
-          "id": "en_te_i1_q2",
-          "question": "Question: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+          "question": "Question: In “అమ్మ మరియు నాన్న”, which word is the conjunction?",
           "options": [
-            "అమ్మ",
-            "మరియు",
-            "నాన్న",
-            "లో"
+            "అమ్మ (Mother)",
+            "మరియు (And)",
+            "నాన్న (Father)",
+            "లో (In)"
           ],
           "correct_index": 1,
-          "explanation": "మరియు సంధాన పదం."
+          "explanation": "“మరియు” is the conjunction.",
+          "id": "en_te_i_2"
         },
         {
-          "id": "en_te_i1_q3",
-          "question": "Question: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+          "question": "Question: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” — Which word is the conjunction?",
           "options": [
-            "కానీ",
-            "చదివాడు",
-            "ఉత్తీర్ణుడు",
-            "కాలేదు"
+            "కానీ (But)",
+            "చదివాడు (Studied)",
+            "ఉత్తీర్ణుడు (Passed)",
+            "కాలేదు (Did not)"
           ],
           "correct_index": 0,
-          "explanation": "కానీ సంధాన పదం."
+          "explanation": "“కానీ” is the conjunction.",
+          "id": "en_te_i_3"
         },
         {
-          "id": "en_te_i1_q4",
-          "question": "Question: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "Question: What part of speech is “మరియు” (And)?",
           "options": [
-            "సంధాన పదం",
-            "నామవాచకం",
-            "క్రియ",
-            "విశేషణం"
+            "సంధాన పదం (Conjunction)",
+            "నామవాచకం (Noun)",
+            "క్రియ (Verb)",
+            "విశేషణం (Adjective)"
           ],
           "correct_index": 0,
-          "explanation": "మరియు సంధాన పదం."
+          "explanation": "“మరియు” is a Conjunction (సంధాన పదం).",
+          "id": "en_te_i_4"
         },
         {
-          "id": "en_te_i1_q5",
-          "question": "Question: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+          "question": "Question: When is the word “అందువల్ల” (Therefore) used?",
           "options": [
-            "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
-            "నామవాచకంగా",
-            "క్రియగా",
-            "కాలాన్ని సూచించడానికి"
+            "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (To convey Cause and Effect)",
+            "నామవాచకంగా (As a Noun)",
+            "క్రియగా (As a Verb)",
+            "కాలాన్ని సూచించడానికి (To show Time)"
           ],
           "correct_index": 0,
-          "explanation": "అందువల్ల కారణం తెలియజేస్తుంది."
+          "explanation": "“అందువల్ల” is used to convey cause and effect.",
+          "id": "en_te_i_5"
         },
         {
-          "id": "en_te_i1_q6",
-          "question": "Question: సరైన సంధాన పదం ఏది?",
+          "question": "Question: Which is a valid conjunction (సంధాన పదం)?",
           "options": [
-            "మరియు",
-            "పుస్తకం",
-            "ఇల్లు",
-            "పరుగెత్తు"
+            "మరియు (And)",
+            "పుస్తకం (Book)",
+            "ఇల్లు (House)",
+            "పరుగెత్తు (Run)"
           ],
           "correct_index": 0,
-          "explanation": "మరియు సరైన సంధాన పదం."
+          "explanation": "“మరియు” is a valid conjunction.",
+          "id": "en_te_i_6"
         },
         {
-          "id": "en_te_i1_q7",
-          "question": "Question: “లేదా” అంటే ఏమిటి?",
+          "question": "Question: What does “లేదా” (Or) mean?",
           "options": [
-            "రెండు ఎంపికల్లో ఒకటి",
-            "సమయం",
-            "స్థలం",
-            "క్రియ"
+            "రెండు ఎంపికల్లో ఒకటి (One of two options)",
+            "సమయం (Time)",
+            "స్థలం (Place)",
+            "క్రియ (Action)"
           ],
           "correct_index": 0,
-          "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
+          "explanation": "“లేదా” means choice between options.",
+          "id": "en_te_i_7"
         }
       ]
     },
@@ -3078,100 +3078,100 @@ export const BILINGUAL_COURSES = {
       "path": "advanced",
       "lang": "te",
       "uiLang": "en",
-      "title": "Course 4: Advanced (Stories I Can Read)",
-      "description": "Read short passages and answer comprehension questions.",
-      "objective": "Read short passages and answer comprehension questions.",
+      "title": "Course 4: Advanced (My World in Telugu Sentences)",
+      "description": "Learn TE curriculum with EN UI guidance (advanced).",
+      "objective": "Learn TE curriculum with EN UI guidance (advanced).",
       "lessons": [
         {
           "id": "advanced-en-te-l1",
-          "title": "Course 4: Advanced (Stories I Can Read)",
-          "learning_goal": "Read short passages and answer comprehension questions.",
+          "title": "Course 4: Advanced (My World in Telugu Sentences)",
+          "learning_goal": "Learn TE curriculum with EN UI guidance (advanced).",
           "teaching_content": "Practice learning TE curriculum with EN guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "en_te_a1_q1",
-              "question": "Question: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+              "question": "Question: Where does Rahul go?",
               "options": [
-                "మార్కెట్",
-                "పాఠశాల",
-                "పార్క్",
-                "ఇల్లు"
+                "మార్కెట్ (Market)",
+                "పాఠశాల (School)",
+                "పార్క్ (Park)",
+                "ఇల్లు (Home)"
               ],
               "correct_index": 1,
-              "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+              "explanation": "Rahul goes to school (పాఠశాల).",
+              "id": "en_te_a_1"
             },
             {
-              "id": "en_te_a1_q2",
-              "question": "Question: రాహుల్కు ఏమి ఇష్టం?",
+              "question": "Question: What does Rahul like?",
               "options": [
-                "ఆటలు",
-                "పుస్తకాలు చదవడం",
-                "నిద్రపోవడం",
-                "టీవీ చూడడం"
+                "ఆటలు (Games)",
+                "పుస్తకాలు చదవడం (Reading books)",
+                "నిద్రపోవడం (Sleeping)",
+                "టీవీ చూడడం (Watching TV)"
               ],
               "correct_index": 1,
-              "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం."
+              "explanation": "Rahul likes reading books (పుస్తకాలు చదవడం).",
+              "id": "en_te_a_2"
             },
             {
-              "id": "en_te_a1_q3",
-              "question": "Question: ఈ గద్యభాగం ఎవరి గురించి?",
+              "question": "Question: Who is this passage about?",
               "options": [
-                "సీత",
-                "రాహుల్",
-                "మోహన్",
-                "లత"
+                "సీత (Sita)",
+                "రాహుల్ (Rahul)",
+                "మోహన్ (Mohan)",
+                "లత (Lata)"
               ],
               "correct_index": 1,
-              "explanation": "ఈ గద్యభాగం రాహుల్ గురించి."
+              "explanation": "This passage is about Rahul (రాహుల్).",
+              "id": "en_te_a_3"
             },
             {
-              "id": "en_te_a1_q4",
-              "question": "Question: “ప్రతిరోజూ” అంటే ఏమిటి?",
+              "question": "Question: What does “ప్రతిరోజూ” mean?",
               "options": [
-                "ప్రతి రోజు",
-                "నిన్న",
-                "ఎప్పుడూ కాదు",
-                "వచ్చే వారం"
+                "ప్రతి రోజు (Every day)",
+                "నిన్న (Yesterday)",
+                "ఎప్పుడూ కాదు (Never)",
+                "వచ్చే వారం (Next week)"
               ],
               "correct_index": 0,
-              "explanation": "ప్రతిరోజూ అంటే ప్రతి రోజు."
+              "explanation": "“ప్రతిరోజూ” means Every day.",
+              "id": "en_te_a_4"
             },
             {
-              "id": "en_te_a1_q5",
-              "question": "Question: రాహుల్ ఏమి చేస్తాడు?",
+              "question": "Question: What does Rahul do?",
               "options": [
-                "పాఠశాలకు వెళ్తాడు",
-                "మార్కెట్కు వెళ్తాడు",
-                "ఇంట్లో ఉంటాడు",
-                "ఆసుపత్రికి వెళ్తాడు"
+                "పాఠశాలకు వెళ్తాడు (Goes to school)",
+                "మార్కెట్కు వెళ్తాడు (Goes to market)",
+                "ఇంట్లో ఉంటాడు (Stays home)",
+                "ఆసుపత్రికి వెళ్తాడు (Goes to hospital)"
               ],
               "correct_index": 0,
-              "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+              "explanation": "Rahul goes to school (పాఠశాలకు వెళ్తాడు).",
+              "id": "en_te_a_5"
             },
             {
-              "id": "en_te_a1_q6",
-              "question": "Question: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+              "question": "Question: What is the main idea of this passage?",
               "options": [
-                "చదువు మరియు పాఠశాల అలవాటు",
-                "ప్రయాణం",
-                "వర్షం",
-                "కొండలు"
+                "చదువు మరియు పాఠశాల అలవాటు (Study and school habit)",
+                "ప్రయాణం (Travel)",
+                "వర్షం (Rain)",
+                "కొండలు (Hills)"
               ],
               "correct_index": 0,
-              "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల."
+              "explanation": "The main idea is Study and school habit.",
+              "id": "en_te_a_6"
             },
             {
-              "id": "en_te_a1_q7",
-              "question": "Question: సరైన వాక్యం ఏది?",
+              "question": "Question: Which statement is correct?",
               "options": [
-                "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
-                "రాహుల్ పాఠశాలకు వెళ్లడు.",
-                "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.",
-                "రాహుల్ చదవడు."
+                "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం. (Rahul likes reading books.)",
+                "రాహుల్ పాఠశాలకు వెళ్లడు. (Rahul does not go to school.)",
+                "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు. (Rahul always plays.)",
+                "రాహుల్ చదవడు. (Rahul does not read.)"
               ],
               "correct_index": 0,
-              "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం సరైనది."
+              "explanation": "The correct statement is “రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.”",
+              "id": "en_te_a_7"
             }
           ]
         }
@@ -3180,175 +3180,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "en_te_a1_q1",
-            "question": "Question: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+            "question": "Question: Where does Rahul go?",
             "options": [
-              "మార్కెట్",
-              "పాఠశాల",
-              "పార్క్",
-              "ఇల్లు"
+              "మార్కెట్ (Market)",
+              "పాఠశాల (School)",
+              "పార్క్ (Park)",
+              "ఇల్లు (Home)"
             ],
             "correct_index": 1,
-            "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+            "explanation": "Rahul goes to school (పాఠశాల).",
+            "id": "en_te_a_1"
           },
           {
-            "id": "en_te_a1_q2",
-            "question": "Question: రాహుల్కు ఏమి ఇష్టం?",
+            "question": "Question: What does Rahul like?",
             "options": [
-              "ఆటలు",
-              "పుస్తకాలు చదవడం",
-              "నిద్రపోవడం",
-              "టీవీ చూడడం"
+              "ఆటలు (Games)",
+              "పుస్తకాలు చదవడం (Reading books)",
+              "నిద్రపోవడం (Sleeping)",
+              "టీవీ చూడడం (Watching TV)"
             ],
             "correct_index": 1,
-            "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం."
+            "explanation": "Rahul likes reading books (పుస్తకాలు చదవడం).",
+            "id": "en_te_a_2"
           },
           {
-            "id": "en_te_a1_q3",
-            "question": "Question: ఈ గద్యభాగం ఎవరి గురించి?",
+            "question": "Question: Who is this passage about?",
             "options": [
-              "సీత",
-              "రాహుల్",
-              "మోహన్",
-              "లత"
+              "సీత (Sita)",
+              "రాహుల్ (Rahul)",
+              "మోహన్ (Mohan)",
+              "లత (Lata)"
             ],
             "correct_index": 1,
-            "explanation": "ఈ గద్యభాగం రాహుల్ గురించి."
+            "explanation": "This passage is about Rahul (రాహుల్).",
+            "id": "en_te_a_3"
           },
           {
-            "id": "en_te_a1_q4",
-            "question": "Question: “ప్రతిరోజూ” అంటే ఏమిటి?",
+            "question": "Question: What does “ప్రతిరోజూ” mean?",
             "options": [
-              "ప్రతి రోజు",
-              "నిన్న",
-              "ఎప్పుడూ కాదు",
-              "వచ్చే వారం"
+              "ప్రతి రోజు (Every day)",
+              "నిన్న (Yesterday)",
+              "ఎప్పుడూ కాదు (Never)",
+              "వచ్చే వారం (Next week)"
             ],
             "correct_index": 0,
-            "explanation": "ప్రతిరోజూ అంటే ప్రతి రోజు."
+            "explanation": "“ప్రతిరోజూ” means Every day.",
+            "id": "en_te_a_4"
           },
           {
-            "id": "en_te_a1_q5",
-            "question": "Question: రాహుల్ ఏమి చేస్తాడు?",
+            "question": "Question: What does Rahul do?",
             "options": [
-              "పాఠశాలకు వెళ్తాడు",
-              "మార్కెట్కు వెళ్తాడు",
-              "ఇంట్లో ఉంటాడు",
-              "ఆసుపత్రికి వెళ్తాడు"
+              "పాఠశాలకు వెళ్తాడు (Goes to school)",
+              "మార్కెట్కు వెళ్తాడు (Goes to market)",
+              "ఇంట్లో ఉంటాడు (Stays home)",
+              "ఆసుపత్రికి వెళ్తాడు (Goes to hospital)"
             ],
             "correct_index": 0,
-            "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+            "explanation": "Rahul goes to school (పాఠశాలకు వెళ్తాడు).",
+            "id": "en_te_a_5"
           },
           {
-            "id": "en_te_a1_q6",
-            "question": "Question: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+            "question": "Question: What is the main idea of this passage?",
             "options": [
-              "చదువు మరియు పాఠశాల అలవాటు",
-              "ప్రయాణం",
-              "వర్షం",
-              "కొండలు"
+              "చదువు మరియు పాఠశాల అలవాటు (Study and school habit)",
+              "ప్రయాణం (Travel)",
+              "వర్షం (Rain)",
+              "కొండలు (Hills)"
             ],
             "correct_index": 0,
-            "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల."
+            "explanation": "The main idea is Study and school habit.",
+            "id": "en_te_a_6"
           },
           {
-            "id": "en_te_a1_q7",
-            "question": "Question: సరైన వాక్యం ఏది?",
+            "question": "Question: Which statement is correct?",
             "options": [
-              "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
-              "రాహుల్ పాఠశాలకు వెళ్లడు.",
-              "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.",
-              "రాహుల్ చదవడు."
+              "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం. (Rahul likes reading books.)",
+              "రాహుల్ పాఠశాలకు వెళ్లడు. (Rahul does not go to school.)",
+              "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు. (Rahul always plays.)",
+              "రాహుల్ చదవడు. (Rahul does not read.)"
             ],
             "correct_index": 0,
-            "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం సరైనది."
+            "explanation": "The correct statement is “రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.”",
+            "id": "en_te_a_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "en_te_a1_q1",
-          "question": "Question: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+          "question": "Question: Where does Rahul go?",
           "options": [
-            "మార్కెట్",
-            "పాఠశాల",
-            "పార్క్",
-            "ఇల్లు"
+            "మార్కెట్ (Market)",
+            "పాఠశాల (School)",
+            "పార్క్ (Park)",
+            "ఇల్లు (Home)"
           ],
           "correct_index": 1,
-          "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+          "explanation": "Rahul goes to school (పాఠశాల).",
+          "id": "en_te_a_1"
         },
         {
-          "id": "en_te_a1_q2",
-          "question": "Question: రాహుల్కు ఏమి ఇష్టం?",
+          "question": "Question: What does Rahul like?",
           "options": [
-            "ఆటలు",
-            "పుస్తకాలు చదవడం",
-            "నిద్రపోవడం",
-            "టీవీ చూడడం"
+            "ఆటలు (Games)",
+            "పుస్తకాలు చదవడం (Reading books)",
+            "నిద్రపోవడం (Sleeping)",
+            "టీవీ చూడడం (Watching TV)"
           ],
           "correct_index": 1,
-          "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం."
+          "explanation": "Rahul likes reading books (పుస్తకాలు చదవడం).",
+          "id": "en_te_a_2"
         },
         {
-          "id": "en_te_a1_q3",
-          "question": "Question: ఈ గద్యభాగం ఎవరి గురించి?",
+          "question": "Question: Who is this passage about?",
           "options": [
-            "సీత",
-            "రాహుల్",
-            "మోహన్",
-            "లత"
+            "సీత (Sita)",
+            "రాహుల్ (Rahul)",
+            "మోహన్ (Mohan)",
+            "లత (Lata)"
           ],
           "correct_index": 1,
-          "explanation": "ఈ గద్యభాగం రాహుల్ గురించి."
+          "explanation": "This passage is about Rahul (రాహుల్).",
+          "id": "en_te_a_3"
         },
         {
-          "id": "en_te_a1_q4",
-          "question": "Question: “ప్రతిరోజూ” అంటే ఏమిటి?",
+          "question": "Question: What does “ప్రతిరోజూ” mean?",
           "options": [
-            "ప్రతి రోజు",
-            "నిన్న",
-            "ఎప్పుడూ కాదు",
-            "వచ్చే వారం"
+            "ప్రతి రోజు (Every day)",
+            "నిన్న (Yesterday)",
+            "ఎప్పుడూ కాదు (Never)",
+            "వచ్చే వారం (Next week)"
           ],
           "correct_index": 0,
-          "explanation": "ప్రతిరోజూ అంటే ప్రతి రోజు."
+          "explanation": "“ప్రతిరోజూ” means Every day.",
+          "id": "en_te_a_4"
         },
         {
-          "id": "en_te_a1_q5",
-          "question": "Question: రాహుల్ ఏమి చేస్తాడు?",
+          "question": "Question: What does Rahul do?",
           "options": [
-            "పాఠశాలకు వెళ్తాడు",
-            "మార్కెట్కు వెళ్తాడు",
-            "ఇంట్లో ఉంటాడు",
-            "ఆసుపత్రికి వెళ్తాడు"
+            "పాఠశాలకు వెళ్తాడు (Goes to school)",
+            "మార్కెట్కు వెళ్తాడు (Goes to market)",
+            "ఇంట్లో ఉంటాడు (Stays home)",
+            "ఆసుపత్రికి వెళ్తాడు (Goes to hospital)"
           ],
           "correct_index": 0,
-          "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+          "explanation": "Rahul goes to school (పాఠశాలకు వెళ్తాడు).",
+          "id": "en_te_a_5"
         },
         {
-          "id": "en_te_a1_q6",
-          "question": "Question: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+          "question": "Question: What is the main idea of this passage?",
           "options": [
-            "చదువు మరియు పాఠశాల అలవాటు",
-            "ప్రయాణం",
-            "వర్షం",
-            "కొండలు"
+            "చదువు మరియు పాఠశాల అలవాటు (Study and school habit)",
+            "ప్రయాణం (Travel)",
+            "వర్షం (Rain)",
+            "కొండలు (Hills)"
           ],
           "correct_index": 0,
-          "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల."
+          "explanation": "The main idea is Study and school habit.",
+          "id": "en_te_a_6"
         },
         {
-          "id": "en_te_a1_q7",
-          "question": "Question: సరైన వాక్యం ఏది?",
+          "question": "Question: Which statement is correct?",
           "options": [
-            "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
-            "రాహుల్ పాఠశాలకు వెళ్లడు.",
-            "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.",
-            "రాహుల్ చదవడు."
+            "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం. (Rahul likes reading books.)",
+            "రాహుల్ పాఠశాలకు వెళ్లడు. (Rahul does not go to school.)",
+            "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు. (Rahul always plays.)",
+            "రాహుల్ చదవడు. (Rahul does not read.)"
           ],
           "correct_index": 0,
-          "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం సరైనది."
+          "explanation": "The correct statement is “రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.”",
+          "id": "en_te_a_7"
         }
       ]
     }
@@ -3374,10 +3374,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q1",
               "question": "Question: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
               "options": [
-                "12",
-                "13",
-                "14",
-                "15"
+                "12 (12 - Twelve))",
+                "13 (13 - Thirteen))",
+                "14 (14 - Fourteen))",
+                "15 (15 - Fifteen))"
               ],
               "correct_index": 1,
               "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -3386,10 +3386,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q2",
               "question": "Question: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ಕ್ರಿಯಾಪದ",
-                "ನಾಮಪದ",
-                "ವಿಶೇಷಣ",
-                "ಸರ್ವನಾಮ"
+                "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+                "ನಾಮಪದ (Naamapada - Noun))",
+                "ವಿಶೇಷಣ (Viseshana - Adjective))",
+                "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
               ],
               "correct_index": 1,
               "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -3398,8 +3398,8 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q3",
               "question": "Question: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
               "options": [
-                "ಮರ",
-                "ಮರಗಳು",
+                "ಮರ (Mara - Tree))",
+                "ಮರಗಳು (Maragalu - Trees))",
                 "ಮರಗಳ",
                 "ಮರವು"
               ],
@@ -3410,10 +3410,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q4",
               "question": "Question: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
               "options": [
-                "ವಿಶೇಷಣ",
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ಸರ್ವನಾಮ"
+                "ವಿಶೇಷಣ (Viseshana - Adjective))",
+                "ನಾಮಪದ (Naamapada - Noun))",
+                "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+                "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
               ],
               "correct_index": 0,
               "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -3422,10 +3422,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_f1_q5",
               "question": "Question: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ವಿಶೇಷಣ",
-                "ಸರ್ವನಾಮ"
+                "ನಾಮಪದ (Naamapada - Noun))",
+                "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+                "ವಿಶೇಷಣ (Viseshana - Adjective))",
+                "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
               ],
               "correct_index": 1,
               "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -3437,7 +3437,7 @@ export const BILINGUAL_COURSES = {
                 "ಮನೆ",
                 "ಗ್ರಂಥ",
                 "ರಸ್ತೆ",
-                "ಮರ"
+                "ಮರ (Mara - Tree))"
               ],
               "correct_index": 1,
               "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -3464,10 +3464,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q1",
             "question": "Question: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
             "options": [
-              "12",
-              "13",
-              "14",
-              "15"
+              "12 (12 - Twelve))",
+              "13 (13 - Thirteen))",
+              "14 (14 - Fourteen))",
+              "15 (15 - Fifteen))"
             ],
             "correct_index": 1,
             "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -3476,10 +3476,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q2",
             "question": "Question: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ಕ್ರಿಯಾಪದ",
-              "ನಾಮಪದ",
-              "ವಿಶೇಷಣ",
-              "ಸರ್ವನಾಮ"
+              "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+              "ನಾಮಪದ (Naamapada - Noun))",
+              "ವಿಶೇಷಣ (Viseshana - Adjective))",
+              "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
             ],
             "correct_index": 1,
             "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -3488,8 +3488,8 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q3",
             "question": "Question: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
             "options": [
-              "ಮರ",
-              "ಮರಗಳು",
+              "ಮರ (Mara - Tree))",
+              "ಮರಗಳು (Maragalu - Trees))",
               "ಮರಗಳ",
               "ಮರವು"
             ],
@@ -3500,10 +3500,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q4",
             "question": "Question: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
             "options": [
-              "ವಿಶೇಷಣ",
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ಸರ್ವನಾಮ"
+              "ವಿಶೇಷಣ (Viseshana - Adjective))",
+              "ನಾಮಪದ (Naamapada - Noun))",
+              "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+              "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
             ],
             "correct_index": 0,
             "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -3512,10 +3512,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_f1_q5",
             "question": "Question: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ವಿಶೇಷಣ",
-              "ಸರ್ವನಾಮ"
+              "ನಾಮಪದ (Naamapada - Noun))",
+              "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+              "ವಿಶೇಷಣ (Viseshana - Adjective))",
+              "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
             ],
             "correct_index": 1,
             "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -3527,7 +3527,7 @@ export const BILINGUAL_COURSES = {
               "ಮನೆ",
               "ಗ್ರಂಥ",
               "ರಸ್ತೆ",
-              "ಮರ"
+              "ಮರ (Mara - Tree))"
             ],
             "correct_index": 1,
             "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -3551,10 +3551,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q1",
           "question": "Question: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
           "options": [
-            "12",
-            "13",
-            "14",
-            "15"
+            "12 (12 - Twelve))",
+            "13 (13 - Thirteen))",
+            "14 (14 - Fourteen))",
+            "15 (15 - Fifteen))"
           ],
           "correct_index": 1,
           "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -3563,10 +3563,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q2",
           "question": "Question: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ಕ್ರಿಯಾಪದ",
-            "ನಾಮಪದ",
-            "ವಿಶೇಷಣ",
-            "ಸರ್ವನಾಮ"
+            "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+            "ನಾಮಪದ (Naamapada - Noun))",
+            "ವಿಶೇಷಣ (Viseshana - Adjective))",
+            "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
           ],
           "correct_index": 1,
           "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -3575,8 +3575,8 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q3",
           "question": "Question: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
           "options": [
-            "ಮರ",
-            "ಮರಗಳು",
+            "ಮರ (Mara - Tree))",
+            "ಮರಗಳು (Maragalu - Trees))",
             "ಮರಗಳ",
             "ಮರವು"
           ],
@@ -3587,10 +3587,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q4",
           "question": "Question: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
           "options": [
-            "ವಿಶೇಷಣ",
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ಸರ್ವನಾಮ"
+            "ವಿಶೇಷಣ (Viseshana - Adjective))",
+            "ನಾಮಪದ (Naamapada - Noun))",
+            "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+            "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
           ],
           "correct_index": 0,
           "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -3599,10 +3599,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_f1_q5",
           "question": "Question: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ವಿಶೇಷಣ",
-            "ಸರ್ವನಾಮ"
+            "ನಾಮಪದ (Naamapada - Noun))",
+            "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+            "ವಿಶೇಷಣ (Viseshana - Adjective))",
+            "ಸರ್ವನಾಮ (Sarvanama - Pronoun))"
           ],
           "correct_index": 1,
           "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -3614,7 +3614,7 @@ export const BILINGUAL_COURSES = {
             "ಮನೆ",
             "ಗ್ರಂಥ",
             "ರಸ್ತೆ",
-            "ಮರ"
+            "ಮರ (Mara - Tree))"
           ],
           "correct_index": 1,
           "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -3653,9 +3653,9 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q1",
               "question": "Question: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
                 "ಆಜ್ಞಾರ್ಥಕ"
               ],
               "correct_index": 1,
@@ -3665,9 +3665,9 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q2",
               "question": "Question: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
                 "ಯಾವುದೂ ಅಲ್ಲ"
               ],
               "correct_index": 0,
@@ -3677,10 +3677,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q3",
               "question": "Question: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ನಾಮಪದ"
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+                "ನಾಮಪದ (Naamapada - Noun))"
               ],
               "correct_index": 1,
               "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3689,10 +3689,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q4",
               "question": "Question: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ವಿಶೇಷಣ"
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+                "ವಿಶೇಷಣ (Viseshana - Adjective))"
               ],
               "correct_index": 0,
               "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -3701,9 +3701,9 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q5",
               "question": "Question: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
                 "ಯಾವುದೂ ಅಲ್ಲ"
               ],
               "correct_index": 1,
@@ -3713,10 +3713,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q6",
               "question": "Question: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ವಿಶೇಷಣ"
+                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+                "ವಿಶೇಷಣ (Viseshana - Adjective))"
               ],
               "correct_index": 2,
               "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3725,10 +3725,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_b1_q7",
               "question": "Question: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ನಾಮಪದ"
+                "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+                "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+                "ನಾಮಪದ (Naamapada - Noun))"
               ],
               "correct_index": 0,
               "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -3743,9 +3743,9 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q1",
             "question": "Question: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
               "ಆಜ್ಞಾರ್ಥಕ"
             ],
             "correct_index": 1,
@@ -3755,9 +3755,9 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q2",
             "question": "Question: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
               "ಯಾವುದೂ ಅಲ್ಲ"
             ],
             "correct_index": 0,
@@ -3767,10 +3767,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q3",
             "question": "Question: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ನಾಮಪದ"
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+              "ನಾಮಪದ (Naamapada - Noun))"
             ],
             "correct_index": 1,
             "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3779,10 +3779,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q4",
             "question": "Question: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ವಿಶೇಷಣ"
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+              "ವಿಶೇಷಣ (Viseshana - Adjective))"
             ],
             "correct_index": 0,
             "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -3791,9 +3791,9 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q5",
             "question": "Question: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
               "ಯಾವುದೂ ಅಲ್ಲ"
             ],
             "correct_index": 1,
@@ -3803,10 +3803,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q6",
             "question": "Question: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ವಿಶೇಷಣ"
+              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+              "ವಿಶೇಷಣ (Viseshana - Adjective))"
             ],
             "correct_index": 2,
             "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3815,10 +3815,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_b1_q7",
             "question": "Question: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ನಾಮಪದ"
+              "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+              "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+              "ನಾಮಪದ (Naamapada - Noun))"
             ],
             "correct_index": 0,
             "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -3830,9 +3830,9 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q1",
           "question": "Question: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
             "ಆಜ್ಞಾರ್ಥಕ"
           ],
           "correct_index": 1,
@@ -3842,9 +3842,9 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q2",
           "question": "Question: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
             "ಯಾವುದೂ ಅಲ್ಲ"
           ],
           "correct_index": 0,
@@ -3854,10 +3854,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q3",
           "question": "Question: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ನಾಮಪದ"
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+            "ನಾಮಪದ (Naamapada - Noun))"
           ],
           "correct_index": 1,
           "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3866,10 +3866,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q4",
           "question": "Question: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ವಿಶೇಷಣ"
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+            "ವಿಶೇಷಣ (Viseshana - Adjective))"
           ],
           "correct_index": 0,
           "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -3878,9 +3878,9 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q5",
           "question": "Question: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
             "ಯಾವುದೂ ಅಲ್ಲ"
           ],
           "correct_index": 1,
@@ -3890,10 +3890,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q6",
           "question": "Question: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ವಿಶೇಷಣ"
+            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+            "ವಿಶೇಷಣ (Viseshana - Adjective))"
           ],
           "correct_index": 2,
           "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -3902,10 +3902,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_b1_q7",
           "question": "Question: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ನಾಮಪದ"
+            "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
+            "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
+            "ನಾಮಪದ (Naamapada - Noun))"
           ],
           "correct_index": 0,
           "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -3932,10 +3932,10 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_i1_q1",
               "question": "Question: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಆದರೆ",
-                "ಮತ್ತು",
+                "ಆದರೆ (Aadare - But))",
+                "ಮತ್ತು (Mattu - And))",
                 "ಏಕೆಂದರೆ",
-                "ಅಥವಾ"
+                "ಅಥವಾ (Athavaa - Or))"
               ],
               "correct_index": 1,
               "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -3945,7 +3945,7 @@ export const BILINGUAL_COURSES = {
               "question": "Question: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
                 "ಅಮ್ಮ",
-                "ಮತ್ತು",
+                "ಮತ್ತು (Mattu - And))",
                 "ಅಪ್ಪ",
                 "ನಲ್ಲಿ"
               ],
@@ -3956,7 +3956,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_i1_q3",
               "question": "Question: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಆದರೆ",
+                "ಆದರೆ (Aadare - But))",
                 "ಓದಿದನು",
                 "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
                 "ಅವನು"
@@ -3969,9 +3969,9 @@ export const BILINGUAL_COURSES = {
               "question": "Question: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
                 "ಸಂಪರ್ಕಪದ",
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ವಿಶೇಷಣ"
+                "ನಾಮಪದ (Naamapada - Noun))",
+                "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+                "ವಿಶೇಷಣ (Viseshana - Adjective))"
               ],
               "correct_index": 0,
               "explanation": "ಸಂಪರ್ಕಪದ."
@@ -3992,7 +3992,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_kn_i1_q6",
               "question": "Question: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಮತ್ತು",
+                "ಮತ್ತು (Mattu - And))",
                 "ಪುಸ್ತಕ",
                 "ಮನೆ",
                 "ಓಡು"
@@ -4022,10 +4022,10 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_i1_q1",
             "question": "Question: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಆದರೆ",
-              "ಮತ್ತು",
+              "ಆದರೆ (Aadare - But))",
+              "ಮತ್ತು (Mattu - And))",
               "ಏಕೆಂದರೆ",
-              "ಅಥವಾ"
+              "ಅಥವಾ (Athavaa - Or))"
             ],
             "correct_index": 1,
             "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -4035,7 +4035,7 @@ export const BILINGUAL_COURSES = {
             "question": "Question: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
               "ಅಮ್ಮ",
-              "ಮತ್ತು",
+              "ಮತ್ತು (Mattu - And))",
               "ಅಪ್ಪ",
               "ನಲ್ಲಿ"
             ],
@@ -4046,7 +4046,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_i1_q3",
             "question": "Question: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಆದರೆ",
+              "ಆದರೆ (Aadare - But))",
               "ಓದಿದನು",
               "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
               "ಅವನು"
@@ -4059,9 +4059,9 @@ export const BILINGUAL_COURSES = {
             "question": "Question: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
               "ಸಂಪರ್ಕಪದ",
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ವಿಶೇಷಣ"
+              "ನಾಮಪದ (Naamapada - Noun))",
+              "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+              "ವಿಶೇಷಣ (Viseshana - Adjective))"
             ],
             "correct_index": 0,
             "explanation": "ಸಂಪರ್ಕಪದ."
@@ -4082,7 +4082,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_kn_i1_q6",
             "question": "Question: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಮತ್ತು",
+              "ಮತ್ತು (Mattu - And))",
               "ಪುಸ್ತಕ",
               "ಮನೆ",
               "ಓಡು"
@@ -4109,10 +4109,10 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_i1_q1",
           "question": "Question: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಆದರೆ",
-            "ಮತ್ತು",
+            "ಆದರೆ (Aadare - But))",
+            "ಮತ್ತು (Mattu - And))",
             "ಏಕೆಂದರೆ",
-            "ಅಥವಾ"
+            "ಅಥವಾ (Athavaa - Or))"
           ],
           "correct_index": 1,
           "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -4122,7 +4122,7 @@ export const BILINGUAL_COURSES = {
           "question": "Question: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
             "ಅಮ್ಮ",
-            "ಮತ್ತು",
+            "ಮತ್ತು (Mattu - And))",
             "ಅಪ್ಪ",
             "ನಲ್ಲಿ"
           ],
@@ -4133,7 +4133,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_i1_q3",
           "question": "Question: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಆದರೆ",
+            "ಆದರೆ (Aadare - But))",
             "ಓದಿದನು",
             "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
             "ಅವನು"
@@ -4146,9 +4146,9 @@ export const BILINGUAL_COURSES = {
           "question": "Question: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
             "ಸಂಪರ್ಕಪದ",
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ವಿಶೇಷಣ"
+            "ನಾಮಪದ (Naamapada - Noun))",
+            "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
+            "ವಿಶೇಷಣ (Viseshana - Adjective))"
           ],
           "correct_index": 0,
           "explanation": "ಸಂಪರ್ಕಪದ."
@@ -4169,7 +4169,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_kn_i1_q6",
           "question": "Question: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಮತ್ತು",
+            "ಮತ್ತು (Mattu - And))",
             "ಪುಸ್ತಕ",
             "ಮನೆ",
             "ಓಡು"
@@ -5595,100 +5595,100 @@ export const BILINGUAL_COURSES = {
       "path": "foundation",
       "lang": "ta",
       "uiLang": "hi",
-      "title": "Course 1: Foundation (मेरा पठन आत्मविश्वास)",
-      "description": "वर्णमाला, संज्ञा, बहुवचन, विशेषण, क्रिया और बुनियादी शब्दावली सीखें।",
-      "objective": "वर्णमाला, संज्ञा, बहुवचन, विशेषण, क्रिया और बुनियादी शब्दावली सीखें।",
+      "title": "Course 1: Foundation (मेरी पठन क्षमता का विस्तार)",
+      "description": "Learn TA curriculum with HI UI guidance (foundation).",
+      "objective": "Learn TA curriculum with HI UI guidance (foundation).",
       "lessons": [
         {
           "id": "foundation-hi-ta-l1",
-          "title": "Course 1: Foundation (मेरा पठन आत्मविश्वास)",
-          "learning_goal": "वर्णमाला, संज्ञा, बहुवचन, विशेषण, क्रिया और बुनियादी शब्दावली सीखें।",
+          "title": "Course 1: Foundation (मेरी पठन क्षमता का विस्तार)",
+          "learning_goal": "Learn TA curriculum with HI UI guidance (foundation).",
           "teaching_content": "Practice learning TA curriculum with HI guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "hi_ta_f1_q1",
-              "question": "प्रश्न: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+              "question": "प्रश्न: तमिल भाषा में स्वर कितने होते हैं?",
               "options": [
-                "14",
-                "15",
-                "12",
-                "13"
+                "10 (दस)",
+                "11 (ग्यारह)",
+                "12 (बारह)",
+                "13 (तेरह)"
               ],
               "correct_index": 2,
-              "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
+              "explanation": "तमिल भाषा में 12 स्वर होते हैं।",
+              "id": "hi_ta_f_1"
             },
             {
-              "id": "hi_ta_f1_q2",
-              "question": "प्रश्न: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+              "question": "प्रश्न: 'அம்மா' (अम्मा) किस प्रकार का शब्द है?",
               "options": [
-                "வினைச்சொல்",
-                "பெயர்ச்சொல்",
-                "உரிச்சொல்",
-                "பிரதிபெயர்"
+                "வினைச்சொல் (क्रिया)",
+                "பெயர்ச்சொல் (संज्ञा)",
+                "உரிச்சொல் (विशेषण)",
+                "இடைச்சொல் (अव्यय)"
               ],
               "correct_index": 1,
-              "explanation": "\"அம்மா\" பெயர்ச்சொல் ஆகும்."
+              "explanation": "'அம்மா' संज्ञा (பெயர்ச்சொல்) है।",
+              "id": "hi_ta_f_2"
             },
             {
-              "id": "hi_ta_f1_q3",
-              "question": "प्रश्न: \"மரம்\" என்பதன் பன்மை?",
+              "question": "प्रश्न: 'மரம்' (मरम् - पेड़) का बहुवचन क्या है?",
               "options": [
-                "மரம்",
-                "மரங்கள்",
-                "மரத்தால்",
-                "மரங்கள்ல்"
+                "மரம் (मरम्)",
+                "மரங்கள் (मरंगल)",
+                "மரங்கள்ல் (मरंगलल)",
+                "மரத்தால் (मरत्ताल)"
               ],
               "correct_index": 1,
-              "explanation": "மரம் என்பதன் பன்மை மரங்கள்."
+              "explanation": "'மரம்' का बहुवचन 'மரங்கள்' है।",
+              "id": "hi_ta_f_3"
             },
             {
-              "id": "hi_ta_f1_q4",
-              "question": "प्रश्न: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+              "question": "प्रश्न: तमिल भाषा में कुल कितने अक्षर हैं?",
               "options": [
-                "உரிச்சொல்",
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "இடைச்சொல்"
+                "247 (दो सौ सैंतालीस)",
+                "146 (एक सौ छियालीस)",
+                "216 (दो सौ सोलह)",
+                "100 (एक सौ)"
               ],
               "correct_index": 0,
-              "explanation": "அழகான உரிச்சொல் ஆகும்."
+              "explanation": "तमिल भाषा में कुल 247 अक्षर होते हैं।",
+              "id": "hi_ta_f_4"
             },
             {
-              "id": "hi_ta_f1_q5",
-              "question": "प्रश्न: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+              "question": "प्रश्न: 'படிக்கிறேன்' (पडिक्किरेन - पढ़ रहा हूँ) किस प्रकार का शब्द है?",
               "options": [
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "உரிச்சொல்",
-                "பிரதிபெயர்"
+                "பெயர்ச்சொல் (संज्ञा)",
+                "வினைச்சொல் (क्रिया)",
+                "உரிச்சொல் (विशेषण)",
+                "இடைச்சொல் (अव्यय)"
               ],
               "correct_index": 1,
-              "explanation": "படிக்கிறான் வினைச்சொல்."
+              "explanation": "'படிக்கிறேன்' क्रिया (வினைச்சொல்) है।",
+              "id": "hi_ta_f_5"
             },
             {
-              "id": "hi_ta_f1_q6",
-              "question": "प्रश्न: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+              "question": "प्रश्न: 'புத்தகம்' (पुत्तगम्) का अर्थ क्या है?",
               "options": [
-                "பேனா",
-                "நோட்டு",
-                "பாடம்",
-                "நூல்"
-              ],
-              "correct_index": 3,
-              "explanation": "புத்தகம் என்பதன் பொருள் நூல்."
-            },
-            {
-              "id": "hi_ta_f1_q7",
-              "question": "प्रश्न: \"பள்ளி\" என்பதன் பொருள் என்ன?",
-              "options": [
-                "மருத்துவமனை",
-                "கற்கும் இடம்",
-                "சந்தை",
-                "பூங்கா"
+                "வீடு (घर)",
+                "நூல் (पुस्तक)",
+                "மரம் (पेड़)",
+                "சாலை (सड़क)"
               ],
               "correct_index": 1,
-              "explanation": "பள்ளி என்பது கற்கும் இடம்."
+              "explanation": "'புத்தகம்' का अर्थ पुस्तक (நூல்) है।",
+              "id": "hi_ta_f_6"
+            },
+            {
+              "question": "प्रश्न: 'பள்ளி' (पळ्ळि) का अर्थ क्या है?",
+              "options": [
+                "மருத்துவமனை (अस्पताल)",
+                "பாடம் கற்கும் இடம் (पढ़ने की जगह / स्कूल)",
+                "சந்தை (बाज़ार)",
+                "பூங்கா (पार्क)"
+              ],
+              "correct_index": 1,
+              "explanation": "'பள்ளி' का अर्थ पढ़ने की जगह (स्कूल) है।",
+              "id": "hi_ta_f_7"
             }
           ]
         }
@@ -5697,175 +5697,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "hi_ta_f1_q1",
-            "question": "प्रश्न: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+            "question": "प्रश्न: तमिल भाषा में स्वर कितने होते हैं?",
             "options": [
-              "14",
-              "15",
-              "12",
-              "13"
+              "10 (दस)",
+              "11 (ग्यारह)",
+              "12 (बारह)",
+              "13 (तेरह)"
             ],
             "correct_index": 2,
-            "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
+            "explanation": "तमिल भाषा में 12 स्वर होते हैं।",
+            "id": "hi_ta_f_1"
           },
           {
-            "id": "hi_ta_f1_q2",
-            "question": "प्रश्न: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+            "question": "प्रश्न: 'அம்மா' (अम्मा) किस प्रकार का शब्द है?",
             "options": [
-              "வினைச்சொல்",
-              "பெயர்ச்சொல்",
-              "உரிச்சொல்",
-              "பிரதிபெயர்"
+              "வினைச்சொல் (क्रिया)",
+              "பெயர்ச்சொல் (संज्ञा)",
+              "உரிச்சொல் (विशेषण)",
+              "இடைச்சொல் (अव्यय)"
             ],
             "correct_index": 1,
-            "explanation": "\"அம்மா\" பெயர்ச்சொல் ஆகும்."
+            "explanation": "'அம்மா' संज्ञा (பெயர்ச்சொல்) है।",
+            "id": "hi_ta_f_2"
           },
           {
-            "id": "hi_ta_f1_q3",
-            "question": "प्रश्न: \"மரம்\" என்பதன் பன்மை?",
+            "question": "प्रश्न: 'மரம்' (मरम् - पेड़) का बहुवचन क्या है?",
             "options": [
-              "மரம்",
-              "மரங்கள்",
-              "மரத்தால்",
-              "மரங்கள்ல்"
+              "மரம் (मरम्)",
+              "மரங்கள் (मरंगल)",
+              "மரங்கள்ல் (मरंगलल)",
+              "மரத்தால் (मरत्ताल)"
             ],
             "correct_index": 1,
-            "explanation": "மரம் என்பதன் பன்மை மரங்கள்."
+            "explanation": "'மரம்' का बहुवचन 'மரங்கள்' है।",
+            "id": "hi_ta_f_3"
           },
           {
-            "id": "hi_ta_f1_q4",
-            "question": "प्रश्न: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+            "question": "प्रश्न: तमिल भाषा में कुल कितने अक्षर हैं?",
             "options": [
-              "உரிச்சொல்",
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "இடைச்சொல்"
+              "247 (दो सौ सैंतालीस)",
+              "146 (एक सौ छियालीस)",
+              "216 (दो सौ सोलह)",
+              "100 (एक सौ)"
             ],
             "correct_index": 0,
-            "explanation": "அழகான உரிச்சொல் ஆகும்."
+            "explanation": "तमिल भाषा में कुल 247 अक्षर होते हैं।",
+            "id": "hi_ta_f_4"
           },
           {
-            "id": "hi_ta_f1_q5",
-            "question": "प्रश्न: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+            "question": "प्रश्न: 'படிக்கிறேன்' (पडिक्किरेन - पढ़ रहा हूँ) किस प्रकार का शब्द है?",
             "options": [
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "உரிச்சொல்",
-              "பிரதிபெயர்"
+              "பெயர்ச்சொல் (संज्ञा)",
+              "வினைச்சொல் (क्रिया)",
+              "உரிச்சொல் (विशेषण)",
+              "இடைச்சொல் (अव्यय)"
             ],
             "correct_index": 1,
-            "explanation": "படிக்கிறான் வினைச்சொல்."
+            "explanation": "'படிக்கிறேன்' क्रिया (வினைச்சொல்) है।",
+            "id": "hi_ta_f_5"
           },
           {
-            "id": "hi_ta_f1_q6",
-            "question": "प्रश्न: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+            "question": "प्रश्न: 'புத்தகம்' (पुत्तगम्) का अर्थ क्या है?",
             "options": [
-              "பேனா",
-              "நோட்டு",
-              "பாடம்",
-              "நூல்"
-            ],
-            "correct_index": 3,
-            "explanation": "புத்தகம் என்பதன் பொருள் நூல்."
-          },
-          {
-            "id": "hi_ta_f1_q7",
-            "question": "प्रश्न: \"பள்ளி\" என்பதன் பொருள் என்ன?",
-            "options": [
-              "மருத்துவமனை",
-              "கற்கும் இடம்",
-              "சந்தை",
-              "பூங்கா"
+              "வீடு (घर)",
+              "நூல் (पुस्तक)",
+              "மரம் (पेड़)",
+              "சாலை (सड़क)"
             ],
             "correct_index": 1,
-            "explanation": "பள்ளி என்பது கற்கும் இடம்."
+            "explanation": "'புத்தகம்' का अर्थ पुस्तक (நூல்) है।",
+            "id": "hi_ta_f_6"
+          },
+          {
+            "question": "प्रश्न: 'பள்ளி' (पळ्ळि) का अर्थ क्या है?",
+            "options": [
+              "மருத்துவமனை (अस्पताल)",
+              "பாடம் கற்கும் இடம் (पढ़ने की जगह / स्कूल)",
+              "சந்தை (बाज़ार)",
+              "பூங்கா (पार्क)"
+            ],
+            "correct_index": 1,
+            "explanation": "'பள்ளி' का अर्थ पढ़ने की जगह (स्कूल) है।",
+            "id": "hi_ta_f_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "hi_ta_f1_q1",
-          "question": "प्रश्न: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+          "question": "प्रश्न: तमिल भाषा में स्वर कितने होते हैं?",
           "options": [
-            "14",
-            "15",
-            "12",
-            "13"
+            "10 (दस)",
+            "11 (ग्यारह)",
+            "12 (बारह)",
+            "13 (तेरह)"
           ],
           "correct_index": 2,
-          "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
+          "explanation": "तमिल भाषा में 12 स्वर होते हैं।",
+          "id": "hi_ta_f_1"
         },
         {
-          "id": "hi_ta_f1_q2",
-          "question": "प्रश्न: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+          "question": "प्रश्न: 'அம்மா' (अम्मा) किस प्रकार का शब्द है?",
           "options": [
-            "வினைச்சொல்",
-            "பெயர்ச்சொல்",
-            "உரிச்சொல்",
-            "பிரதிபெயர்"
+            "வினைச்சொல் (क्रिया)",
+            "பெயர்ச்சொல் (संज्ञा)",
+            "உரிச்சொல் (विशेषण)",
+            "இடைச்சொல் (अव्यय)"
           ],
           "correct_index": 1,
-          "explanation": "\"அம்மா\" பெயர்ச்சொல் ஆகும்."
+          "explanation": "'அம்மா' संज्ञा (பெயர்ச்சொல்) है।",
+          "id": "hi_ta_f_2"
         },
         {
-          "id": "hi_ta_f1_q3",
-          "question": "प्रश्न: \"மரம்\" என்பதன் பன்மை?",
+          "question": "प्रश्न: 'மரம்' (मरम् - पेड़) का बहुवचन क्या है?",
           "options": [
-            "மரம்",
-            "மரங்கள்",
-            "மரத்தால்",
-            "மரங்கள்ல்"
+            "மரம் (मरम्)",
+            "மரங்கள் (मरंगल)",
+            "மரங்கள்ல் (मरंगलल)",
+            "மரத்தால் (मरत्ताल)"
           ],
           "correct_index": 1,
-          "explanation": "மரம் என்பதன் பன்மை மரங்கள்."
+          "explanation": "'மரம்' का बहुवचन 'மரங்கள்' है।",
+          "id": "hi_ta_f_3"
         },
         {
-          "id": "hi_ta_f1_q4",
-          "question": "प्रश्न: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+          "question": "प्रश्न: तमिल भाषा में कुल कितने अक्षर हैं?",
           "options": [
-            "உரிச்சொல்",
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "இடைச்சொல்"
+            "247 (दो सौ सैंतालीस)",
+            "146 (एक सौ छियालीस)",
+            "216 (दो सौ सोलह)",
+            "100 (एक सौ)"
           ],
           "correct_index": 0,
-          "explanation": "அழகான உரிச்சொல் ஆகும்."
+          "explanation": "तमिल भाषा में कुल 247 अक्षर होते हैं।",
+          "id": "hi_ta_f_4"
         },
         {
-          "id": "hi_ta_f1_q5",
-          "question": "प्रश्न: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+          "question": "प्रश्न: 'படிக்கிறேன்' (पडिक्किरेन - पढ़ रहा हूँ) किस प्रकार का शब्द है?",
           "options": [
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "உரிச்சொல்",
-            "பிரதிபெயர்"
+            "பெயர்ச்சொல் (संज्ञा)",
+            "வினைச்சொல் (क्रिया)",
+            "உரிச்சொல் (विशेषण)",
+            "இடைச்சொல் (अव्यय)"
           ],
           "correct_index": 1,
-          "explanation": "படிக்கிறான் வினைச்சொல்."
+          "explanation": "'படிக்கிறேன்' क्रिया (வினைச்சொல்) है।",
+          "id": "hi_ta_f_5"
         },
         {
-          "id": "hi_ta_f1_q6",
-          "question": "प्रश्न: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+          "question": "प्रश्न: 'புத்தகம்' (पुत्तगम्) का अर्थ क्या है?",
           "options": [
-            "பேனா",
-            "நோட்டு",
-            "பாடம்",
-            "நூல்"
-          ],
-          "correct_index": 3,
-          "explanation": "புத்தகம் என்பதன் பொருள் நூல்."
-        },
-        {
-          "id": "hi_ta_f1_q7",
-          "question": "प्रश्न: \"பள்ளி\" என்பதன் பொருள் என்ன?",
-          "options": [
-            "மருத்துவமனை",
-            "கற்கும் இடம்",
-            "சந்தை",
-            "பூங்கா"
+            "வீடு (घर)",
+            "நூல் (पुस्तक)",
+            "மரம் (पेड़)",
+            "சாலை (सड़क)"
           ],
           "correct_index": 1,
-          "explanation": "பள்ளி என்பது கற்கும் இடம்."
+          "explanation": "'புத்தகம்' का अर्थ पुस्तक (நூல்) है।",
+          "id": "hi_ta_f_6"
+        },
+        {
+          "question": "प्रश्न: 'பள்ளி' (पळ्ळि) का अर्थ क्या है?",
+          "options": [
+            "மருத்துவமனை (अस्पताल)",
+            "பாடம் கற்கும் இடம் (पढ़ने की जगह / स्कूल)",
+            "சந்தை (बाज़ार)",
+            "பூங்கா (पार्क)"
+          ],
+          "correct_index": 1,
+          "explanation": "'பள்ளி' का अर्थ पढ़ने की जगह (स्कूल) है।",
+          "id": "hi_ta_f_7"
         }
       ]
     },
@@ -5874,100 +5874,100 @@ export const BILINGUAL_COURSES = {
       "path": "beginner",
       "lang": "ta",
       "uiLang": "hi",
-      "title": "Course 2: Beginner (रोज़मर्रा की क्रियाएँ)",
-      "description": "रोज़मर्रा की बातचीत में वर्तमान, भूत और भविष्य काल पर महारत हासिल करें।",
-      "objective": "रोज़मर्रा की बातचीत में वर्तमान, भूत और भविष्य काल पर महारत हासिल करें।",
+      "title": "Course 2: Beginner (मेरे आस-पास के शब्द)",
+      "description": "Learn TA curriculum with HI UI guidance (beginner).",
+      "objective": "Learn TA curriculum with HI UI guidance (beginner).",
       "lessons": [
         {
           "id": "beginner-hi-ta-l1",
-          "title": "Course 2: Beginner (रोज़मर्रा की क्रियाएँ)",
-          "learning_goal": "रोज़मर्रा की बातचीत में वर्तमान, भूत और भविष्य काल पर महारत हासिल करें।",
+          "title": "Course 2: Beginner (मेरे आस-पास के शब्द)",
+          "learning_goal": "Learn TA curriculum with HI UI guidance (beginner).",
           "teaching_content": "Practice learning TA curriculum with HI guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "hi_ta_b1_q1",
-              "question": "प्रश्न: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+              "question": "प्रश्न: \"நான் பள்ளிக்குச் செல்கிறேன்.\" (मैं स्कूल जा रहा हूँ) यह कौन सा काल है?",
               "options": [
-                "இறந்தகாலம்",
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
-                "கட்டளை"
+                "இறந்த காலம் (भूतकाल)",
+                "நிகழ்காலம் (वर्तमान काल)",
+                "எதிர்காலம் (भविष्य काल)",
+                "கட்டளை (आज्ञा)"
               ],
               "correct_index": 1,
-              "explanation": "இது நிகழ்காலம்."
+              "explanation": "यह वर्तमान काल (நிகழ்காலம்) है।",
+              "id": "hi_ta_b_1"
             },
             {
-              "id": "hi_ta_b1_q2",
-              "question": "प्रश्न: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+              "question": "प्रश्न: \"அவன் நேற்று வந்தான்.\" (वह कल आया था) यह कौन सा काल है?",
               "options": [
-                "இறந்தகாலம்",
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
-                "எதுவுமில்லை"
+                "இறந்த காலம் (भूतकाल)",
+                "நிகழ்காலம் (वर्तमान काल)",
+                "எதிர்காலம் (भविष्य काल)",
+                "சंदेह (संदेह)"
               ],
               "correct_index": 0,
-              "explanation": "வந்தான் இறந்தகாலம்."
+              "explanation": "यह भूतकाल (இறந்த காலம்) है।",
+              "id": "hi_ta_b_2"
             },
             {
-              "id": "hi_ta_b1_q3",
-              "question": "प्रश्न: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+              "question": "प्रश्न: \"நான் நாளை செல்வேன்.\" (मैं कल जाऊँगा) यह कौन सा काल है?",
               "options": [
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
-                "இறந்தகாலம்",
-                "பெயர்ச்சொல்"
+                "நிகழ்காலம் (वर्तमान काल)",
+                "எதிர்காலம் (भविष्य काल)",
+                "இறந்த காலம் (भूतकाल)",
+                "பெயர்ச்சொல் (संज्ञा)"
               ],
               "correct_index": 1,
-              "explanation": "செல்வேன் எதிர்காலம்."
+              "explanation": "यह भविष्य काल (எதிர்காலம்) है।",
+              "id": "hi_ta_b_3"
             },
             {
-              "id": "hi_ta_b1_q4",
-              "question": "प्रश्न: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+              "question": "प्रश्न: \"அவள் பாடுகிறாள்.\" (वह गा रही है) यह कौन सा काल है?",
               "options": [
-                "நிகழ்காலம்",
-                "இறந்தகாலம்",
-                "எதிர்காலம்",
-                "உரிச்சொல்"
+                "நிகழ்காலம் (वर्तमान काल)",
+                "இறந்த காலம் (भूतकाल)",
+                "எதிர்காலம் (भविष्य काल)",
+                "உரிச்சொல் (विशेषण)"
               ],
               "correct_index": 0,
-              "explanation": "பாடுகிறாள் நிகழ்காலம்."
+              "explanation": "यह वर्तमान काल (நிகழ்காலம்) है।",
+              "id": "hi_ta_b_4"
             },
             {
-              "id": "hi_ta_b1_q5",
-              "question": "प्रश्न: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+              "question": "प्रश्न: \"சாப்பிட்டான்\" (उसने खाया) कौन सा काल दर्शाता है?",
               "options": [
-                "சாப்பிடு",
-                "சாப்பிட்டான்",
-                "சாப்பிடுகிறான்",
-                "சாப்பிடுவான்"
+                "நிகழ்காலம் (वर्तमान काल)",
+                "இறந்த காலம் (भूतकाल)",
+                "எதிர்காலம் (भविष्य काल)",
+                "कोई नहीं (कोई नहीं)"
               ],
               "correct_index": 1,
-              "explanation": "சாப்பிட்டான் இறந்தகாலம்."
+              "explanation": "यह भूतकाल (இறந்த காலம்) है।",
+              "id": "hi_ta_b_5"
             },
             {
-              "id": "hi_ta_b1_q6",
-              "question": "प्रश्न: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+              "question": "प्रश्न: \"படிப்பேன்\" (पढ़ूँगा) किस काल से संबंधित है?",
               "options": [
-                "படி",
-                "படிக்கிறான்",
-                "படிப்பேன்",
-                "படித்தான்"
+                "இறந்த காலம் (भूतकाल)",
+                "நிகழ்காலம் (वर्तमान काल)",
+                "எதிர்காலம் (भविष्य काल)",
+                "உரிச்சொல் (विशेषण)"
               ],
               "correct_index": 2,
-              "explanation": "படிப்பேன் எதிர்காலம்."
+              "explanation": "यह भविष्य काल (எதிர்காலம்) है।",
+              "id": "hi_ta_b_6"
             },
             {
-              "id": "hi_ta_b1_q7",
-              "question": "प्रश्न: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+              "question": "प्रश्न: \"விளையாடுகிறான்\" (खेल रहा है) किस काल का उदाहरण है?",
               "options": [
-                "நிகழ்காலம்",
-                "இறந்தகாலம்",
-                "எதிர்காலம்",
-                "பெயர்ச்சொல்"
+                "நிகழ்காலம் (वर्तमान काल)",
+                "இறந்த காலம் (भूतकाल)",
+                "எதிர்காலம் (भविष्य काल)",
+                "பெயர்ச்சொல் (संज्ञा)"
               ],
               "correct_index": 0,
-              "explanation": "நிகழ்காலம்."
+              "explanation": "यह वर्तमान काल (நிகழ்காலம்) है।",
+              "id": "hi_ta_b_7"
             }
           ]
         }
@@ -5976,175 +5976,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "hi_ta_b1_q1",
-            "question": "प्रश्न: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+            "question": "प्रश्न: \"நான் பள்ளிக்குச் செல்கிறேன்.\" (मैं स्कूल जा रहा हूँ) यह कौन सा काल है?",
             "options": [
-              "இறந்தகாலம்",
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
-              "கட்டளை"
+              "இறந்த காலம் (भूतकाल)",
+              "நிகழ்காலம் (वर्तमान काल)",
+              "எதிர்காலம் (भविष्य काल)",
+              "கட்டளை (आज्ञा)"
             ],
             "correct_index": 1,
-            "explanation": "இது நிகழ்காலம்."
+            "explanation": "यह वर्तमान काल (நிகழ்காலம்) है।",
+            "id": "hi_ta_b_1"
           },
           {
-            "id": "hi_ta_b1_q2",
-            "question": "प्रश्न: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+            "question": "प्रश्न: \"அவன் நேற்று வந்தான்.\" (वह कल आया था) यह कौन सा काल है?",
             "options": [
-              "இறந்தகாலம்",
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
-              "எதுவுமில்லை"
+              "இறந்த காலம் (भूतकाल)",
+              "நிகழ்காலம் (वर्तमान काल)",
+              "எதிர்காலம் (भविष्य काल)",
+              "சंदेह (संदेह)"
             ],
             "correct_index": 0,
-            "explanation": "வந்தான் இறந்தகாலம்."
+            "explanation": "यह भूतकाल (இறந்த காலம்) है।",
+            "id": "hi_ta_b_2"
           },
           {
-            "id": "hi_ta_b1_q3",
-            "question": "प्रश्न: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+            "question": "प्रश्न: \"நான் நாளை செல்வேன்.\" (मैं कल जाऊँगा) यह कौन सा काल है?",
             "options": [
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
-              "இறந்தகாலம்",
-              "பெயர்ச்சொல்"
+              "நிகழ்காலம் (वर्तमान काल)",
+              "எதிர்காலம் (भविष्य काल)",
+              "இறந்த காலம் (भूतकाल)",
+              "பெயர்ச்சொல் (संज्ञा)"
             ],
             "correct_index": 1,
-            "explanation": "செல்வேன் எதிர்காலம்."
+            "explanation": "यह भविष्य काल (எதிர்காலம்) है।",
+            "id": "hi_ta_b_3"
           },
           {
-            "id": "hi_ta_b1_q4",
-            "question": "प्रश्न: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+            "question": "प्रश्न: \"அவள் பாடுகிறாள்.\" (वह गा रही है) यह कौन सा काल है?",
             "options": [
-              "நிகழ்காலம்",
-              "இறந்தகாலம்",
-              "எதிர்காலம்",
-              "உரிச்சொல்"
+              "நிகழ்காலம் (वर्तमान काल)",
+              "இறந்த காலம் (भूतकाल)",
+              "எதிர்காலம் (भविष्य काल)",
+              "உரிச்சொல் (विशेषण)"
             ],
             "correct_index": 0,
-            "explanation": "பாடுகிறாள் நிகழ்காலம்."
+            "explanation": "यह वर्तमान काल (நிகழ்காலம்) है।",
+            "id": "hi_ta_b_4"
           },
           {
-            "id": "hi_ta_b1_q5",
-            "question": "प्रश्न: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+            "question": "प्रश्न: \"சாப்பிட்டான்\" (उसने खाया) कौन सा काल दर्शाता है?",
             "options": [
-              "சாப்பிடு",
-              "சாப்பிட்டான்",
-              "சாப்பிடுகிறான்",
-              "சாப்பிடுவான்"
+              "நிகழ்காலம் (वर्तमान काल)",
+              "இறந்த காலம் (भूतकाल)",
+              "எதிர்காலம் (भविष्य काल)",
+              "कोई नहीं (कोई नहीं)"
             ],
             "correct_index": 1,
-            "explanation": "சாப்பிட்டான் இறந்தகாலம்."
+            "explanation": "यह भूतकाल (இறந்த காலம்) है।",
+            "id": "hi_ta_b_5"
           },
           {
-            "id": "hi_ta_b1_q6",
-            "question": "प्रश्न: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+            "question": "प्रश्न: \"படிப்பேன்\" (पढ़ूँगा) किस काल से संबंधित है?",
             "options": [
-              "படி",
-              "படிக்கிறான்",
-              "படிப்பேன்",
-              "படித்தான்"
+              "இறந்த காலம் (भूतकाल)",
+              "நிகழ்காலம் (वर्तमान काल)",
+              "எதிர்காலம் (भविष्य काल)",
+              "உரிச்சொல் (विशेषण)"
             ],
             "correct_index": 2,
-            "explanation": "படிப்பேன் எதிர்காலம்."
+            "explanation": "यह भविष्य काल (எதிர்காலம்) है।",
+            "id": "hi_ta_b_6"
           },
           {
-            "id": "hi_ta_b1_q7",
-            "question": "प्रश्न: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+            "question": "प्रश्न: \"விளையாடுகிறான்\" (खेल रहा है) किस काल का उदाहरण है?",
             "options": [
-              "நிகழ்காலம்",
-              "இறந்தகாலம்",
-              "எதிர்காலம்",
-              "பெயர்ச்சொல்"
+              "நிகழ்காலம் (वर्तमान काल)",
+              "இறந்த காலம் (भूतकाल)",
+              "எதிர்காலம் (भविष्य काल)",
+              "பெயர்ச்சொல் (संज्ञा)"
             ],
             "correct_index": 0,
-            "explanation": "நிகழ்காலம்."
+            "explanation": "यह वर्तमान काल (நிகழ்காலம்) है।",
+            "id": "hi_ta_b_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "hi_ta_b1_q1",
-          "question": "प्रश्न: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+          "question": "प्रश्न: \"நான் பள்ளிக்குச் செல்கிறேன்.\" (मैं स्कूल जा रहा हूँ) यह कौन सा काल है?",
           "options": [
-            "இறந்தகாலம்",
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
-            "கட்டளை"
+            "இறந்த காலம் (भूतकाल)",
+            "நிகழ்காலம் (वर्तमान काल)",
+            "எதிர்காலம் (भविष्य काल)",
+            "கட்டளை (आज्ञा)"
           ],
           "correct_index": 1,
-          "explanation": "இது நிகழ்காலம்."
+          "explanation": "यह वर्तमान काल (நிகழ்காலம்) है।",
+          "id": "hi_ta_b_1"
         },
         {
-          "id": "hi_ta_b1_q2",
-          "question": "प्रश्न: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+          "question": "प्रश्न: \"அவன் நேற்று வந்தான்.\" (वह कल आया था) यह कौन सा काल है?",
           "options": [
-            "இறந்தகாலம்",
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
-            "எதுவுமில்லை"
+            "இறந்த காலம் (भूतकाल)",
+            "நிகழ்காலம் (वर्तमान काल)",
+            "எதிர்காலம் (भविष्य काल)",
+            "சंदेह (संदेह)"
           ],
           "correct_index": 0,
-          "explanation": "வந்தான் இறந்தகாலம்."
+          "explanation": "यह भूतकाल (இறந்த காலம்) है।",
+          "id": "hi_ta_b_2"
         },
         {
-          "id": "hi_ta_b1_q3",
-          "question": "प्रश्न: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+          "question": "प्रश्न: \"நான் நாளை செல்வேன்.\" (मैं कल जाऊँगा) यह कौन सा काल है?",
           "options": [
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
-            "இறந்தகாலம்",
-            "பெயர்ச்சொல்"
+            "நிகழ்காலம் (वर्तमान काल)",
+            "எதிர்காலம் (भविष्य काल)",
+            "இறந்த காலம் (भूतकाल)",
+            "பெயர்ச்சொல் (संज्ञा)"
           ],
           "correct_index": 1,
-          "explanation": "செல்வேன் எதிர்காலம்."
+          "explanation": "यह भविष्य काल (எதிர்காலம்) है।",
+          "id": "hi_ta_b_3"
         },
         {
-          "id": "hi_ta_b1_q4",
-          "question": "प्रश्न: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+          "question": "प्रश्न: \"அவள் பாடுகிறாள்.\" (वह गा रही है) यह कौन सा काल है?",
           "options": [
-            "நிகழ்காலம்",
-            "இறந்தகாலம்",
-            "எதிர்காலம்",
-            "உரிச்சொல்"
+            "நிகழ்காலம் (वर्तमान काल)",
+            "இறந்த காலம் (भूतकाल)",
+            "எதிர்காலம் (भविष्य काल)",
+            "உரிச்சொல் (विशेषण)"
           ],
           "correct_index": 0,
-          "explanation": "பாடுகிறாள் நிகழ்காலம்."
+          "explanation": "यह वर्तमान काल (நிகழ்காலம்) है।",
+          "id": "hi_ta_b_4"
         },
         {
-          "id": "hi_ta_b1_q5",
-          "question": "प्रश्न: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+          "question": "प्रश्न: \"சாப்பிட்டான்\" (उसने खाया) कौन सा काल दर्शाता है?",
           "options": [
-            "சாப்பிடு",
-            "சாப்பிட்டான்",
-            "சாப்பிடுகிறான்",
-            "சாப்பிடுவான்"
+            "நிகழ்காலம் (वर्तमान काल)",
+            "இறந்த காலம் (भूतकाल)",
+            "எதிர்காலம் (भविष्य काल)",
+            "कोई नहीं (कोई नहीं)"
           ],
           "correct_index": 1,
-          "explanation": "சாப்பிட்டான் இறந்தகாலம்."
+          "explanation": "यह भूतकाल (இறந்த காலம்) है।",
+          "id": "hi_ta_b_5"
         },
         {
-          "id": "hi_ta_b1_q6",
-          "question": "प्रश्न: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+          "question": "प्रश्न: \"படிப்பேன்\" (पढ़ूँगा) किस काल से संबंधित है?",
           "options": [
-            "படி",
-            "படிக்கிறான்",
-            "படிப்பேன்",
-            "படித்தான்"
+            "இறந்த காலம் (भूतकाल)",
+            "நிகழ்காலம் (वर्तमान काल)",
+            "எதிர்காலம் (भविष्य काल)",
+            "உரிச்சொல் (विशेषण)"
           ],
           "correct_index": 2,
-          "explanation": "படிப்பேன் எதிர்காலம்."
+          "explanation": "यह भविष्य काल (எதிர்காலம்) है।",
+          "id": "hi_ta_b_6"
         },
         {
-          "id": "hi_ta_b1_q7",
-          "question": "प्रश्न: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+          "question": "प्रश्न: \"விளையாடுகிறான்\" (खेल रहा है) किस काल का उदाहरण है?",
           "options": [
-            "நிகழ்காலம்",
-            "இறந்தகாலம்",
-            "எதிர்காலம்",
-            "பெயர்ச்சொல்"
+            "நிகழ்காலம் (वर्तमान काल)",
+            "இறந்த காலம் (भूतकाल)",
+            "எதிர்காலம் (भविष्य काल)",
+            "பெயர்ச்சொல் (संज्ञा)"
           ],
           "correct_index": 0,
-          "explanation": "நிகழ்காலம்."
+          "explanation": "यह वर्तमान काल (நிகழ்காலம்) है।",
+          "id": "hi_ta_b_7"
         }
       ]
     },
@@ -6153,100 +6153,100 @@ export const BILINGUAL_COURSES = {
       "path": "intermediate",
       "lang": "ta",
       "uiLang": "hi",
-      "title": "Course 3: Intermediate (मेरे दिन का वर्णन)",
-      "description": "और, लेकिन, क्योंकि और या जैसे संयोजक शब्द सीखें।",
-      "objective": "और, लेकिन, क्योंकि और या जैसे संयोजक शब्द सीखें।",
+      "title": "Course 3: Intermediate (शब्दावली के नए कदम)",
+      "description": "Learn TA curriculum with HI UI guidance (intermediate).",
+      "objective": "Learn TA curriculum with HI UI guidance (intermediate).",
       "lessons": [
         {
           "id": "intermediate-hi-ta-l1",
-          "title": "Course 3: Intermediate (मेरे दिन का वर्णन)",
-          "learning_goal": "और, लेकिन, क्योंकि और या जैसे संयोजक शब्द सीखें।",
+          "title": "Course 3: Intermediate (शब्दावली के नए कदम)",
+          "learning_goal": "Learn TA curriculum with HI UI guidance (intermediate).",
           "teaching_content": "Practice learning TA curriculum with HI guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "hi_ta_i1_q1",
-              "question": "प्रश्न: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+              "question": "प्रश्न: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" इसमें संयोजक शब्द कौन सा है?",
               "options": [
-                "ஆனால்",
-                "மற்றும்",
-                "ஏனெனில்",
-                "அல்லது"
+                "ஆனால் (लेकिन)",
+                "உம் (और)",
+                "ஏனெனில் (क्योंकि)",
+                "அல்லது (या)"
               ],
               "correct_index": 1,
-              "explanation": "மற்றும் இணைப்புச் சொல்."
+              "explanation": "'உம்' संयोजक शब्द है।",
+              "id": "hi_ta_i_1"
             },
             {
-              "id": "hi_ta_i1_q2",
-              "question": "प्रश्न: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+              "question": "प्रश्न: \"அம்மாவும் அப்பாவும்\" में संयोजक कौन सा है?",
               "options": [
-                "அம்மா",
-                "மற்றும்",
-                "அப்பா",
-                "குடும்பம்"
+                "அம்மா (अम्मा)",
+                "உம் (और)",
+                "அப்பா (अप्पा)",
+                "இல் (में)"
               ],
               "correct_index": 1,
-              "explanation": "மற்றும் இணைப்புச் சொல்."
+              "explanation": "'உம்' संयोजक शब्द है।",
+              "id": "hi_ta_i_2"
             },
             {
-              "id": "hi_ta_i1_q3",
-              "question": "प्रश्न: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+              "question": "प्रश्न: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" इसमें संयोजक शब्द कौन सा है?",
               "options": [
-                "ஆனால்",
-                "படித்தான்",
-                "தேர்ச்சி",
-                "அவன்"
+                "ஆனால் (लेकिन)",
+                "படித்தான் (पढ़ा)",
+                "தேர்ச்சி (पास)",
+                "பெறவில்லை (नहीं हुआ)"
               ],
               "correct_index": 0,
-              "explanation": "ஆனால் எதிர்ப்பு இணைப்புச் சொல்."
+              "explanation": "'ஆனால்' संयोजक शब्द है।",
+              "id": "hi_ta_i_3"
             },
             {
-              "id": "hi_ta_i1_q4",
-              "question": "प्रश्न: \"மற்றும்\" என்பது ஒரு ______.",
+              "question": "प्रश्न: 'மற்றும்' (और) किस प्रकार का शब्द है?",
               "options": [
-                "இணைப்புச் சொல்",
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "உரிச்சொல்"
+                "இணைப்புச் சொல் (संयोजक)",
+                "பெயர்ச்சொல் (संज्ञा)",
+                "வினைச்சொல் (क्रिया)",
+                "உரிச்சொல் (विशेषण)"
               ],
               "correct_index": 0,
-              "explanation": "மற்றும் இணைப்புச் சொல்."
+              "explanation": "'மற்றும்' संयोजक शब्द (இணைப்புச் சொல்) है।",
+              "id": "hi_ta_i_4"
             },
             {
-              "id": "hi_ta_i1_q5",
-              "question": "प्रश्न: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+              "question": "प्रश्न: 'ஆகையால்' (इसलिए) शब्द का प्रयोग कब किया जाता है?",
               "options": [
-                "காரணம் கூற",
-                "பெயர் கூற",
-                "செயல் கூற",
-                "நேரம் கூற"
+                "காரணம் एवं விளைவு बताने के लिए (कारण और परिणाम बताने के लिए)",
+                "பெயர்ச்சொல் के रूप में",
+                "வினைச்சொல் के रूप में",
+                "காலம் बताने के लिए"
               ],
               "correct_index": 0,
-              "explanation": "ஏனெனில் காரணம் கூற பயன்படும்."
+              "explanation": "'ஆகையால்' कारण और परिणाम बताने के लिए प्रयोग किया जाता है।",
+              "id": "hi_ta_i_5"
             },
             {
-              "id": "hi_ta_i1_q6",
-              "question": "प्रश्न: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+              "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
               "options": [
-                "மற்றும்",
-                "வீடு",
-                "புத்தகம்",
-                "ஓடு"
+                "மற்றும் (और)",
+                "புத்தகம் (पुस्तक)",
+                "வீடு (घर)",
+                "ஓடு (दौड़ना)"
               ],
               "correct_index": 0,
-              "explanation": "மற்றும் இணைப்புச் சொல்."
+              "explanation": "'மற்றும்' सही संयोजक शब्द है।",
+              "id": "hi_ta_i_6"
             },
             {
-              "id": "hi_ta_i1_q7",
-              "question": "प्रश्न: \"அல்லது\" என்பதன் பொருள் என்ன?",
+              "question": "प्रश्न: 'அல்லது' (या) का अर्थ क्या है?",
               "options": [
-                "இரண்டு தேர்வுகளில் ஒன்று",
-                "இடம்",
-                "நேரம்",
-                "செயல்"
+                "இரண்டு விருப்பங்களில் ஒன்று (दो विकल्पों में से एक)",
+                "நேரம் (समय)",
+                "இடம் (स्थान)",
+                "வினை (क्रिया)"
               ],
               "correct_index": 0,
-              "explanation": "அல்லது தேர்வு ஆகும்."
+              "explanation": "'அல்லது' का अर्थ दो विकल्पों में से एक है।",
+              "id": "hi_ta_i_7"
             }
           ]
         }
@@ -6255,175 +6255,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "hi_ta_i1_q1",
-            "question": "प्रश्न: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+            "question": "प्रश्न: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" इसमें संयोजक शब्द कौन सा है?",
             "options": [
-              "ஆனால்",
-              "மற்றும்",
-              "ஏனெனில்",
-              "அல்லது"
+              "ஆனால் (लेकिन)",
+              "உம் (और)",
+              "ஏனெனில் (क्योंकि)",
+              "அல்லது (या)"
             ],
             "correct_index": 1,
-            "explanation": "மற்றும் இணைப்புச் சொல்."
+            "explanation": "'உம்' संयोजक शब्द है।",
+            "id": "hi_ta_i_1"
           },
           {
-            "id": "hi_ta_i1_q2",
-            "question": "प्रश्न: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+            "question": "प्रश्न: \"அம்மாவும் அப்பாவும்\" में संयोजक कौन सा है?",
             "options": [
-              "அம்மா",
-              "மற்றும்",
-              "அப்பா",
-              "குடும்பம்"
+              "அம்மா (अम्मा)",
+              "உம் (और)",
+              "அப்பா (अप्पा)",
+              "இல் (में)"
             ],
             "correct_index": 1,
-            "explanation": "மற்றும் இணைப்புச் சொல்."
+            "explanation": "'உம்' संयोजक शब्द है।",
+            "id": "hi_ta_i_2"
           },
           {
-            "id": "hi_ta_i1_q3",
-            "question": "प्रश्न: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+            "question": "प्रश्न: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" इसमें संयोजक शब्द कौन सा है?",
             "options": [
-              "ஆனால்",
-              "படித்தான்",
-              "தேர்ச்சி",
-              "அவன்"
+              "ஆனால் (लेकिन)",
+              "படித்தான் (पढ़ा)",
+              "தேர்ச்சி (पास)",
+              "பெறவில்லை (नहीं हुआ)"
             ],
             "correct_index": 0,
-            "explanation": "ஆனால் எதிர்ப்பு இணைப்புச் சொல்."
+            "explanation": "'ஆனால்' संयोजक शब्द है।",
+            "id": "hi_ta_i_3"
           },
           {
-            "id": "hi_ta_i1_q4",
-            "question": "प्रश्न: \"மற்றும்\" என்பது ஒரு ______.",
+            "question": "प्रश्न: 'மற்றும்' (और) किस प्रकार का शब्द है?",
             "options": [
-              "இணைப்புச் சொல்",
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "உரிச்சொல்"
+              "இணைப்புச் சொல் (संयोजक)",
+              "பெயர்ச்சொல் (संज्ञा)",
+              "வினைச்சொல் (क्रिया)",
+              "உரிச்சொல் (विशेषण)"
             ],
             "correct_index": 0,
-            "explanation": "மற்றும் இணைப்புச் சொல்."
+            "explanation": "'மற்றும்' संयोजक शब्द (இணைப்புச் சொல்) है।",
+            "id": "hi_ta_i_4"
           },
           {
-            "id": "hi_ta_i1_q5",
-            "question": "प्रश्न: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+            "question": "प्रश्न: 'ஆகையால்' (इसलिए) शब्द का प्रयोग कब किया जाता है?",
             "options": [
-              "காரணம் கூற",
-              "பெயர் கூற",
-              "செயல் கூற",
-              "நேரம் கூற"
+              "காரணம் एवं விளைவு बताने के लिए (कारण और परिणाम बताने के लिए)",
+              "பெயர்ச்சொல் के रूप में",
+              "வினைச்சொல் के रूप में",
+              "காலம் बताने के लिए"
             ],
             "correct_index": 0,
-            "explanation": "ஏனெனில் காரணம் கூற பயன்படும்."
+            "explanation": "'ஆகையால்' कारण और परिणाम बताने के लिए प्रयोग किया जाता है।",
+            "id": "hi_ta_i_5"
           },
           {
-            "id": "hi_ta_i1_q6",
-            "question": "प्रश्न: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+            "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
             "options": [
-              "மற்றும்",
-              "வீடு",
-              "புத்தகம்",
-              "ஓடு"
+              "மற்றும் (और)",
+              "புத்தகம் (पुस्तक)",
+              "வீடு (घर)",
+              "ஓடு (दौड़ना)"
             ],
             "correct_index": 0,
-            "explanation": "மற்றும் இணைப்புச் சொல்."
+            "explanation": "'மற்றும்' सही संयोजक शब्द है।",
+            "id": "hi_ta_i_6"
           },
           {
-            "id": "hi_ta_i1_q7",
-            "question": "प्रश्न: \"அல்லது\" என்பதன் பொருள் என்ன?",
+            "question": "प्रश्न: 'அல்லது' (या) का अर्थ क्या है?",
             "options": [
-              "இரண்டு தேர்வுகளில் ஒன்று",
-              "இடம்",
-              "நேரம்",
-              "செயல்"
+              "இரண்டு விருப்பங்களில் ஒன்று (दो विकल्पों में से एक)",
+              "நேரம் (समय)",
+              "இடம் (स्थान)",
+              "வினை (क्रिया)"
             ],
             "correct_index": 0,
-            "explanation": "அல்லது தேர்வு ஆகும்."
+            "explanation": "'அல்லது' का अर्थ दो विकल्पों में से एक है।",
+            "id": "hi_ta_i_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "hi_ta_i1_q1",
-          "question": "प्रश्न: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+          "question": "प्रश्न: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" इसमें संयोजक शब्द कौन सा है?",
           "options": [
-            "ஆனால்",
-            "மற்றும்",
-            "ஏனெனில்",
-            "அல்லது"
+            "ஆனால் (लेकिन)",
+            "உம் (और)",
+            "ஏனெனில் (क्योंकि)",
+            "அல்லது (या)"
           ],
           "correct_index": 1,
-          "explanation": "மற்றும் இணைப்புச் சொல்."
+          "explanation": "'உம்' संयोजक शब्द है।",
+          "id": "hi_ta_i_1"
         },
         {
-          "id": "hi_ta_i1_q2",
-          "question": "प्रश्न: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+          "question": "प्रश्न: \"அம்மாவும் அப்பாவும்\" में संयोजक कौन सा है?",
           "options": [
-            "அம்மா",
-            "மற்றும்",
-            "அப்பா",
-            "குடும்பம்"
+            "அம்மா (अम्मा)",
+            "உம் (और)",
+            "அப்பா (अप्पा)",
+            "இல் (में)"
           ],
           "correct_index": 1,
-          "explanation": "மற்றும் இணைப்புச் சொல்."
+          "explanation": "'உம்' संयोजक शब्द है।",
+          "id": "hi_ta_i_2"
         },
         {
-          "id": "hi_ta_i1_q3",
-          "question": "प्रश्न: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+          "question": "प्रश्न: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" इसमें संयोजक शब्द कौन सा है?",
           "options": [
-            "ஆனால்",
-            "படித்தான்",
-            "தேர்ச்சி",
-            "அவன்"
+            "ஆனால் (लेकिन)",
+            "படித்தான் (पढ़ा)",
+            "தேர்ச்சி (पास)",
+            "பெறவில்லை (नहीं हुआ)"
           ],
           "correct_index": 0,
-          "explanation": "ஆனால் எதிர்ப்பு இணைப்புச் சொல்."
+          "explanation": "'ஆனால்' संयोजक शब्द है।",
+          "id": "hi_ta_i_3"
         },
         {
-          "id": "hi_ta_i1_q4",
-          "question": "प्रश्न: \"மற்றும்\" என்பது ஒரு ______.",
+          "question": "प्रश्न: 'மற்றும்' (और) किस प्रकार का शब्द है?",
           "options": [
-            "இணைப்புச் சொல்",
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "உரிச்சொல்"
+            "இணைப்புச் சொல் (संयोजक)",
+            "பெயர்ச்சொல் (संज्ञा)",
+            "வினைச்சொல் (क्रिया)",
+            "உரிச்சொல் (विशेषण)"
           ],
           "correct_index": 0,
-          "explanation": "மற்றும் இணைப்புச் சொல்."
+          "explanation": "'மற்றும்' संयोजक शब्द (இணைப்புச் சொல்) है।",
+          "id": "hi_ta_i_4"
         },
         {
-          "id": "hi_ta_i1_q5",
-          "question": "प्रश्न: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+          "question": "प्रश्न: 'ஆகையால்' (इसलिए) शब्द का प्रयोग कब किया जाता है?",
           "options": [
-            "காரணம் கூற",
-            "பெயர் கூற",
-            "செயல் கூற",
-            "நேரம் கூற"
+            "காரணம் एवं விளைவு बताने के लिए (कारण और परिणाम बताने के लिए)",
+            "பெயர்ச்சொல் के रूप में",
+            "வினைச்சொல் के रूप में",
+            "காலம் बताने के लिए"
           ],
           "correct_index": 0,
-          "explanation": "ஏனெனில் காரணம் கூற பயன்படும்."
+          "explanation": "'ஆகையால்' कारण और परिणाम बताने के लिए प्रयोग किया जाता है।",
+          "id": "hi_ta_i_5"
         },
         {
-          "id": "hi_ta_i1_q6",
-          "question": "प्रश्न: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+          "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
           "options": [
-            "மற்றும்",
-            "வீடு",
-            "புத்தகம்",
-            "ஓடு"
+            "மற்றும் (और)",
+            "புத்தகம் (पुस्तक)",
+            "வீடு (घर)",
+            "ஓடு (दौड़ना)"
           ],
           "correct_index": 0,
-          "explanation": "மற்றும் இணைப்புச் சொல்."
+          "explanation": "'மற்றும்' सही संयोजक शब्द है।",
+          "id": "hi_ta_i_6"
         },
         {
-          "id": "hi_ta_i1_q7",
-          "question": "प्रश्न: \"அல்லது\" என்பதன் பொருள் என்ன?",
+          "question": "प्रश्न: 'அல்லது' (या) का अर्थ क्या है?",
           "options": [
-            "இரண்டு தேர்வுகளில் ஒன்று",
-            "இடம்",
-            "நேரம்",
-            "செயல்"
+            "இரண்டு விருப்பங்களில் ஒன்று (दो विकल्पों में से एक)",
+            "நேரம் (समय)",
+            "இடம் (स्थान)",
+            "வினை (क्रिया)"
           ],
           "correct_index": 0,
-          "explanation": "அல்லது தேர்வு ஆகும்."
+          "explanation": "'அல்லது' का अर्थ दो विकल्पों में से एक है।",
+          "id": "hi_ta_i_7"
         }
       ]
     },
@@ -6432,43 +6432,42 @@ export const BILINGUAL_COURSES = {
       "path": "advanced",
       "lang": "ta",
       "uiLang": "hi",
-      "title": "Course 4: Advanced (मैं पढ़ सकता/सकती हूँ कहानियाँ)",
-      "description": "छोटे गद्यांश पढ़ें और समझ आधारित प्रश्नों के उत्तर दें।",
-      "objective": "छोटे गद्यांश पढ़ें और समझ आधारित प्रश्नों के उत्तर दें।",
+      "title": "Course 4: Advanced (मेरी दुनिया के शब्द)",
+      "description": "Learn TA curriculum with HI UI guidance (advanced).",
+      "objective": "Learn TA curriculum with HI UI guidance (advanced).",
       "lessons": [
         {
           "id": "advanced-hi-ta-l1",
-          "title": "Course 4: Advanced (मैं पढ़ सकता/सकती हूँ कहानियाँ)",
-          "learning_goal": "छोटे गद्यांश पढ़ें और समझ आधारित प्रश्नों के उत्तर दें।",
+          "title": "Course 4: Advanced (मेरी दुनिया के शब्द)",
+          "learning_goal": "Learn TA curriculum with HI UI guidance (advanced).",
           "teaching_content": "Practice learning TA curriculum with HI guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "hi_ta_a1_q1",
-              "question": "प्रश्न: ராகுல் எங்கே செல்கிறான்?",
+              "question": "प्रश्न: ராம் (राम) कहाँ जाता है?",
               "options": [
-                "சந்தை",
-                "பள்ளி",
-                "பூங்கா",
-                "வீடு"
+                "சந்தை (बाज़ार)",
+                "பள்ளி (स्कूल)",
+                "பூங்கா (पार्क)",
+                "வீடு (घर)"
               ],
               "correct_index": 1,
-              "explanation": "ராகுல் பள்ளிக்குச் செல்கிறான்."
+              "explanation": "राम स्कूल जाता है (பள்ளி)।",
+              "id": "hi_ta_a_1"
             },
             {
-              "id": "hi_ta_a1_q2",
-              "question": "प्रश्न: ராகுலுக்கு என்ன பிடிக்கும்?",
+              "question": "प्रश्न: ராம் (राम) को क्या पसंद है?",
               "options": [
-                "விளையாடுவது",
-                "புத்தகங்கள் படிப்பது",
-                "தூங்குவது",
-                "டிவி பார்ப்பது"
+                "விளையாட்டு (खेलना)",
+                "புத்தகங்கள் படித்தல் (पुस्तकें पढ़ना)",
+                "தூங்குவது (सोना)",
+                "டிவி பார்ப்பது (टीवी देखना)"
               ],
               "correct_index": 1,
-              "explanation": "ராகுலுக்கு புத்தகங்கள் படிக்கப் பிடிக்கும்."
+              "explanation": "राम को पुस्तकें पढ़ना पसंद है।",
+              "id": "hi_ta_a_2"
             },
             {
-              "id": "hi_ta_a1_q3",
               "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
               "options": [
                 "சீதா (सीता)",
@@ -6477,10 +6476,10 @@ export const BILINGUAL_COURSES = {
                 "லலிதா (ललिता)"
               ],
               "correct_index": 1,
-              "explanation": "गद्यांश राम (ராம்) के बारे में है।"
+              "explanation": "गद्यांश राम (ராம்) के बारे में है।",
+              "id": "hi_ta_a_3"
             },
             {
-              "id": "hi_ta_a1_q4",
               "question": "प्रश्न: 'தினமும்' (तिनमुम्) का अर्थ क्या है?",
               "options": [
                 "சில நேரம் (कभी-कभी)",
@@ -6489,10 +6488,10 @@ export const BILINGUAL_COURSES = {
                 "நாளை (आने वाला कल)"
               ],
               "correct_index": 1,
-              "explanation": "'தினமும்' का अर्थ है हर दिन (ஒவ்வொரு நாள்)."
+              "explanation": "'தினமும்' का अर्थ है हर दिन (ஒவ்வொரு நாள்)।",
+              "id": "hi_ta_a_4"
             },
             {
-              "id": "hi_ta_a1_q5",
               "question": "प्रश्न: ராம் (राम) क्या करता है?",
               "options": [
                 "பள்ளிக்குச் செல்கிறான் (स्कूल जाता है)",
@@ -6501,10 +6500,10 @@ export const BILINGUAL_COURSES = {
                 "பாடுகிறான் (गाता है)"
               ],
               "correct_index": 0,
-              "explanation": "राम स्कूल जाता है (பள்ளிக்குச் செல்கிறான்)।"
+              "explanation": "राम स्कूल जाता है (பள்ளிக்குச் செல்கிறான்)।",
+              "id": "hi_ta_a_5"
             },
             {
-              "id": "hi_ta_a1_q6",
               "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
               "options": [
                 "பள்ளி செல்லும் பழக்கம் (पढ़ाई और स्कूल की आदत)",
@@ -6513,10 +6512,10 @@ export const BILINGUAL_COURSES = {
                 "மலை (पहाड़)"
               ],
               "correct_index": 0,
-              "explanation": "मुख्य विचार पढ़ाई और स्कूल की आदत है।"
+              "explanation": "मुख्य विचार पढ़ाई और स्कूल की आदत है।",
+              "id": "hi_ta_a_6"
             },
             {
-              "id": "hi_ta_a1_q7",
               "question": "प्रश्न: सही कथन चुनिए।",
               "options": [
                 "ராம் புத்தகங்களை விரும்புகிறான். (राम पुस्तकों को पसंद करता है।)",
@@ -6525,7 +6524,8 @@ export const BILINGUAL_COURSES = {
                 "ராம் கிரிக்கெட் மட்டும் விளையாடுகிறான். (राम केवल क्रिकेट खेलता है।)"
               ],
               "correct_index": 0,
-              "explanation": "सही कथन: राम पुस्तकों को पसंद करता है।"
+              "explanation": "सही कथन: राम पुस्तकों को पसंद करता है।",
+              "id": "hi_ta_a_7"
             }
           ]
         }
@@ -6534,31 +6534,30 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "hi_ta_a1_q1",
-            "question": "प्रश्न: ராகுல் எங்கே செல்கிறான்?",
+            "question": "प्रश्न: ராம் (राम) कहाँ जाता है?",
             "options": [
-              "சந்தை",
-              "பள்ளி",
-              "பூங்கா",
-              "வீடு"
+              "சந்தை (बाज़ार)",
+              "பள்ளி (स्कूल)",
+              "பூங்கா (पार्क)",
+              "வீடு (घर)"
             ],
             "correct_index": 1,
-            "explanation": "ராகுல் பள்ளிக்குச் செல்கிறான்."
+            "explanation": "राम स्कूल जाता है (பள்ளி)।",
+            "id": "hi_ta_a_1"
           },
           {
-            "id": "hi_ta_a1_q2",
-            "question": "प्रश्न: ராகுலுக்கு என்ன பிடிக்கும்?",
+            "question": "प्रश्न: ராம் (राम) को क्या पसंद है?",
             "options": [
-              "விளையாடுவது",
-              "புத்தகங்கள் படிப்பது",
-              "தூங்குவது",
-              "டிவி பார்ப்பது"
+              "விளையாட்டு (खेलना)",
+              "புத்தகங்கள் படித்தல் (पुस्तकें पढ़ना)",
+              "தூங்குவது (सोना)",
+              "டிவி பார்ப்பது (टीवी देखना)"
             ],
             "correct_index": 1,
-            "explanation": "ராகுலுக்கு புத்தகங்கள் படிக்கப் பிடிக்கும்."
+            "explanation": "राम को पुस्तकें पढ़ना पसंद है।",
+            "id": "hi_ta_a_2"
           },
           {
-            "id": "hi_ta_a1_q3",
             "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
             "options": [
               "சீதா (सीता)",
@@ -6567,10 +6566,10 @@ export const BILINGUAL_COURSES = {
               "லலிதா (ललिता)"
             ],
             "correct_index": 1,
-            "explanation": "गद्यांश राम (ராம்) के बारे में है।"
+            "explanation": "गद्यांश राम (ராம்) के बारे में है।",
+            "id": "hi_ta_a_3"
           },
           {
-            "id": "hi_ta_a1_q4",
             "question": "प्रश्न: 'தினமும்' (तिनमुम्) का अर्थ क्या है?",
             "options": [
               "சில நேரம் (कभी-कभी)",
@@ -6579,10 +6578,10 @@ export const BILINGUAL_COURSES = {
               "நாளை (आने वाला कल)"
             ],
             "correct_index": 1,
-            "explanation": "'தினமும்' का अर्थ है हर दिन (ஒவ்வொரு நாள்)."
+            "explanation": "'தினமும்' का अर्थ है हर दिन (ஒவ்வொரு நாள்)।",
+            "id": "hi_ta_a_4"
           },
           {
-            "id": "hi_ta_a1_q5",
             "question": "प्रश्न: ராம் (राम) क्या करता है?",
             "options": [
               "பள்ளிக்குச் செல்கிறான் (स्कूल जाता है)",
@@ -6591,10 +6590,10 @@ export const BILINGUAL_COURSES = {
               "பாடுகிறான் (गाता है)"
             ],
             "correct_index": 0,
-            "explanation": "राम स्कूल जाता है (பள்ளிக்குச் செல்கிறான்)।"
+            "explanation": "राम स्कूल जाता है (பள்ளிக்குச் செல்கிறான்)।",
+            "id": "hi_ta_a_5"
           },
           {
-            "id": "hi_ta_a1_q6",
             "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
             "options": [
               "பள்ளி செல்லும் பழக்கம் (पढ़ाई और स्कूल की आदत)",
@@ -6603,10 +6602,10 @@ export const BILINGUAL_COURSES = {
               "மலை (पहाड़)"
             ],
             "correct_index": 0,
-            "explanation": "मुख्य विचार पढ़ाई और स्कूल की आदत है।"
+            "explanation": "मुख्य विचार पढ़ाई और स्कूल की आदत है।",
+            "id": "hi_ta_a_6"
           },
           {
-            "id": "hi_ta_a1_q7",
             "question": "प्रश्न: सही कथन चुनिए।",
             "options": [
               "ராம் புத்தகங்களை விரும்புகிறான். (राम पुस्तकों को पसंद करता है।)",
@@ -6615,37 +6614,37 @@ export const BILINGUAL_COURSES = {
               "ராம் கிரிக்கெட் மட்டும் விளையாடுகிறான். (राम केवल क्रिकेट खेलता है।)"
             ],
             "correct_index": 0,
-            "explanation": "सही कथन: राम पुस्तकों को पसंद करता है।"
+            "explanation": "सही कथन: राम पुस्तकों को पसंद करता है।",
+            "id": "hi_ta_a_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "hi_ta_a1_q1",
-          "question": "प्रश्न: ராகுல் எங்கே செல்கிறான்?",
+          "question": "प्रश्न: ராம் (राम) कहाँ जाता है?",
           "options": [
-            "சந்தை",
-            "பள்ளி",
-            "பூங்கா",
-            "வீடு"
+            "சந்தை (बाज़ार)",
+            "பள்ளி (स्कूल)",
+            "பூங்கா (पार्क)",
+            "வீடு (घर)"
           ],
           "correct_index": 1,
-          "explanation": "ராகுல் பள்ளிக்குச் செல்கிறான்."
+          "explanation": "राम स्कूल जाता है (பள்ளி)।",
+          "id": "hi_ta_a_1"
         },
         {
-          "id": "hi_ta_a1_q2",
-          "question": "प्रश्न: ராகுலுக்கு என்ன பிடிக்கும்?",
+          "question": "प्रश्न: ராம் (राम) को क्या पसंद है?",
           "options": [
-            "விளையாடுவது",
-            "புத்தகங்கள் படிப்பது",
-            "தூங்குவது",
-            "டிவி பார்ப்பது"
+            "விளையாட்டு (खेलना)",
+            "புத்தகங்கள் படித்தல் (पुस्तकें पढ़ना)",
+            "தூங்குவது (सोना)",
+            "டிவி பார்ப்பது (टीवी देखना)"
           ],
           "correct_index": 1,
-          "explanation": "ராகுலுக்கு புத்தகங்கள் படிக்கப் பிடிக்கும்."
+          "explanation": "राम को पुस्तकें पढ़ना पसंद है।",
+          "id": "hi_ta_a_2"
         },
         {
-          "id": "hi_ta_a1_q3",
           "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
           "options": [
             "சீதா (सीता)",
@@ -6654,10 +6653,10 @@ export const BILINGUAL_COURSES = {
             "லலிதா (ललिता)"
           ],
           "correct_index": 1,
-          "explanation": "गद्यांश राम (ராம்) के बारे में है।"
+          "explanation": "गद्यांश राम (ராம்) के बारे में है।",
+          "id": "hi_ta_a_3"
         },
         {
-          "id": "hi_ta_a1_q4",
           "question": "प्रश्न: 'தினமும்' (तिनमुम्) का अर्थ क्या है?",
           "options": [
             "சில நேரம் (कभी-कभी)",
@@ -6666,10 +6665,10 @@ export const BILINGUAL_COURSES = {
             "நாளை (आने वाला कल)"
           ],
           "correct_index": 1,
-          "explanation": "'தினமும்' का अर्थ है हर दिन (ஒவ்வொரு நாள்)."
+          "explanation": "'தினமும்' का अर्थ है हर दिन (ஒவ்வொரு நாள்)।",
+          "id": "hi_ta_a_4"
         },
         {
-          "id": "hi_ta_a1_q5",
           "question": "प्रश्न: ராம் (राम) क्या करता है?",
           "options": [
             "பள்ளிக்குச் செல்கிறான் (स्कूल जाता है)",
@@ -6678,10 +6677,10 @@ export const BILINGUAL_COURSES = {
             "பாடுகிறான் (गाता है)"
           ],
           "correct_index": 0,
-          "explanation": "राम स्कूल जाता है (பள்ளிக்குச் செல்கிறான்)।"
+          "explanation": "राम स्कूल जाता है (பள்ளிக்குச் செல்கிறான்)।",
+          "id": "hi_ta_a_5"
         },
         {
-          "id": "hi_ta_a1_q6",
           "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
           "options": [
             "பள்ளி செல்லும் பழக்கம் (पढ़ाई और स्कूल की आदत)",
@@ -6690,10 +6689,10 @@ export const BILINGUAL_COURSES = {
             "மலை (पहाड़)"
           ],
           "correct_index": 0,
-          "explanation": "मुख्य विचार पढ़ाई और स्कूल की आदत है।"
+          "explanation": "मुख्य विचार पढ़ाई और स्कूल की आदत है।",
+          "id": "hi_ta_a_6"
         },
         {
-          "id": "hi_ta_a1_q7",
           "question": "प्रश्न: सही कथन चुनिए।",
           "options": [
             "ராம் புத்தகங்களை விரும்புகிறான். (राम पुस्तकों को पसंद करता है।)",
@@ -6702,7 +6701,8 @@ export const BILINGUAL_COURSES = {
             "ராம் கிரிக்கெட் மட்டும் விளையாடுகிறான். (राम केवल क्रिकेट खेलता है।)"
           ],
           "correct_index": 0,
-          "explanation": "सही कथन: राम पुस्तकों को पसंद करता है।"
+          "explanation": "सही कथन: राम पुस्तकों को पसंद करता है।",
+          "id": "hi_ta_a_7"
         }
       ]
     }
@@ -6713,100 +6713,100 @@ export const BILINGUAL_COURSES = {
       "path": "foundation",
       "lang": "te",
       "uiLang": "hi",
-      "title": "Course 1: Foundation (मेरा पठन आत्मविश्वास)",
-      "description": "वर्णमाला, संज्ञा, बहुवचन, विशेषण, क्रिया और बुनियादी शब्दावली सीखें।",
-      "objective": "वर्णमाला, संज्ञा, बहुवचन, विशेषण, क्रिया और बुनियादी शब्दावली सीखें।",
+      "title": "Course 1: Foundation (मेरी तेलुगु साक्षरता यात्रा)",
+      "description": "Learn TE curriculum with HI UI guidance (foundation).",
+      "objective": "Learn TE curriculum with HI UI guidance (foundation).",
       "lessons": [
         {
           "id": "foundation-hi-te-l1",
-          "title": "Course 1: Foundation (मेरा पठन आत्मविश्वास)",
-          "learning_goal": "वर्णमाला, संज्ञा, बहुवचन, विशेषण, क्रिया और बुनियादी शब्दावली सीखें।",
+          "title": "Course 1: Foundation (मेरी तेलुगु साक्षरता यात्रा)",
+          "learning_goal": "Learn TE curriculum with HI UI guidance (foundation).",
           "teaching_content": "Practice learning TE curriculum with HI guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "hi_te_f1_q1",
-              "question": "प्रश्न: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+              "question": "प्रश्न: तेलुगु वर्णमाला में स्वर (అచ్చులు) कितने होते हैं?",
               "options": [
-                "14",
-                "15",
-                "16",
-                "12"
+                "14 (चौदह)",
+                "15 (पंद्रह)",
+                "16 (सोलह)",
+                "12 (बारह)"
               ],
               "correct_index": 2,
-              "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
+              "explanation": "तेलुगु वर्णमाला में 16 स्वर (అచ్చులు) होते हैं।",
+              "id": "hi_te_f_1"
             },
             {
-              "id": "hi_te_f1_q2",
-              "question": "प्रश्न: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "प्रश्न: 'అమ్మ' (अम्मा) किस प्रकार का शब्द है?",
               "options": [
-                "క్రియ",
-                "నామవాచకం",
-                "విశేషణం",
-                "సర్వనామం"
+                "క్రియ (क्रिया)",
+                "నామవాచకం (संज्ञा)",
+                "విశేషణం (विशेषण)",
+                "సర్వనామం (सर्वनाम)"
               ],
               "correct_index": 1,
-              "explanation": "“అమ్మ” నామవాచకం."
+              "explanation": "'అమ్మ' संज्ञा (నామవాచకం) है।",
+              "id": "hi_te_f_2"
             },
             {
-              "id": "hi_te_f1_q3",
-              "question": "प्रश्न: “చెట్టు” పదానికి బహువచనం ఏది?",
+              "question": "प्रश्न: 'చెట్టు' (चेट्टू - पेड़) का बहुवचन क्या है?",
               "options": [
-                "చెట్టు",
-                "చెట్లు",
-                "చెట్టులు",
-                "చెట్ల"
+                "చెట్టు (चेट्टू)",
+                "చెట్లు (चेट्लू - पेड़)",
+                "చెట్టులు (चेट्टूलू)",
+                "చెట్ల (चेट्ला)"
               ],
               "correct_index": 1,
-              "explanation": "చెట్టు పదానికి బహువచనం చెట్లు."
+              "explanation": "'చెట్టు' का बहुवचन 'చెట్లు' है।",
+              "id": "hi_te_f_3"
             },
             {
-              "id": "hi_te_f1_q4",
-              "question": "प्रश्न: “మంచి” ఏ పదవర్గం?",
+              "question": "प्रश्न: 'మంచి' (मंचि - अच्छा) किस प्रकार का शब्द है?",
               "options": [
-                "విశేషణం",
-                "నామవాచకం",
-                "క్రియ",
-                "అవ్యయం"
+                "విశేషణం (विशेषण)",
+                "నామవాచకం (संज्ञा)",
+                "క్రియ (क्रिया)",
+                "అవ్యయం (अव्यय)"
               ],
               "correct_index": 0,
-              "explanation": "మంచి విశేషణం."
+              "explanation": "'మంచి' विशेषण (విశేషణం) है।",
+              "id": "hi_te_f_4"
             },
             {
-              "id": "hi_te_f1_q5",
-              "question": "प्रश्न: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "प्रश्न: 'చదువుతున్నాను' (चदुवुतुन्नानू - पढ़ रहा हूँ) किस प्रकार का शब्द है?",
               "options": [
-                "నామవాచకం",
-                "క్రియ",
-                "విశేషణం",
-                "సర్వనామం"
+                "నామవాచకం (संज्ञा)",
+                "క్రియ (क्रिया)",
+                "విశేషణం (विशेषण)",
+                "సర్వనామం (सर्वनाम)"
               ],
               "correct_index": 1,
-              "explanation": "చదువుతున్నాను క్రియ."
+              "explanation": "'చదువుతున్నాను' क्रिया (క్రియ) है।",
+              "id": "hi_te_f_5"
             },
             {
-              "id": "hi_te_f1_q6",
-              "question": "प्रश्न: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+              "question": "प्रश्न: 'పుస్తకం' (पुस्तकम्) का अर्थ क्या है?",
               "options": [
-                "ఇల్లు",
-                "గ్రంథం",
-                "చెట్టు",
-                "రహదారి"
+                "ఇల్లు (घर)",
+                "గ్రంథం (पुस्तक)",
+                "చెట్టు (पेड़)",
+                "రహదారి (सड़क)"
               ],
               "correct_index": 1,
-              "explanation": "పుస్తకం అంటే గ్రంథం."
+              "explanation": "'పుస్తకం' का अर्थ पुस्तक (గ్రంథం) है।",
+              "id": "hi_te_f_6"
             },
             {
-              "id": "hi_te_f1_q7",
-              "question": "प्रश्न: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+              "question": "प्रश्न: 'పాఠశాల' (पाठशाला) का अर्थ क्या है?",
               "options": [
-                "ఆసుపత్రి",
-                "పాఠాలు నేర్చుకునే స్థలం",
-                "మార్కెట్",
-                "ఉద్యానవనం"
+                "ఆసుపత్రి (अस्पताल)",
+                "పాఠాలు నేర్చుకునే స్థలం (पढ़ने की जगह / स्कूल)",
+                "మార్కెట్ (बाज़ार)",
+                "ఉద్యానవనం (पार्क)"
               ],
               "correct_index": 1,
-              "explanation": "పాఠశాల అంటే పాఠాలు నేర్చుకునే స్థలం."
+              "explanation": "'పాఠశాల' का अर्थ स्कूल है।",
+              "id": "hi_te_f_7"
             }
           ]
         }
@@ -6815,175 +6815,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "hi_te_f1_q1",
-            "question": "प्रश्न: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+            "question": "प्रश्न: तेलुगु वर्णमाला में स्वर (అచ్చులు) कितने होते हैं?",
             "options": [
-              "14",
-              "15",
-              "16",
-              "12"
+              "14 (चौदह)",
+              "15 (पंद्रह)",
+              "16 (सोलह)",
+              "12 (बारह)"
             ],
             "correct_index": 2,
-            "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
+            "explanation": "तेलुगु वर्णमाला में 16 स्वर (అచ్చులు) होते हैं।",
+            "id": "hi_te_f_1"
           },
           {
-            "id": "hi_te_f1_q2",
-            "question": "प्रश्न: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "प्रश्न: 'అమ్మ' (अम्मा) किस प्रकार का शब्द है?",
             "options": [
-              "క్రియ",
-              "నామవాచకం",
-              "విశేషణం",
-              "సర్వనామం"
+              "క్రియ (क्रिया)",
+              "నామవాచకం (संज्ञा)",
+              "విశేషణం (विशेषण)",
+              "సర్వనామం (सर्वनाम)"
             ],
             "correct_index": 1,
-            "explanation": "“అమ్మ” నామవాచకం."
+            "explanation": "'అమ్మ' संज्ञा (నామవాచకం) है।",
+            "id": "hi_te_f_2"
           },
           {
-            "id": "hi_te_f1_q3",
-            "question": "प्रश्न: “చెట్టు” పదానికి బహువచనం ఏది?",
+            "question": "प्रश्न: 'చెట్టు' (चेट्टू - पेड़) का बहुवचन क्या है?",
             "options": [
-              "చెట్టు",
-              "చెట్లు",
-              "చెట్టులు",
-              "చెట్ల"
+              "చెట్టు (चेट्टू)",
+              "చెట్లు (चेट्लू - पेड़)",
+              "చెట్టులు (चेट्टूलू)",
+              "చెట్ల (चेट्ला)"
             ],
             "correct_index": 1,
-            "explanation": "చెట్టు పదానికి బహువచనం చెట్లు."
+            "explanation": "'చెట్టు' का बहुवचन 'చెట్లు' है।",
+            "id": "hi_te_f_3"
           },
           {
-            "id": "hi_te_f1_q4",
-            "question": "प्रश्न: “మంచి” ఏ పదవర్గం?",
+            "question": "प्रश्न: 'మంచి' (मंचि - अच्छा) किस प्रकार का शब्द है?",
             "options": [
-              "విశేషణం",
-              "నామవాచకం",
-              "క్రియ",
-              "అవ్యయం"
+              "విశేషణం (विशेषण)",
+              "నామవాచకం (संज्ञा)",
+              "క్రియ (क्रिया)",
+              "అవ్యయం (अव्यय)"
             ],
             "correct_index": 0,
-            "explanation": "మంచి విశేషణం."
+            "explanation": "'మంచి' विशेषण (విశేషణం) है।",
+            "id": "hi_te_f_4"
           },
           {
-            "id": "hi_te_f1_q5",
-            "question": "प्रश्न: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "प्रश्न: 'చదువుతున్నాను' (चदुवुतुन्नानू - पढ़ रहा हूँ) किस प्रकार का शब्द है?",
             "options": [
-              "నామవాచకం",
-              "క్రియ",
-              "విశేషణం",
-              "సర్వనామం"
+              "నామవాచకం (संज्ञा)",
+              "క్రియ (क्रिया)",
+              "విశేషణం (विशेषण)",
+              "సర్వనామం (सर्वनाम)"
             ],
             "correct_index": 1,
-            "explanation": "చదువుతున్నాను క్రియ."
+            "explanation": "'చదువుతున్నాను' क्रिया (క్రియ) है।",
+            "id": "hi_te_f_5"
           },
           {
-            "id": "hi_te_f1_q6",
-            "question": "प्रश्न: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+            "question": "प्रश्न: 'పుస్తకం' (पुस्तकम्) का अर्थ क्या है?",
             "options": [
-              "ఇల్లు",
-              "గ్రంథం",
-              "చెట్టు",
-              "రహదారి"
+              "ఇల్లు (घर)",
+              "గ్రంథం (पुस्तक)",
+              "చెట్టు (पेड़)",
+              "రహదారి (सड़क)"
             ],
             "correct_index": 1,
-            "explanation": "పుస్తకం అంటే గ్రంథం."
+            "explanation": "'పుస్తకం' का अर्थ पुस्तक (గ్రంథం) है।",
+            "id": "hi_te_f_6"
           },
           {
-            "id": "hi_te_f1_q7",
-            "question": "प्रश्न: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+            "question": "प्रश्न: 'పాఠశాల' (पाठशाला) का अर्थ क्या है?",
             "options": [
-              "ఆసుపత్రి",
-              "పాఠాలు నేర్చుకునే స్థలం",
-              "మార్కెట్",
-              "ఉద్యానవనం"
+              "ఆసుపత్రి (अस्पताल)",
+              "పాఠాలు నేర్చుకునే స్థలం (पढ़ने की जगह / स्कूल)",
+              "మార్కెట్ (बाज़ार)",
+              "ఉద్యానవనం (पार्क)"
             ],
             "correct_index": 1,
-            "explanation": "పాఠశాల అంటే పాఠాలు నేర్చుకునే స్థలం."
+            "explanation": "'పాఠశాల' का अर्थ स्कूल है।",
+            "id": "hi_te_f_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "hi_te_f1_q1",
-          "question": "प्रश्न: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+          "question": "प्रश्न: तेलुगु वर्णमाला में स्वर (అచ్చులు) कितने होते हैं?",
           "options": [
-            "14",
-            "15",
-            "16",
-            "12"
+            "14 (चौदह)",
+            "15 (पंद्रह)",
+            "16 (सोलह)",
+            "12 (बारह)"
           ],
           "correct_index": 2,
-          "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
+          "explanation": "तेलुगु वर्णमाला में 16 स्वर (అచ్చులు) होते हैं।",
+          "id": "hi_te_f_1"
         },
         {
-          "id": "hi_te_f1_q2",
-          "question": "प्रश्न: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "प्रश्न: 'అమ్మ' (अम्मा) किस प्रकार का शब्द है?",
           "options": [
-            "క్రియ",
-            "నామవాచకం",
-            "విశేషణం",
-            "సర్వనామం"
+            "క్రియ (क्रिया)",
+            "నామవాచకం (संज्ञा)",
+            "విశేషణం (विशेषण)",
+            "సర్వనామం (सर्वनाम)"
           ],
           "correct_index": 1,
-          "explanation": "“అమ్మ” నామవాచకం."
+          "explanation": "'అమ్మ' संज्ञा (నామవాచకం) है।",
+          "id": "hi_te_f_2"
         },
         {
-          "id": "hi_te_f1_q3",
-          "question": "प्रश्न: “చెట్టు” పదానికి బహువచనం ఏది?",
+          "question": "प्रश्न: 'చెట్టు' (चेट्टू - पेड़) का बहुवचन क्या है?",
           "options": [
-            "చెట్టు",
-            "చెట్లు",
-            "చెట్టులు",
-            "చెట్ల"
+            "చెట్టు (चेट्टू)",
+            "చెట్లు (चेट्लू - पेड़)",
+            "చెట్టులు (चेट्टूलू)",
+            "చెట్ల (चेट्ला)"
           ],
           "correct_index": 1,
-          "explanation": "చెట్టు పదానికి బహువచనం చెట్లు."
+          "explanation": "'చెట్టు' का बहुवचन 'చెట్లు' है।",
+          "id": "hi_te_f_3"
         },
         {
-          "id": "hi_te_f1_q4",
-          "question": "प्रश्न: “మంచి” ఏ పదవర్గం?",
+          "question": "प्रश्न: 'మంచి' (मंचि - अच्छा) किस प्रकार का शब्द है?",
           "options": [
-            "విశేషణం",
-            "నామవాచకం",
-            "క్రియ",
-            "అవ్యయం"
+            "విశేషణం (विशेषण)",
+            "నామవాచకం (संज्ञा)",
+            "క్రియ (क्रिया)",
+            "అవ్యయం (अव्यय)"
           ],
           "correct_index": 0,
-          "explanation": "మంచి విశేషణం."
+          "explanation": "'మంచి' विशेषण (విశేషణం) है।",
+          "id": "hi_te_f_4"
         },
         {
-          "id": "hi_te_f1_q5",
-          "question": "प्रश्न: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "प्रश्न: 'చదువుతున్నాను' (चदुवुतुन्नानू - पढ़ रहा हूँ) किस प्रकार का शब्द है?",
           "options": [
-            "నామవాచకం",
-            "క్రియ",
-            "విశేషణం",
-            "సర్వనామం"
+            "నామవాచకం (संज्ञा)",
+            "క్రియ (क्रिया)",
+            "విశేషణం (विशेषण)",
+            "సర్వనామం (सर्वनाम)"
           ],
           "correct_index": 1,
-          "explanation": "చదువుతున్నాను క్రియ."
+          "explanation": "'చదువుతున్నాను' क्रिया (క్రియ) है।",
+          "id": "hi_te_f_5"
         },
         {
-          "id": "hi_te_f1_q6",
-          "question": "प्रश्न: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+          "question": "प्रश्न: 'పుస్తకం' (पुस्तकम्) का अर्थ क्या है?",
           "options": [
-            "ఇల్లు",
-            "గ్రంథం",
-            "చెట్టు",
-            "రహదారి"
+            "ఇల్లు (घर)",
+            "గ్రంథం (पुस्तक)",
+            "చెట్టు (पेड़)",
+            "రహదారి (सड़क)"
           ],
           "correct_index": 1,
-          "explanation": "పుస్తకం అంటే గ్రంథం."
+          "explanation": "'పుస్తకం' का अर्थ पुस्तक (గ్రంథం) है।",
+          "id": "hi_te_f_6"
         },
         {
-          "id": "hi_te_f1_q7",
-          "question": "प्रश्न: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+          "question": "प्रश्न: 'పాఠశాల' (पाठशाला) का अर्थ क्या है?",
           "options": [
-            "ఆసుపత్రి",
-            "పాఠాలు నేర్చుకునే స్థలం",
-            "మార్కెట్",
-            "ఉద్యానవనం"
+            "ఆసుపత్రి (अस्पताल)",
+            "పాఠాలు నేర్చుకునే స్థలం (पढ़ने की जगह / स्कूल)",
+            "మార్కెట్ (बाज़ार)",
+            "ఉద్యానవనం (पार्क)"
           ],
           "correct_index": 1,
-          "explanation": "పాఠశాల అంటే పాఠాలు నేర్చుకునే స్థలం."
+          "explanation": "'పాఠశాల' का अर्थ स्कूल है।",
+          "id": "hi_te_f_7"
         }
       ]
     },
@@ -6992,100 +6992,100 @@ export const BILINGUAL_COURSES = {
       "path": "beginner",
       "lang": "te",
       "uiLang": "hi",
-      "title": "Course 2: Beginner (रोज़मर्रा की क्रियाएँ)",
-      "description": "रोज़मर्रा की बातचीत में वर्तमान, भूत और भविष्य काल पर महारत हासिल करें।",
-      "objective": "रोज़मर्रा की बातचीत में वर्तमान, भूत और भविष्य काल पर महारत हासिल करें।",
+      "title": "Course 2: Beginner (मेरे आस-पास के तेलुगु शब्द)",
+      "description": "Learn TE curriculum with HI UI guidance (beginner).",
+      "objective": "Learn TE curriculum with HI UI guidance (beginner).",
       "lessons": [
         {
           "id": "beginner-hi-te-l1",
-          "title": "Course 2: Beginner (रोज़मर्रा की क्रियाएँ)",
-          "learning_goal": "रोज़मर्रा की बातचीत में वर्तमान, भूत और भविष्य काल पर महारत हासिल करें।",
+          "title": "Course 2: Beginner (मेरे आस-पास के तेलुगु शब्द)",
+          "learning_goal": "Learn TE curriculum with HI UI guidance (beginner).",
           "teaching_content": "Practice learning TE curriculum with HI guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "hi_te_b1_q1",
-              "question": "प्रश्न: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+              "question": "प्रश्न: \"నేను పాఠశాలకు వెళుతున్నాను.\" (मैं स्कूल जा रहा हूँ) यह कौन सा काल है?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "ఆజ్ఞార్థకం"
+                "భూతకాలం (भूतकाल)",
+                "వర్తమాన కాలం (वर्तमान काल)",
+                "భవిష్యత్ కాలం (भविष्य काल)",
+                "ఆజ్ఞార్థకం (आज्ञा)"
               ],
               "correct_index": 1,
-              "explanation": "ఇది వర్తమాన కాలం."
+              "explanation": "यह वर्तमान काल (వర్తమాన కాలం) है।",
+              "id": "hi_te_b_1"
             },
             {
-              "id": "hi_te_b1_q2",
-              "question": "प्रश्न: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+              "question": "प्रश्न: \"అతను నిన్న వచ్చాడు.\" (वह कल आया था) यह कौन सा काल है?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "లేదు"
+                "భూతకాలం (भूतकाल)",
+                "వర్తమాన కాలం (वर्तमान काल)",
+                "భవిష్యత్ కాలం (भविष्य काल)",
+                "లేదు (कोई नहीं)"
               ],
               "correct_index": 0,
-              "explanation": "వచ్చాడు భూతకాలం."
+              "explanation": "यह भूतकाल (భూతకాలం) है।",
+              "id": "hi_te_b_2"
             },
             {
-              "id": "hi_te_b1_q3",
-              "question": "प्रश्न: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+              "question": "प्रश्न: \"నేను రేపు వెళ్తాను.\" (मैं कल जाऊँगा) यह कौन सा काल है?",
               "options": [
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "భూతకాలం",
-                "నామవాచకం"
+                "వర్తమాన కాలం (वर्तमान काल)",
+                "భవిష్యత్ కాలం (भविष्य काल)",
+                "భూతకాలం (भूतकाल)",
+                "నామవాచకం (संज्ञा)"
               ],
               "correct_index": 1,
-              "explanation": "వెళ్తాను భవిష్యత్ కాలం."
+              "explanation": "यह भविष्य काल (భవిష్యత్ కాలం) है।",
+              "id": "hi_te_b_3"
             },
             {
-              "id": "hi_te_b1_q4",
-              "question": "प्रश्न: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+              "question": "प्रश्न: \"ఆమె పాట పాడుతోంది.\" (वह गा रही है) यह कौन सा काल है?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "విశేషణం"
+                "వర్తమాన కాలం (वर्तमान काल)",
+                "భూతకాలం (भूतकाल)",
+                "భవిష్యత్ కాలం (भविष्य काल)",
+                "విశేషణం (विशेषण)"
               ],
               "correct_index": 0,
-              "explanation": "పాడుతోంది వర్తమాన కాలం."
+              "explanation": "यह वर्तमान काल (వర్తమాన కాలం) है।",
+              "id": "hi_te_b_4"
             },
             {
-              "id": "hi_te_b1_q5",
-              "question": "प्रश्न: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+              "question": "प्रश्न: \"తిన్నాడు\" (उसने खाया) कौन सा काल दर्शाता है?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "లేదు"
+                "వర్తమాన కాలం (वर्तमान काल)",
+                "భూతకాలం (भूतकाल)",
+                "భవిష్యత్ కాలం (भविष्य काल)",
+                "లేదు (कोई नहीं)"
               ],
               "correct_index": 1,
-              "explanation": "తిన్నాడు భూతకాలం."
+              "explanation": "यह भूतकाल (భూతకాలం) है।",
+              "id": "hi_te_b_5"
             },
             {
-              "id": "hi_te_b1_q6",
-              "question": "प्रश्न: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+              "question": "प्रश्न: \"చదువుతాను\" (पढ़ूँगा) किस काल से संबंधित है?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "విశేషణం"
+                "భూతకాలం (भूतकाल)",
+                "వర్తమాన కాలం (वर्तमान काल)",
+                "భవిష్యత్ కాలం (भविष्य काल)",
+                "విశేషణం (विशेषण)"
               ],
               "correct_index": 2,
-              "explanation": "చదువుతాను భవిష్యత్ కాలం."
+              "explanation": "यह भविष्य काल (భవిష్యత్ కాలం) है।",
+              "id": "hi_te_b_6"
             },
             {
-              "id": "hi_te_b1_q7",
-              "question": "प्रश्न: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+              "question": "प्रश्न: \"ఆడుతున్నాడు\" (खेल रहा है) किस काल का उदाहरण है?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "నామవాచకం"
+                "వర్తమాన కాలం (वर्तमान काल)",
+                "భూతకాలం (भूतकाल)",
+                "భవిష్యత్ కాలం (भविष्य काल)",
+                "నామవాచకం (संज्ञा)"
               ],
               "correct_index": 0,
-              "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
+              "explanation": "यह वर्तमान काल (వర్తమాన కాలం) है।",
+              "id": "hi_te_b_7"
             }
           ]
         }
@@ -7094,175 +7094,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "hi_te_b1_q1",
-            "question": "प्रश्न: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+            "question": "प्रश्न: \"నేను పాఠశాలకు వెళుతున్నాను.\" (मैं स्कूल जा रहा हूँ) यह कौन सा काल है?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "ఆజ్ఞార్థకం"
+              "భూతకాలం (भूतकाल)",
+              "వర్తమాన కాలం (वर्तमान काल)",
+              "భవిష్యత్ కాలం (भविष्य काल)",
+              "ఆజ్ఞార్థకం (आज्ञा)"
             ],
             "correct_index": 1,
-            "explanation": "ఇది వర్తమాన కాలం."
+            "explanation": "यह वर्तमान काल (వర్తమాన కాలం) है।",
+            "id": "hi_te_b_1"
           },
           {
-            "id": "hi_te_b1_q2",
-            "question": "प्रश्न: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+            "question": "प्रश्न: \"అతను నిన్న వచ్చాడు.\" (वह कल आया था) यह कौन सा काल है?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "లేదు"
+              "భూతకాలం (भूतकाल)",
+              "వర్తమాన కాలం (वर्तमान काल)",
+              "భవిష్యత్ కాలం (भविष्य काल)",
+              "లేదు (कोई नहीं)"
             ],
             "correct_index": 0,
-            "explanation": "వచ్చాడు భూతకాలం."
+            "explanation": "यह भूतकाल (భూతకాలం) है।",
+            "id": "hi_te_b_2"
           },
           {
-            "id": "hi_te_b1_q3",
-            "question": "प्रश्न: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+            "question": "प्रश्न: \"నేను రేపు వెళ్తాను.\" (मैं कल जाऊँगा) यह कौन सा काल है?",
             "options": [
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "భూతకాలం",
-              "నామవాచకం"
+              "వర్తమాన కాలం (वर्तमान काल)",
+              "భవిష్యత్ కాలం (भविष्य काल)",
+              "భూతకాలం (भूतकाल)",
+              "నామవాచకం (संज्ञा)"
             ],
             "correct_index": 1,
-            "explanation": "వెళ్తాను భవిష్యత్ కాలం."
+            "explanation": "यह भविष्य काल (భవిష్యత్ కాలం) है।",
+            "id": "hi_te_b_3"
           },
           {
-            "id": "hi_te_b1_q4",
-            "question": "प्रश्न: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+            "question": "प्रश्न: \"ఆమె పాట పాడుతోంది.\" (वह गा रही है) यह कौन सा काल है?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "విశేషణం"
+              "వర్తమాన కాలం (वर्तमान काल)",
+              "భూతకాలం (भूतकाल)",
+              "భవిష్యత్ కాలం (भविष्य काल)",
+              "విశేషణం (विशेषण)"
             ],
             "correct_index": 0,
-            "explanation": "పాడుతోంది వర్తమాన కాలం."
+            "explanation": "यह वर्तमान काल (వర్తమాన కాలం) है।",
+            "id": "hi_te_b_4"
           },
           {
-            "id": "hi_te_b1_q5",
-            "question": "प्रश्न: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+            "question": "प्रश्न: \"తిన్నాడు\" (उसने खाया) कौन सा काल दर्शाता है?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "లేదు"
+              "వర్తమాన కాలం (वर्तमान काल)",
+              "భూతకాలం (भूतकाल)",
+              "భవిష్యత్ కాలం (भविष्य काल)",
+              "లేదు (कोई नहीं)"
             ],
             "correct_index": 1,
-            "explanation": "తిన్నాడు భూతకాలం."
+            "explanation": "यह भूतकाल (భూతకాలం) है।",
+            "id": "hi_te_b_5"
           },
           {
-            "id": "hi_te_b1_q6",
-            "question": "प्रश्न: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+            "question": "प्रश्न: \"చదువుతాను\" (पढ़ूँगा) किस काल से संबंधित है?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "విశేషణం"
+              "భూతకాలం (भूतकाल)",
+              "వర్తమాన కాలం (वर्तमान काल)",
+              "భవిష్యత్ కాలం (भविष्य काल)",
+              "విశేషణం (विशेषण)"
             ],
             "correct_index": 2,
-            "explanation": "చదువుతాను భవిష్యత్ కాలం."
+            "explanation": "यह भविष्य काल (భవిష్యత్ కాలం) है।",
+            "id": "hi_te_b_6"
           },
           {
-            "id": "hi_te_b1_q7",
-            "question": "प्रश्न: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+            "question": "प्रश्न: \"ఆడుతున్నాడు\" (खेल रहा है) किस काल का उदाहरण है?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "నామవాచకం"
+              "వర్తమాన కాలం (वर्तमान काल)",
+              "భూతకాలం (भूतकाल)",
+              "భవిష్యత్ కాలం (भविष्य काल)",
+              "నామవాచకం (संज्ञा)"
             ],
             "correct_index": 0,
-            "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
+            "explanation": "यह वर्तमान काल (వర్తమాన కాలం) है।",
+            "id": "hi_te_b_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "hi_te_b1_q1",
-          "question": "प्रश्न: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+          "question": "प्रश्न: \"నేను పాఠశాలకు వెళుతున్నాను.\" (मैं स्कूल जा रहा हूँ) यह कौन सा काल है?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "ఆజ్ఞార్థకం"
+            "భూతకాలం (भूतकाल)",
+            "వర్తమాన కాలం (वर्तमान काल)",
+            "భవిష్యత్ కాలం (भविष्य काल)",
+            "ఆజ్ఞార్థకం (आज्ञा)"
           ],
           "correct_index": 1,
-          "explanation": "ఇది వర్తమాన కాలం."
+          "explanation": "यह वर्तमान काल (వర్తమాన కాలం) है।",
+          "id": "hi_te_b_1"
         },
         {
-          "id": "hi_te_b1_q2",
-          "question": "प्रश्न: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+          "question": "प्रश्न: \"అతను నిన్న వచ్చాడు.\" (वह कल आया था) यह कौन सा काल है?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "లేదు"
+            "భూతకాలం (भूतकाल)",
+            "వర్తమాన కాలం (वर्तमान काल)",
+            "భవిష్యత్ కాలం (भविष्य काल)",
+            "లేదు (कोई नहीं)"
           ],
           "correct_index": 0,
-          "explanation": "వచ్చాడు భూతకాలం."
+          "explanation": "यह भूतकाल (భూతకాలం) है।",
+          "id": "hi_te_b_2"
         },
         {
-          "id": "hi_te_b1_q3",
-          "question": "प्रश्न: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+          "question": "प्रश्न: \"నేను రేపు వెళ్తాను.\" (मैं कल जाऊँगा) यह कौन सा काल है?",
           "options": [
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "భూతకాలం",
-            "నామవాచకం"
+            "వర్తమాన కాలం (वर्तमान काल)",
+            "భవిష్యత్ కాలం (भविष्य काल)",
+            "భూతకాలం (भूतकाल)",
+            "నామవాచకం (संज्ञा)"
           ],
           "correct_index": 1,
-          "explanation": "వెళ్తాను భవిష్యత్ కాలం."
+          "explanation": "यह भविष्य काल (భవిష్యత్ కాలం) है।",
+          "id": "hi_te_b_3"
         },
         {
-          "id": "hi_te_b1_q4",
-          "question": "प्रश्न: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+          "question": "प्रश्न: \"ఆమె పాట పాడుతోంది.\" (वह गा रही है) यह कौन सा काल है?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "విశేషణం"
+            "వర్తమాన కాలం (वर्तमान काल)",
+            "భూతకాలం (भूतकाल)",
+            "భవిష్యత్ కాలం (भविष्य काल)",
+            "విశేషణం (विशेषण)"
           ],
           "correct_index": 0,
-          "explanation": "పాడుతోంది వర్తమాన కాలం."
+          "explanation": "यह वर्तमान काल (వర్తమాన కాలం) है।",
+          "id": "hi_te_b_4"
         },
         {
-          "id": "hi_te_b1_q5",
-          "question": "प्रश्न: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+          "question": "प्रश्न: \"తిన్నాడు\" (उसने खाया) कौन सा काल दर्शाता है?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "లేదు"
+            "వర్తమాన కాలం (वर्तमान काल)",
+            "భూతకాలం (भूतकाल)",
+            "భవిష్యత్ కాలం (भविष्य काल)",
+            "లేదు (कोई नहीं)"
           ],
           "correct_index": 1,
-          "explanation": "తిన్నాడు భూతకాలం."
+          "explanation": "यह भूतकाल (భూతకాలం) है।",
+          "id": "hi_te_b_5"
         },
         {
-          "id": "hi_te_b1_q6",
-          "question": "प्रश्न: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+          "question": "प्रश्न: \"చదువుతాను\" (पढ़ूँगा) किस काल से संबंधित है?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "విశేషణం"
+            "భూతకాలం (भूतकाल)",
+            "వర్తమాన కాలం (वर्तमान काल)",
+            "భవిష్యత్ కాలం (भविष्य काल)",
+            "విశేషణం (विशेषण)"
           ],
           "correct_index": 2,
-          "explanation": "చదువుతాను భవిష్యత్ కాలం."
+          "explanation": "यह भविष्य काल (భవిష్యత్ కాలం) है।",
+          "id": "hi_te_b_6"
         },
         {
-          "id": "hi_te_b1_q7",
-          "question": "प्रश्न: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+          "question": "प्रश्न: \"ఆడుతున్నాడు\" (खेल रहा है) किस काल का उदाहरण है?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "నామవాచకం"
+            "వర్తమాన కాలం (वर्तमान काल)",
+            "భూతకాలం (भूतकाल)",
+            "భవిష్యత్ కాలం (भविष्य काल)",
+            "నామవాచకం (संज्ञा)"
           ],
           "correct_index": 0,
-          "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
+          "explanation": "यह वर्तमान काल (వర్తమాన కాలం) है।",
+          "id": "hi_te_b_7"
         }
       ]
     },
@@ -7271,100 +7271,100 @@ export const BILINGUAL_COURSES = {
       "path": "intermediate",
       "lang": "te",
       "uiLang": "hi",
-      "title": "Course 3: Intermediate (मेरे दिन का वर्णन)",
-      "description": "और, लेकिन, क्योंकि और या जैसे संयोजक शब्द सीखें।",
-      "objective": "और, लेकिन, क्योंकि और या जैसे संयोजक शब्द सीखें।",
+      "title": "Course 3: Intermediate (तेलुगु शब्दावली के नए कदम)",
+      "description": "Learn TE curriculum with HI UI guidance (intermediate).",
+      "objective": "Learn TE curriculum with HI UI guidance (intermediate).",
       "lessons": [
         {
           "id": "intermediate-hi-te-l1",
-          "title": "Course 3: Intermediate (मेरे दिन का वर्णन)",
-          "learning_goal": "और, लेकिन, क्योंकि और या जैसे संयोजक शब्द सीखें।",
+          "title": "Course 3: Intermediate (तेलुगु शब्दावली के नए कदम)",
+          "learning_goal": "Learn TE curriculum with HI UI guidance (intermediate).",
           "teaching_content": "Practice learning TE curriculum with HI guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "hi_te_i1_q1",
-              "question": "प्रश्न: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+              "question": "प्रश्न: \"రాము మరియు రవి పాఠశాలకు వెళ్లారు.\" इसमें संयोजक शब्द कौन सा है?",
               "options": [
-                "కానీ",
-                "మరియు",
-                "ఎందుకంటే",
-                "లేదా"
+                "కానీ (लेकिन)",
+                "మరియు (और)",
+                "ఎందుకంటే (क्योंकि)",
+                "లేదా (या)"
               ],
               "correct_index": 1,
-              "explanation": "మరియు సంధాన పదం."
+              "explanation": "'మరియు' संयोजक शब्द है।",
+              "id": "hi_te_i_1"
             },
             {
-              "id": "hi_te_i1_q2",
-              "question": "प्रश्न: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+              "question": "प्रश्न: \"అమ్మ మరియు నాన్న\" में संयोजक कौन सा है?",
               "options": [
-                "అమ్మ",
-                "మరియు",
-                "నాన్న",
-                "లో"
+                "అమ్మ (अम्मा)",
+                "మరియు (और)",
+                "నాన్న (पिता)",
+                "లో (में)"
               ],
               "correct_index": 1,
-              "explanation": "మరియు సంధాన పదం."
+              "explanation": "'మరియు' संयोजक शब्द है।",
+              "id": "hi_te_i_2"
             },
             {
-              "id": "hi_te_i1_q3",
-              "question": "प्रश्न: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+              "question": "प्रश्न: \"అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.\" इसमें संयोजक शब्द कौन सा है?",
               "options": [
-                "కానీ",
-                "చదివాడు",
-                "ఉత్తీర్ణుడు",
-                "కాలేదు"
+                "కానీ (लेकिन)",
+                "చదివాడు (पढ़ा)",
+                "ఉత్తీర్ణుడు (पास)",
+                "కాలేదు (नहीं हुआ)"
               ],
               "correct_index": 0,
-              "explanation": "కానీ సంధాన పదం."
+              "explanation": "'కానీ' संयोजक शब्द है।",
+              "id": "hi_te_i_3"
             },
             {
-              "id": "hi_te_i1_q4",
-              "question": "प्रश्न: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "प्रश्न: 'మరియు' (और) किस प्रकार का शब्द है?",
               "options": [
-                "సంధాన పదం",
-                "నామవాచకం",
-                "క్రియ",
-                "విశేషణం"
+                "సంధాన పదం (संयोजक)",
+                "నామవాచకం (संज्ञा)",
+                "క్రియ (क्रिया)",
+                "విశేషణం (विशेषण)"
               ],
               "correct_index": 0,
-              "explanation": "మరియు సంధాన పదం."
+              "explanation": "'మరియు' संयोजक शब्द (సంధాన పదం) है।",
+              "id": "hi_te_i_4"
             },
             {
-              "id": "hi_te_i1_q5",
-              "question": "प्रश्न: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+              "question": "प्रश्न: 'అందువల్ల' (इसलिए) शब्द का प्रयोग कब किया जाता है?",
               "options": [
-                "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
-                "నామవాచకంగా",
-                "క్రియగా",
-                "కాలాన్ని సూచించడానికి"
+                "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (कारण और परिणाम बताने के लिए)",
+                "నామవాచకంగా (संज्ञा के रूप में)",
+                "క్రియగా (क्रिया के रूप में)",
+                "కాలాన్ని సూచించడానికి (समय बताने के लिए)"
               ],
               "correct_index": 0,
-              "explanation": "అందువల్ల కారణం తెలియజేస్తుంది."
+              "explanation": "'అందువల్ల' कारण और परिणाम बताने के लिए प्रयोग किया जाता है।",
+              "id": "hi_te_i_5"
             },
             {
-              "id": "hi_te_i1_q6",
-              "question": "प्रश्न: సరైన సంధాన పదం ఏది?",
+              "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
               "options": [
-                "మరియు",
-                "పుస్తకం",
-                "ఇల్లు",
-                "పరుగెత్తు"
+                "మరియు (और)",
+                "పుస్తకం (पुस्तक)",
+                "ఇల్లు (घर)",
+                "పరుగెత్తు (दौड़ना)"
               ],
               "correct_index": 0,
-              "explanation": "మరియు సరైన సంధాన పదం."
+              "explanation": "'మరియు' सही संयोजक शब्द है।",
+              "id": "hi_te_i_6"
             },
             {
-              "id": "hi_te_i1_q7",
-              "question": "प्रश्न: “లేదా” అంటే ఏమిటి?",
+              "question": "प्रश्न: 'లేదా' (या) का अर्थ क्या है?",
               "options": [
-                "రెండు ఎంపికల్లో ఒకటి",
-                "సమయం",
-                "స్థలం",
-                "క్రియ"
+                "రెండు ఎంపికల్లో ఒకటి (दो विकल्पों में से एक)",
+                "సమయం (समय)",
+                "స్థలం (स्थान)",
+                "క్రియ (क्रिया)"
               ],
               "correct_index": 0,
-              "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
+              "explanation": "'లేదా' का अर्थ दो विकल्पों में से एक है।",
+              "id": "hi_te_i_7"
             }
           ]
         }
@@ -7373,175 +7373,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "hi_te_i1_q1",
-            "question": "प्रश्न: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+            "question": "प्रश्न: \"రాము మరియు రవి పాఠశాలకు వెళ్లారు.\" इसमें संयोजक शब्द कौन सा है?",
             "options": [
-              "కానీ",
-              "మరియు",
-              "ఎందుకంటే",
-              "లేదా"
+              "కానీ (लेकिन)",
+              "మరియు (और)",
+              "ఎందుకంటే (क्योंकि)",
+              "లేదా (या)"
             ],
             "correct_index": 1,
-            "explanation": "మరియు సంధాన పదం."
+            "explanation": "'మరియు' संयोजक शब्द है।",
+            "id": "hi_te_i_1"
           },
           {
-            "id": "hi_te_i1_q2",
-            "question": "प्रश्न: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+            "question": "प्रश्न: \"అమ్మ మరియు నాన్న\" में संयोजक कौन सा है?",
             "options": [
-              "అమ్మ",
-              "మరియు",
-              "నాన్న",
-              "లో"
+              "అమ్మ (अम्मा)",
+              "మరియు (और)",
+              "నాన్న (पिता)",
+              "లో (में)"
             ],
             "correct_index": 1,
-            "explanation": "మరియు సంధాన పదం."
+            "explanation": "'మరియు' संयोजक शब्द है।",
+            "id": "hi_te_i_2"
           },
           {
-            "id": "hi_te_i1_q3",
-            "question": "प्रश्न: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+            "question": "प्रश्न: \"అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.\" इसमें संयोजक शब्द कौन सा है?",
             "options": [
-              "కానీ",
-              "చదివాడు",
-              "ఉత్తీర్ణుడు",
-              "కాలేదు"
+              "కానీ (लेकिन)",
+              "చదివాడు (पढ़ा)",
+              "ఉత్తీర్ణుడు (पास)",
+              "కాలేదు (नहीं हुआ)"
             ],
             "correct_index": 0,
-            "explanation": "కానీ సంధాన పదం."
+            "explanation": "'కానీ' संयोजक शब्द है।",
+            "id": "hi_te_i_3"
           },
           {
-            "id": "hi_te_i1_q4",
-            "question": "प्रश्न: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "प्रश्न: 'మరియు' (और) किस प्रकार का शब्द है?",
             "options": [
-              "సంధాన పదం",
-              "నామవాచకం",
-              "క్రియ",
-              "విశేషణం"
+              "సంధాన పదం (संयोजक)",
+              "నామవాచకం (संज्ञा)",
+              "క్రియ (क्रिया)",
+              "విశేషణం (विशेषण)"
             ],
             "correct_index": 0,
-            "explanation": "మరియు సంధాన పదం."
+            "explanation": "'మరియు' संयोजक शब्द (సంధాన పదం) है।",
+            "id": "hi_te_i_4"
           },
           {
-            "id": "hi_te_i1_q5",
-            "question": "प्रश्न: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+            "question": "प्रश्न: 'అందువల్ల' (इसलिए) शब्द का प्रयोग कब किया जाता है?",
             "options": [
-              "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
-              "నామవాచకంగా",
-              "క్రియగా",
-              "కాలాన్ని సూచించడానికి"
+              "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (कारण और परिणाम बताने के लिए)",
+              "నామవాచకంగా (संज्ञा के रूप में)",
+              "క్రియగా (क्रिया के रूप में)",
+              "కాలాన్ని సూచించడానికి (समय बताने के लिए)"
             ],
             "correct_index": 0,
-            "explanation": "అందువల్ల కారణం తెలియజేస్తుంది."
+            "explanation": "'అందువల్ల' कारण और परिणाम बताने के लिए प्रयोग किया जाता है।",
+            "id": "hi_te_i_5"
           },
           {
-            "id": "hi_te_i1_q6",
-            "question": "प्रश्न: సరైన సంధాన పదం ఏది?",
+            "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
             "options": [
-              "మరియు",
-              "పుస్తకం",
-              "ఇల్లు",
-              "పరుగెత్తు"
+              "మరియు (और)",
+              "పుస్తకం (पुस्तक)",
+              "ఇల్లు (घर)",
+              "పరుగెత్తు (दौड़ना)"
             ],
             "correct_index": 0,
-            "explanation": "మరియు సరైన సంధాన పదం."
+            "explanation": "'మరియు' सही संयोजक शब्द है।",
+            "id": "hi_te_i_6"
           },
           {
-            "id": "hi_te_i1_q7",
-            "question": "प्रश्न: “లేదా” అంటే ఏమిటి?",
+            "question": "प्रश्न: 'లేదా' (या) का अर्थ क्या है?",
             "options": [
-              "రెండు ఎంపికల్లో ఒకటి",
-              "సమయం",
-              "స్థలం",
-              "క్రియ"
+              "రెండు ఎంపికల్లో ఒకటి (दो विकल्पों में से एक)",
+              "సమయం (समय)",
+              "స్థలం (स्थान)",
+              "క్రియ (क्रिया)"
             ],
             "correct_index": 0,
-            "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
+            "explanation": "'లేదా' का अर्थ दो विकल्पों में से एक है।",
+            "id": "hi_te_i_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "hi_te_i1_q1",
-          "question": "प्रश्न: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+          "question": "प्रश्न: \"రాము మరియు రవి పాఠశాలకు వెళ్లారు.\" इसमें संयोजक शब्द कौन सा है?",
           "options": [
-            "కానీ",
-            "మరియు",
-            "ఎందుకంటే",
-            "లేదా"
+            "కానీ (लेकिन)",
+            "మరియు (और)",
+            "ఎందుకంటే (क्योंकि)",
+            "లేదా (या)"
           ],
           "correct_index": 1,
-          "explanation": "మరియు సంధాన పదం."
+          "explanation": "'మరియు' संयोजक शब्द है।",
+          "id": "hi_te_i_1"
         },
         {
-          "id": "hi_te_i1_q2",
-          "question": "प्रश्न: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+          "question": "प्रश्न: \"అమ్మ మరియు నాన్న\" में संयोजक कौन सा है?",
           "options": [
-            "అమ్మ",
-            "మరియు",
-            "నాన్న",
-            "లో"
+            "అమ్మ (अम्मा)",
+            "మరియు (और)",
+            "నాన్న (पिता)",
+            "లో (में)"
           ],
           "correct_index": 1,
-          "explanation": "మరియు సంధాన పదం."
+          "explanation": "'మరియు' संयोजक शब्द है।",
+          "id": "hi_te_i_2"
         },
         {
-          "id": "hi_te_i1_q3",
-          "question": "प्रश्न: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+          "question": "प्रश्न: \"అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.\" इसमें संयोजक शब्द कौन सा है?",
           "options": [
-            "కానీ",
-            "చదివాడు",
-            "ఉత్తీర్ణుడు",
-            "కాలేదు"
+            "కానీ (लेकिन)",
+            "చదివాడు (पढ़ा)",
+            "ఉత్తీర్ణుడు (पास)",
+            "కాలేదు (नहीं हुआ)"
           ],
           "correct_index": 0,
-          "explanation": "కానీ సంధాన పదం."
+          "explanation": "'కానీ' संयोजक शब्द है।",
+          "id": "hi_te_i_3"
         },
         {
-          "id": "hi_te_i1_q4",
-          "question": "प्रश्न: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "प्रश्न: 'మరియు' (और) किस प्रकार का शब्द है?",
           "options": [
-            "సంధాన పదం",
-            "నామవాచకం",
-            "క్రియ",
-            "విశేషణం"
+            "సంధాన పదం (संयोजक)",
+            "నామవాచకం (संज्ञा)",
+            "క్రియ (क्रिया)",
+            "విశేషణం (विशेषण)"
           ],
           "correct_index": 0,
-          "explanation": "మరియు సంధాన పదం."
+          "explanation": "'మరియు' संयोजक शब्द (సంధాన పదం) है।",
+          "id": "hi_te_i_4"
         },
         {
-          "id": "hi_te_i1_q5",
-          "question": "प्रश्न: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+          "question": "प्रश्न: 'అందువల్ల' (इसलिए) शब्द का प्रयोग कब किया जाता है?",
           "options": [
-            "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
-            "నామవాచకంగా",
-            "క్రియగా",
-            "కాలాన్ని సూచించడానికి"
+            "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (कारण और परिणाम बताने के लिए)",
+            "నామవాచకంగా (संज्ञा के रूप में)",
+            "క్రియగా (क्रिया के रूप में)",
+            "కాలాన్ని సూచించడానికి (समय बताने के लिए)"
           ],
           "correct_index": 0,
-          "explanation": "అందువల్ల కారణం తెలియజేస్తుంది."
+          "explanation": "'అందువల్ల' कारण और परिणाम बताने के लिए प्रयोग किया जाता है।",
+          "id": "hi_te_i_5"
         },
         {
-          "id": "hi_te_i1_q6",
-          "question": "प्रश्न: సరైన సంధాన పదం ఏది?",
+          "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
           "options": [
-            "మరియు",
-            "పుస్తకం",
-            "ఇల్లు",
-            "పరుగెత్తు"
+            "మరియు (और)",
+            "పుస్తకం (पुस्तक)",
+            "ఇల్లు (घर)",
+            "పరుగెత్తు (दौड़ना)"
           ],
           "correct_index": 0,
-          "explanation": "మరియు సరైన సంధాన పదం."
+          "explanation": "'మరియు' सही संयोजक शब्द है।",
+          "id": "hi_te_i_6"
         },
         {
-          "id": "hi_te_i1_q7",
-          "question": "प्रश्न: “లేదా” అంటే ఏమిటి?",
+          "question": "प्रश्न: 'లేదా' (या) का अर्थ क्या है?",
           "options": [
-            "రెండు ఎంపికల్లో ఒకటి",
-            "సమయం",
-            "స్థలం",
-            "క్రియ"
+            "రెండు ఎంపికల్లో ఒకటి (दो विकल्पों में से एक)",
+            "సమయం (समय)",
+            "స్థలం (स्थान)",
+            "క్రియ (क्रिया)"
           ],
           "correct_index": 0,
-          "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
+          "explanation": "'లేదా' का अर्थ दो विकल्पों में से एक है।",
+          "id": "hi_te_i_7"
         }
       ]
     },
@@ -7550,100 +7550,100 @@ export const BILINGUAL_COURSES = {
       "path": "advanced",
       "lang": "te",
       "uiLang": "hi",
-      "title": "Course 4: Advanced (मैं पढ़ सकता/सकती हूँ कहानियाँ)",
-      "description": "छोटे गद्यांश पढ़ें और समझ आधारित प्रश्नों के उत्तर दें।",
-      "objective": "छोटे गद्यांश पढ़ें और समझ आधारित प्रश्नों के उत्तर दें।",
+      "title": "Course 4: Advanced (मेरी दुनिया के तेलुगु वाक्य)",
+      "description": "Learn TE curriculum with HI UI guidance (advanced).",
+      "objective": "Learn TE curriculum with HI UI guidance (advanced).",
       "lessons": [
         {
           "id": "advanced-hi-te-l1",
-          "title": "Course 4: Advanced (मैं पढ़ सकता/सकती हूँ कहानियाँ)",
-          "learning_goal": "छोटे गद्यांश पढ़ें और समझ आधारित प्रश्नों के उत्तर दें।",
+          "title": "Course 4: Advanced (मेरी दुनिया के तेलुगु वाक्य)",
+          "learning_goal": "Learn TE curriculum with HI UI guidance (advanced).",
           "teaching_content": "Practice learning TE curriculum with HI guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "hi_te_a1_q1",
-              "question": "प्रश्न: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+              "question": "प्रश्न: राहुल (राहुल) कहाँ जाता है?",
               "options": [
-                "మార్కెట్",
-                "పాఠశాల",
-                "పార్క్",
-                "ఇల్లు"
+                "మార్కెట్ (बाज़ार)",
+                "పాఠశాల (स्कूल)",
+                "పార్క్ (पार्क)",
+                "ఇల్లు (घर)"
               ],
               "correct_index": 1,
-              "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+              "explanation": "राहुल स्कूल जाता है (పాఠశాల)।",
+              "id": "hi_te_a_1"
             },
             {
-              "id": "hi_te_a1_q2",
-              "question": "प्रश्न: రాహుల్కు ఏమి ఇష్టం?",
+              "question": "प्रश्न: राहुल (राहुल) को क्या पसंद है?",
               "options": [
-                "ఆటలు",
-                "పుస్తకాలు చదవడం",
-                "నిద్రపోవడం",
-                "టీవీ చూడడం"
+                "ఆటలు (खेलना)",
+                "పుస్తకాలు చదవడం (पुस्तकें पढ़ना)",
+                "నిద్రపోవడం (सोना)",
+                "టీవీ చూడడం (टीवी देखना)"
               ],
               "correct_index": 1,
-              "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం."
+              "explanation": "राहुल को पुस्तकें पढ़ना पसंद है।",
+              "id": "hi_te_a_2"
             },
             {
-              "id": "hi_te_a1_q3",
-              "question": "प्रश्न: ఈ గద్యభాగం ఎవరి గురించి?",
+              "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
               "options": [
-                "సీత",
-                "రాహుల్",
-                "మోహన్",
-                "లత"
+                "సీత (सीता)",
+                "రాహుల్ (राहुल)",
+                "మోహన్ (मोहन)",
+                "లత (लता)"
               ],
               "correct_index": 1,
-              "explanation": "ఈ గద్యభాగం రాహుల్ గురించి."
+              "explanation": "गद्यांश राहुल (రాహుల్) के बारे में है।",
+              "id": "hi_te_a_3"
             },
             {
-              "id": "hi_te_a1_q4",
-              "question": "प्रश्न: “ప్రతిరోజూ” అంటే ఏమిటి?",
+              "question": "प्रश्न: 'ప్రతిరోజూ' (प्रतिरोजू) का अर्थ क्या है?",
               "options": [
-                "ప్రతి రోజు",
-                "నిన్న",
-                "ఎప్పుడూ కాదు",
-                "వచ్చే వారం"
+                "ప్రతి రోజు (हर दिन)",
+                "నిన్న (कल)",
+                "ఎప్పుడూ కాదు (कभी नहीं)",
+                "వచ్చే వారం (अगले सप्ताह)"
               ],
               "correct_index": 0,
-              "explanation": "ప్రతిరోజూ అంటే ప్రతి రోజు."
+              "explanation": "'ప్రతిరోజూ' का अर्थ हर दिन (ప్రతి రోజు) है।",
+              "id": "hi_te_a_4"
             },
             {
-              "id": "hi_te_a1_q5",
-              "question": "प्रश्न: రాహుల్ ఏమి చేస్తాడు?",
+              "question": "प्रश्न: राहुल (राहुल) क्या करता है?",
               "options": [
-                "పాఠశాలకు వెళ్తాడు",
-                "మార్కెట్కు వెళ్తాడు",
-                "ఇంట్లో ఉంటాడు",
-                "ఆసుపత్రికి వెళ్తాడు"
+                "పాఠశాలకు వెళ్తాడు (स्कूल जाता है)",
+                "మార్కెట్కు వెళ్తాడు (बाज़ार जाता है)",
+                "ఇంట్లో ఉంటాడు (घर पर रहता है)",
+                "ఆసుపత్రికి వెళ్తాడు (अस्पताल जाता है)"
               ],
               "correct_index": 0,
-              "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+              "explanation": "राहुल स्कूल जाता है (పాఠశాలకు వెళ్తాడు)।",
+              "id": "hi_te_a_5"
             },
             {
-              "id": "hi_te_a1_q6",
-              "question": "प्रश्न: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+              "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
               "options": [
-                "చదువు మరియు పాఠశాల అలవాటు",
-                "ప్రయాణం",
-                "వర్షం",
-                "కొండలు"
+                "చదువు మరియు పాఠశాల అలవాటు (पढ़ाई और स्कूल की आदत)",
+                "ప్రయాణం (यात्रा)",
+                "వర్షం (बारिश)",
+                "కొండలు (पहाड़)"
               ],
               "correct_index": 0,
-              "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల."
+              "explanation": "मुख्य विचार पढ़ाई और स्कूल की आदत है।",
+              "id": "hi_te_a_6"
             },
             {
-              "id": "hi_te_a1_q7",
-              "question": "प्रश्न: సరైన వాక్యం ఏది?",
+              "question": "प्रश्न: सही कथन चुनिए।",
               "options": [
-                "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
-                "రాహుల్ పాఠశాలకు వెళ్లడు.",
-                "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.",
-                "రాహుల్ చదవడు."
+                "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం. (राहुल को पुस्तकें पढ़ना पसंद है।)",
+                "రాహుల్ పాఠశాలకు వెళ్లడు. (राहुल स्कूल नहीं जाता।)",
+                "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు. (राहुल हमेशा खेलता रहता है।)",
+                "రాహుల్ చదవడు. (राहुल नहीं पढ़ता।)"
               ],
               "correct_index": 0,
-              "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం సరైనది."
+              "explanation": "सही कथन: राहुल को पुस्तकें पढ़ना पसंद है।",
+              "id": "hi_te_a_7"
             }
           ]
         }
@@ -7652,175 +7652,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "hi_te_a1_q1",
-            "question": "प्रश्न: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+            "question": "प्रश्न: राहुल (राहुल) कहाँ जाता है?",
             "options": [
-              "మార్కెట్",
-              "పాఠశాల",
-              "పార్క్",
-              "ఇల్లు"
+              "మార్కెట్ (बाज़ार)",
+              "పాఠశాల (स्कूल)",
+              "పార్క్ (पार्क)",
+              "ఇల్లు (घर)"
             ],
             "correct_index": 1,
-            "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+            "explanation": "राहुल स्कूल जाता है (పాఠశాల)।",
+            "id": "hi_te_a_1"
           },
           {
-            "id": "hi_te_a1_q2",
-            "question": "प्रश्न: రాహుల్కు ఏమి ఇష్టం?",
+            "question": "प्रश्न: राहुल (राहुल) को क्या पसंद है?",
             "options": [
-              "ఆటలు",
-              "పుస్తకాలు చదవడం",
-              "నిద్రపోవడం",
-              "టీవీ చూడడం"
+              "ఆటలు (खेलना)",
+              "పుస్తకాలు చదవడం (पुस्तकें पढ़ना)",
+              "నిద్రపోవడం (सोना)",
+              "టీవీ చూడడం (टीवी देखना)"
             ],
             "correct_index": 1,
-            "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం."
+            "explanation": "राहुल को पुस्तकें पढ़ना पसंद है।",
+            "id": "hi_te_a_2"
           },
           {
-            "id": "hi_te_a1_q3",
-            "question": "प्रश्न: ఈ గద్యభాగం ఎవరి గురించి?",
+            "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
             "options": [
-              "సీత",
-              "రాహుల్",
-              "మోహన్",
-              "లత"
+              "సీత (सीता)",
+              "రాహుల్ (राहुल)",
+              "మోహన్ (मोहन)",
+              "లత (लता)"
             ],
             "correct_index": 1,
-            "explanation": "ఈ గద్యభాగం రాహుల్ గురించి."
+            "explanation": "गद्यांश राहुल (రాహుల్) के बारे में है।",
+            "id": "hi_te_a_3"
           },
           {
-            "id": "hi_te_a1_q4",
-            "question": "प्रश्न: “ప్రతిరోజూ” అంటే ఏమిటి?",
+            "question": "प्रश्न: 'ప్రతిరోజూ' (प्रतिरोजू) का अर्थ क्या है?",
             "options": [
-              "ప్రతి రోజు",
-              "నిన్న",
-              "ఎప్పుడూ కాదు",
-              "వచ్చే వారం"
+              "ప్రతి రోజు (हर दिन)",
+              "నిన్న (कल)",
+              "ఎప్పుడూ కాదు (कभी नहीं)",
+              "వచ్చే వారం (अगले सप्ताह)"
             ],
             "correct_index": 0,
-            "explanation": "ప్రతిరోజూ అంటే ప్రతి రోజు."
+            "explanation": "'ప్రతిరోజూ' का अर्थ हर दिन (ప్రతి రోజు) है।",
+            "id": "hi_te_a_4"
           },
           {
-            "id": "hi_te_a1_q5",
-            "question": "प्रश्न: రాహుల్ ఏమి చేస్తాడు?",
+            "question": "प्रश्न: राहुल (राहुल) क्या करता है?",
             "options": [
-              "పాఠశాలకు వెళ్తాడు",
-              "మార్కెట్కు వెళ్తాడు",
-              "ఇంట్లో ఉంటాడు",
-              "ఆసుపత్రికి వెళ్తాడు"
+              "పాఠశాలకు వెళ్తాడు (स्कूल जाता है)",
+              "మార్కెట్కు వెళ్తాడు (बाज़ार जाता है)",
+              "ఇంట్లో ఉంటాడు (घर पर रहता है)",
+              "ఆసుపత్రికి వెళ్తాడు (अस्पताल जाता है)"
             ],
             "correct_index": 0,
-            "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+            "explanation": "राहुल स्कूल जाता है (పాఠశాలకు వెళ్తాడు)।",
+            "id": "hi_te_a_5"
           },
           {
-            "id": "hi_te_a1_q6",
-            "question": "प्रश्न: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+            "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
             "options": [
-              "చదువు మరియు పాఠశాల అలవాటు",
-              "ప్రయాణం",
-              "వర్షం",
-              "కొండలు"
+              "చదువు మరియు పాఠశాల అలవాటు (पढ़ाई और स्कूल की आदत)",
+              "ప్రయాణం (यात्रा)",
+              "వర్షం (बारिश)",
+              "కొండలు (पहाड़)"
             ],
             "correct_index": 0,
-            "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల."
+            "explanation": "मुख्य विचार पढ़ाई और स्कूल की आदत है।",
+            "id": "hi_te_a_6"
           },
           {
-            "id": "hi_te_a1_q7",
-            "question": "प्रश्न: సరైన వాక్యం ఏది?",
+            "question": "प्रश्न: सही कथन चुनिए।",
             "options": [
-              "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
-              "రాహుల్ పాఠశాలకు వెళ్లడు.",
-              "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.",
-              "రాహుల్ చదవడు."
+              "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం. (राहुल को पुस्तकें पढ़ना पसंद है।)",
+              "రాహుల్ పాఠశాలకు వెళ్లడు. (राहुल स्कूल नहीं जाता।)",
+              "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు. (राहुल हमेशा खेलता रहता है।)",
+              "రాహుల్ చదవడు. (राहुल नहीं पढ़ता।)"
             ],
             "correct_index": 0,
-            "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం సరైనది."
+            "explanation": "सही कथन: राहुल को पुस्तकें पढ़ना पसंद है।",
+            "id": "hi_te_a_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "hi_te_a1_q1",
-          "question": "प्रश्न: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+          "question": "प्रश्न: राहुल (राहुल) कहाँ जाता है?",
           "options": [
-            "మార్కెట్",
-            "పాఠశాల",
-            "పార్క్",
-            "ఇల్లు"
+            "మార్కెట్ (बाज़ार)",
+            "పాఠశాల (स्कूल)",
+            "పార్క్ (पार्क)",
+            "ఇల్లు (घर)"
           ],
           "correct_index": 1,
-          "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+          "explanation": "राहुल स्कूल जाता है (పాఠశాల)।",
+          "id": "hi_te_a_1"
         },
         {
-          "id": "hi_te_a1_q2",
-          "question": "प्रश्न: రాహుల్కు ఏమి ఇష్టం?",
+          "question": "प्रश्न: राहुल (राहुल) को क्या पसंद है?",
           "options": [
-            "ఆటలు",
-            "పుస్తకాలు చదవడం",
-            "నిద్రపోవడం",
-            "టీవీ చూడడం"
+            "ఆటలు (खेलना)",
+            "పుస్తకాలు చదవడం (पुस्तकें पढ़ना)",
+            "నిద్రపోవడం (सोना)",
+            "టీవీ చూడడం (टीवी देखना)"
           ],
           "correct_index": 1,
-          "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం."
+          "explanation": "राहुल को पुस्तकें पढ़ना पसंद है।",
+          "id": "hi_te_a_2"
         },
         {
-          "id": "hi_te_a1_q3",
-          "question": "प्रश्न: ఈ గద్యభాగం ఎవరి గురించి?",
+          "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
           "options": [
-            "సీత",
-            "రాహుల్",
-            "మోహన్",
-            "లత"
+            "సీత (सीता)",
+            "రాహుల్ (राहुल)",
+            "మోహన్ (मोहन)",
+            "లత (लता)"
           ],
           "correct_index": 1,
-          "explanation": "ఈ గద్యభాగం రాహుల్ గురించి."
+          "explanation": "गद्यांश राहुल (రాహుల్) के बारे में है।",
+          "id": "hi_te_a_3"
         },
         {
-          "id": "hi_te_a1_q4",
-          "question": "प्रश्न: “ప్రతిరోజూ” అంటే ఏమిటి?",
+          "question": "प्रश्न: 'ప్రతిరోజూ' (प्रतिरोजू) का अर्थ क्या है?",
           "options": [
-            "ప్రతి రోజు",
-            "నిన్న",
-            "ఎప్పుడూ కాదు",
-            "వచ్చే వారం"
+            "ప్రతి రోజు (हर दिन)",
+            "నిన్న (कल)",
+            "ఎప్పుడూ కాదు (कभी नहीं)",
+            "వచ్చే వారం (अगले सप्ताह)"
           ],
           "correct_index": 0,
-          "explanation": "ప్రతిరోజూ అంటే ప్రతి రోజు."
+          "explanation": "'ప్రతిరోజూ' का अर्थ हर दिन (ప్రతి రోజు) है।",
+          "id": "hi_te_a_4"
         },
         {
-          "id": "hi_te_a1_q5",
-          "question": "प्रश्न: రాహుల్ ఏమి చేస్తాడు?",
+          "question": "प्रश्न: राहुल (राहुल) क्या करता है?",
           "options": [
-            "పాఠశాలకు వెళ్తాడు",
-            "మార్కెట్కు వెళ్తాడు",
-            "ఇంట్లో ఉంటాడు",
-            "ఆసుపత్రికి వెళ్తాడు"
+            "పాఠశాలకు వెళ్తాడు (स्कूल जाता है)",
+            "మార్కెట్కు వెళ్తాడు (बाज़ार जाता है)",
+            "ఇంట్లో ఉంటాడు (घर पर रहता है)",
+            "ఆసుపత్రికి వెళ్తాడు (अस्पताल जाता है)"
           ],
           "correct_index": 0,
-          "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+          "explanation": "राहुल स्कूल जाता है (పాఠశాలకు వెళ్తాడు)।",
+          "id": "hi_te_a_5"
         },
         {
-          "id": "hi_te_a1_q6",
-          "question": "प्रश्न: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+          "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
           "options": [
-            "చదువు మరియు పాఠశాల అలవాటు",
-            "ప్రయాణం",
-            "వర్షం",
-            "కొండలు"
+            "చదువు మరియు పాఠశాల అలవాటు (पढ़ाई और स्कूल की आदत)",
+            "ప్రయాణం (यात्रा)",
+            "వర్షం (बारिश)",
+            "కొండలు (पहाड़)"
           ],
           "correct_index": 0,
-          "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల."
+          "explanation": "मुख्य विचार पढ़ाई और स्कूल की आदत है।",
+          "id": "hi_te_a_6"
         },
         {
-          "id": "hi_te_a1_q7",
-          "question": "प्रश्न: సరైన వాక్యం ఏది?",
+          "question": "प्रश्न: सही कथन चुनिए।",
           "options": [
-            "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
-            "రాహుల్ పాఠశాలకు వెళ్లడు.",
-            "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.",
-            "రాహుల్ చదవడు."
+            "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం. (राहुल को पुस्तकें पढ़ना पसंद है।)",
+            "రాహుల్ పాఠశాలకు వెళ్లడు. (राहुल स्कूल नहीं जाता।)",
+            "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు. (राहुल हमेशा खेलता रहता है।)",
+            "రాహుల్ చదవడు. (राहुल नहीं पढ़ता।)"
           ],
           "correct_index": 0,
-          "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం సరైనది."
+          "explanation": "सही कथन: राहुल को पुस्तकें पढ़ना पसंद है।",
+          "id": "hi_te_a_7"
         }
       ]
     }
@@ -7848,8 +7848,8 @@ export const BILINGUAL_COURSES = {
               "options": [
                 "12",
                 "13",
-                "14",
-                "15"
+                "14 (14 - चौदह))",
+                "15 (15 - पंद्रह))"
               ],
               "correct_index": 1,
               "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -7858,10 +7858,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_f1_q2",
               "question": "प्रश्न: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ಕ್ರಿಯಾಪದ",
-                "ನಾಮಪದ",
-                "ವಿಶೇಷಣ",
-                "ಸರ್ವನಾಮ"
+                "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+                "ನಾಮಪದ (नामपद - संज्ञा))",
+                "ವಿಶೇಷಣ (विशेषण - विशेषण))",
+                "ಸರ್ವನಾಮ (सर्वनाम - सर्वनाम))"
               ],
               "correct_index": 1,
               "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -7870,8 +7870,8 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_f1_q3",
               "question": "प्रश्न: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
               "options": [
-                "ಮರ",
-                "ಮರಗಳು",
+                "ಮರ (मर - पेड़))",
+                "ಮರಗಳು (मरगळु - पेड़))",
                 "ಮರಗಳ",
                 "ಮರವು"
               ],
@@ -7882,10 +7882,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_f1_q4",
               "question": "प्रश्न: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
               "options": [
-                "ವಿಶೇಷಣ",
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ಸರ್ವನಾಮ"
+                "ವಿಶೇಷಣ (विशेषण - विशेषण))",
+                "ನಾಮಪದ (नामपद - संज्ञा))",
+                "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+                "ಸರ್ವನಾಮ (सर्वनाम - सर्वनाम))"
               ],
               "correct_index": 0,
               "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -7894,10 +7894,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_f1_q5",
               "question": "प्रश्न: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ವಿಶೇಷಣ",
-                "ಸರ್ವನಾಮ"
+                "ನಾಮಪದ (नामपद - संज्ञा))",
+                "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+                "ವಿಶೇಷಣ (विशेषण - विशेषण))",
+                "ಸರ್ವನಾಮ (सर्वनाम - सर्वनाम))"
               ],
               "correct_index": 1,
               "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -7909,7 +7909,7 @@ export const BILINGUAL_COURSES = {
                 "ಮನೆ",
                 "ಗ್ರಂಥ",
                 "ರಸ್ತೆ",
-                "ಮರ"
+                "ಮರ (मर - पेड़))"
               ],
               "correct_index": 1,
               "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -7938,8 +7938,8 @@ export const BILINGUAL_COURSES = {
             "options": [
               "12",
               "13",
-              "14",
-              "15"
+              "14 (14 - चौदह))",
+              "15 (15 - पंद्रह))"
             ],
             "correct_index": 1,
             "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -7948,10 +7948,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_f1_q2",
             "question": "प्रश्न: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ಕ್ರಿಯಾಪದ",
-              "ನಾಮಪದ",
-              "ವಿಶೇಷಣ",
-              "ಸರ್ವನಾಮ"
+              "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+              "ನಾಮಪದ (नामपद - संज्ञा))",
+              "ವಿಶೇಷಣ (विशेषण - विशेषण))",
+              "ಸರ್ವನಾಮ (सर्वनाम - सर्वनाम))"
             ],
             "correct_index": 1,
             "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -7960,8 +7960,8 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_f1_q3",
             "question": "प्रश्न: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
             "options": [
-              "ಮರ",
-              "ಮರಗಳು",
+              "ಮರ (मर - पेड़))",
+              "ಮರಗಳು (मरगळु - पेड़))",
               "ಮರಗಳ",
               "ಮರವು"
             ],
@@ -7972,10 +7972,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_f1_q4",
             "question": "प्रश्न: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
             "options": [
-              "ವಿಶೇಷಣ",
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ಸರ್ವನಾಮ"
+              "ವಿಶೇಷಣ (विशेषण - विशेषण))",
+              "ನಾಮಪದ (नामपद - संज्ञा))",
+              "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+              "ಸರ್ವನಾಮ (सर्वनाम - सर्वनाम))"
             ],
             "correct_index": 0,
             "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -7984,10 +7984,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_f1_q5",
             "question": "प्रश्न: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ವಿಶೇಷಣ",
-              "ಸರ್ವನಾಮ"
+              "ನಾಮಪದ (नामपद - संज्ञा))",
+              "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+              "ವಿಶೇಷಣ (विशेषण - विशेषण))",
+              "ಸರ್ವನಾಮ (सर्वनाम - सर्वनाम))"
             ],
             "correct_index": 1,
             "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -7999,7 +7999,7 @@ export const BILINGUAL_COURSES = {
               "ಮನೆ",
               "ಗ್ರಂಥ",
               "ರಸ್ತೆ",
-              "ಮರ"
+              "ಮರ (मर - पेड़))"
             ],
             "correct_index": 1,
             "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -8025,8 +8025,8 @@ export const BILINGUAL_COURSES = {
           "options": [
             "12",
             "13",
-            "14",
-            "15"
+            "14 (14 - चौदह))",
+            "15 (15 - पंद्रह))"
           ],
           "correct_index": 1,
           "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -8035,10 +8035,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_f1_q2",
           "question": "प्रश्न: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ಕ್ರಿಯಾಪದ",
-            "ನಾಮಪದ",
-            "ವಿಶೇಷಣ",
-            "ಸರ್ವನಾಮ"
+            "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+            "ನಾಮಪದ (नामपद - संज्ञा))",
+            "ವಿಶೇಷಣ (विशेषण - विशेषण))",
+            "ಸರ್ವನಾಮ (सर्वनाम - सर्वनाम))"
           ],
           "correct_index": 1,
           "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -8047,8 +8047,8 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_f1_q3",
           "question": "प्रश्न: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
           "options": [
-            "ಮರ",
-            "ಮರಗಳು",
+            "ಮರ (मर - पेड़))",
+            "ಮರಗಳು (मरगळु - पेड़))",
             "ಮರಗಳ",
             "ಮರವು"
           ],
@@ -8059,10 +8059,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_f1_q4",
           "question": "प्रश्न: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
           "options": [
-            "ವಿಶೇಷಣ",
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ಸರ್ವನಾಮ"
+            "ವಿಶೇಷಣ (विशेषण - विशेषण))",
+            "ನಾಮಪದ (नामपद - संज्ञा))",
+            "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+            "ಸರ್ವನಾಮ (सर्वनाम - सर्वनाम))"
           ],
           "correct_index": 0,
           "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -8071,10 +8071,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_f1_q5",
           "question": "प्रश्न: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ವಿಶೇಷಣ",
-            "ಸರ್ವನಾಮ"
+            "ನಾಮಪದ (नामपद - संज्ञा))",
+            "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+            "ವಿಶೇಷಣ (विशेषण - विशेषण))",
+            "ಸರ್ವನಾಮ (सर्वनाम - सर्वनाम))"
           ],
           "correct_index": 1,
           "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -8086,7 +8086,7 @@ export const BILINGUAL_COURSES = {
             "ಮನೆ",
             "ಗ್ರಂಥ",
             "ರಸ್ತೆ",
-            "ಮರ"
+            "ಮರ (मर - पेड़))"
           ],
           "correct_index": 1,
           "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -8125,9 +8125,9 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_b1_q1",
               "question": "प्रश्न: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+                "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
                 "ಆಜ್ಞಾರ್ಥಕ"
               ],
               "correct_index": 1,
@@ -8137,9 +8137,9 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_b1_q2",
               "question": "प्रश्न: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+                "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
                 "ಯಾವುದೂ ಅಲ್ಲ"
               ],
               "correct_index": 0,
@@ -8149,10 +8149,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_b1_q3",
               "question": "प्रश्न: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ನಾಮಪದ"
+                "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+                "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+                "ನಾಮಪದ (नामपद - संज्ञा))"
               ],
               "correct_index": 1,
               "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -8161,10 +8161,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_b1_q4",
               "question": "प्रश्न: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ವಿಶೇಷಣ"
+                "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+                "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+                "ವಿಶೇಷಣ (विशेषण - विशेषण))"
               ],
               "correct_index": 0,
               "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -8173,9 +8173,9 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_b1_q5",
               "question": "प्रश्न: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+                "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
                 "ಯಾವುದೂ ಅಲ್ಲ"
               ],
               "correct_index": 1,
@@ -8185,10 +8185,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_b1_q6",
               "question": "प्रश्न: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ವಿಶೇಷಣ"
+                "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+                "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+                "ವಿಶೇಷಣ (विशेषण - विशेषण))"
               ],
               "correct_index": 2,
               "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -8197,10 +8197,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_b1_q7",
               "question": "प्रश्न: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ನಾಮಪದ"
+                "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+                "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+                "ನಾಮಪದ (नामपद - संज्ञा))"
               ],
               "correct_index": 0,
               "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -8215,9 +8215,9 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_b1_q1",
             "question": "प्रश्न: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+              "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
               "ಆಜ್ಞಾರ್ಥಕ"
             ],
             "correct_index": 1,
@@ -8227,9 +8227,9 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_b1_q2",
             "question": "प्रश्न: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+              "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
               "ಯಾವುದೂ ಅಲ್ಲ"
             ],
             "correct_index": 0,
@@ -8239,10 +8239,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_b1_q3",
             "question": "प्रश्न: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ನಾಮಪದ"
+              "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+              "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+              "ನಾಮಪದ (नामपद - संज्ञा))"
             ],
             "correct_index": 1,
             "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -8251,10 +8251,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_b1_q4",
             "question": "प्रश्न: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ವಿಶೇಷಣ"
+              "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+              "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+              "ವಿಶೇಷಣ (विशेषण - विशेषण))"
             ],
             "correct_index": 0,
             "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -8263,9 +8263,9 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_b1_q5",
             "question": "प्रश्न: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+              "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
               "ಯಾವುದೂ ಅಲ್ಲ"
             ],
             "correct_index": 1,
@@ -8275,10 +8275,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_b1_q6",
             "question": "प्रश्न: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ವಿಶೇಷಣ"
+              "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+              "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+              "ವಿಶೇಷಣ (विशेषण - विशेषण))"
             ],
             "correct_index": 2,
             "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -8287,10 +8287,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_b1_q7",
             "question": "प्रश्न: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ನಾಮಪದ"
+              "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+              "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+              "ನಾಮಪದ (नामपद - संज्ञा))"
             ],
             "correct_index": 0,
             "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -8302,9 +8302,9 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_b1_q1",
           "question": "प्रश्न: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+            "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
             "ಆಜ್ಞಾರ್ಥಕ"
           ],
           "correct_index": 1,
@@ -8314,9 +8314,9 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_b1_q2",
           "question": "प्रश्न: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+            "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
             "ಯಾವುದೂ ಅಲ್ಲ"
           ],
           "correct_index": 0,
@@ -8326,10 +8326,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_b1_q3",
           "question": "प्रश्न: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ನಾಮಪದ"
+            "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+            "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+            "ನಾಮಪದ (नामपद - संज्ञा))"
           ],
           "correct_index": 1,
           "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -8338,10 +8338,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_b1_q4",
           "question": "प्रश्न: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ವಿಶೇಷಣ"
+            "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+            "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+            "ವಿಶೇಷಣ (विशेषण - विशेषण))"
           ],
           "correct_index": 0,
           "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -8350,9 +8350,9 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_b1_q5",
           "question": "प्रश्न: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+            "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
             "ಯಾವುದೂ ಅಲ್ಲ"
           ],
           "correct_index": 1,
@@ -8362,10 +8362,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_b1_q6",
           "question": "प्रश्न: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ವಿಶೇಷಣ"
+            "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+            "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+            "ವಿಶೇಷಣ (विशेषण - विशेषण))"
           ],
           "correct_index": 2,
           "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -8374,10 +8374,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_b1_q7",
           "question": "प्रश्न: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ನಾಮಪದ"
+            "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
+            "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
+            "ನಾಮಪದ (नामपद - संज्ञा))"
           ],
           "correct_index": 0,
           "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -8404,10 +8404,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_i1_q1",
               "question": "प्रश्न: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಆದರೆ",
-                "ಮತ್ತು",
+                "ಆದರೆ (आदरे - लेकिन))",
+                "ಮತ್ತು (मत्तु - और))",
                 "ಏಕೆಂದರೆ",
-                "ಅಥವಾ"
+                "ಅಥವಾ (अथवा - या))"
               ],
               "correct_index": 1,
               "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -8417,7 +8417,7 @@ export const BILINGUAL_COURSES = {
               "question": "प्रश्न: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
                 "ಅಮ್ಮ",
-                "ಮತ್ತು",
+                "ಮತ್ತು (मत्तु - और))",
                 "ಅಪ್ಪ",
                 "ನಲ್ಲಿ"
               ],
@@ -8428,7 +8428,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_i1_q3",
               "question": "प्रश्न: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಆದರೆ",
+                "ಆದರೆ (आदरे - लेकिन))",
                 "ಓದಿದನು",
                 "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
                 "ಅವನು"
@@ -8441,9 +8441,9 @@ export const BILINGUAL_COURSES = {
               "question": "प्रश्न: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
                 "ಸಂಪರ್ಕಪದ",
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ವಿಶೇಷಣ"
+                "ನಾಮಪದ (नामपद - संज्ञा))",
+                "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+                "ವಿಶೇಷಣ (विशेषण - विशेषण))"
               ],
               "correct_index": 0,
               "explanation": "ಸಂಪರ್ಕಪದ."
@@ -8464,7 +8464,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_kn_i1_q6",
               "question": "प्रश्न: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಮತ್ತು",
+                "ಮತ್ತು (मत्तु - और))",
                 "ಪುಸ್ತಕ",
                 "ಮನೆ",
                 "ಓಡು"
@@ -8494,10 +8494,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_i1_q1",
             "question": "प्रश्न: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಆದರೆ",
-              "ಮತ್ತು",
+              "ಆದರೆ (आदरे - लेकिन))",
+              "ಮತ್ತು (मत्तु - और))",
               "ಏಕೆಂದರೆ",
-              "ಅಥವಾ"
+              "ಅಥವಾ (अथवा - या))"
             ],
             "correct_index": 1,
             "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -8507,7 +8507,7 @@ export const BILINGUAL_COURSES = {
             "question": "प्रश्न: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
               "ಅಮ್ಮ",
-              "ಮತ್ತು",
+              "ಮತ್ತು (मत्तु - और))",
               "ಅಪ್ಪ",
               "ನಲ್ಲಿ"
             ],
@@ -8518,7 +8518,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_i1_q3",
             "question": "प्रश्न: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಆದರೆ",
+              "ಆದರೆ (आदरे - लेकिन))",
               "ಓದಿದನು",
               "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
               "ಅವನು"
@@ -8531,9 +8531,9 @@ export const BILINGUAL_COURSES = {
             "question": "प्रश्न: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
               "ಸಂಪರ್ಕಪದ",
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ವಿಶೇಷಣ"
+              "ನಾಮಪದ (नामपद - संज्ञा))",
+              "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+              "ವಿಶೇಷಣ (विशेषण - विशेषण))"
             ],
             "correct_index": 0,
             "explanation": "ಸಂಪರ್ಕಪದ."
@@ -8554,7 +8554,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_kn_i1_q6",
             "question": "प्रश्न: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಮತ್ತು",
+              "ಮತ್ತು (मत्तु - और))",
               "ಪುಸ್ತಕ",
               "ಮನೆ",
               "ಓಡು"
@@ -8581,10 +8581,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_i1_q1",
           "question": "प्रश्न: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಆದರೆ",
-            "ಮತ್ತು",
+            "ಆದರೆ (आदरे - लेकिन))",
+            "ಮತ್ತು (मत्तु - और))",
             "ಏಕೆಂದರೆ",
-            "ಅಥವಾ"
+            "ಅಥವಾ (अथवा - या))"
           ],
           "correct_index": 1,
           "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -8594,7 +8594,7 @@ export const BILINGUAL_COURSES = {
           "question": "प्रश्न: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
             "ಅಮ್ಮ",
-            "ಮತ್ತು",
+            "ಮತ್ತು (मत्तु - और))",
             "ಅಪ್ಪ",
             "ನಲ್ಲಿ"
           ],
@@ -8605,7 +8605,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_i1_q3",
           "question": "प्रश्न: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಆದರೆ",
+            "ಆದರೆ (आदरे - लेकिन))",
             "ಓದಿದನು",
             "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
             "ಅವನು"
@@ -8618,9 +8618,9 @@ export const BILINGUAL_COURSES = {
           "question": "प्रश्न: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
             "ಸಂಪರ್ಕಪದ",
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ವಿಶೇಷಣ"
+            "ನಾಮಪದ (नामपद - संज्ञा))",
+            "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
+            "ವಿಶೇಷಣ (विशेषण - विशेषण))"
           ],
           "correct_index": 0,
           "explanation": "ಸಂಪರ್ಕಪದ."
@@ -8641,7 +8641,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_kn_i1_q6",
           "question": "प्रश्न: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಮತ್ತು",
+            "ಮತ್ತು (मत्तु - और))",
             "ಪುಸ್ತಕ",
             "ಮನೆ",
             "ಓಡು"
@@ -10068,99 +10068,99 @@ export const BILINGUAL_COURSES = {
       "lang": "hi",
       "uiLang": "ta",
       "title": "Course 1: Foundation (என் மொழி ஆற்றல் விரிவாக்கம்)",
-      "description": "எழுத்துகள், பெயர்ச்சொல், பன்மை, உரிச்சொல் மற்றும் வினைச்சொல் கற்கவும்.",
-      "objective": "எழுத்துகள், பெயர்ச்சொல், பன்மை, உரிச்சொல் மற்றும் வினைச்சொல் கற்கவும்.",
+      "description": "Learn HI curriculum with TA UI guidance (foundation).",
+      "objective": "Learn HI curriculum with TA UI guidance (foundation).",
       "lessons": [
         {
           "id": "foundation-ta-hi-l1",
           "title": "Course 1: Foundation (என் மொழி ஆற்றல் விரிவாக்கம்)",
-          "learning_goal": "எழுத்துகள், பெயர்ச்சொல், பன்மை, உரிச்சொல் மற்றும் வினைச்சொல் கற்கவும்.",
+          "learning_goal": "Learn HI curriculum with TA UI guidance (foundation).",
           "teaching_content": "Practice learning HI curriculum with TA guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "ta_hi_f1_q1",
-              "question": "கேள்வி: हिंदी भाषा में स्वर कितने हैं?",
+              "question": "கேள்வி: இந்தி மொழியில் உயிரெழுத்துகள் எத்தனை?",
               "options": [
-                "10",
-                "11",
-                "13",
-                "12"
+                "10 (பத்து)",
+                "11 (பதினொன்று)",
+                "13 (பதின்மூன்று)",
+                "12 (பன்னிரண்டு)"
               ],
               "correct_index": 2,
-              "explanation": "हिंदी में 13 स्वर हैं।"
+              "explanation": "இந்தி மொழியில் 13 உயிரெழுத்துகள் உள்ளன.",
+              "id": "ta_hi_f_1"
             },
             {
-              "id": "ta_hi_f1_q2",
-              "question": "கேள்வி: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+              "question": "கேள்வி: 'माँ' (Maa / மா) என்பது எந்த வகைச் சொல்?",
               "options": [
-                "क्रिया",
-                "संज्ञा",
-                "विशेषण",
-                "सर्वनाम"
+                "क्रिया (கிரியா - வினை)",
+                "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+                "विशेषण (விஷேஷண் - உரிச்சொல்)",
+                "सर्वनाम (சர்வநாம் - பிரதிபெயர்)"
               ],
               "correct_index": 1,
-              "explanation": "\"माँ\" संज्ञा है।"
+              "explanation": "'माँ' பெயர்ச்சொல் (संज्ञा).",
+              "id": "ta_hi_f_2"
             },
             {
-              "id": "ta_hi_f1_q3",
-              "question": "கேள்வி: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+              "question": "கேள்வி: 'लड़का' (Ladka / லட்கா) என்பதன் பன்மை?",
               "options": [
-                "लड़कियाँ",
-                "लड़के",
-                "लड़कों",
-                "लड़का"
+                "लड़कियाँ (லட்கியான்)",
+                "लड़के (லட்கே)",
+                "लड़कों (லட்கோன்)",
+                "लड़का (லட்கா)"
               ],
               "correct_index": 1,
-              "explanation": "लड़का का बहुवचन लड़के है।"
+              "explanation": "'लड़का' என்பதன் பன்மை 'लड़के'.",
+              "id": "ta_hi_f_3"
             },
             {
-              "id": "ta_hi_f1_q4",
-              "question": "கேள்வி: \"सुंदर\" (Sundar) शब्द क्या है?",
+              "question": "கேள்வி: 'सुंदर' (Sundar / சுந்தர்) எந்த வகைச் சொல்?",
               "options": [
-                "विशेषण",
-                "संज्ञा",
-                "क्रिया",
-                "सर्वनाम"
+                "विशेषण (விஷேஷண் - உரிச்சொல்)",
+                "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+                "क्रिया (கிரியா - வினை)",
+                "सर्वनाम (சர்வநாம் - பிரதிபெயர்)"
               ],
               "correct_index": 0,
-              "explanation": "सुंदर विशेषण है।"
+              "explanation": "'सुंदर' உரிச்சொல் (विशेषण).",
+              "id": "ta_hi_f_4"
             },
             {
-              "id": "ta_hi_f1_q5",
-              "question": "கேள்வி: \"पढ़ना\" (Padhna) शब्द क्या है?",
+              "question": "கேள்வி: 'पढ़ रहा हूँ' (Padh raha hoon) எந்த வகைச் சொல்?",
               "options": [
-                "संज्ञा",
-                "क्रिया",
-                "विशेषण",
-                "सर्वनाम"
+                "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+                "क्रिया (கிரியா - வினை)",
+                "विशेषण (விஷேஷண் - உரிச்சொல்)",
+                "सर्वनाम (சர்வநாம் - பிரதிபெயர்)"
               ],
               "correct_index": 1,
-              "explanation": "पढ़ना क्रिया है।"
+              "explanation": "'पढ़ रहा हूँ' வினைச்சொல் (क्रिया).",
+              "id": "ta_hi_f_5"
             },
             {
-              "id": "ta_hi_f1_q6",
-              "question": "கேள்வி: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+              "question": "கேள்வி: 'किताब' (Kitab / கிதாப்) என்பதன் பொருள் என்ன?",
               "options": [
-                "कलम",
-                "कापी",
-                "पाठ",
-                "पुस्तक"
-              ],
-              "correct_index": 3,
-              "explanation": "किताब का अर्थ पुस्तक है।"
-            },
-            {
-              "id": "ta_hi_f1_q7",
-              "question": "கேள்வி: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
-              "options": [
-                "अस्पताल",
-                "पढ़ने का स्थान (स्कूल)",
-                "बाजार",
-                "पार्क"
+                "घर (கர் - இளி)",
+                "पुस्तक (புஸ்தக் - நூல்/புத்தகம்)",
+                "पेड़ (பேட் - மரம்)",
+                "सड़क (சடக் - சாலை)"
               ],
               "correct_index": 1,
-              "explanation": "विद्यालय सीखने का स्थान है।"
+              "explanation": "'किताब' என்றால் புத்தகம் (पुस्तक).",
+              "id": "ta_hi_f_6"
+            },
+            {
+              "question": "கேள்வி: 'विद्यालय' (Vidyalay / வித்யாலய்) என்பதன் பொருள் என்ன?",
+              "options": [
+                "अस्पताल (அஸ்பதால் - மருத்துவமனை)",
+                "पढ़ने की जगह (பள்ளி - கற்கும் இடம்)",
+                "बाज़ार (பாஜார் - சந்தை)",
+                "पार्क (பார்க் - பூங்கா)"
+              ],
+              "correct_index": 1,
+              "explanation": "'विद्यालय' என்றால் பள்ளி (पढ़ने की जगह).",
+              "id": "ta_hi_f_7"
             }
           ]
         }
@@ -10169,175 +10169,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "ta_hi_f1_q1",
-            "question": "கேள்வி: हिंदी भाषा में स्वर कितने हैं?",
+            "question": "கேள்வி: இந்தி மொழியில் உயிரெழுத்துகள் எத்தனை?",
             "options": [
-              "10",
-              "11",
-              "13",
-              "12"
+              "10 (பத்து)",
+              "11 (பதினொன்று)",
+              "13 (பதின்மூன்று)",
+              "12 (பன்னிரண்டு)"
             ],
             "correct_index": 2,
-            "explanation": "हिंदी में 13 स्वर हैं।"
+            "explanation": "இந்தி மொழியில் 13 உயிரெழுத்துகள் உள்ளன.",
+            "id": "ta_hi_f_1"
           },
           {
-            "id": "ta_hi_f1_q2",
-            "question": "கேள்வி: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+            "question": "கேள்வி: 'माँ' (Maa / மா) என்பது எந்த வகைச் சொல்?",
             "options": [
-              "क्रिया",
-              "संज्ञा",
-              "विशेषण",
-              "सर्वनाम"
+              "क्रिया (கிரியா - வினை)",
+              "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+              "विशेषण (விஷேஷண் - உரிச்சொல்)",
+              "सर्वनाम (சர்வநாம் - பிரதிபெயர்)"
             ],
             "correct_index": 1,
-            "explanation": "\"माँ\" संज्ञा है।"
+            "explanation": "'माँ' பெயர்ச்சொல் (संज्ञा).",
+            "id": "ta_hi_f_2"
           },
           {
-            "id": "ta_hi_f1_q3",
-            "question": "கேள்வி: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+            "question": "கேள்வி: 'लड़का' (Ladka / லட்கா) என்பதன் பன்மை?",
             "options": [
-              "लड़कियाँ",
-              "लड़के",
-              "लड़कों",
-              "लड़का"
+              "लड़कियाँ (லட்கியான்)",
+              "लड़के (லட்கே)",
+              "लड़कों (லட்கோன்)",
+              "लड़का (லட்கா)"
             ],
             "correct_index": 1,
-            "explanation": "लड़का का बहुवचन लड़के है।"
+            "explanation": "'लड़का' என்பதன் பன்மை 'लड़के'.",
+            "id": "ta_hi_f_3"
           },
           {
-            "id": "ta_hi_f1_q4",
-            "question": "கேள்வி: \"सुंदर\" (Sundar) शब्द क्या है?",
+            "question": "கேள்வி: 'सुंदर' (Sundar / சுந்தர்) எந்த வகைச் சொல்?",
             "options": [
-              "विशेषण",
-              "संज्ञा",
-              "क्रिया",
-              "सर्वनाम"
+              "विशेषण (விஷேஷண் - உரிச்சொல்)",
+              "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+              "क्रिया (கிரியா - வினை)",
+              "सर्वनाम (சர்வநாம் - பிரதிபெயர்)"
             ],
             "correct_index": 0,
-            "explanation": "सुंदर विशेषण है।"
+            "explanation": "'सुंदर' உரிச்சொல் (विशेषण).",
+            "id": "ta_hi_f_4"
           },
           {
-            "id": "ta_hi_f1_q5",
-            "question": "கேள்வி: \"पढ़ना\" (Padhna) शब्द क्या है?",
+            "question": "கேள்வி: 'पढ़ रहा हूँ' (Padh raha hoon) எந்த வகைச் சொல்?",
             "options": [
-              "संज्ञा",
-              "क्रिया",
-              "विशेषण",
-              "सर्वनाम"
+              "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+              "क्रिया (கிரியா - வினை)",
+              "विशेषण (விஷேஷண் - உரிச்சொல்)",
+              "सर्वनाम (சர்வநாம் - பிரதிபெயர்)"
             ],
             "correct_index": 1,
-            "explanation": "पढ़ना क्रिया है।"
+            "explanation": "'पढ़ रहा हूँ' வினைச்சொல் (क्रिया).",
+            "id": "ta_hi_f_5"
           },
           {
-            "id": "ta_hi_f1_q6",
-            "question": "கேள்வி: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+            "question": "கேள்வி: 'किताब' (Kitab / கிதாப்) என்பதன் பொருள் என்ன?",
             "options": [
-              "कलम",
-              "कापी",
-              "पाठ",
-              "पुस्तक"
-            ],
-            "correct_index": 3,
-            "explanation": "किताब का अर्थ पुस्तक है।"
-          },
-          {
-            "id": "ta_hi_f1_q7",
-            "question": "கேள்வி: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
-            "options": [
-              "अस्पताल",
-              "पढ़ने का स्थान (स्कूल)",
-              "बाजार",
-              "पार्क"
+              "घर (கர் - இளி)",
+              "पुस्तक (புஸ்தக் - நூல்/புத்தகம்)",
+              "पेड़ (பேட் - மரம்)",
+              "सड़क (சடக் - சாலை)"
             ],
             "correct_index": 1,
-            "explanation": "विद्यालय सीखने का स्थान है।"
+            "explanation": "'किताब' என்றால் புத்தகம் (पुस्तक).",
+            "id": "ta_hi_f_6"
+          },
+          {
+            "question": "கேள்வி: 'विद्यालय' (Vidyalay / வித்யாலய்) என்பதன் பொருள் என்ன?",
+            "options": [
+              "अस्पताल (அஸ்பதால் - மருத்துவமனை)",
+              "पढ़ने की जगह (பள்ளி - கற்கும் இடம்)",
+              "बाज़ार (பாஜார் - சந்தை)",
+              "पार्क (பார்க் - பூங்கா)"
+            ],
+            "correct_index": 1,
+            "explanation": "'विद्यालय' என்றால் பள்ளி (पढ़ने की जगह).",
+            "id": "ta_hi_f_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "ta_hi_f1_q1",
-          "question": "கேள்வி: हिंदी भाषा में स्वर कितने हैं?",
+          "question": "கேள்வி: இந்தி மொழியில் உயிரெழுத்துகள் எத்தனை?",
           "options": [
-            "10",
-            "11",
-            "13",
-            "12"
+            "10 (பத்து)",
+            "11 (பதினொன்று)",
+            "13 (பதின்மூன்று)",
+            "12 (பன்னிரண்டு)"
           ],
           "correct_index": 2,
-          "explanation": "हिंदी में 13 स्वर हैं।"
+          "explanation": "இந்தி மொழியில் 13 உயிரெழுத்துகள் உள்ளன.",
+          "id": "ta_hi_f_1"
         },
         {
-          "id": "ta_hi_f1_q2",
-          "question": "கேள்வி: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+          "question": "கேள்வி: 'माँ' (Maa / மா) என்பது எந்த வகைச் சொல்?",
           "options": [
-            "क्रिया",
-            "संज्ञा",
-            "विशेषण",
-            "सर्वनाम"
+            "क्रिया (கிரியா - வினை)",
+            "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+            "विशेषण (விஷேஷண் - உரிச்சொல்)",
+            "सर्वनाम (சர்வநாம் - பிரதிபெயர்)"
           ],
           "correct_index": 1,
-          "explanation": "\"माँ\" संज्ञा है।"
+          "explanation": "'माँ' பெயர்ச்சொல் (संज्ञा).",
+          "id": "ta_hi_f_2"
         },
         {
-          "id": "ta_hi_f1_q3",
-          "question": "கேள்வி: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+          "question": "கேள்வி: 'लड़का' (Ladka / லட்கா) என்பதன் பன்மை?",
           "options": [
-            "लड़कियाँ",
-            "लड़के",
-            "लड़कों",
-            "लड़का"
+            "लड़कियाँ (லட்கியான்)",
+            "लड़के (லட்கே)",
+            "लड़कों (லட்கோன்)",
+            "लड़का (லட்கா)"
           ],
           "correct_index": 1,
-          "explanation": "लड़का का बहुवचन लड़के है।"
+          "explanation": "'लड़का' என்பதன் பன்மை 'लड़के'.",
+          "id": "ta_hi_f_3"
         },
         {
-          "id": "ta_hi_f1_q4",
-          "question": "கேள்வி: \"सुंदर\" (Sundar) शब्द क्या है?",
+          "question": "கேள்வி: 'सुंदर' (Sundar / சுந்தர்) எந்த வகைச் சொல்?",
           "options": [
-            "विशेषण",
-            "संज्ञा",
-            "क्रिया",
-            "सर्वनाम"
+            "विशेषण (விஷேஷண் - உரிச்சொல்)",
+            "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+            "क्रिया (கிரியா - வினை)",
+            "सर्वनाम (சர்வநாம் - பிரதிபெயர்)"
           ],
           "correct_index": 0,
-          "explanation": "सुंदर विशेषण है।"
+          "explanation": "'सुंदर' உரிச்சொல் (विशेषण).",
+          "id": "ta_hi_f_4"
         },
         {
-          "id": "ta_hi_f1_q5",
-          "question": "கேள்வி: \"पढ़ना\" (Padhna) शब्द क्या है?",
+          "question": "கேள்வி: 'पढ़ रहा हूँ' (Padh raha hoon) எந்த வகைச் சொல்?",
           "options": [
-            "संज्ञा",
-            "क्रिया",
-            "विशेषण",
-            "सर्वनाम"
+            "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+            "क्रिया (கிரியா - வினை)",
+            "विशेषण (விஷேஷண் - உரிச்சொல்)",
+            "सर्वनाम (சர்வநாம் - பிரதிபெயர்)"
           ],
           "correct_index": 1,
-          "explanation": "पढ़ना क्रिया है।"
+          "explanation": "'पढ़ रहा हूँ' வினைச்சொல் (क्रिया).",
+          "id": "ta_hi_f_5"
         },
         {
-          "id": "ta_hi_f1_q6",
-          "question": "கேள்வி: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+          "question": "கேள்வி: 'किताब' (Kitab / கிதாப்) என்பதன் பொருள் என்ன?",
           "options": [
-            "कलम",
-            "कापी",
-            "पाठ",
-            "पुस्तक"
-          ],
-          "correct_index": 3,
-          "explanation": "किताब का अर्थ पुस्तक है।"
-        },
-        {
-          "id": "ta_hi_f1_q7",
-          "question": "கேள்வி: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
-          "options": [
-            "अस्पताल",
-            "पढ़ने का स्थान (स्कूल)",
-            "बाजार",
-            "पार्क"
+            "घर (கர் - இளி)",
+            "पुस्तक (புஸ்தக் - நூல்/புத்தகம்)",
+            "पेड़ (பேட் - மரம்)",
+            "सड़क (சடக் - சாலை)"
           ],
           "correct_index": 1,
-          "explanation": "विद्यालय सीखने का स्थान है।"
+          "explanation": "'किताब' என்றால் புத்தகம் (पुस्तक).",
+          "id": "ta_hi_f_6"
+        },
+        {
+          "question": "கேள்வி: 'विद्यालय' (Vidyalay / வித்யாலய்) என்பதன் பொருள் என்ன?",
+          "options": [
+            "अस्पताल (அஸ்பதால் - மருத்துவமனை)",
+            "पढ़ने की जगह (பள்ளி - கற்கும் இடம்)",
+            "बाज़ार (பாஜார் - சந்தை)",
+            "पार्क (பார்க் - பூங்கா)"
+          ],
+          "correct_index": 1,
+          "explanation": "'विद्यालय' என்றால் பள்ளி (पढ़ने की जगह).",
+          "id": "ta_hi_f_7"
         }
       ]
     },
@@ -10346,100 +10346,100 @@ export const BILINGUAL_COURSES = {
       "path": "beginner",
       "lang": "hi",
       "uiLang": "ta",
-      "title": "Course 2: Beginner (வாக்கியங்களை நேரம்)",
-      "description": "நிகழ்காலம், இறந்தகாலம் மற்றும் எதிர்கால வாக்கியங்களை பயிற்சி செய்யவும்.",
-      "objective": "நிகழ்காலம், இறந்தகாலம் மற்றும் எதிர்கால வாக்கியங்களை பயிற்சி செய்யவும்.",
+      "title": "Course 2: Beginner (என் சுற்றியுள்ள சொற்கள்)",
+      "description": "Learn HI curriculum with TA UI guidance (beginner).",
+      "objective": "Learn HI curriculum with TA UI guidance (beginner).",
       "lessons": [
         {
           "id": "beginner-ta-hi-l1",
-          "title": "Course 2: Beginner (வாக்கியங்களை நேரம்)",
-          "learning_goal": "நிகழ்காலம், இறந்தகாலம் மற்றும் எதிர்கால வாக்கியங்களை பயிற்சி செய்யவும்.",
+          "title": "Course 2: Beginner (என் சுற்றியுள்ள சொற்கள்)",
+          "learning_goal": "Learn HI curriculum with TA UI guidance (beginner).",
           "teaching_content": "Practice learning HI curriculum with TA guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "ta_hi_b1_q1",
-              "question": "கேள்வி: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+              "question": "கேள்வி: \"मैं स्कूल जाता हूँ।\" (Main school jaata hoon) இது எந்த காலம்?",
               "options": [
-                "भूतकाल",
-                "वर्तमान काल",
-                "भविष्य काल",
-                "आज्ञार्थ"
+                "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+                "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+                "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+                "आज्ञार्थ (ஆக்யார்த் - கட்டளை)"
               ],
               "correct_index": 1,
-              "explanation": "यह वर्तमान काल है।"
+              "explanation": "Present Tense (நிகழ்காலம்).",
+              "id": "ta_hi_b_1"
             },
             {
-              "id": "ta_hi_b1_q2",
-              "question": "கேள்வி: \"वह कल आया।\" यह कौन सा काल है?",
+              "question": "கேள்வி: \"वह कल आया था।\" (Wah kal aaya tha) இது எந்த காலம்?",
               "options": [
-                "भूतकाल",
-                "वर्तमान काल",
-                "भविष्य काल",
-                "कोई नहीं"
+                "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+                "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+                "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+                "संदेह (சந்தேஹ்)"
               ],
               "correct_index": 0,
-              "explanation": "यह भूतकाल है।"
+              "explanation": "Past Tense (இறந்தகாலம்).",
+              "id": "ta_hi_b_2"
             },
             {
-              "id": "ta_hi_b1_q3",
-              "question": "கேள்வி: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+              "question": "கேள்வி: \"मैं कल जाऊँगा।\" (Main kal jaaunga) இது எந்த காலம்?",
               "options": [
-                "वर्तमान काल",
-                "भविष्य काल",
-                "भूतकाल",
-                "संज्ञा"
+                "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+                "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+                "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+                "संज्ञा (சங்யா - பெயர்ச்சொல்)"
               ],
               "correct_index": 1,
-              "explanation": "यह भविष्य काल है।"
+              "explanation": "Future Tense (எதிர்காலம்).",
+              "id": "ta_hi_b_3"
             },
             {
-              "id": "ta_hi_b1_q4",
-              "question": "கேள்வி: \"वह गा रही है।\" यह कौन सा काल है?",
+              "question": "கேள்வி: \"वह गाना गा रही है।\" (Wah gaana gaa rahi hai) இது எந்த காலம்?",
               "options": [
-                "वर्तमान काल",
-                "भूतकाल",
-                "भविष्य काल",
-                "विशेषण"
+                "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+                "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+                "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+                "विशेषण (விஷேஷண்)"
               ],
               "correct_index": 0,
-              "explanation": "यह वर्तमान काल है।"
+              "explanation": "Present Tense (நிகழ்காலம்).",
+              "id": "ta_hi_b_4"
             },
             {
-              "id": "ta_hi_b1_q5",
-              "question": "கேள்வி: कौन सा शब्द भूतकाल दर्शाता है?",
+              "question": "கேள்வி: \"उसने खाया।\" (Usne khaaya) எந்த காலத்தைக் குறிக்கிறது?",
               "options": [
-                "खाना",
-                "खाया",
-                "खा रहा",
-                "खाएगा"
+                "वर्तमान काल (வர்த்மான் காள்)",
+                "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+                "भविष्य काल (பவிஷ்ய காள்)",
+                "कोई नहीं (எதுவுமில்லை)"
               ],
               "correct_index": 1,
-              "explanation": "खाया भूतकाल है।"
+              "explanation": "Past Tense (இறந்தகாலம்).",
+              "id": "ta_hi_b_5"
             },
             {
-              "id": "ta_hi_b1_q6",
-              "question": "கேள்வி: कौन सा शब्द भविष्य काल दर्शाता है?",
+              "question": "கேள்வி: \"पढ़ूँगा\" (Padhunga) எந்த காலத்தைச் சேர்ந்தது?",
               "options": [
-                "पढ़ना",
-                "पढ़ रहा",
-                "पढ़ूँगा",
-                "पढ़ता"
+                "भूतकाल (பூத்காள்)",
+                "वर्तमान काल (வர்த்மான் காள்)",
+                "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+                "विशेषण (விஷேஷண்)"
               ],
               "correct_index": 2,
-              "explanation": "पढ़ूँगा भविष्य काल है।"
+              "explanation": "Future Tense (எதிர்காலம்).",
+              "id": "ta_hi_b_6"
             },
             {
-              "id": "ta_hi_b1_q7",
-              "question": "கேள்வி: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+              "question": "கேள்வி: \"खेल रहा है\" (Khel raha hai) எந்த காலத்திற்கு உதாரணம்?",
               "options": [
-                "वर्तमान काल",
-                "भूतकाल",
-                "भविष्य काल",
-                "संज्ञा"
+                "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+                "भूतकाल (பூத்காள்)",
+                "भविष्य काल (பவிஷ்ய காள்)",
+                "संज्ञा (சங்யா)"
               ],
               "correct_index": 0,
-              "explanation": "यह वर्तमान काल है।"
+              "explanation": "Present Tense (நிகழ்காலம்).",
+              "id": "ta_hi_b_7"
             }
           ]
         }
@@ -10448,175 +10448,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "ta_hi_b1_q1",
-            "question": "கேள்வி: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+            "question": "கேள்வி: \"मैं स्कूल जाता हूँ।\" (Main school jaata hoon) இது எந்த காலம்?",
             "options": [
-              "भूतकाल",
-              "वर्तमान काल",
-              "भविष्य काल",
-              "आज्ञार्थ"
+              "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+              "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+              "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+              "आज्ञार्थ (ஆக்யார்த் - கட்டளை)"
             ],
             "correct_index": 1,
-            "explanation": "यह वर्तमान काल है।"
+            "explanation": "Present Tense (நிகழ்காலம்).",
+            "id": "ta_hi_b_1"
           },
           {
-            "id": "ta_hi_b1_q2",
-            "question": "கேள்வி: \"वह कल आया।\" यह कौन सा काल है?",
+            "question": "கேள்வி: \"वह कल आया था।\" (Wah kal aaya tha) இது எந்த காலம்?",
             "options": [
-              "भूतकाल",
-              "वर्तमान काल",
-              "भविष्य काल",
-              "कोई नहीं"
+              "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+              "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+              "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+              "संदेह (சந்தேஹ்)"
             ],
             "correct_index": 0,
-            "explanation": "यह भूतकाल है।"
+            "explanation": "Past Tense (இறந்தகாலம்).",
+            "id": "ta_hi_b_2"
           },
           {
-            "id": "ta_hi_b1_q3",
-            "question": "கேள்வி: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+            "question": "கேள்வி: \"मैं कल जाऊँगा।\" (Main kal jaaunga) இது எந்த காலம்?",
             "options": [
-              "वर्तमान काल",
-              "भविष्य काल",
-              "भूतकाल",
-              "संज्ञा"
+              "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+              "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+              "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+              "संज्ञा (சங்யா - பெயர்ச்சொல்)"
             ],
             "correct_index": 1,
-            "explanation": "यह भविष्य काल है।"
+            "explanation": "Future Tense (எதிர்காலம்).",
+            "id": "ta_hi_b_3"
           },
           {
-            "id": "ta_hi_b1_q4",
-            "question": "கேள்வி: \"वह गा रही है।\" यह कौन सा काल है?",
+            "question": "கேள்வி: \"वह गाना गा रही है।\" (Wah gaana gaa rahi hai) இது எந்த காலம்?",
             "options": [
-              "वर्तमान काल",
-              "भूतकाल",
-              "भविष्य काल",
-              "विशेषण"
+              "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+              "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+              "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+              "विशेषण (விஷேஷண்)"
             ],
             "correct_index": 0,
-            "explanation": "यह वर्तमान काल है।"
+            "explanation": "Present Tense (நிகழ்காலம்).",
+            "id": "ta_hi_b_4"
           },
           {
-            "id": "ta_hi_b1_q5",
-            "question": "கேள்வி: कौन सा शब्द भूतकाल दर्शाता है?",
+            "question": "கேள்வி: \"उसने खाया।\" (Usne khaaya) எந்த காலத்தைக் குறிக்கிறது?",
             "options": [
-              "खाना",
-              "खाया",
-              "खा रहा",
-              "खाएगा"
+              "वर्तमान काल (வர்த்மான் காள்)",
+              "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+              "भविष्य काल (பவிஷ்ய காள்)",
+              "कोई नहीं (எதுவுமில்லை)"
             ],
             "correct_index": 1,
-            "explanation": "खाया भूतकाल है।"
+            "explanation": "Past Tense (இறந்தகாலம்).",
+            "id": "ta_hi_b_5"
           },
           {
-            "id": "ta_hi_b1_q6",
-            "question": "கேள்வி: कौन सा शब्द भविष्य काल दर्शाता है?",
+            "question": "கேள்வி: \"पढ़ूँगा\" (Padhunga) எந்த காலத்தைச் சேர்ந்தது?",
             "options": [
-              "पढ़ना",
-              "पढ़ रहा",
-              "पढ़ूँगा",
-              "पढ़ता"
+              "भूतकाल (பூத்காள்)",
+              "वर्तमान काल (வர்த்மான் காள்)",
+              "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+              "विशेषण (விஷேஷண்)"
             ],
             "correct_index": 2,
-            "explanation": "पढ़ूँगा भविष्य काल है।"
+            "explanation": "Future Tense (எதிர்காலம்).",
+            "id": "ta_hi_b_6"
           },
           {
-            "id": "ta_hi_b1_q7",
-            "question": "கேள்வி: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+            "question": "கேள்வி: \"खेल रहा है\" (Khel raha hai) எந்த காலத்திற்கு உதாரணம்?",
             "options": [
-              "वर्तमान काल",
-              "भूतकाल",
-              "भविष्य काल",
-              "संज्ञा"
+              "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+              "भूतकाल (பூத்காள்)",
+              "भविष्य काल (பவிஷ்ய காள்)",
+              "संज्ञा (சங்யா)"
             ],
             "correct_index": 0,
-            "explanation": "यह वर्तमान काल है।"
+            "explanation": "Present Tense (நிகழ்காலம்).",
+            "id": "ta_hi_b_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "ta_hi_b1_q1",
-          "question": "கேள்வி: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+          "question": "கேள்வி: \"मैं स्कूल जाता हूँ।\" (Main school jaata hoon) இது எந்த காலம்?",
           "options": [
-            "भूतकाल",
-            "वर्तमान काल",
-            "भविष्य काल",
-            "आज्ञार्थ"
+            "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+            "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+            "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+            "आज्ञार्थ (ஆக்யார்த் - கட்டளை)"
           ],
           "correct_index": 1,
-          "explanation": "यह वर्तमान काल है।"
+          "explanation": "Present Tense (நிகழ்காலம்).",
+          "id": "ta_hi_b_1"
         },
         {
-          "id": "ta_hi_b1_q2",
-          "question": "கேள்வி: \"वह कल आया।\" यह कौन सा काल है?",
+          "question": "கேள்வி: \"वह कल आया था।\" (Wah kal aaya tha) இது எந்த காலம்?",
           "options": [
-            "भूतकाल",
-            "वर्तमान काल",
-            "भविष्य काल",
-            "कोई नहीं"
+            "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+            "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+            "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+            "संदेह (சந்தேஹ்)"
           ],
           "correct_index": 0,
-          "explanation": "यह भूतकाल है।"
+          "explanation": "Past Tense (இறந்தகாலம்).",
+          "id": "ta_hi_b_2"
         },
         {
-          "id": "ta_hi_b1_q3",
-          "question": "கேள்வி: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+          "question": "கேள்வி: \"मैं कल जाऊँगा।\" (Main kal jaaunga) இது எந்த காலம்?",
           "options": [
-            "वर्तमान काल",
-            "भविष्य काल",
-            "भूतकाल",
-            "संज्ञा"
+            "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+            "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+            "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+            "संज्ञा (சங்யா - பெயர்ச்சொல்)"
           ],
           "correct_index": 1,
-          "explanation": "यह भविष्य काल है।"
+          "explanation": "Future Tense (எதிர்காலம்).",
+          "id": "ta_hi_b_3"
         },
         {
-          "id": "ta_hi_b1_q4",
-          "question": "கேள்வி: \"वह गा रही है।\" यह कौन सा काल है?",
+          "question": "கேள்வி: \"वह गाना गा रही है।\" (Wah gaana gaa rahi hai) இது எந்த காலம்?",
           "options": [
-            "वर्तमान काल",
-            "भूतकाल",
-            "भविष्य काल",
-            "विशेषण"
+            "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+            "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+            "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+            "विशेषण (விஷேஷண்)"
           ],
           "correct_index": 0,
-          "explanation": "यह वर्तमान काल है।"
+          "explanation": "Present Tense (நிகழ்காலம்).",
+          "id": "ta_hi_b_4"
         },
         {
-          "id": "ta_hi_b1_q5",
-          "question": "கேள்வி: कौन सा शब्द भूतकाल दर्शाता है?",
+          "question": "கேள்வி: \"उसने खाया।\" (Usne khaaya) எந்த காலத்தைக் குறிக்கிறது?",
           "options": [
-            "खाना",
-            "खाया",
-            "खा रहा",
-            "खाएगा"
+            "वर्तमान काल (வர்த்மான் காள்)",
+            "भूतकाल (பூத்காள் - இறந்தகாலம்)",
+            "भविष्य काल (பவிஷ்ய காள்)",
+            "कोई नहीं (எதுவுமில்லை)"
           ],
           "correct_index": 1,
-          "explanation": "खाया भूतकाल है।"
+          "explanation": "Past Tense (இறந்தகாலம்).",
+          "id": "ta_hi_b_5"
         },
         {
-          "id": "ta_hi_b1_q6",
-          "question": "கேள்வி: कौन सा शब्द भविष्य काल दर्शाता है?",
+          "question": "கேள்வி: \"पढ़ूँगा\" (Padhunga) எந்த காலத்தைச் சேர்ந்தது?",
           "options": [
-            "पढ़ना",
-            "पढ़ रहा",
-            "पढ़ूँगा",
-            "पढ़ता"
+            "भूतकाल (பூத்காள்)",
+            "वर्तमान काल (வர்த்மான் காள்)",
+            "भविष्य काल (பவிஷ்ய காள் - எதிர்காலம்)",
+            "विशेषण (விஷேஷண்)"
           ],
           "correct_index": 2,
-          "explanation": "पढ़ूँगा भविष्य काल है।"
+          "explanation": "Future Tense (எதிர்காலம்).",
+          "id": "ta_hi_b_6"
         },
         {
-          "id": "ta_hi_b1_q7",
-          "question": "கேள்வி: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+          "question": "கேள்வி: \"खेल रहा है\" (Khel raha hai) எந்த காலத்திற்கு உதாரணம்?",
           "options": [
-            "वर्तमान काल",
-            "भूतकाल",
-            "भविष्य काल",
-            "संज्ञा"
+            "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
+            "भूतकाल (பூத்காள்)",
+            "भविष्य काल (பவிஷ்ய காள்)",
+            "संज्ञा (சங்யா)"
           ],
           "correct_index": 0,
-          "explanation": "यह वर्तमान काल है।"
+          "explanation": "Present Tense (நிகழ்காலம்).",
+          "id": "ta_hi_b_7"
         }
       ]
     },
@@ -10625,100 +10625,100 @@ export const BILINGUAL_COURSES = {
       "path": "intermediate",
       "lang": "hi",
       "uiLang": "ta",
-      "title": "Course 3: Intermediate (கருத்துகளை இணைத்தல்)",
-      "description": "மற்றும், ஆனால், அதனால் போன்ற இணைப்புச் சொற்களைக் கற்கவும்.",
-      "objective": "மற்றும், ஆனால், அதனால் போன்ற இணைப்புச் சொற்களைக் கற்கவும்.",
+      "title": "Course 3: Intermediate (சொற்களஞ்சியத்தின் புதிய அடிகள்)",
+      "description": "Learn HI curriculum with TA UI guidance (intermediate).",
+      "objective": "Learn HI curriculum with TA UI guidance (intermediate).",
       "lessons": [
         {
           "id": "intermediate-ta-hi-l1",
-          "title": "Course 3: Intermediate (கருத்துகளை இணைத்தல்)",
-          "learning_goal": "மற்றும், ஆனால், அதனால் போன்ற இணைப்புச் சொற்களைக் கற்கவும்.",
+          "title": "Course 3: Intermediate (சொற்களஞ்சியத்தின் புதிய அடிகள்)",
+          "learning_goal": "Learn HI curriculum with TA UI guidance (intermediate).",
           "teaching_content": "Practice learning HI curriculum with TA guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "ta_hi_i1_q1",
-              "question": "கேள்வி: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+              "question": "கேள்வி: \"राम और श्याम स्कूल गए।\" இதில் இணைப்புச் சொல் எது?",
               "options": [
-                "लेकिन",
-                "और",
-                "क्योंकि",
-                "या"
+                "लेकिन (லேகின்)",
+                "और (அவுர்)",
+                "क्योंकि (க்யோங்கி)",
+                "या (யா)"
               ],
               "correct_index": 1,
-              "explanation": "और विचारों को जोड़ता है।"
+              "explanation": "'और' இணைப்புச் சொல்.",
+              "id": "ta_hi_i_1"
             },
             {
-              "id": "ta_hi_i1_q2",
-              "question": "கேள்வி: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+              "question": "கேள்வி: \"माता और पिता\" இல் இணைப்புச் சொல் எது?",
               "options": [
-                "माता",
-                "और",
-                "पिता",
-                "परिवार"
+                "माता (மாதா)",
+                "और (அவுர்)",
+                "पिता (பிதா)",
+                "में (மே)"
               ],
               "correct_index": 1,
-              "explanation": "और संयोजक है।"
+              "explanation": "'और' இணைப்புச் சொல்.",
+              "id": "ta_hi_i_2"
             },
             {
-              "id": "ta_hi_i1_q3",
-              "question": "கேள்வி: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+              "question": "கேள்வி: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" இதில் இணைப்புச் சொல் எது?",
               "options": [
-                "लेकिन",
-                "पढ़ाई",
-                "पास",
-                "वह"
+                "लेकिन (லேகின்)",
+                "पढ़ा (படா)",
+                "पास (பாஸ்)",
+                "नहीं (நஹீன்)"
               ],
               "correct_index": 0,
-              "explanation": "लेकिन विरोधी संयोजक है।"
+              "explanation": "'लेकिन' இணைப்புச் சொல்.",
+              "id": "ta_hi_i_3"
             },
             {
-              "id": "ta_hi_i1_q4",
-              "question": "கேள்வி: \"और\" एक ______ है।",
+              "question": "கேள்வி: \"और\" (Aur) என்பது எந்த வகைச் சொல்?",
               "options": [
                 "संयोजक (சன்யோஜக் - இணைப்பு)",
-                "संज्ञा",
-                "क्रिया",
-                "विशेषण"
+                "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+                "क्रिया (கிரியா - வினை)",
+                "विशेषण (விஷேஷண் - உரிச்சொல்)"
               ],
               "correct_index": 0,
-              "explanation": "और संयोजक है।"
+              "explanation": "'और' இணைப்புச் சொல் (Conjunction).",
+              "id": "ta_hi_i_4"
             },
             {
-              "id": "ta_hi_i1_q5",
-              "question": "கேள்வி: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+              "question": "கேள்வி: \"इसलिए\" (Isliye) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
               "options": [
-                "कारण बताने के लिए",
-                "व्यक्ति के नाम के लिए",
-                "क्रिया बताने के लिए",
-                "समय बताने के लिए"
+                "कारण और परिणाम बताने के लिए (காரணம் மற்றும் விளைவைக் கூற)",
+                "संज्ञा के रूप में (பெயர்ச்சொல்லாக)",
+                "क्रिया के रूप में (வினைச்சொல்லாக)",
+                "समय बताने के लिए (நேரத்தைக் கூற)"
               ],
               "correct_index": 0,
-              "explanation": "क्योंकि कारण बताता है।"
+              "explanation": "'इसलिए' காரணம் மற்றும் விளைவைக் கூற பயன்படுகிறது.",
+              "id": "ta_hi_i_5"
             },
             {
-              "id": "ta_hi_i1_q6",
-              "question": "கேள்வி: निम्न में से कौन सा संयोजक है?",
+              "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
               "options": [
-                "और",
-                "घर",
-                "किताब",
-                "दौड़ना"
+                "और (அவுர்)",
+                "किताब (கிதாப்)",
+                "घर (கர்)",
+                "दौड़ना (தௌட்னா)"
               ],
               "correct_index": 0,
-              "explanation": "और संयोजक है।"
+              "explanation": "'और' இணைப்புச் சொல்.",
+              "id": "ta_hi_i_6"
             },
             {
-              "id": "ta_hi_i1_q7",
-              "question": "கேள்வி: \"या\" शब्द का क्या अर्थ है?",
+              "question": "கேள்வி: \"या\" (Yaa) என்பதன் பொருள் என்ன?",
               "options": [
-                "दो विकल्पों में से एक का चयन",
-                "स्थान",
-                "समय",
-                "क्रिया"
+                "दो विकल्पों में से एक (இரண்டு விருப்பங்களில் ஒன்று)",
+                "समय (நேரம்)",
+                "स्थान (இடம்)",
+                "क्रिया (வினை)"
               ],
               "correct_index": 0,
-              "explanation": "या विकल्प दर्शाता है।"
+              "explanation": "'या' என்றால் அல்லது (Do vikalpon me se ek).",
+              "id": "ta_hi_i_7"
             }
           ]
         }
@@ -10727,175 +10727,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "ta_hi_i1_q1",
-            "question": "கேள்வி: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+            "question": "கேள்வி: \"राम और श्याम स्कूल गए।\" இதில் இணைப்புச் சொல் எது?",
             "options": [
-              "लेकिन",
-              "और",
-              "क्योंकि",
-              "या"
+              "लेकिन (லேகின்)",
+              "और (அவுர்)",
+              "क्योंकि (க்யோங்கி)",
+              "या (யா)"
             ],
             "correct_index": 1,
-            "explanation": "और विचारों को जोड़ता है।"
+            "explanation": "'और' இணைப்புச் சொல்.",
+            "id": "ta_hi_i_1"
           },
           {
-            "id": "ta_hi_i1_q2",
-            "question": "கேள்வி: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+            "question": "கேள்வி: \"माता और पिता\" இல் இணைப்புச் சொல் எது?",
             "options": [
-              "माता",
-              "और",
-              "पिता",
-              "परिवार"
+              "माता (மாதா)",
+              "और (அவுர்)",
+              "पिता (பிதா)",
+              "में (மே)"
             ],
             "correct_index": 1,
-            "explanation": "और संयोजक है।"
+            "explanation": "'और' இணைப்புச் சொல்.",
+            "id": "ta_hi_i_2"
           },
           {
-            "id": "ta_hi_i1_q3",
-            "question": "கேள்வி: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+            "question": "கேள்வி: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" இதில் இணைப்புச் சொல் எது?",
             "options": [
-              "लेकिन",
-              "पढ़ाई",
-              "पास",
-              "वह"
+              "लेकिन (லேகின்)",
+              "पढ़ा (படா)",
+              "पास (பாஸ்)",
+              "नहीं (நஹீன்)"
             ],
             "correct_index": 0,
-            "explanation": "लेकिन विरोधी संयोजक है।"
+            "explanation": "'लेकिन' இணைப்புச் சொல்.",
+            "id": "ta_hi_i_3"
           },
           {
-            "id": "ta_hi_i1_q4",
-            "question": "கேள்வி: \"और\" एक ______ है।",
+            "question": "கேள்வி: \"और\" (Aur) என்பது எந்த வகைச் சொல்?",
             "options": [
-              "संयोजक (Conjunction)",
-              "संज्ञा",
-              "क्रिया",
-              "विशेषण"
+              "संयोजक (சன்யோஜக் - இணைப்பு)",
+              "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+              "क्रिया (கிரியா - வினை)",
+              "विशेषण (விஷேஷண் - உரிச்சொல்)"
             ],
             "correct_index": 0,
-            "explanation": "और संयोजक है।"
+            "explanation": "'और' இணைப்புச் சொல் (Conjunction).",
+            "id": "ta_hi_i_4"
           },
           {
-            "id": "ta_hi_i1_q5",
-            "question": "கேள்வி: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+            "question": "கேள்வி: \"इसलिए\" (Isliye) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
             "options": [
-              "कारण बताने के लिए",
-              "व्यक्ति के नाम के लिए",
-              "क्रिया बताने के लिए",
-              "समय बताने के लिए"
+              "कारण और परिणाम बताने के लिए (காரணம் மற்றும் விளைவைக் கூற)",
+              "संज्ञा के रूप में (பெயர்ச்சொல்லாக)",
+              "क्रिया के रूप में (வினைச்சொல்லாக)",
+              "समय बताने के लिए (நேரத்தைக் கூற)"
             ],
             "correct_index": 0,
-            "explanation": "क्योंकि कारण बताता है।"
+            "explanation": "'इसलिए' காரணம் மற்றும் விளைவைக் கூற பயன்படுகிறது.",
+            "id": "ta_hi_i_5"
           },
           {
-            "id": "ta_hi_i1_q6",
-            "question": "கேள்வி: निम्न में से कौन सा संयोजक है?",
+            "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
             "options": [
-              "और",
-              "घर",
-              "किताब",
-              "दौड़ना"
+              "और (அவுர்)",
+              "किताब (கிதாப்)",
+              "घर (கர்)",
+              "दौड़ना (தௌட்னா)"
             ],
             "correct_index": 0,
-            "explanation": "और संयोजक है।"
+            "explanation": "'और' இணைப்புச் சொல்.",
+            "id": "ta_hi_i_6"
           },
           {
-            "id": "ta_hi_i1_q7",
-            "question": "கேள்வி: \"या\" शब्द का क्या अर्थ है?",
+            "question": "கேள்வி: \"या\" (Yaa) என்பதன் பொருள் என்ன?",
             "options": [
-              "दो विकल्पों में से एक का चयन",
-              "स्थान",
-              "समय",
-              "क्रिया"
+              "दो विकल्पों में से एक (இரண்டு விருப்பங்களில் ஒன்று)",
+              "समय (நேரம்)",
+              "स्थान (இடம்)",
+              "क्रिया (வினை)"
             ],
             "correct_index": 0,
-            "explanation": "या विकल्प दर्शाता है।"
+            "explanation": "'या' என்றால் அல்லது (Do vikalpon me se ek).",
+            "id": "ta_hi_i_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "ta_hi_i1_q1",
-          "question": "கேள்வி: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+          "question": "கேள்வி: \"राम और श्याम स्कूल गए।\" இதில் இணைப்புச் சொல் எது?",
           "options": [
-            "लेकिन",
-            "और",
-            "क्योंकि",
-            "या"
+            "लेकिन (லேகின்)",
+            "और (அவுர்)",
+            "क्योंकि (க்யோங்கி)",
+            "या (யா)"
           ],
           "correct_index": 1,
-          "explanation": "और विचारों को जोड़ता है।"
+          "explanation": "'और' இணைப்புச் சொல்.",
+          "id": "ta_hi_i_1"
         },
         {
-          "id": "ta_hi_i1_q2",
-          "question": "கேள்வி: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+          "question": "கேள்வி: \"माता और पिता\" இல் இணைப்புச் சொல் எது?",
           "options": [
-            "माता",
-            "और",
-            "पिता",
-            "परिवार"
+            "माता (மாதா)",
+            "और (அவுர்)",
+            "पिता (பிதா)",
+            "में (மே)"
           ],
           "correct_index": 1,
-          "explanation": "और संयोजक है।"
+          "explanation": "'और' இணைப்புச் சொல்.",
+          "id": "ta_hi_i_2"
         },
         {
-          "id": "ta_hi_i1_q3",
-          "question": "கேள்வி: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+          "question": "கேள்வி: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" இதில் இணைப்புச் சொல் எது?",
           "options": [
-            "लेकिन",
-            "पढ़ाई",
-            "पास",
-            "वह"
+            "लेकिन (லேகின்)",
+            "पढ़ा (படா)",
+            "पास (பாஸ்)",
+            "नहीं (நஹீன்)"
           ],
           "correct_index": 0,
-          "explanation": "लेकिन विरोधी संयोजक है।"
+          "explanation": "'लेकिन' இணைப்புச் சொல்.",
+          "id": "ta_hi_i_3"
         },
         {
-          "id": "ta_hi_i1_q4",
-          "question": "கேள்வி: \"और\" एक ______ है।",
+          "question": "கேள்வி: \"और\" (Aur) என்பது எந்த வகைச் சொல்?",
           "options": [
-            "संयोजक (Conjunction)",
-            "संज्ञा",
-            "क्रिया",
-            "विशेषण"
+            "संयोजक (சன்யோஜக் - இணைப்பு)",
+            "संज्ञा (சங்யா - பெயர்ச்சொல்)",
+            "क्रिया (கிரியா - வினை)",
+            "विशेषण (விஷேஷண் - உரிச்சொல்)"
           ],
           "correct_index": 0,
-          "explanation": "और संयोजक है।"
+          "explanation": "'और' இணைப்புச் சொல் (Conjunction).",
+          "id": "ta_hi_i_4"
         },
         {
-          "id": "ta_hi_i1_q5",
-          "question": "கேள்வி: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+          "question": "கேள்வி: \"इसलिए\" (Isliye) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
           "options": [
-            "कारण बताने के लिए",
-            "व्यक्ति के नाम के लिए",
-            "क्रिया बताने के लिए",
-            "समय बताने के लिए"
+            "कारण और परिणाम बताने के लिए (காரணம் மற்றும் விளைவைக் கூற)",
+            "संज्ञा के रूप में (பெயர்ச்சொல்லாக)",
+            "क्रिया के रूप में (வினைச்சொல்லாக)",
+            "समय बताने के लिए (நேரத்தைக் கூற)"
           ],
           "correct_index": 0,
-          "explanation": "क्योंकि कारण बताता है।"
+          "explanation": "'इसलिए' காரணம் மற்றும் விளைவைக் கூற பயன்படுகிறது.",
+          "id": "ta_hi_i_5"
         },
         {
-          "id": "ta_hi_i1_q6",
-          "question": "கேள்வி: निम्न में से कौन सा संयोजक है?",
+          "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
           "options": [
-            "और",
-            "घर",
-            "किताब",
-            "दौड़ना"
+            "और (அவுர்)",
+            "किताब (கிதாப்)",
+            "घर (கர்)",
+            "दौड़ना (தௌட்னா)"
           ],
           "correct_index": 0,
-          "explanation": "और संयोजक है।"
+          "explanation": "'और' இணைப்புச் சொல்.",
+          "id": "ta_hi_i_6"
         },
         {
-          "id": "ta_hi_i1_q7",
-          "question": "கேள்வி: \"या\" शब्द का क्या अर्थ है?",
+          "question": "கேள்வி: \"या\" (Yaa) என்பதன் பொருள் என்ன?",
           "options": [
-            "दो विकल्पों में से एक का चयन",
-            "स्थान",
-            "समय",
-            "क्रिया"
+            "दो विकल्पों में से एक (இரண்டு விருப்பங்களில் ஒன்று)",
+            "समय (நேரம்)",
+            "स्थान (இடம்)",
+            "क्रिया (வினை)"
           ],
           "correct_index": 0,
-          "explanation": "या विकल्प दर्शाता है।"
+          "explanation": "'या' என்றால் அல்லது (Do vikalpon me se ek).",
+          "id": "ta_hi_i_7"
         }
       ]
     },
@@ -10904,43 +10904,42 @@ export const BILINGUAL_COURSES = {
       "path": "advanced",
       "lang": "hi",
       "uiLang": "ta",
-      "title": "Course 4: Advanced (புரிதலுக்கான வாசிப்பு)",
-      "description": "சிறிய பத்திகளைப் படித்து வினாக்களுக்கு விடையளிக்கவும்.",
-      "objective": "சிறிய பத்திகளைப் படித்து வினாக்களுக்கு விடையளிக்கவும்.",
+      "title": "Course 4: Advanced (என் உலகச் சொற்கள்)",
+      "description": "Learn HI curriculum with TA UI guidance (advanced).",
+      "objective": "Learn HI curriculum with TA UI guidance (advanced).",
       "lessons": [
         {
           "id": "advanced-ta-hi-l1",
-          "title": "Course 4: Advanced (புரிதலுக்கான வாசிப்பு)",
-          "learning_goal": "சிறிய பத்திகளைப் படித்து வினாக்களுக்கு விடையளிக்கவும்.",
+          "title": "Course 4: Advanced (என் உலகச் சொற்கள்)",
+          "learning_goal": "Learn HI curriculum with TA UI guidance (advanced).",
           "teaching_content": "Practice learning HI curriculum with TA guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "ta_hi_a1_q1",
-              "question": "கேள்வி: राहुल कहाँ जाता है?",
+              "question": "கேள்வி: राहुल (ராஹுல்) எங்கே செல்கிறான்?",
               "options": [
-                "बाजार",
-                "स्कूल",
-                "पार्क",
-                "घर"
+                "बाज़ार (பாஜார்)",
+                "स्कूल (ஸ்கூல்)",
+                "पार्क (பார்க்)",
+                "घर (கர்)"
               ],
               "correct_index": 1,
-              "explanation": "राहुल स्कूल जाता है।"
+              "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (स्कूल).",
+              "id": "ta_hi_a_1"
             },
             {
-              "id": "ta_hi_a1_q2",
-              "question": "கேள்வி: राहुल को क्या पसंद है?",
+              "question": "கேள்வி: राहुल (ராஹுல்) க்கு என்ன பிடிக்கும்?",
               "options": [
-                "खेल खेलना",
-                "किताबें पढ़ना",
-                "सोना",
-                "टीवी देखना"
+                "खेलना (கேல்னா)",
+                "किताबें पढ़ना (கிதாபேன் படனா - புத்தகம் படித்தல்)",
+                "सोना (சோனா)",
+                "टीवी देखना (டீவி தேக்னா)"
               ],
               "correct_index": 1,
-              "explanation": "राहुल को किताबें पढ़ना पसंद है।"
+              "explanation": "ராஹுலுக்கு புத்தகம் படித்தல் பிடிக்கும்.",
+              "id": "ta_hi_a_2"
             },
             {
-              "id": "ta_hi_a1_q3",
               "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
               "options": [
                 "रीना (ரீனா)",
@@ -10949,22 +10948,22 @@ export const BILINGUAL_COURSES = {
                 "सीमा (சீமா)"
               ],
               "correct_index": 1,
-              "explanation": "பகுதி ராஹுல் பற்றியது (राहुल)."
+              "explanation": "பகுதி ராஹுல் பற்றியது (राहुल).",
+              "id": "ta_hi_a_3"
             },
             {
-              "id": "ta_hi_a1_q4",
               "question": "கேள்வி: 'रोज़' (ரோஜ்) என்பதன் பொருள்?",
               "options": [
-                "हर दिन (ஹர் தின் - ప్రతి రోజు)",
+                "हर दिन (ஹர் தின்)",
                 "कल (கல்)",
                 "कभी नहीं (கபீ நஹீன்)",
                 "अगले सप्ताह (அக்லே சப்தாஹ்)"
               ],
               "correct_index": 0,
-              "explanation": "'रोज़' என்றால் ప్రతి రోజు (हर दिन)."
+              "explanation": "'रोज़' என்றால் ప్రతి రోజు (हर दिन).",
+              "id": "ta_hi_a_4"
             },
             {
-              "id": "ta_hi_a1_q5",
               "question": "கேள்வி: राहुल (ராஹுல்) என்ன செய்கிறான்?",
               "options": [
                 "स्कूल जाता है (ஸ்கூல் ஜாதா ஹை)",
@@ -10973,10 +10972,10 @@ export const BILINGUAL_COURSES = {
                 "अस्पताल जाता है (அஸ்பதால் ஜாதா ஹை)"
               ],
               "correct_index": 0,
-              "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (स्कूल जाता है)."
+              "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (स्कूल जाता है).",
+              "id": "ta_hi_a_5"
             },
             {
-              "id": "ta_hi_a1_q6",
               "question": "கேள்வி: பகுதியின் முக்கிய கருத்து?",
               "options": [
                 "पढ़ाई और स्कूल की आदत (படாயீ அவுர் ஸ்கூல் கீ ஆதத்)",
@@ -10985,11 +10984,10 @@ export const BILINGUAL_COURSES = {
                 "पर्वत (பர்வத்)"
               ],
               "correct_index": 0,
-              "explanation": "मुख्य विचार स्कूल और पठन है।",
-              "explanation:": "முக்கிய கருத்து படிப்பு மற்றும் பள்ளி பழக்கம்."
+              "explanation": "முக்கிய கருத்து படிப்பு மற்றும் பள்ளி பழக்கம்.",
+              "id": "ta_hi_a_6"
             },
             {
-              "id": "ta_hi_a1_q7",
               "question": "கேள்வி: சரியான கூற்று எது?",
               "options": [
                 "राहुल को किताबें पढ़ना पसंद है। (ராஹுல் கோ கிதாபேன் படனா பசந்த் ஹை.)",
@@ -10998,7 +10996,8 @@ export const BILINGUAL_COURSES = {
                 "राहुल रोज़ सोता रहता है। (ராஹுல் ரோஜ் சோதா ரஹ்தா ஹை.)"
               ],
               "correct_index": 0,
-              "explanation": "சரியான கூற்று: राहुल को किताबें पढ़ना पसंद है।"
+              "explanation": "சரியான கூற்று: राहुल को किताबें पढ़ना पसंद है।",
+              "id": "ta_hi_a_7"
             }
           ]
         }
@@ -11007,31 +11006,30 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "ta_hi_a1_q1",
-            "question": "கேள்வி: राहुल कहाँ जाता है?",
+            "question": "கேள்வி: राहुल (ராஹுல்) எங்கே செல்கிறான்?",
             "options": [
-              "बाजार",
-              "स्कूल",
-              "पार्क",
-              "घर"
+              "बाज़ार (பாஜார்)",
+              "स्कूल (ஸ்கூல்)",
+              "पार्क (பார்க்)",
+              "घर (கர்)"
             ],
             "correct_index": 1,
-            "explanation": "राहुल स्कूल जाता है।"
+            "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (स्कूल).",
+            "id": "ta_hi_a_1"
           },
           {
-            "id": "ta_hi_a1_q2",
-            "question": "கேள்வி: राहुल को क्या पसंद है?",
+            "question": "கேள்வி: राहुल (ராஹுல்) க்கு என்ன பிடிக்கும்?",
             "options": [
-              "खेल खेलना",
-              "किताबें पढ़ना",
-              "सोना",
-              "टीवी देखना"
+              "खेलना (கேல்னா)",
+              "किताबें पढ़ना (கிதாபேன் படனா - புத்தகம் படித்தல்)",
+              "सोना (சோனா)",
+              "टीवी देखना (டீவி தேக்னா)"
             ],
             "correct_index": 1,
-            "explanation": "राहुल को किताबें पढ़ना पसंद है।"
+            "explanation": "ராஹுலுக்கு புத்தகம் படித்தல் பிடிக்கும்.",
+            "id": "ta_hi_a_2"
           },
           {
-            "id": "ta_hi_a1_q3",
             "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
             "options": [
               "रीना (ரீனா)",
@@ -11040,22 +11038,22 @@ export const BILINGUAL_COURSES = {
               "सीमा (சீமா)"
             ],
             "correct_index": 1,
-            "explanation": "பகுதி ராஹுல் பற்றியது (राहुल)."
+            "explanation": "பகுதி ராஹுல் பற்றியது (राहुल).",
+            "id": "ta_hi_a_3"
           },
           {
-            "id": "ta_hi_a1_q4",
             "question": "கேள்வி: 'रोज़' (ரோஜ்) என்பதன் பொருள்?",
             "options": [
-              "हर दिन (ஹர் தின் - ప్రతి రోజు)",
+              "हर दिन (ஹர் தின்)",
               "कल (கல்)",
               "कभी नहीं (கபீ நஹீன்)",
               "अगले सप्ताह (அக்லே சப்தாஹ்)"
             ],
             "correct_index": 0,
-            "explanation": "'रोज़' என்றால் ప్రతి రోజు (हर दिन)."
+            "explanation": "'रोज़' என்றால் ప్రతి రోజు (हर दिन).",
+            "id": "ta_hi_a_4"
           },
           {
-            "id": "ta_hi_a1_q5",
             "question": "கேள்வி: राहुल (ராஹுல்) என்ன செய்கிறான்?",
             "options": [
               "स्कूल जाता है (ஸ்கூல் ஜாதா ஹை)",
@@ -11064,10 +11062,10 @@ export const BILINGUAL_COURSES = {
               "अस्पताल जाता है (அஸ்பதால் ஜாதா ஹை)"
             ],
             "correct_index": 0,
-            "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (स्कूल जाता है)."
+            "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (स्कूल जाता है).",
+            "id": "ta_hi_a_5"
           },
           {
-            "id": "ta_hi_a1_q6",
             "question": "கேள்வி: பகுதியின் முக்கிய கருத்து?",
             "options": [
               "पढ़ाई और स्कूल की आदत (படாயீ அவுர் ஸ்கூல் கீ ஆதத்)",
@@ -11076,11 +11074,10 @@ export const BILINGUAL_COURSES = {
               "पर्वत (பர்வத்)"
             ],
             "correct_index": 0,
-            "explanation": "मुख्य विचार स्कूल और पठन है।",
-            "explanation:": "முக்கிய கருத்து படிப்பு மற்றும் பள்ளி பழக்கம்."
+            "explanation": "முக்கிய கருத்து படிப்பு மற்றும் பள்ளி பழக்கம்.",
+            "id": "ta_hi_a_6"
           },
           {
-            "id": "ta_hi_a1_q7",
             "question": "கேள்வி: சரியான கூற்று எது?",
             "options": [
               "राहुल को किताबें पढ़ना पसंद है। (ராஹுல் கோ கிதாபேன் படனா பசந்த் ஹை.)",
@@ -11089,37 +11086,37 @@ export const BILINGUAL_COURSES = {
               "राहुल रोज़ सोता रहता है। (ராஹுல் ரோஜ் சோதா ரஹ்தா ஹை.)"
             ],
             "correct_index": 0,
-            "explanation": "சரியான கூற்று: राहुल को किताबें पढ़ना पसंद है।"
+            "explanation": "சரியான கூற்று: राहुल को किताबें पढ़ना पसंद है।",
+            "id": "ta_hi_a_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "ta_hi_a1_q1",
-          "question": "கேள்வி: राहुल कहाँ जाता है?",
+          "question": "கேள்வி: राहुल (ராஹுல்) எங்கே செல்கிறான்?",
           "options": [
-            "बाजार",
-            "स्कूल",
-            "पार्क",
-            "घर"
+            "बाज़ार (பாஜார்)",
+            "स्कूल (ஸ்கூல்)",
+            "पार्क (பார்க்)",
+            "घर (கர்)"
           ],
           "correct_index": 1,
-          "explanation": "राहुल स्कूल जाता है।"
+          "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (स्कूल).",
+          "id": "ta_hi_a_1"
         },
         {
-          "id": "ta_hi_a1_q2",
-          "question": "கேள்வி: राहुल को क्या पसंद है?",
+          "question": "கேள்வி: राहुल (ராஹுல்) க்கு என்ன பிடிக்கும்?",
           "options": [
-            "खेल खेलना",
-            "किताबें पढ़ना",
-            "सोना",
-            "टीवी देखना"
+            "खेलना (கேல்னா)",
+            "किताबें पढ़ना (கிதாபேன் படனா - புத்தகம் படித்தல்)",
+            "सोना (சோனா)",
+            "टीवी देखना (டீவி தேக்னா)"
           ],
           "correct_index": 1,
-          "explanation": "राहुल को किताबें पढ़ना पसंद है।"
+          "explanation": "ராஹுலுக்கு புத்தகம் படித்தல் பிடிக்கும்.",
+          "id": "ta_hi_a_2"
         },
         {
-          "id": "ta_hi_a1_q3",
           "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
           "options": [
             "रीना (ரீனா)",
@@ -11128,22 +11125,22 @@ export const BILINGUAL_COURSES = {
             "सीमा (சீமா)"
           ],
           "correct_index": 1,
-          "explanation": "பகுதி ராஹுல் பற்றியது (राहुल)."
+          "explanation": "பகுதி ராஹுல் பற்றியது (राहुल).",
+          "id": "ta_hi_a_3"
         },
         {
-          "id": "ta_hi_a1_q4",
           "question": "கேள்வி: 'रोज़' (ரோஜ்) என்பதன் பொருள்?",
           "options": [
-            "हर दिन (ஹர் தின் - ప్రతి రోజు)",
+            "हर दिन (ஹர் தின்)",
             "कल (கல்)",
             "कभी नहीं (கபீ நஹீன்)",
             "अगले सप्ताह (அக்லே சப்தாஹ்)"
           ],
           "correct_index": 0,
-          "explanation": "'रोज़' என்றால் ప్రతి రోజు (हर दिन)."
+          "explanation": "'रोज़' என்றால் ప్రతి రోజు (हर दिन).",
+          "id": "ta_hi_a_4"
         },
         {
-          "id": "ta_hi_a1_q5",
           "question": "கேள்வி: राहुल (ராஹுல்) என்ன செய்கிறான்?",
           "options": [
             "स्कूल जाता है (ஸ்கூல் ஜாதா ஹை)",
@@ -11152,10 +11149,10 @@ export const BILINGUAL_COURSES = {
             "अस्पताल जाता है (அஸ்பதால் ஜாதா ஹை)"
           ],
           "correct_index": 0,
-          "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (स्कूल जाता है)."
+          "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (स्कूल जाता है).",
+          "id": "ta_hi_a_5"
         },
         {
-          "id": "ta_hi_a1_q6",
           "question": "கேள்வி: பகுதியின் முக்கிய கருத்து?",
           "options": [
             "पढ़ाई और स्कूल की आदत (படாயீ அவுர் ஸ்கூல் கீ ஆதத்)",
@@ -11164,11 +11161,10 @@ export const BILINGUAL_COURSES = {
             "पर्वत (பர்வத்)"
           ],
           "correct_index": 0,
-          "explanation": "मुख्य विचार स्कूल और पठन है।",
-          "explanation:": "முக்கிய கருத்து படிப்பு மற்றும் பள்ளி பழக்கம்."
+          "explanation": "முக்கிய கருத்து படிப்பு மற்றும் பள்ளி பழக்கம்.",
+          "id": "ta_hi_a_6"
         },
         {
-          "id": "ta_hi_a1_q7",
           "question": "கேள்வி: சரியான கூற்று எது?",
           "options": [
             "राहुल को किताबें पढ़ना पसंद है। (ராஹுல் கோ கிதாபேன் படனா பசந்த் ஹை.)",
@@ -11177,7 +11173,8 @@ export const BILINGUAL_COURSES = {
             "राहुल रोज़ सोता रहता है। (ராஹுல் ரோஜ் சோதா ரஹ்தா ஹை.)"
           ],
           "correct_index": 0,
-          "explanation": "சரியான கூற்று: राहुल को किताबें पढ़ना पसंद है।"
+          "explanation": "சரியான கூற்று: राहुल को किताबें पढ़ना पसंद है।",
+          "id": "ta_hi_a_7"
         }
       ]
     }
@@ -11188,100 +11185,100 @@ export const BILINGUAL_COURSES = {
       "path": "foundation",
       "lang": "te",
       "uiLang": "ta",
-      "title": "Course 1: Foundation (என் மொழி ஆற்றல் விரிவாக்கம்)",
-      "description": "எழுத்துகள், பெயர்ச்சொல், பன்மை, உரிச்சொல் மற்றும் வினைச்சொல் கற்கவும்.",
-      "objective": "எழுத்துகள், பெயர்ச்சொல், பன்மை, உரிச்சொல் மற்றும் வினைச்சொல் கற்கவும்.",
+      "title": "Course 1: Foundation (என் தெலுங்கு மொழி ஆற்றல் விரிவாக்கம்)",
+      "description": "Learn TE curriculum with TA UI guidance (foundation).",
+      "objective": "Learn TE curriculum with TA UI guidance (foundation).",
       "lessons": [
         {
           "id": "foundation-ta-te-l1",
-          "title": "Course 1: Foundation (என் மொழி ஆற்றல் விரிவாக்கம்)",
-          "learning_goal": "எழுத்துகள், பெயர்ச்சொல், பன்மை, உரிச்சொல் மற்றும் வினைச்சொல் கற்கவும்.",
+          "title": "Course 1: Foundation (என் தெலுங்கு மொழி ஆற்றல் விரிவாக்கம்)",
+          "learning_goal": "Learn TE curriculum with TA UI guidance (foundation).",
           "teaching_content": "Practice learning TE curriculum with TA guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "ta_te_f1_q1",
-              "question": "கேள்வி: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+              "question": "கேள்வி: தெலுங்கு மொழியில் உயிரெழுத்துகள் (అచ్చులు) எத்தனை?",
               "options": [
-                "14",
-                "15",
-                "16",
-                "12"
+                "14 (பதினான்கு)",
+                "15 (பதினைந்து)",
+                "16 (பதினாறு)",
+                "12 (பன்னிரண்டு)"
               ],
               "correct_index": 2,
-              "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
+              "explanation": "தெலுங்கு மொழியில் 16 உயிரெழுத்துகள் (అచ్చులు) உள்ளன.",
+              "id": "ta_te_f_1"
             },
             {
-              "id": "ta_te_f1_q2",
-              "question": "கேள்வி: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "கேள்வி: 'அம்மா' (అమ్మ) என்பது எந்த வகைச் சொல்?",
               "options": [
-                "క్రియ",
-                "నామవాచకం",
-                "విశేషణం",
-                "సర్వనామం"
+                "క్రియ (கிரியா - வினை)",
+                "నామவாచకం (நாமவாచకం - பெயர்ச்சொல்)",
+                "విశేஷణం (விஷேஷணம் - உரிச்சொல்)",
+                "సర్వనామం (சர்வநாம் - பிரதிபெயர்)"
               ],
               "correct_index": 1,
-              "explanation": "“అమ్మ” నామవాచకం."
+              "explanation": "'అమ్మ' பெயர்ச்சொல் (నామவாచకం).",
+              "id": "ta_te_f_2"
             },
             {
-              "id": "ta_te_f1_q3",
-              "question": "கேள்வி: “చెట్టు” పదానికి బహువచనం ఏది?",
+              "question": "கேள்வி: 'చెట్టు' (చెట్టు - மரம்) என்பதன் பன்மை?",
               "options": [
-                "చెట్టు",
-                "చెట్లు",
-                "చెట్టులు",
-                "చెట్ల"
+                "చెట్టు (செட்டு)",
+                "చెట్లు (செட்லு - மரங்கள்)",
+                "చెట్టులు (செட்டுலு)",
+                "చెట్ల (செட்லா)"
               ],
               "correct_index": 1,
-              "explanation": "చెట్టు పదానికి బహువచనం చెట్లు."
+              "explanation": "'చెట్టు' என்பதன் பன்மை 'చెట్లు'.",
+              "id": "ta_te_f_3"
             },
             {
-              "id": "ta_te_f1_q4",
-              "question": "கேள்வி: “మంచి” ఏ పదవర్గం?",
+              "question": "கேள்வி: 'మంచి' (మంచి - நல்ல) எந்த வகைச் சொல்?",
               "options": [
-                "విశేషణం",
-                "నామవాచకం",
-                "క్రియ",
-                "అవ్యయం"
+                "విశேషణం (உரிச்சொல்)",
+                "నామవాచకం (பெயர்ச்சொல்)",
+                "క్రియ (வினைச்சொல்)",
+                "అవ్యయం (இடைச்சொல்)"
               ],
               "correct_index": 0,
-              "explanation": "మంచి విశేషణం."
+              "explanation": "'మంచి' உரிச்சொல் (విశేషణం).",
+              "id": "ta_te_f_4"
             },
             {
-              "id": "ta_te_f1_q5",
-              "question": "கேள்வி: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "கேள்வி: 'చదువుతున్నాను' (சதுவுதுன்னானு - படிக்கிறேன்) எந்த வகைச் சொல்?",
               "options": [
-                "నామవాచకం",
-                "క్రియ",
-                "విశేషణం",
-                "సర్వనామం"
+                "నామవాచకం (பெயர்ச்சொல்)",
+                "క్రియ (வினைச்சொல்)",
+                "విశేషణం (உரிச்சொல்)",
+                "సర్వనామం (பிரதிபெயர்)"
               ],
               "correct_index": 1,
-              "explanation": "చదువుతున్నాను క్రియ."
+              "explanation": "'చదువుతున్నాను' வினைச்சொல் (క్రియ).",
+              "id": "ta_te_f_5"
             },
             {
-              "id": "ta_te_f1_q6",
-              "question": "கேள்வி: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+              "question": "கேள்வி: 'పుస్తకం' (పుస్తకం) என்பதன் பொருள் என்ன?",
               "options": [
-                "ఇల్లు",
-                "గ్రంథం",
-                "చెట్టు",
-                "రహదారి"
+                "ఇల్లు (இல் - வீடு)",
+                "గ్రంథம் (கிரந்தம் - நூல்/புத்தகம்)",
+                "చెట్టు (மரம்)",
+                "రహదారి (சாலை)"
               ],
               "correct_index": 1,
-              "explanation": "పుస్తకం అంటే గ్రంథం."
+              "explanation": "'పుస్తకం' என்றால் புத்தகம் (గ్రంథం).",
+              "id": "ta_te_f_6"
             },
             {
-              "id": "ta_te_f1_q7",
-              "question": "கேள்வி: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+              "question": "கேள்வி: 'పాఠశాల' (పాఠశాల) என்பதன் பொருள் என்ன?",
               "options": [
-                "ఆసుపత్రి",
-                "పాఠాలు నేర్చుకునే స్థలం",
-                "మార్కెట్",
-                "ఉద్యానవనం"
+                "ఆసుపత్రి (மருத்துவமனை)",
+                "పాఠాలు నేర్చుకునే స్థలం (பள்ளி - கற்கும் இடம்)",
+                "మార్కెట్ (சந்தை)",
+                "ఉద్యానవനം (பூங்கா)"
               ],
               "correct_index": 1,
-              "explanation": "పాఠశాల అంటే పాఠాలు నేర్చుకునే స్థలం."
+              "explanation": "'పాఠశాల' என்றால் பள்ளி (పాఠాలు నేర్చుకునే స్థలం).",
+              "id": "ta_te_f_7"
             }
           ]
         }
@@ -11290,175 +11287,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "ta_te_f1_q1",
-            "question": "கேள்வி: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+            "question": "கேள்வி: தெலுங்கு மொழியில் உயிரெழுத்துகள் (అచ్చులు) எத்தனை?",
             "options": [
-              "14",
-              "15",
-              "16",
-              "12"
+              "14 (பதினான்கு)",
+              "15 (பதினைந்து)",
+              "16 (பதினாறு)",
+              "12 (பன்னிரண்டு)"
             ],
             "correct_index": 2,
-            "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
+            "explanation": "தெலுங்கு மொழியில் 16 உயிரெழுத்துகள் (అచ్చులు) உள்ளன.",
+            "id": "ta_te_f_1"
           },
           {
-            "id": "ta_te_f1_q2",
-            "question": "கேள்வி: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "கேள்வி: 'அம்மா' (అమ్మ) என்பது எந்த வகைச் சொல்?",
             "options": [
-              "క్రియ",
-              "నామవాచకం",
-              "విశేషణం",
-              "సర్వనామం"
+              "క్రియ (கிரியா - வினை)",
+              "నామவாచకం (நாமவாచకం - பெயர்ச்சொல்)",
+              "విశేஷణం (விஷேஷணம் - உரிச்சொல்)",
+              "సర్వనామం (சர்வநாம் - பிரதிபெயர்)"
             ],
             "correct_index": 1,
-            "explanation": "“అమ్మ” నామవాచకం."
+            "explanation": "'అమ్మ' பெயர்ச்சொல் (నామவாచకం).",
+            "id": "ta_te_f_2"
           },
           {
-            "id": "ta_te_f1_q3",
-            "question": "கேள்வி: “చెట్టు” పదానికి బహువచనం ఏది?",
+            "question": "கேள்வி: 'చెట్టు' (చెట్టు - மரம்) என்பதன் பன்மை?",
             "options": [
-              "చెట్టు",
-              "చెట్లు",
-              "చెట్టులు",
-              "చెట్ల"
+              "చెట్టు (செட்டு)",
+              "చెట్లు (செட்லு - மரங்கள்)",
+              "చెట్టులు (செட்டுலு)",
+              "చెట్ల (செட்லா)"
             ],
             "correct_index": 1,
-            "explanation": "చెట్టు పదానికి బహువచనం చెట్లు."
+            "explanation": "'చెట్టు' என்பதன் பன்மை 'చెట్లు'.",
+            "id": "ta_te_f_3"
           },
           {
-            "id": "ta_te_f1_q4",
-            "question": "கேள்வி: “మంచి” ఏ పదవర్గం?",
+            "question": "கேள்வி: 'మంచి' (మంచి - நல்ல) எந்த வகைச் சொல்?",
             "options": [
-              "విశేషణం",
-              "నామవాచకం",
-              "క్రియ",
-              "అవ్యయం"
+              "విశேషణం (உரிச்சொல்)",
+              "నామవాచకం (பெயர்ச்சொல்)",
+              "క్రియ (வினைச்சொல்)",
+              "అవ్యయం (இடைச்சொல்)"
             ],
             "correct_index": 0,
-            "explanation": "మంచి విశేషణం."
+            "explanation": "'మంచి' உரிச்சொல் (విశేషణం).",
+            "id": "ta_te_f_4"
           },
           {
-            "id": "ta_te_f1_q5",
-            "question": "கேள்வி: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "கேள்வி: 'చదువుతున్నాను' (சதுவுதுன்னானு - படிக்கிறேன்) எந்த வகைச் சொல்?",
             "options": [
-              "నామవాచకం",
-              "క్రియ",
-              "విశేషణం",
-              "సర్వనామం"
+              "నామవాచకం (பெயர்ச்சொல்)",
+              "క్రియ (வினைச்சொல்)",
+              "విశేషణం (உரிச்சொல்)",
+              "సర్వనామం (பிரதிபெயர்)"
             ],
             "correct_index": 1,
-            "explanation": "చదువుతున్నాను క్రియ."
+            "explanation": "'చదువుతున్నాను' வினைச்சொல் (క్రియ).",
+            "id": "ta_te_f_5"
           },
           {
-            "id": "ta_te_f1_q6",
-            "question": "கேள்வி: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+            "question": "கேள்வி: 'పుస్తకం' (పుస్తకం) என்பதன் பொருள் என்ன?",
             "options": [
-              "ఇల్లు",
-              "గ్రంథం",
-              "చెట్టు",
-              "రహదారి"
+              "ఇల్లు (இல் - வீடு)",
+              "గ్రంథம் (கிரந்தம் - நூல்/புத்தகம்)",
+              "చెట్టు (மரம்)",
+              "రహదారి (சாலை)"
             ],
             "correct_index": 1,
-            "explanation": "పుస్తకం అంటే గ్రంథం."
+            "explanation": "'పుస్తకం' என்றால் புத்தகம் (గ్రంథం).",
+            "id": "ta_te_f_6"
           },
           {
-            "id": "ta_te_f1_q7",
-            "question": "கேள்வி: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+            "question": "கேள்வி: 'పాఠశాల' (పాఠశాల) என்பதன் பொருள் என்ன?",
             "options": [
-              "ఆసుపత్రి",
-              "పాఠాలు నేర్చుకునే స్థలం",
-              "మార్కెట్",
-              "ఉద్యానవనం"
+              "ఆసుపత్రి (மருத்துவமனை)",
+              "పాఠాలు నేర్చుకునే స్థలం (பள்ளி - கற்கும் இடம்)",
+              "మార్కెట్ (சந்தை)",
+              "ఉద్యానవനം (பூங்கா)"
             ],
             "correct_index": 1,
-            "explanation": "పాఠశాల అంటే పాఠాలు నేర్చుకునే స్థలం."
+            "explanation": "'పాఠశాల' என்றால் பள்ளி (పాఠాలు నేర్చుకునే స్థలం).",
+            "id": "ta_te_f_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "ta_te_f1_q1",
-          "question": "கேள்வி: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+          "question": "கேள்வி: தெலுங்கு மொழியில் உயிரெழுத்துகள் (అచ్చులు) எத்தனை?",
           "options": [
-            "14",
-            "15",
-            "16",
-            "12"
+            "14 (பதினான்கு)",
+            "15 (பதினைந்து)",
+            "16 (பதினாறு)",
+            "12 (பன்னிரண்டு)"
           ],
           "correct_index": 2,
-          "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
+          "explanation": "தெலுங்கு மொழியில் 16 உயிரெழுத்துகள் (అచ్చులు) உள்ளன.",
+          "id": "ta_te_f_1"
         },
         {
-          "id": "ta_te_f1_q2",
-          "question": "கேள்வி: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "கேள்வி: 'அம்மா' (అమ్మ) என்பது எந்த வகைச் சொல்?",
           "options": [
-            "క్రియ",
-            "నామవాచకం",
-            "విశేషణం",
-            "సర్వనామం"
+            "క్రియ (கிரியா - வினை)",
+            "నామவாచకం (நாமவாచకం - பெயர்ச்சொல்)",
+            "విశేஷణం (விஷேஷணம் - உரிச்சொல்)",
+            "సర్వనామం (சர்வநாம் - பிரதிபெயர்)"
           ],
           "correct_index": 1,
-          "explanation": "“అమ్మ” నామవాచకం."
+          "explanation": "'అమ్మ' பெயர்ச்சொல் (నామவாచకం).",
+          "id": "ta_te_f_2"
         },
         {
-          "id": "ta_te_f1_q3",
-          "question": "கேள்வி: “చెట్టు” పదానికి బహువచనం ఏది?",
+          "question": "கேள்வி: 'చెట్టు' (చెట్టు - மரம்) என்பதன் பன்மை?",
           "options": [
-            "చెట్టు",
-            "చెట్లు",
-            "చెట్టులు",
-            "చెట్ల"
+            "చెట్టు (செட்டு)",
+            "చెట్లు (செட்லு - மரங்கள்)",
+            "చెట్టులు (செட்டுலு)",
+            "చెట్ల (செட்லா)"
           ],
           "correct_index": 1,
-          "explanation": "చెట్టు పదానికి బహువచనం చెట్లు."
+          "explanation": "'చెట్టు' என்பதன் பன்மை 'చెట్లు'.",
+          "id": "ta_te_f_3"
         },
         {
-          "id": "ta_te_f1_q4",
-          "question": "கேள்வி: “మంచి” ఏ పదవర్గం?",
+          "question": "கேள்வி: 'మంచి' (మంచి - நல்ல) எந்த வகைச் சொல்?",
           "options": [
-            "విశేషణం",
-            "నామవాచకం",
-            "క్రియ",
-            "అవ్యయం"
+            "విశேషణం (உரிச்சொல்)",
+            "నామవాచకం (பெயர்ச்சொல்)",
+            "క్రియ (வினைச்சொல்)",
+            "అవ్యయం (இடைச்சொல்)"
           ],
           "correct_index": 0,
-          "explanation": "మంచి విశేషణం."
+          "explanation": "'మంచి' உரிச்சொல் (విశేషణం).",
+          "id": "ta_te_f_4"
         },
         {
-          "id": "ta_te_f1_q5",
-          "question": "கேள்வி: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "கேள்வி: 'చదువుతున్నాను' (சதுவுதுன்னானு - படிக்கிறேன்) எந்த வகைச் சொல்?",
           "options": [
-            "నామవాచకం",
-            "క్రియ",
-            "విశేషణం",
-            "సర్వనామం"
+            "నామవాచకం (பெயர்ச்சொல்)",
+            "క్రియ (வினைச்சொல்)",
+            "విశేషణం (உரிச்சொல்)",
+            "సర్వనామం (பிரதிபெயர்)"
           ],
           "correct_index": 1,
-          "explanation": "చదువుతున్నాను క్రియ."
+          "explanation": "'చదువుతున్నాను' வினைச்சொல் (క్రియ).",
+          "id": "ta_te_f_5"
         },
         {
-          "id": "ta_te_f1_q6",
-          "question": "கேள்வி: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+          "question": "கேள்வி: 'పుస్తకం' (పుస్తకం) என்பதன் பொருள் என்ன?",
           "options": [
-            "ఇల్లు",
-            "గ్రంథం",
-            "చెట్టు",
-            "రహదారి"
+            "ఇల్లు (இல் - வீடு)",
+            "గ్రంథம் (கிரந்தம் - நூல்/புத்தகம்)",
+            "చెట్టు (மரம்)",
+            "రహదారి (சாலை)"
           ],
           "correct_index": 1,
-          "explanation": "పుస్తకం అంటే గ్రంథం."
+          "explanation": "'పుస్తకం' என்றால் புத்தகம் (గ్రంథం).",
+          "id": "ta_te_f_6"
         },
         {
-          "id": "ta_te_f1_q7",
-          "question": "கேள்வி: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+          "question": "கேள்வி: 'పాఠశాల' (పాఠశాల) என்பதன் பொருள் என்ன?",
           "options": [
-            "ఆసుపత్రి",
-            "పాఠాలు నేర్చుకునే స్థలం",
-            "మార్కెట్",
-            "ఉద్యానవనం"
+            "ఆసుపత్రి (மருத்துவமனை)",
+            "పాఠాలు నేర్చుకునే స్థలం (பள்ளி - கற்கும் இடம்)",
+            "మార్కెట్ (சந்தை)",
+            "ఉద్యానవനം (பூங்கா)"
           ],
           "correct_index": 1,
-          "explanation": "పాఠశాల అంటే పాఠాలు నేర్చుకునే స్థలం."
+          "explanation": "'పాఠశాల' என்றால் பள்ளி (పాఠాలు నేర్చుకునే స్థలం).",
+          "id": "ta_te_f_7"
         }
       ]
     },
@@ -11467,100 +11464,100 @@ export const BILINGUAL_COURSES = {
       "path": "beginner",
       "lang": "te",
       "uiLang": "ta",
-      "title": "Course 2: Beginner (வாக்கியங்களை நேரம்)",
-      "description": "நிகழ்காலம், இறந்தகாலம் மற்றும் எதிர்கால வாக்கியங்களை பயிற்சி செய்யவும்.",
-      "objective": "நிகழ்காலம், இறந்தகாலம் மற்றும் எதிர்கால வாக்கியங்களை பயிற்சி செய்யவும்.",
+      "title": "Course 2: Beginner (என் சுற்றியுள்ள தெலுங்கு சொற்கள்)",
+      "description": "Learn TE curriculum with TA UI guidance (beginner).",
+      "objective": "Learn TE curriculum with TA UI guidance (beginner).",
       "lessons": [
         {
           "id": "beginner-ta-te-l1",
-          "title": "Course 2: Beginner (வாக்கியங்களை நேரம்)",
-          "learning_goal": "நிகழ்காலம், இறந்தகாலம் மற்றும் எதிர்கால வாக்கியங்களை பயிற்சி செய்யவும்.",
+          "title": "Course 2: Beginner (என் சுற்றியுள்ள தெலுங்கு சொற்கள்)",
+          "learning_goal": "Learn TE curriculum with TA UI guidance (beginner).",
           "teaching_content": "Practice learning TE curriculum with TA guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "ta_te_b1_q1",
-              "question": "கேள்வி: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+              "question": "கேள்வி: \"నేను పాఠశాలకు వెళుతున్నాను.\" (நான் பள்ளிக்குச் செல்கிறேன்) இது எந்த காலம்?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "ఆజ్ఞార్థకం"
+                "భూతకాలம் (இறந்தகாலம்)",
+                "వర్తமாన కాలం (நிகழ்காலம்)",
+                "భవిష్యత్ కాలం (எதிர்காலம்)",
+                "ఆజ్ఞార్థకం (கட்டளை)"
               ],
               "correct_index": 1,
-              "explanation": "ఇది వర్తమాన కాలం."
+              "explanation": "நிகழ்காலம் (వర్తమాన కాలం).",
+              "id": "ta_te_b_1"
             },
             {
-              "id": "ta_te_b1_q2",
-              "question": "கேள்வி: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+              "question": "கேள்வி: \"అతను నిన్న వచ్చాడు.\" (அவன் நேற்று வந்தான்) இது எந்த காலம்?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "లేదు"
+                "భూతకాలம் (இறந்தகாலம்)",
+                "వర్తమాన కాలம் (நிகழ்காலம்)",
+                "భవిష్యత్ కాలం (எதிர்காலம்)",
+                "లేదు (எதுவுமில்லை)"
               ],
               "correct_index": 0,
-              "explanation": "వచ్చాడు భూతకాలం."
+              "explanation": "இறந்தகாலம் (భూతకాలம்).",
+              "id": "ta_te_b_2"
             },
             {
-              "id": "ta_te_b1_q3",
-              "question": "கேள்வி: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+              "question": "கேள்வி: \"నేను రేపు వెళ్తాను.\" (நான் நாளை செல்வேன்) இது எந்த காலம்?",
               "options": [
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "భూతకాలం",
-                "నామవాచకం"
+                "వర్తమాన కాలం (நிகழ்காலம்)",
+                "భవిష్యత్ కాలం (எதிர்காலம்)",
+                "భూతకాలம் (இறந்தகாலம்)",
+                "నామవాచకం (பெயர்ச்சொல்)"
               ],
               "correct_index": 1,
-              "explanation": "వెళ్తాను భవిష్యత్ కాలం."
+              "explanation": "எதிர்காலம் (భవిష్యత్ కాలం).",
+              "id": "ta_te_b_3"
             },
             {
-              "id": "ta_te_b1_q4",
-              "question": "கேள்வி: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+              "question": "கேள்வி: \"ఆమె పాట పాడుతోంది.\" (அவள் பாடுகிறாள்) இது எந்த காலம்?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "విశేషణం"
+                "వర్తమాన కాలం (நிகழ்காலம்)",
+                "భూతకాలம் (இறந்தகாலம்)",
+                "భవిష్యత్ కాలం (எதிர்காலம்)",
+                "విశేషణం (உரிச்சொல்)"
               ],
               "correct_index": 0,
-              "explanation": "పాడుతోంది వర్తమాన కాలం."
+              "explanation": "நிகழ்காலம் (వర్తమాన కాలం).",
+              "id": "ta_te_b_4"
             },
             {
-              "id": "ta_te_b1_q5",
-              "question": "கேள்வி: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+              "question": "கேள்வி: \"తిన్నాడు\" (சாப்பிட்டான்) எந்த காலத்தைக் குறிக்கிறது?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "లేదు"
+                "వర్తమాన కాలం (நிகழ்காலம்)",
+                "భూతకాలம் (இறந்தகாலம்)",
+                "భవిష్యత్ కాలம் (எதிர்காலம்)",
+                "లేదు (எதுவுமில்லை)"
               ],
               "correct_index": 1,
-              "explanation": "తిన్నాడు భూతకాలం."
+              "explanation": "இறந்தகாலம் (భూతకాలం).",
+              "id": "ta_te_b_5"
             },
             {
-              "id": "ta_te_b1_q6",
-              "question": "கேள்வி: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+              "question": "கேள்வி: \"చదువుతాను\" (படிப்பேன்) எந்த காலத்தைச் சேர்ந்தது?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "విశేషణం"
+                "భూతకాలம் (இறந்தகாலம்)",
+                "వర్తమాన కాలం (நிகழ்காலம்)",
+                "భవిష్యత్ కాలం (எதிர்காலம்)",
+                "విశేஷణం (உரிச்சொல்)"
               ],
               "correct_index": 2,
-              "explanation": "చదువుతాను భవిష్యత్ కాలం."
+              "explanation": "எதிர்காலம் (భవిష్యత్ కాలం).",
+              "id": "ta_te_b_6"
             },
             {
-              "id": "ta_te_b1_q7",
-              "question": "கேள்வி: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+              "question": "கேள்வி: \"ఆడుతున్నాడు\" (விளையாடுகிறான்) எந்த காலத்திற்கு உதாரணம்?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "నామవాచకం"
+                "వర్తమాన కాలం (நிகழ்காலம்)",
+                "భూతకాలம் (இறந்தகாலம்)",
+                "భవిష్యత్ కాలம் (எதிர்காலம்)",
+                "నామవాచకం (பெயர்ச்சொல்)"
               ],
               "correct_index": 0,
-              "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
+              "explanation": "நிகழ்காலம் (వర్తమాన కాలం).",
+              "id": "ta_te_b_7"
             }
           ]
         }
@@ -11569,175 +11566,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "ta_te_b1_q1",
-            "question": "கேள்வி: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+            "question": "கேள்வி: \"నేను పాఠశాలకు వెళుతున్నాను.\" (நான் பள்ளிக்குச் செல்கிறேன்) இது எந்த காலம்?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "ఆజ్ఞార్థకం"
+              "భూతకాలம் (இறந்தகாலம்)",
+              "వర్తமாన కాలం (நிகழ்காலம்)",
+              "భవిష్యత్ కాలం (எதிர்காலம்)",
+              "ఆజ్ఞార్థకం (கட்டளை)"
             ],
             "correct_index": 1,
-            "explanation": "ఇది వర్తమాన కాలం."
+            "explanation": "நிகழ்காலம் (వర్తమాన కాలం).",
+            "id": "ta_te_b_1"
           },
           {
-            "id": "ta_te_b1_q2",
-            "question": "கேள்வி: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+            "question": "கேள்வி: \"అతను నిన్న వచ్చాడు.\" (அவன் நேற்று வந்தான்) இது எந்த காலம்?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "లేదు"
+              "భూతకాలம் (இறந்தகாலம்)",
+              "వర్తమాన కాలம் (நிகழ்காலம்)",
+              "భవిష్యత్ కాలం (எதிர்காலம்)",
+              "లేదు (எதுவுமில்லை)"
             ],
             "correct_index": 0,
-            "explanation": "వచ్చాడు భూతకాలం."
+            "explanation": "இறந்தகாலம் (భూతకాలம்).",
+            "id": "ta_te_b_2"
           },
           {
-            "id": "ta_te_b1_q3",
-            "question": "கேள்வி: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+            "question": "கேள்வி: \"నేను రేపు వెళ్తాను.\" (நான் நாளை செல்வேன்) இது எந்த காலம்?",
             "options": [
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "భూతకాలం",
-              "నామవాచకం"
+              "వర్తమాన కాలం (நிகழ்காலம்)",
+              "భవిష్యత్ కాలం (எதிர்காலம்)",
+              "భూతకాలம் (இறந்தகாலம்)",
+              "నామవాచకం (பெயர்ச்சொல்)"
             ],
             "correct_index": 1,
-            "explanation": "వెళ్తాను భవిష్యత్ కాలం."
+            "explanation": "எதிர்காலம் (భవిష్యత్ కాలం).",
+            "id": "ta_te_b_3"
           },
           {
-            "id": "ta_te_b1_q4",
-            "question": "கேள்வி: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+            "question": "கேள்வி: \"ఆమె పాట పాడుతోంది.\" (அவள் பாடுகிறாள்) இது எந்த காலம்?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "విశేషణం"
+              "వర్తమాన కాలం (நிகழ்காலம்)",
+              "భూతకాలம் (இறந்தகாலம்)",
+              "భవిష్యత్ కాలం (எதிர்காலம்)",
+              "విశేషణం (உரிச்சொல்)"
             ],
             "correct_index": 0,
-            "explanation": "పాడుతోంది వర్తమాన కాలం."
+            "explanation": "நிகழ்காலம் (వర్తమాన కాలం).",
+            "id": "ta_te_b_4"
           },
           {
-            "id": "ta_te_b1_q5",
-            "question": "கேள்வி: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+            "question": "கேள்வி: \"తిన్నాడు\" (சாப்பிட்டான்) எந்த காலத்தைக் குறிக்கிறது?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "లేదు"
+              "వర్తమాన కాలం (நிகழ்காலம்)",
+              "భూతకాలம் (இறந்தகாலம்)",
+              "భవిష్యత్ కాలம் (எதிர்காலம்)",
+              "లేదు (எதுவுமில்லை)"
             ],
             "correct_index": 1,
-            "explanation": "తిన్నాడు భూతకాలం."
+            "explanation": "இறந்தகாலம் (భూతకాలం).",
+            "id": "ta_te_b_5"
           },
           {
-            "id": "ta_te_b1_q6",
-            "question": "கேள்வி: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+            "question": "கேள்வி: \"చదువుతాను\" (படிப்பேன்) எந்த காலத்தைச் சேர்ந்தது?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "విశేషణం"
+              "భూతకాలம் (இறந்தகாலம்)",
+              "వర్తమాన కాలం (நிகழ்காலம்)",
+              "భవిష్యత్ కాలం (எதிர்காலம்)",
+              "విశేஷణం (உரிச்சொல்)"
             ],
             "correct_index": 2,
-            "explanation": "చదువుతాను భవిష్యత్ కాలం."
+            "explanation": "எதிர்காலம் (భవిష్యత్ కాలం).",
+            "id": "ta_te_b_6"
           },
           {
-            "id": "ta_te_b1_q7",
-            "question": "கேள்வி: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+            "question": "கேள்வி: \"ఆడుతున్నాడు\" (விளையாடுகிறான்) எந்த காலத்திற்கு உதாரணம்?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "నామవాచకం"
+              "వర్తమాన కాలం (நிகழ்காலம்)",
+              "భూతకాలம் (இறந்தகாலம்)",
+              "భవిష్యత్ కాలம் (எதிர்காலம்)",
+              "నామవాచకం (பெயர்ச்சொல்)"
             ],
             "correct_index": 0,
-            "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
+            "explanation": "நிகழ்காலம் (వర్తమాన కాలం).",
+            "id": "ta_te_b_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "ta_te_b1_q1",
-          "question": "கேள்வி: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+          "question": "கேள்வி: \"నేను పాఠశాలకు వెళుతున్నాను.\" (நான் பள்ளிக்குச் செல்கிறேன்) இது எந்த காலம்?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "ఆజ్ఞార్థకం"
+            "భూతకాలம் (இறந்தகாலம்)",
+            "వర్తமாన కాలం (நிகழ்காலம்)",
+            "భవిష్యత్ కాలం (எதிர்காலம்)",
+            "ఆజ్ఞార్థకం (கட்டளை)"
           ],
           "correct_index": 1,
-          "explanation": "ఇది వర్తమాన కాలం."
+          "explanation": "நிகழ்காலம் (వర్తమాన కాలం).",
+          "id": "ta_te_b_1"
         },
         {
-          "id": "ta_te_b1_q2",
-          "question": "கேள்வி: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+          "question": "கேள்வி: \"అతను నిన్న వచ్చాడు.\" (அவன் நேற்று வந்தான்) இது எந்த காலம்?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "లేదు"
+            "భూతకాలம் (இறந்தகாலம்)",
+            "వర్తమాన కాలம் (நிகழ்காலம்)",
+            "భవిష్యత్ కాలం (எதிர்காலம்)",
+            "లేదు (எதுவுமில்லை)"
           ],
           "correct_index": 0,
-          "explanation": "వచ్చాడు భూతకాలం."
+          "explanation": "இறந்தகாலம் (భూతకాలம்).",
+          "id": "ta_te_b_2"
         },
         {
-          "id": "ta_te_b1_q3",
-          "question": "கேள்வி: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+          "question": "கேள்வி: \"నేను రేపు వెళ్తాను.\" (நான் நாளை செல்வேன்) இது எந்த காலம்?",
           "options": [
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "భూతకాలం",
-            "నామవాచకం"
+            "వర్తమాన కాలం (நிகழ்காலம்)",
+            "భవిష్యత్ కాలం (எதிர்காலம்)",
+            "భూతకాలம் (இறந்தகாலம்)",
+            "నామవాచకం (பெயர்ச்சொல்)"
           ],
           "correct_index": 1,
-          "explanation": "వెళ్తాను భవిష్యత్ కాలం."
+          "explanation": "எதிர்காலம் (భవిష్యత్ కాలం).",
+          "id": "ta_te_b_3"
         },
         {
-          "id": "ta_te_b1_q4",
-          "question": "கேள்வி: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+          "question": "கேள்வி: \"ఆమె పాట పాడుతోంది.\" (அவள் பாடுகிறாள்) இது எந்த காலம்?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "విశేషణం"
+            "వర్తమాన కాలం (நிகழ்காலம்)",
+            "భూతకాలம் (இறந்தகாலம்)",
+            "భవిష్యత్ కాలం (எதிர்காலம்)",
+            "విశేషణం (உரிச்சொல்)"
           ],
           "correct_index": 0,
-          "explanation": "పాడుతోంది వర్తమాన కాలం."
+          "explanation": "நிகழ்காலம் (వర్తమాన కాలం).",
+          "id": "ta_te_b_4"
         },
         {
-          "id": "ta_te_b1_q5",
-          "question": "கேள்வி: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+          "question": "கேள்வி: \"తిన్నాడు\" (சாப்பிட்டான்) எந்த காலத்தைக் குறிக்கிறது?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "లేదు"
+            "వర్తమాన కాలం (நிகழ்காலம்)",
+            "భూతకాలம் (இறந்தகாலம்)",
+            "భవిష్యత్ కాలம் (எதிர்காலம்)",
+            "లేదు (எதுவுமில்லை)"
           ],
           "correct_index": 1,
-          "explanation": "తిన్నాడు భూతకాలం."
+          "explanation": "இறந்தகாலம் (భూతకాలం).",
+          "id": "ta_te_b_5"
         },
         {
-          "id": "ta_te_b1_q6",
-          "question": "கேள்வி: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+          "question": "கேள்வி: \"చదువుతాను\" (படிப்பேன்) எந்த காலத்தைச் சேர்ந்தது?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "విశేషణం"
+            "భూతకాలம் (இறந்தகாலம்)",
+            "వర్తమాన కాలం (நிகழ்காலம்)",
+            "భవిష్యత్ కాలం (எதிர்காலம்)",
+            "విశేஷణం (உரிச்சொல்)"
           ],
           "correct_index": 2,
-          "explanation": "చదువుతాను భవిష్యత్ కాలం."
+          "explanation": "எதிர்காலம் (భవిష్యత్ కాలం).",
+          "id": "ta_te_b_6"
         },
         {
-          "id": "ta_te_b1_q7",
-          "question": "கேள்வி: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+          "question": "கேள்வி: \"ఆడుతున్నాడు\" (விளையாடுகிறான்) எந்த காலத்திற்கு உதாரணம்?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "నామవాచకం"
+            "వర్తమాన కాలం (நிகழ்காலம்)",
+            "భూతకాలம் (இறந்தகாலம்)",
+            "భవిష్యత్ కాలம் (எதிர்காலம்)",
+            "నామవాచకం (பெயர்ச்சொல்)"
           ],
           "correct_index": 0,
-          "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
+          "explanation": "நிகழ்காலம் (వర్తమాన కాలం).",
+          "id": "ta_te_b_7"
         }
       ]
     },
@@ -11746,100 +11743,100 @@ export const BILINGUAL_COURSES = {
       "path": "intermediate",
       "lang": "te",
       "uiLang": "ta",
-      "title": "Course 3: Intermediate (கருத்துகளை இணைத்தல்)",
-      "description": "மற்றும், ஆனால், அதனால் போன்ற இணைப்புச் சொற்களைக் கற்கவும்.",
-      "objective": "மற்றும், ஆனால், அதனால் போன்ற இணைப்புச் சொற்களைக் கற்கவும்.",
+      "title": "Course 3: Intermediate (தெலுங்கு சொற்களஞ்சியத்தின் புதிய அடிகள்)",
+      "description": "Learn TE curriculum with TA UI guidance (intermediate).",
+      "objective": "Learn TE curriculum with TA UI guidance (intermediate).",
       "lessons": [
         {
           "id": "intermediate-ta-te-l1",
-          "title": "Course 3: Intermediate (கருத்துகளை இணைத்தல்)",
-          "learning_goal": "மற்றும், ஆனால், அதனால் போன்ற இணைப்புச் சொற்களைக் கற்கவும்.",
+          "title": "Course 3: Intermediate (தெலுங்கு சொற்களஞ்சியத்தின் புதிய அடிகள்)",
+          "learning_goal": "Learn TE curriculum with TA UI guidance (intermediate).",
           "teaching_content": "Practice learning TE curriculum with TA guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "ta_te_i1_q1",
-              "question": "கேள்வி: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+              "question": "கேள்வி: \"రాము మరియు రவி పాఠశాలకు వెళ్లారు.\" இதில் இணைப்புச் சொல் எது?",
               "options": [
-                "కానీ",
-                "మరియు",
-                "ఎందుకంటే",
-                "లేదా"
+                "కానీ (ஆனால்)",
+                "మరియు (மற்றும்)",
+                "ఎందుకంటే (ஏனெனில்)",
+                "లేదా (அல்லது)"
               ],
               "correct_index": 1,
-              "explanation": "మరియు సంధాన పదం."
+              "explanation": "'మరియు' இணைப்புச் சொல்.",
+              "id": "ta_te_i_1"
             },
             {
-              "id": "ta_te_i1_q2",
-              "question": "கேள்வி: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+              "question": "கேள்வி: \"అమ్మ మరియు నాన్న\" இல் இணைப்புச் சொல் எது?",
               "options": [
-                "అమ్మ",
-                "మరియు",
-                "నాన్న",
-                "లో"
+                "అమ్మ (அம்மா)",
+                "మరియు (மற்றும்)",
+                "నాన్న (அப்பா)",
+                "లో (இல்)"
               ],
               "correct_index": 1,
-              "explanation": "మరియు సంధాన పదం."
+              "explanation": "'మరియు' இணைப்புச் சொல்.",
+              "id": "ta_te_i_2"
             },
             {
-              "id": "ta_te_i1_q3",
-              "question": "கேள்வி: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+              "question": "கேள்வி: \"అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలேదు.\" இதில் இணைப்புச் சொல் எது?",
               "options": [
-                "కానీ",
-                "చదివాడు",
-                "ఉత్తీర్ణుడు",
-                "కాలేదు"
+                "కానీ (ஆனால்)",
+                "చదివాడు (படித்தான்)",
+                "ఉత్తీర్ణుడు (தேர்ச்சி)",
+                "కాలేదు (ஆகவில்லை)"
               ],
               "correct_index": 0,
-              "explanation": "కానీ సంధాన పదం."
+              "explanation": "'కానీ' இணைப்புச் சொல்.",
+              "id": "ta_te_i_3"
             },
             {
-              "id": "ta_te_i1_q4",
-              "question": "கேள்வி: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "கேள்வி: 'మరియు' (மற்றும்) என்பது எந்த வகைச் சொல்?",
               "options": [
-                "సంధాన పదం",
-                "నామవాచకం",
-                "క్రియ",
-                "విశేషణం"
+                "సంధాన పదం (இணைப்புச் சொல்)",
+                "నామవాచకం (பெயர்ச்சொல்)",
+                "క్రియ (வினைச்சொல்)",
+                "విశేషణం (உரிச்சொல்)"
               ],
               "correct_index": 0,
-              "explanation": "మరియు సంధాన పదం."
+              "explanation": "'మరియు' இணைப்புச் சொல் (సంధాన పదం).",
+              "id": "ta_te_i_4"
             },
             {
-              "id": "ta_te_i1_q5",
-              "question": "கேள்வி: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+              "question": "கேள்வி: 'అందువల్ల' (ஆகையால்) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
               "options": [
-                "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
-                "నామవాచకంగా",
-                "క్రియగా",
-                "కాలాన్ని సూచించడానికి"
+                "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (காரணம் மற்றும் விளைவைக் கூற)",
+                "నామవాచకంగా (பெயர்ச்சொல்லாக)",
+                "క్రియగా (வினைச்சொல்லாக)",
+                "కాలాన్ని సూచించడానికి (நேரத்தைக் கூற)"
               ],
               "correct_index": 0,
-              "explanation": "అందువల్ల కారణం తెలియజేస్తుంది."
+              "explanation": "'అందువల్ల' காரணம் மற்றும் விளைவைக் கூற பயன்படுகிறது.",
+              "id": "ta_te_i_5"
             },
             {
-              "id": "ta_te_i1_q6",
-              "question": "கேள்வி: సరైన సంధాన పదం ఏది?",
+              "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
               "options": [
-                "మరియు",
-                "పుస్తకం",
-                "ఇల్లు",
-                "పరుగెత్తు"
+                "మరియు (மற்றும்)",
+                "పుస్తకం (புத்தகம்)",
+                "ఇల్లు (வீடு)",
+                "పరుగెత్తు (ஓடு)"
               ],
               "correct_index": 0,
-              "explanation": "మరియు సరైన సంధాన పదం."
+              "explanation": "'మరియు' சரியான இணைப்புச் சொல்.",
+              "id": "ta_te_i_6"
             },
             {
-              "id": "ta_te_i1_q7",
-              "question": "கேள்வி: “లేదా” అంటే ఏమిటి?",
+              "question": "கேள்வி: 'లేదా' (அல்லது) என்பதன் பொருள் என்ன?",
               "options": [
-                "రెండు ఎంపికల్లో ఒకటి",
-                "సమయం",
-                "స్థలం",
-                "క్రియ"
+                "రెండు ఎంపிகల్లో ఒకటి (இரண்டு விருப்பங்களில் ஒன்று)",
+                "సమయం (நேரம்)",
+                "స్థలం (இடம்)",
+                "క్రియ (வினை)"
               ],
               "correct_index": 0,
-              "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
+              "explanation": "'లేదా' என்றால் அல்லது (Do vikalpon me se ek).",
+              "id": "ta_te_i_7"
             }
           ]
         }
@@ -11848,175 +11845,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "ta_te_i1_q1",
-            "question": "கேள்வி: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+            "question": "கேள்வி: \"రాము మరియు రவி పాఠశాలకు వెళ్లారు.\" இதில் இணைப்புச் சொல் எது?",
             "options": [
-              "కానీ",
-              "మరియు",
-              "ఎందుకంటే",
-              "లేదా"
+              "కానీ (ஆனால்)",
+              "మరియు (மற்றும்)",
+              "ఎందుకంటే (ஏனெனில்)",
+              "లేదా (அல்லது)"
             ],
             "correct_index": 1,
-            "explanation": "మరియు సంధాన పదం."
+            "explanation": "'మరియు' இணைப்புச் சொல்.",
+            "id": "ta_te_i_1"
           },
           {
-            "id": "ta_te_i1_q2",
-            "question": "கேள்வி: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+            "question": "கேள்வி: \"అమ్మ మరియు నాన్న\" இல் இணைப்புச் சொல் எது?",
             "options": [
-              "అమ్మ",
-              "మరియు",
-              "నాన్న",
-              "లో"
+              "అమ్మ (அம்மா)",
+              "మరియు (மற்றும்)",
+              "నాన్న (அப்பா)",
+              "లో (இல்)"
             ],
             "correct_index": 1,
-            "explanation": "మరియు సంధాన పదం."
+            "explanation": "'మరియు' இணைப்புச் சொல்.",
+            "id": "ta_te_i_2"
           },
           {
-            "id": "ta_te_i1_q3",
-            "question": "கேள்வி: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+            "question": "கேள்வி: \"అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలேదు.\" இதில் இணைப்புச் சொல் எது?",
             "options": [
-              "కానీ",
-              "చదివాడు",
-              "ఉత్తీర్ణుడు",
-              "కాలేదు"
+              "కానీ (ஆனால்)",
+              "చదివాడు (படித்தான்)",
+              "ఉత్తీర్ణుడు (தேர்ச்சி)",
+              "కాలేదు (ஆகவில்லை)"
             ],
             "correct_index": 0,
-            "explanation": "కానీ సంధాన పదం."
+            "explanation": "'కానీ' இணைப்புச் சொல்.",
+            "id": "ta_te_i_3"
           },
           {
-            "id": "ta_te_i1_q4",
-            "question": "கேள்வி: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "கேள்வி: 'మరియు' (மற்றும்) என்பது எந்த வகைச் சொல்?",
             "options": [
-              "సంధాన పదం",
-              "నామవాచకం",
-              "క్రియ",
-              "విశేషణం"
+              "సంధాన పదం (இணைப்புச் சொல்)",
+              "నామవాచకం (பெயர்ச்சொல்)",
+              "క్రియ (வினைச்சொல்)",
+              "విశేషణం (உரிச்சொல்)"
             ],
             "correct_index": 0,
-            "explanation": "మరియు సంధాన పదం."
+            "explanation": "'మరియు' இணைப்புச் சொல் (సంధాన పదం).",
+            "id": "ta_te_i_4"
           },
           {
-            "id": "ta_te_i1_q5",
-            "question": "கேள்வி: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+            "question": "கேள்வி: 'అందువల్ల' (ஆகையால்) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
             "options": [
-              "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
-              "నామవాచకంగా",
-              "క్రియగా",
-              "కాలాన్ని సూచించడానికి"
+              "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (காரணம் மற்றும் விளைவைக் கூற)",
+              "నామవాచకంగా (பெயர்ச்சொல்லாக)",
+              "క్రియగా (வினைச்சொல்லாக)",
+              "కాలాన్ని సూచించడానికి (நேரத்தைக் கூற)"
             ],
             "correct_index": 0,
-            "explanation": "అందువల్ల కారణం తెలియజేస్తుంది."
+            "explanation": "'అందువల్ల' காரணம் மற்றும் விளைவைக் கூற பயன்படுகிறது.",
+            "id": "ta_te_i_5"
           },
           {
-            "id": "ta_te_i1_q6",
-            "question": "கேள்வி: సరైన సంధాన పదం ఏది?",
+            "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
             "options": [
-              "మరియు",
-              "పుస్తకం",
-              "ఇల్లు",
-              "పరుగెత్తు"
+              "మరియు (மற்றும்)",
+              "పుస్తకం (புத்தகம்)",
+              "ఇల్లు (வீடு)",
+              "పరుగెత్తు (ஓடு)"
             ],
             "correct_index": 0,
-            "explanation": "మరియు సరైన సంధాన పదం."
+            "explanation": "'మరియు' சரியான இணைப்புச் சொல்.",
+            "id": "ta_te_i_6"
           },
           {
-            "id": "ta_te_i1_q7",
-            "question": "கேள்வி: “లేదా” అంటే ఏమిటి?",
+            "question": "கேள்வி: 'లేదా' (அல்லது) என்பதன் பொருள் என்ன?",
             "options": [
-              "రెండు ఎంపికల్లో ఒకటి",
-              "సమయం",
-              "స్థలం",
-              "క్రియ"
+              "రెండు ఎంపிகల్లో ఒకటి (இரண்டு விருப்பங்களில் ஒன்று)",
+              "సమయం (நேரம்)",
+              "స్థలం (இடம்)",
+              "క్రియ (வினை)"
             ],
             "correct_index": 0,
-            "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
+            "explanation": "'లేదా' என்றால் அல்லது (Do vikalpon me se ek).",
+            "id": "ta_te_i_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "ta_te_i1_q1",
-          "question": "கேள்வி: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+          "question": "கேள்வி: \"రాము మరియు రவி పాఠశాలకు వెళ్లారు.\" இதில் இணைப்புச் சொல் எது?",
           "options": [
-            "కానీ",
-            "మరియు",
-            "ఎందుకంటే",
-            "లేదా"
+            "కానీ (ஆனால்)",
+            "మరియు (மற்றும்)",
+            "ఎందుకంటే (ஏனெனில்)",
+            "లేదా (அல்லது)"
           ],
           "correct_index": 1,
-          "explanation": "మరియు సంధాన పదం."
+          "explanation": "'మరియు' இணைப்புச் சொல்.",
+          "id": "ta_te_i_1"
         },
         {
-          "id": "ta_te_i1_q2",
-          "question": "கேள்வி: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+          "question": "கேள்வி: \"అమ్మ మరియు నాన్న\" இல் இணைப்புச் சொல் எது?",
           "options": [
-            "అమ్మ",
-            "మరియు",
-            "నాన్న",
-            "లో"
+            "అమ్మ (அம்மா)",
+            "మరియు (மற்றும்)",
+            "నాన్న (அப்பா)",
+            "లో (இல்)"
           ],
           "correct_index": 1,
-          "explanation": "మరియు సంధాన పదం."
+          "explanation": "'మరియు' இணைப்புச் சொல்.",
+          "id": "ta_te_i_2"
         },
         {
-          "id": "ta_te_i1_q3",
-          "question": "கேள்வி: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+          "question": "கேள்வி: \"అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలேదు.\" இதில் இணைப்புச் சொல் எது?",
           "options": [
-            "కానీ",
-            "చదివాడు",
-            "ఉత్తీర్ణుడు",
-            "కాలేదు"
+            "కానీ (ஆனால்)",
+            "చదివాడు (படித்தான்)",
+            "ఉత్తీర్ణుడు (தேர்ச்சி)",
+            "కాలేదు (ஆகவில்லை)"
           ],
           "correct_index": 0,
-          "explanation": "కానీ సంధాన పదం."
+          "explanation": "'కానీ' இணைப்புச் சொல்.",
+          "id": "ta_te_i_3"
         },
         {
-          "id": "ta_te_i1_q4",
-          "question": "கேள்வி: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "கேள்வி: 'మరియు' (மற்றும்) என்பது எந்த வகைச் சொல்?",
           "options": [
-            "సంధాన పదం",
-            "నామవాచకం",
-            "క్రియ",
-            "విశేషణం"
+            "సంధాన పదం (இணைப்புச் சொல்)",
+            "నామవాచకం (பெயர்ச்சொல்)",
+            "క్రియ (வினைச்சொல்)",
+            "విశేషణం (உரிச்சொல்)"
           ],
           "correct_index": 0,
-          "explanation": "మరియు సంధాన పదం."
+          "explanation": "'మరియు' இணைப்புச் சொல் (సంధాన పదం).",
+          "id": "ta_te_i_4"
         },
         {
-          "id": "ta_te_i1_q5",
-          "question": "கேள்வி: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+          "question": "கேள்வி: 'అందువల్ల' (ஆகையால்) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
           "options": [
-            "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
-            "నామవాచకంగా",
-            "క్రియగా",
-            "కాలాన్ని సూచించడానికి"
+            "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (காரணம் மற்றும் விளைவைக் கூற)",
+            "నామవాచకంగా (பெயர்ச்சொல்லாக)",
+            "క్రియగా (வினைச்சொல்லாக)",
+            "కాలాన్ని సూచించడానికి (நேரத்தைக் கூற)"
           ],
           "correct_index": 0,
-          "explanation": "అందువల్ల కారణం తెలియజేస్తుంది."
+          "explanation": "'అందువల్ల' காரணம் மற்றும் விளைவைக் கூற பயன்படுகிறது.",
+          "id": "ta_te_i_5"
         },
         {
-          "id": "ta_te_i1_q6",
-          "question": "கேள்வி: సరైన సంధాన పదం ఏది?",
+          "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
           "options": [
-            "మరియు",
-            "పుస్తకం",
-            "ఇల్లు",
-            "పరుగెత్తు"
+            "మరియు (மற்றும்)",
+            "పుస్తకం (புத்தகம்)",
+            "ఇల్లు (வீடு)",
+            "పరుగెత్తు (ஓடு)"
           ],
           "correct_index": 0,
-          "explanation": "మరియు సరైన సంధాన పదం."
+          "explanation": "'మరియు' சரியான இணைப்புச் சொல்.",
+          "id": "ta_te_i_6"
         },
         {
-          "id": "ta_te_i1_q7",
-          "question": "கேள்வி: “లేదా” అంటే ఏమిటి?",
+          "question": "கேள்வி: 'లేదా' (அல்லது) என்பதன் பொருள் என்ன?",
           "options": [
-            "రెండు ఎంపికల్లో ఒకటి",
-            "సమయం",
-            "స్థలం",
-            "క్రియ"
+            "రెండు ఎంపிகల్లో ఒకటి (இரண்டு விருப்பங்களில் ஒன்று)",
+            "సమయం (நேரம்)",
+            "స్థలం (இடம்)",
+            "క్రియ (வினை)"
           ],
           "correct_index": 0,
-          "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
+          "explanation": "'లేదా' என்றால் அல்லது (Do vikalpon me se ek).",
+          "id": "ta_te_i_7"
         }
       ]
     },
@@ -12025,100 +12022,100 @@ export const BILINGUAL_COURSES = {
       "path": "advanced",
       "lang": "te",
       "uiLang": "ta",
-      "title": "Course 4: Advanced (புரிதலுக்கான வாசிப்பு)",
-      "description": "சிறிய பத்திகளைப் படித்து வினாக்களுக்கு விடையளிக்கவும்.",
-      "objective": "சிறிய பத்திகளைப் படித்து வினாக்களுக்கு விடையளிக்கவும்.",
+      "title": "Course 4: Advanced (என் உலகத் தெலுங்குச் சொற்கள்)",
+      "description": "Learn TE curriculum with TA UI guidance (advanced).",
+      "objective": "Learn TE curriculum with TA UI guidance (advanced).",
       "lessons": [
         {
           "id": "advanced-ta-te-l1",
-          "title": "Course 4: Advanced (புரிதலுக்கான வாசிப்பு)",
-          "learning_goal": "சிறிய பத்திகளைப் படித்து வினாக்களுக்கு விடையளிக்கவும்.",
+          "title": "Course 4: Advanced (என் உலகத் தெலுங்குச் சொற்கள்)",
+          "learning_goal": "Learn TE curriculum with TA UI guidance (advanced).",
           "teaching_content": "Practice learning TE curriculum with TA guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "ta_te_a1_q1",
-              "question": "கேள்வி: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+              "question": "கேள்வி: రాహుల్ (ராஹுல்) எங்கே செல்கிறான்?",
               "options": [
-                "మార్కెట్",
-                "పాఠశాల",
-                "పార్క్",
-                "ఇల్లు"
+                "మార్కెట్ (சந்தை)",
+                "పాఠశాల (பள்ளி)",
+                "పార్క్ (பூங்கா)",
+                "ఇల్లు (வீடு)"
               ],
               "correct_index": 1,
-              "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+              "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (పాఠశాల).",
+              "id": "ta_te_a_1"
             },
             {
-              "id": "ta_te_a1_q2",
-              "question": "கேள்வி: రాహుల్కు ఏమి ఇష్టం?",
+              "question": "கேள்வி: రాహుల్ (ராஹுல்) க்கு என்ன பிடிக்கும்?",
               "options": [
-                "ఆటలు",
-                "పుస్తకాలు చదవడం",
-                "నిద్రపోవడం",
-                "టీవీ చూడడం"
+                "ఆటలు (விளையாட்டு)",
+                "పుస్తకాలు చదవడం (புத்தகங்கள் படித்தல்)",
+                "నిద్రపోవడం (தூங்குவது)",
+                "టీవీ చూడడం (டிவி பார்ப்பது)"
               ],
               "correct_index": 1,
-              "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం."
+              "explanation": "ராஹுலுக்கு புத்தகம் படித்தல் பிடிக்கும்.",
+              "id": "ta_te_a_2"
             },
             {
-              "id": "ta_te_a1_q3",
-              "question": "கேள்வி: ఈ గద్యభాగం ఎవరి గురించి?",
+              "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
               "options": [
-                "సీత",
-                "రాహుల్",
-                "మోహన్",
-                "లత"
+                "సీత (சீதா)",
+                "రాహుల్ (ராஹுல்)",
+                "మోహన్ (மோஹன்)",
+                "లత (லலிதா)"
               ],
               "correct_index": 1,
-              "explanation": "ఈ గద్యభాగం రాహుల్ గురించి."
+              "explanation": "பகுதி ராஹுல் பற்றியது (రాహుల్).",
+              "id": "ta_te_a_3"
             },
             {
-              "id": "ta_te_a1_q4",
-              "question": "கேள்வி: “ప్రతిరోజూ” అంటే ఏమిటి?",
+              "question": "கேள்வி: 'ప్రతిరోజూ' (பிரதி ரோஜூ) என்பதன் பொருள்?",
               "options": [
-                "ప్రతి రోజు",
-                "నిన్న",
-                "ఎప్పుడూ కాదు",
-                "వచ్చే వారం"
+                "ప్రతి రోజు (ஒவ்வொரு நாள்)",
+                "నిన్న (நேற்று)",
+                "ఎప్పుడూ కాదు (எப்போதுமில்லை)",
+                "వచ్చే వారం (அடுத்த வாரம்)"
               ],
               "correct_index": 0,
-              "explanation": "ప్రతిరోజూ అంటే ప్రతి రోజు."
+              "explanation": "'ప్రతిరోజూ' என்றால் ஒவ்வொரு நாள் (ప్రతి రోజు).",
+              "id": "ta_te_a_4"
             },
             {
-              "id": "ta_te_a1_q5",
-              "question": "கேள்வி: రాహుల్ ఏమి చేస్తాడు?",
+              "question": "கேள்வி: రాహుల్ (ராஹுல்) என்ன செய்கிறான்?",
               "options": [
-                "పాఠశాలకు వెళ్తాడు",
-                "మార్కెట్కు వెళ్తాడు",
-                "ఇంట్లో ఉంటాడు",
-                "ఆసుపత్రికి వెళ్తాడు"
+                "పాఠశాలకు వెళ్తాడు (பள்ளிக்குச் செல்கிறான்)",
+                "మార్కెట్కు వెళ్తాడు (சந்தைக்குச் செல்கிறான்)",
+                "ఇంట్లో ఉంటాడు (வீட்டில் இருக்கிறான்)",
+                "ఆసుపత్రికి వెళ్తాడు (மருத்துவமனைக்குச் செல்கிறான்)"
               ],
               "correct_index": 0,
-              "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+              "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (పాఠశాలకు వెళ్తాడు).",
+              "id": "ta_te_a_5"
             },
             {
-              "id": "ta_te_a1_q6",
-              "question": "கேள்வி: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+              "question": "கேள்வி: பகுதியின் முக்கிய கருத்து?",
               "options": [
-                "చదువు మరియు పాఠశాల అలవాటు",
-                "ప్రయాణం",
-                "వర్షం",
-                "కొండలు"
+                "చదువు మరియు పాఠశాల అలவாటు (படிப்பு மற்றும் பள்ளி பழக்கம்)",
+                "ప్రయాణం (பயணம்)",
+                "వర్షం (மழை)",
+                "కొండలు (மலைகள்)"
               ],
               "correct_index": 0,
-              "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల."
+              "explanation": "முக்கிய கருத்து படிப்பு மற்றும் பள்ளி பழக்கம்.",
+              "id": "ta_te_a_6"
             },
             {
-              "id": "ta_te_a1_q7",
-              "question": "கேள்வி: సరైన వాక్యం ఏది?",
+              "question": "கேள்வி: சரியான கூற்று எது?",
               "options": [
-                "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
-                "రాహుల్ పాఠశాలకు వెళ్లడు.",
-                "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.",
-                "రాహుల్ చదవడు."
+                "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం. (ராஹுலுக்கு புத்தகங்கள் படிக்கப் பிடிக்கும்.)",
+                "రాహుల్ పాఠశాలకు వెళ్లడు. (ராஹுல் பள்ளிக்குச் செல்வதில்லை.)",
+                "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు. (ராஹுல் எப்போதும் விளையாடுகிறான்.)",
+                "రాహుల్ చదవడు. (ராஹுல் படிப்பதில்லை.)"
               ],
               "correct_index": 0,
-              "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం సరైనది."
+              "explanation": "சரியான கூற்று: రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
+              "id": "ta_te_a_7"
             }
           ]
         }
@@ -12127,175 +12124,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "ta_te_a1_q1",
-            "question": "கேள்வி: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+            "question": "கேள்வி: రాహుల్ (ராஹுல்) எங்கே செல்கிறான்?",
             "options": [
-              "మార్కెట్",
-              "పాఠశాల",
-              "పార్క్",
-              "ఇల్లు"
+              "మార్కెట్ (சந்தை)",
+              "పాఠశాల (பள்ளி)",
+              "పార్క్ (பூங்கா)",
+              "ఇల్లు (வீடு)"
             ],
             "correct_index": 1,
-            "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+            "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (పాఠశాల).",
+            "id": "ta_te_a_1"
           },
           {
-            "id": "ta_te_a1_q2",
-            "question": "கேள்வி: రాహుల్కు ఏమి ఇష్టం?",
+            "question": "கேள்வி: రాహుల్ (ராஹுல்) க்கு என்ன பிடிக்கும்?",
             "options": [
-              "ఆటలు",
-              "పుస్తకాలు చదవడం",
-              "నిద్రపోవడం",
-              "టీవీ చూడడం"
+              "ఆటలు (விளையாட்டு)",
+              "పుస్తకాలు చదవడం (புத்தகங்கள் படித்தல்)",
+              "నిద్రపోవడం (தூங்குவது)",
+              "టీవీ చూడడం (டிவி பார்ப்பது)"
             ],
             "correct_index": 1,
-            "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం."
+            "explanation": "ராஹுலுக்கு புத்தகம் படித்தல் பிடிக்கும்.",
+            "id": "ta_te_a_2"
           },
           {
-            "id": "ta_te_a1_q3",
-            "question": "கேள்வி: ఈ గద్యభాగం ఎవరి గురించి?",
+            "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
             "options": [
-              "సీత",
-              "రాహుల్",
-              "మోహన్",
-              "లత"
+              "సీత (சீதா)",
+              "రాహుల్ (ராஹுல்)",
+              "మోహన్ (மோஹன்)",
+              "లత (லலிதா)"
             ],
             "correct_index": 1,
-            "explanation": "ఈ గద్యభాగం రాహుల్ గురించి."
+            "explanation": "பகுதி ராஹுல் பற்றியது (రాహుల్).",
+            "id": "ta_te_a_3"
           },
           {
-            "id": "ta_te_a1_q4",
-            "question": "கேள்வி: “ప్రతిరోజూ” అంటే ఏమిటి?",
+            "question": "கேள்வி: 'ప్రతిరోజూ' (பிரதி ரோஜூ) என்பதன் பொருள்?",
             "options": [
-              "ప్రతి రోజు",
-              "నిన్న",
-              "ఎప్పుడూ కాదు",
-              "వచ్చే వారం"
+              "ప్రతి రోజు (ஒவ்வொரு நாள்)",
+              "నిన్న (நேற்று)",
+              "ఎప్పుడూ కాదు (எப்போதுமில்லை)",
+              "వచ్చే వారం (அடுத்த வாரம்)"
             ],
             "correct_index": 0,
-            "explanation": "ప్రతిరోజూ అంటే ప్రతి రోజు."
+            "explanation": "'ప్రతిరోజూ' என்றால் ஒவ்வொரு நாள் (ప్రతి రోజు).",
+            "id": "ta_te_a_4"
           },
           {
-            "id": "ta_te_a1_q5",
-            "question": "கேள்வி: రాహుల్ ఏమి చేస్తాడు?",
+            "question": "கேள்வி: రాహుల్ (ராஹுல்) என்ன செய்கிறான்?",
             "options": [
-              "పాఠశాలకు వెళ్తాడు",
-              "మార్కెట్కు వెళ్తాడు",
-              "ఇంట్లో ఉంటాడు",
-              "ఆసుపత్రికి వెళ్తాడు"
+              "పాఠశాలకు వెళ్తాడు (பள்ளிக்குச் செல்கிறான்)",
+              "మార్కెట్కు వెళ్తాడు (சந்தைக்குச் செல்கிறான்)",
+              "ఇంట్లో ఉంటాడు (வீட்டில் இருக்கிறான்)",
+              "ఆసుపత్రికి వెళ్తాడు (மருத்துவமனைக்குச் செல்கிறான்)"
             ],
             "correct_index": 0,
-            "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+            "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (పాఠశాలకు వెళ్తాడు).",
+            "id": "ta_te_a_5"
           },
           {
-            "id": "ta_te_a1_q6",
-            "question": "கேள்வி: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+            "question": "கேள்வி: பகுதியின் முக்கிய கருத்து?",
             "options": [
-              "చదువు మరియు పాఠశాల అలవాటు",
-              "ప్రయాణం",
-              "వర్షం",
-              "కొండలు"
+              "చదువు మరియు పాఠశాల అలவாటు (படிப்பு மற்றும் பள்ளி பழக்கம்)",
+              "ప్రయాణం (பயணம்)",
+              "వర్షం (மழை)",
+              "కొండలు (மலைகள்)"
             ],
             "correct_index": 0,
-            "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల."
+            "explanation": "முக்கிய கருத்து படிப்பு மற்றும் பள்ளி பழக்கம்.",
+            "id": "ta_te_a_6"
           },
           {
-            "id": "ta_te_a1_q7",
-            "question": "கேள்வி: సరైన వాక్యం ఏది?",
+            "question": "கேள்வி: சரியான கூற்று எது?",
             "options": [
-              "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
-              "రాహుల్ పాఠశాలకు వెళ్లడు.",
-              "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.",
-              "రాహుల్ చదవడు."
+              "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం. (ராஹுலுக்கு புத்தகங்கள் படிக்கப் பிடிக்கும்.)",
+              "రాహుల్ పాఠశాలకు వెళ్లడు. (ராஹுல் பள்ளிக்குச் செல்வதில்லை.)",
+              "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు. (ராஹுல் எப்போதும் விளையாடுகிறான்.)",
+              "రాహుల్ చదవడు. (ராஹுல் படிப்பதில்லை.)"
             ],
             "correct_index": 0,
-            "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం సరైనది."
+            "explanation": "சரியான கூற்று: రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
+            "id": "ta_te_a_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "ta_te_a1_q1",
-          "question": "கேள்வி: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+          "question": "கேள்வி: రాహుల్ (ராஹுல்) எங்கே செல்கிறான்?",
           "options": [
-            "మార్కెట్",
-            "పాఠశాల",
-            "పార్క్",
-            "ఇల్లు"
+            "మార్కెట్ (சந்தை)",
+            "పాఠశాల (பள்ளி)",
+            "పార్క్ (பூங்கா)",
+            "ఇల్లు (வீடு)"
           ],
           "correct_index": 1,
-          "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+          "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (పాఠశాల).",
+          "id": "ta_te_a_1"
         },
         {
-          "id": "ta_te_a1_q2",
-          "question": "கேள்வி: రాహుల్కు ఏమి ఇష్టం?",
+          "question": "கேள்வி: రాహుల్ (ராஹுல்) க்கு என்ன பிடிக்கும்?",
           "options": [
-            "ఆటలు",
-            "పుస్తకాలు చదవడం",
-            "నిద్రపోవడం",
-            "టీవీ చూడడం"
+            "ఆటలు (விளையாட்டு)",
+            "పుస్తకాలు చదవడం (புத்தகங்கள் படித்தல்)",
+            "నిద్రపోవడం (தூங்குவது)",
+            "టీవీ చూడడం (டிவி பார்ப்பது)"
           ],
           "correct_index": 1,
-          "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం."
+          "explanation": "ராஹுலுக்கு புத்தகம் படித்தல் பிடிக்கும்.",
+          "id": "ta_te_a_2"
         },
         {
-          "id": "ta_te_a1_q3",
-          "question": "கேள்வி: ఈ గద్యభాగం ఎవరి గురించి?",
+          "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
           "options": [
-            "సీత",
-            "రాహుల్",
-            "మోహన్",
-            "లత"
+            "సీత (சீதா)",
+            "రాహుల్ (ராஹுல்)",
+            "మోహన్ (மோஹன்)",
+            "లత (லலிதா)"
           ],
           "correct_index": 1,
-          "explanation": "ఈ గద్యభాగం రాహుల్ గురించి."
+          "explanation": "பகுதி ராஹுல் பற்றியது (రాహుల్).",
+          "id": "ta_te_a_3"
         },
         {
-          "id": "ta_te_a1_q4",
-          "question": "கேள்வி: “ప్రతిరోజూ” అంటే ఏమిటి?",
+          "question": "கேள்வி: 'ప్రతిరోజూ' (பிரதி ரோஜூ) என்பதன் பொருள்?",
           "options": [
-            "ప్రతి రోజు",
-            "నిన్న",
-            "ఎప్పుడూ కాదు",
-            "వచ్చే వారం"
+            "ప్రతి రోజు (ஒவ்வொரு நாள்)",
+            "నిన్న (நேற்று)",
+            "ఎప్పుడూ కాదు (எப்போதுமில்லை)",
+            "వచ్చే వారం (அடுத்த வாரம்)"
           ],
           "correct_index": 0,
-          "explanation": "ప్రతిరోజూ అంటే ప్రతి రోజు."
+          "explanation": "'ప్రతిరోజూ' என்றால் ஒவ்வொரு நாள் (ప్రతి రోజు).",
+          "id": "ta_te_a_4"
         },
         {
-          "id": "ta_te_a1_q5",
-          "question": "கேள்வி: రాహుల్ ఏమి చేస్తాడు?",
+          "question": "கேள்வி: రాహుల్ (ராஹுல்) என்ன செய்கிறான்?",
           "options": [
-            "పాఠశాలకు వెళ్తాడు",
-            "మార్కెట్కు వెళ్తాడు",
-            "ఇంట్లో ఉంటాడు",
-            "ఆసుపత్రికి వెళ్తాడు"
+            "పాఠశాలకు వెళ్తాడు (பள்ளிக்குச் செல்கிறான்)",
+            "మార్కెట్కు వెళ్తాడు (சந்தைக்குச் செல்கிறான்)",
+            "ఇంట్లో ఉంటాడు (வீட்டில் இருக்கிறான்)",
+            "ఆసుపత్రికి వెళ్తాడు (மருத்துவமனைக்குச் செல்கிறான்)"
           ],
           "correct_index": 0,
-          "explanation": "రాహుల్ పాఠశాలకు వెళ్తాడు."
+          "explanation": "ராஹுல் பள்ளிக்குச் செல்கிறான் (పాఠశాలకు వెళ్తాడు).",
+          "id": "ta_te_a_5"
         },
         {
-          "id": "ta_te_a1_q6",
-          "question": "கேள்வி: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+          "question": "கேள்வி: பகுதியின் முக்கிய கருத்து?",
           "options": [
-            "చదువు మరియు పాఠశాల అలవాటు",
-            "ప్రయాణం",
-            "వర్షం",
-            "కొండలు"
+            "చదువు మరియు పాఠశాల అలவாటు (படிப்பு மற்றும் பள்ளி பழக்கம்)",
+            "ప్రయాణం (பயணம்)",
+            "వర్షం (மழை)",
+            "కొండలు (மலைகள்)"
           ],
           "correct_index": 0,
-          "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల."
+          "explanation": "முக்கிய கருத்து படிப்பு மற்றும் பள்ளி பழக்கம்.",
+          "id": "ta_te_a_6"
         },
         {
-          "id": "ta_te_a1_q7",
-          "question": "கேள்வி: సరైన వాక్యం ఏది?",
+          "question": "கேள்வி: சரியான கூற்று எது?",
           "options": [
-            "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
-            "రాహుల్ పాఠశాలకు వెళ్లడు.",
-            "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.",
-            "రాహుల్ చదవడు."
+            "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం. (ராஹுலுக்கு புத்தகங்கள் படிக்கப் பிடிக்கும்.)",
+            "రాహుల్ పాఠశాలకు వెళ్లడు. (ராஹுல் பள்ளிக்குச் செல்வதில்லை.)",
+            "రాహుల్ ఎప్పుడూ ఆడుతుంటాడు. (ராஹுல் எப்போதும் விளையாடுகிறான்.)",
+            "రాహుల్ చదవడు. (ராஹுல் படிப்பதில்லை.)"
           ],
           "correct_index": 0,
-          "explanation": "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం సరైనది."
+          "explanation": "சரியான கூற்று: రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
+          "id": "ta_te_a_7"
         }
       ]
     }
@@ -12321,8 +12318,8 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_f1_q1",
               "question": "கேள்வி: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
               "options": [
-                "12",
-                "13",
+                "12 (12 - பன்னிரண்டு))",
+                "13 (13 - பதின்மூன்று))",
                 "14",
                 "15"
               ],
@@ -12333,10 +12330,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_f1_q2",
               "question": "கேள்வி: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ಕ್ರಿಯಾಪದ",
-                "ನಾಮಪದ",
-                "ವಿಶೇಷಣ",
-                "ಸರ್ವನಾಮ"
+                "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+                "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+                "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
+                "ಸರ್ವನಾಮ (சர்வநாம - பிரதிபெயர்))"
               ],
               "correct_index": 1,
               "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -12345,8 +12342,8 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_f1_q3",
               "question": "கேள்வி: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
               "options": [
-                "ಮರ",
-                "ಮರಗಳು",
+                "ಮರ (மர - மரம்))",
+                "ಮರಗಳು (மரகளு - மரங்கள்))",
                 "ಮರಗಳ",
                 "ಮರವು"
               ],
@@ -12357,10 +12354,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_f1_q4",
               "question": "கேள்வி: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
               "options": [
-                "ವಿಶೇಷಣ",
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ಸರ್ವನಾಮ"
+                "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
+                "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+                "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+                "ಸರ್ವನಾಮ (சர்வநாம - பிரதிபெயர்))"
               ],
               "correct_index": 0,
               "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -12369,10 +12366,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_f1_q5",
               "question": "கேள்வி: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ವಿಶೇಷಣ",
-                "ಸರ್ವನಾಮ"
+                "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+                "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+                "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
+                "ಸರ್ವನಾಮ (சர்வநாம - பிரதிபெயர்))"
               ],
               "correct_index": 1,
               "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -12384,7 +12381,7 @@ export const BILINGUAL_COURSES = {
                 "ಮನೆ",
                 "ಗ್ರಂಥ",
                 "ರಸ್ತೆ",
-                "ಮರ"
+                "ಮರ (மர - மரம்))"
               ],
               "correct_index": 1,
               "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -12411,8 +12408,8 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_f1_q1",
             "question": "கேள்வி: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
             "options": [
-              "12",
-              "13",
+              "12 (12 - பன்னிரண்டு))",
+              "13 (13 - பதின்மூன்று))",
               "14",
               "15"
             ],
@@ -12423,10 +12420,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_f1_q2",
             "question": "கேள்வி: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ಕ್ರಿಯಾಪದ",
-              "ನಾಮಪದ",
-              "ವಿಶೇಷಣ",
-              "ಸರ್ವನಾಮ"
+              "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+              "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+              "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
+              "ಸರ್ವನಾಮ (சர்வநாம - பிரதிபெயர்))"
             ],
             "correct_index": 1,
             "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -12435,8 +12432,8 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_f1_q3",
             "question": "கேள்வி: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
             "options": [
-              "ಮರ",
-              "ಮರಗಳು",
+              "ಮರ (மர - மரம்))",
+              "ಮರಗಳು (மரகளு - மரங்கள்))",
               "ಮರಗಳ",
               "ಮರವು"
             ],
@@ -12447,10 +12444,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_f1_q4",
             "question": "கேள்வி: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
             "options": [
-              "ವಿಶೇಷಣ",
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ಸರ್ವನಾಮ"
+              "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
+              "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+              "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+              "ಸರ್ವನಾಮ (சர்வநாம - பிரதிபெயர்))"
             ],
             "correct_index": 0,
             "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -12459,10 +12456,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_f1_q5",
             "question": "கேள்வி: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ವಿಶೇಷಣ",
-              "ಸರ್ವನಾಮ"
+              "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+              "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+              "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
+              "ಸರ್ವನಾಮ (சர்வநாம - பிரதிபெயர்))"
             ],
             "correct_index": 1,
             "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -12474,7 +12471,7 @@ export const BILINGUAL_COURSES = {
               "ಮನೆ",
               "ಗ್ರಂಥ",
               "ರಸ್ತೆ",
-              "ಮರ"
+              "ಮರ (மர - மரம்))"
             ],
             "correct_index": 1,
             "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -12498,8 +12495,8 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_f1_q1",
           "question": "கேள்வி: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
           "options": [
-            "12",
-            "13",
+            "12 (12 - பன்னிரண்டு))",
+            "13 (13 - பதின்மூன்று))",
             "14",
             "15"
           ],
@@ -12510,10 +12507,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_f1_q2",
           "question": "கேள்வி: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ಕ್ರಿಯಾಪದ",
-            "ನಾಮಪದ",
-            "ವಿಶೇಷಣ",
-            "ಸರ್ವನಾಮ"
+            "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+            "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+            "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
+            "ಸರ್ವನಾಮ (சர்வநாம - பிரதிபெயர்))"
           ],
           "correct_index": 1,
           "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -12522,8 +12519,8 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_f1_q3",
           "question": "கேள்வி: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
           "options": [
-            "ಮರ",
-            "ಮರಗಳು",
+            "ಮರ (மர - மரம்))",
+            "ಮರಗಳು (மரகளு - மரங்கள்))",
             "ಮರಗಳ",
             "ಮರವು"
           ],
@@ -12534,10 +12531,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_f1_q4",
           "question": "கேள்வி: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
           "options": [
-            "ವಿಶೇಷಣ",
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ಸರ್ವನಾಮ"
+            "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
+            "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+            "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+            "ಸರ್ವನಾಮ (சர்வநாம - பிரதிபெயர்))"
           ],
           "correct_index": 0,
           "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -12546,10 +12543,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_f1_q5",
           "question": "கேள்வி: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ವಿಶೇಷಣ",
-            "ಸರ್ವನಾಮ"
+            "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+            "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+            "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
+            "ಸರ್ವನಾಮ (சர்வநாம - பிரதிபெயர்))"
           ],
           "correct_index": 1,
           "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -12561,7 +12558,7 @@ export const BILINGUAL_COURSES = {
             "ಮನೆ",
             "ಗ್ರಂಥ",
             "ರಸ್ತೆ",
-            "ಮರ"
+            "ಮರ (மர - மரம்))"
           ],
           "correct_index": 1,
           "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -12600,9 +12597,9 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_b1_q1",
               "question": "கேள்வி: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+                "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
                 "ಆಜ್ಞಾರ್ಥಕ"
               ],
               "correct_index": 1,
@@ -12612,9 +12609,9 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_b1_q2",
               "question": "கேள்வி: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+                "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
                 "ಯಾವುದೂ ಅಲ್ಲ"
               ],
               "correct_index": 0,
@@ -12624,10 +12621,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_b1_q3",
               "question": "கேள்வி: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ನಾಮಪದ"
+                "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+                "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+                "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))"
               ],
               "correct_index": 1,
               "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -12636,10 +12633,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_b1_q4",
               "question": "கேள்வி: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ವಿಶೇಷಣ"
+                "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+                "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+                "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))"
               ],
               "correct_index": 0,
               "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -12648,9 +12645,9 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_b1_q5",
               "question": "கேள்வி: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+                "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
                 "ಯಾವುದೂ ಅಲ್ಲ"
               ],
               "correct_index": 1,
@@ -12660,10 +12657,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_b1_q6",
               "question": "கேள்வி: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ವಿಶೇಷಣ"
+                "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+                "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+                "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))"
               ],
               "correct_index": 2,
               "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -12672,10 +12669,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_b1_q7",
               "question": "கேள்வி: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ನಾಮಪದ"
+                "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+                "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+                "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))"
               ],
               "correct_index": 0,
               "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -12690,9 +12687,9 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_b1_q1",
             "question": "கேள்வி: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+              "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
               "ಆಜ್ಞಾರ್ಥಕ"
             ],
             "correct_index": 1,
@@ -12702,9 +12699,9 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_b1_q2",
             "question": "கேள்வி: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+              "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
               "ಯಾವುದೂ ಅಲ್ಲ"
             ],
             "correct_index": 0,
@@ -12714,10 +12711,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_b1_q3",
             "question": "கேள்வி: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ನಾಮಪದ"
+              "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+              "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+              "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))"
             ],
             "correct_index": 1,
             "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -12726,10 +12723,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_b1_q4",
             "question": "கேள்வி: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ವಿಶೇಷಣ"
+              "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+              "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+              "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))"
             ],
             "correct_index": 0,
             "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -12738,9 +12735,9 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_b1_q5",
             "question": "கேள்வி: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+              "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
               "ಯಾವುದೂ ಅಲ್ಲ"
             ],
             "correct_index": 1,
@@ -12750,10 +12747,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_b1_q6",
             "question": "கேள்வி: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ವಿಶೇಷಣ"
+              "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+              "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+              "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))"
             ],
             "correct_index": 2,
             "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -12762,10 +12759,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_b1_q7",
             "question": "கேள்வி: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ನಾಮಪದ"
+              "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+              "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+              "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))"
             ],
             "correct_index": 0,
             "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -12777,9 +12774,9 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_b1_q1",
           "question": "கேள்வி: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+            "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
             "ಆಜ್ಞಾರ್ಥಕ"
           ],
           "correct_index": 1,
@@ -12789,9 +12786,9 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_b1_q2",
           "question": "கேள்வி: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+            "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
             "ಯಾವುದೂ ಅಲ್ಲ"
           ],
           "correct_index": 0,
@@ -12801,10 +12798,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_b1_q3",
           "question": "கேள்வி: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ನಾಮಪದ"
+            "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+            "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+            "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))"
           ],
           "correct_index": 1,
           "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -12813,10 +12810,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_b1_q4",
           "question": "கேள்வி: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ವಿಶೇಷಣ"
+            "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+            "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+            "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))"
           ],
           "correct_index": 0,
           "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -12825,9 +12822,9 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_b1_q5",
           "question": "கேள்வி: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+            "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
             "ಯಾವುದೂ ಅಲ್ಲ"
           ],
           "correct_index": 1,
@@ -12837,10 +12834,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_b1_q6",
           "question": "கேள்வி: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ವಿಶೇಷಣ"
+            "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+            "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+            "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))"
           ],
           "correct_index": 2,
           "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -12849,10 +12846,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_b1_q7",
           "question": "கேள்வி: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ನಾಮಪದ"
+            "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
+            "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
+            "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))"
           ],
           "correct_index": 0,
           "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -12879,10 +12876,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_i1_q1",
               "question": "கேள்வி: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಆದರೆ",
-                "ಮತ್ತು",
+                "ಆದರೆ (ஆதரே - ஆனால்))",
+                "ಮತ್ತು (மத்து - மற்றும்))",
                 "ಏಕೆಂದರೆ",
-                "ಅಥವಾ"
+                "ಅಥವಾ (அதவா - அல்லது))"
               ],
               "correct_index": 1,
               "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -12892,7 +12889,7 @@ export const BILINGUAL_COURSES = {
               "question": "கேள்வி: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
                 "ಅಮ್ಮ",
-                "ಮತ್ತು",
+                "ಮತ್ತು (மத்து - மற்றும்))",
                 "ಅಪ್ಪ",
                 "ನಲ್ಲಿ"
               ],
@@ -12903,7 +12900,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_i1_q3",
               "question": "கேள்வி: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಆದರೆ",
+                "ಆದರೆ (ஆதரே - ஆனால்))",
                 "ಓದಿದನು",
                 "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
                 "ಅವನು"
@@ -12916,9 +12913,9 @@ export const BILINGUAL_COURSES = {
               "question": "கேள்வி: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
                 "ಸಂಪರ್ಕಪದ",
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ವಿಶೇಷಣ"
+                "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+                "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+                "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))"
               ],
               "correct_index": 0,
               "explanation": "ಸಂಪರ್ಕಪದ."
@@ -12939,7 +12936,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_kn_i1_q6",
               "question": "கேள்வி: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಮತ್ತು",
+                "ಮತ್ತು (மத்து - மற்றும்))",
                 "ಪುಸ್ತಕ",
                 "ಮನೆ",
                 "ಓಡು"
@@ -12969,10 +12966,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_i1_q1",
             "question": "கேள்வி: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಆದರೆ",
-              "ಮತ್ತು",
+              "ಆದರೆ (ஆதரே - ஆனால்))",
+              "ಮತ್ತು (மத்து - மற்றும்))",
               "ಏಕೆಂದರೆ",
-              "ಅಥವಾ"
+              "ಅಥವಾ (அதவா - அல்லது))"
             ],
             "correct_index": 1,
             "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -12982,7 +12979,7 @@ export const BILINGUAL_COURSES = {
             "question": "கேள்வி: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
               "ಅಮ್ಮ",
-              "ಮತ್ತು",
+              "ಮತ್ತು (மத்து - மற்றும்))",
               "ಅಪ್ಪ",
               "ನಲ್ಲಿ"
             ],
@@ -12993,7 +12990,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_i1_q3",
             "question": "கேள்வி: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಆದರೆ",
+              "ಆದರೆ (ஆதரே - ஆனால்))",
               "ಓದಿದನು",
               "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
               "ಅವನು"
@@ -13006,9 +13003,9 @@ export const BILINGUAL_COURSES = {
             "question": "கேள்வி: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
               "ಸಂಪರ್ಕಪದ",
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ವಿಶೇಷಣ"
+              "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+              "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+              "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))"
             ],
             "correct_index": 0,
             "explanation": "ಸಂಪರ್ಕಪದ."
@@ -13029,7 +13026,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_kn_i1_q6",
             "question": "கேள்வி: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಮತ್ತು",
+              "ಮತ್ತು (மத்து - மற்றும்))",
               "ಪುಸ್ತಕ",
               "ಮನೆ",
               "ಓಡು"
@@ -13056,10 +13053,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_i1_q1",
           "question": "கேள்வி: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಆದರೆ",
-            "ಮತ್ತು",
+            "ಆದರೆ (ஆதரே - ஆனால்))",
+            "ಮತ್ತು (மத்து - மற்றும்))",
             "ಏಕೆಂದರೆ",
-            "ಅಥವಾ"
+            "ಅಥವಾ (அதவா - அல்லது))"
           ],
           "correct_index": 1,
           "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -13069,7 +13066,7 @@ export const BILINGUAL_COURSES = {
           "question": "கேள்வி: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
             "ಅಮ್ಮ",
-            "ಮತ್ತು",
+            "ಮತ್ತು (மத்து - மற்றும்))",
             "ಅಪ್ಪ",
             "ನಲ್ಲಿ"
           ],
@@ -13080,7 +13077,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_i1_q3",
           "question": "கேள்வி: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಆದರೆ",
+            "ಆದರೆ (ஆதரே - ஆனால்))",
             "ಓದಿದನು",
             "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
             "ಅವನು"
@@ -13093,9 +13090,9 @@ export const BILINGUAL_COURSES = {
           "question": "கேள்வி: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
             "ಸಂಪರ್ಕಪದ",
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ವಿಶೇಷಣ"
+            "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
+            "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
+            "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))"
           ],
           "correct_index": 0,
           "explanation": "ಸಂಪರ್ಕಪದ."
@@ -13116,7 +13113,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_kn_i1_q6",
           "question": "கேள்வி: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಮತ್ತು",
+            "ಮತ್ತು (மத்து - மற்றும்))",
             "ಪುಸ್ತಕ",
             "ಮನೆ",
             "ಓಡು"
@@ -13424,100 +13421,100 @@ export const BILINGUAL_COURSES = {
       "path": "foundation",
       "lang": "en",
       "uiLang": "te",
-      "title": "Course 1: Foundation (నా మొదటి అక్షరాస్యత ప్రయాణం)",
-      "description": "వర్ణమాల, నామవాచకం, బహువచనం, విశేషణం, క్రియ మరియు అర్థాలు నేర్చుకోండి.",
-      "objective": "వర్ణమాల, నామవాచకం, బహువచనం, విశేషణం, క్రియ మరియు అర్థాలు నేర్చుకోండి.",
+      "title": "Course 1: Foundation (నా ఆంగ్ల అక్షరాస్యత ప్రయాణం)",
+      "description": "Learn EN curriculum with TE UI guidance (foundation).",
+      "objective": "Learn EN curriculum with TE UI guidance (foundation).",
       "lessons": [
         {
           "id": "foundation-te-en-l1",
-          "title": "Course 1: Foundation (నా మొదటి అక్షరాస్యత ప్రయాణం)",
-          "learning_goal": "వర్ణమాల, నామవాచకం, బహువచనం, విశేషణం, క్రియ మరియు అర్థాలు నేర్చుకోండి.",
+          "title": "Course 1: Foundation (నా ఆంగ్ల అక్షరాస్యత ప్రయాణం)",
+          "learning_goal": "Learn EN curriculum with TE UI guidance (foundation).",
           "teaching_content": "Practice learning EN curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_en_f1_q1",
-              "question": "ప్రశ్న: Which letter does the word Apple begin with?",
+              "question": "ప్రశ్న: Apple అనే పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
               "options": [
-                "B (బీ)",
-                "A (ఏ)",
-                "C (సీ)",
-                "D (డీ)"
+                "B (బి)",
+                "A (ఎ)",
+                "C (సి)",
+                "D (డి)"
               ],
               "correct_index": 1,
-              "explanation": "Apple begins with A."
+              "explanation": "Apple అనేది A తో ప్రారంభమవుతుంది.",
+              "id": "te_en_f_1"
             },
             {
-              "id": "te_en_f1_q2",
-              "question": "ప్రశ్న: Which word is a Noun?",
+              "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
               "options": [
-                "Run (రన్ - పరిగెత్తు)",
-                "Happy (హ్యాపీ - సంతోషం)",
-                "Book (బుక్ - పుస్తకం)",
-                "Quickly (క్విక్లీ - వేగంగా)"
+                "Run (రన్)",
+                "Happy (హ్యాపీ)",
+                "Book (బుక్)",
+                "Quickly (క్విక్లీ)"
               ],
               "correct_index": 2,
-              "explanation": "Book is a Noun."
+              "explanation": "Book నామవాచకం (Noun).",
+              "id": "te_en_f_2"
             },
             {
-              "id": "te_en_f1_q3",
-              "question": "ప్రశ్న: What is the plural of Tree?",
+              "question": "ప్రశ్న: Tree అనే పదానికి బహువచనం (Plural) ఏది?",
               "options": [
-                "Trees (ట్రీస్ - చెట్లు)",
-                "Treees",
-                "Trees'",
-                "Tree (ట్రీ - చెట్టు)"
+                "Trees (ట్రీస్)",
+                "Treees (ట్రీస్)",
+                "Trees' (ట్రీస్)",
+                "Tree (ట్రీ)"
               ],
               "correct_index": 0,
-              "explanation": "Plural of Tree is Trees."
+              "explanation": "Tree యొక్క బహువచనం Trees.",
+              "id": "te_en_f_3"
             },
             {
-              "id": "te_en_f1_q4",
-              "question": "ప్రశ్న: Which word is an Adjective?",
+              "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
               "options": [
-                "Beautiful",
-                "School (స్కూల్ - పాఠశాల)",
-                "Jump",
-                "They"
+                "Beautiful (బ్యూటిఫుల్)",
+                "School (స్కూల్)",
+                "Jump (జంప్)",
+                "They (దే)"
               ],
               "correct_index": 0,
-              "explanation": "Beautiful is an Adjective."
+              "explanation": "Beautiful అనేది విశేషణం.",
+              "id": "te_en_f_4"
             },
             {
-              "id": "te_en_f1_q5",
-              "question": "ప్రశ్న: Which word is a Verb?",
+              "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
               "options": [
-                "Reading (రీడింగ్ - చదవడం)",
-                "Table",
-                "Blue",
-                "Friend"
+                "Sleep (స్లీప్)",
+                "Book (బుక్)",
+                "Blue (బ్లూ)",
+                "Slowly (స్లోలీ)"
               ],
               "correct_index": 0,
-              "explanation": "Reading is a Verb."
+              "explanation": "Sleep అనేది క్రియ (Verb).",
+              "id": "te_en_f_5"
             },
             {
-              "id": "te_en_f1_q6",
-              "question": "ప్రశ్న: What is another word for Book?",
+              "question": "ప్రశ్న: House అనే పదానికి అర్థం ఏమిటి?",
               "options": [
-                "Pen",
-                "Notebook",
-                "Text",
-                "Volume"
+                "ఇల్లు (Home / హౌస్)",
+                "తోట (Garden)",
+                "కారు (Car)",
+                "పుస్తకం (Book)"
               ],
-              "correct_index": 3,
-              "explanation": "Volume means Book."
+              "correct_index": 0,
+              "explanation": "House అంటే ఇల్లు (Home).",
+              "id": "te_en_f_6"
             },
             {
-              "id": "te_en_f1_q7",
-              "question": "ప్రశ్న: What is a School?",
+              "question": "ప్రశ్న: School అనే పదానికి అర్థం ఏమిటి?",
               "options": [
-                "A hospital",
-                "A place to learn",
-                "A market",
-                "A park"
+                "ఆసుపత్రి (Hospital)",
+                "పాఠశాల (Place for learning)",
+                "మార్కెట్ (Market)",
+                "పార్క్ (Park)"
               ],
               "correct_index": 1,
-              "explanation": "School is a place to learn."
+              "explanation": "School అంటే పాఠశాల.",
+              "id": "te_en_f_7"
             }
           ]
         }
@@ -13526,175 +13523,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_en_f1_q1",
-            "question": "ప్రశ్న: Which letter does the word Apple begin with?",
+            "question": "ప్రశ్న: Apple అనే పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
             "options": [
-              "B (బీ)",
-              "A (ఏ)",
-              "C (సీ)",
-              "D (డీ)"
+              "B (బి)",
+              "A (ఎ)",
+              "C (సి)",
+              "D (డి)"
             ],
             "correct_index": 1,
-            "explanation": "Apple begins with A."
+            "explanation": "Apple అనేది A తో ప్రారంభమవుతుంది.",
+            "id": "te_en_f_1"
           },
           {
-            "id": "te_en_f1_q2",
-            "question": "ప్రశ్న: Which word is a Noun?",
+            "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
             "options": [
-              "Run (రన్ - పరిగెత్తు)",
-              "Happy (హ్యాపీ - సంతోషం)",
-              "Book (బుక్ - పుస్తకం)",
-              "Quickly (క్విక్లీ - వేగంగా)"
+              "Run (రన్)",
+              "Happy (హ్యాపీ)",
+              "Book (బుక్)",
+              "Quickly (క్విక్లీ)"
             ],
             "correct_index": 2,
-            "explanation": "Book is a Noun."
+            "explanation": "Book నామవాచకం (Noun).",
+            "id": "te_en_f_2"
           },
           {
-            "id": "te_en_f1_q3",
-            "question": "ప్రశ్న: What is the plural of Tree?",
+            "question": "ప్రశ్న: Tree అనే పదానికి బహువచనం (Plural) ఏది?",
             "options": [
-              "Trees (ట్రీస్ - చెట్లు)",
-              "Treees",
-              "Trees'",
-              "Tree (ట్రీ - చెట్టు)"
+              "Trees (ట్రీస్)",
+              "Treees (ట్రీస్)",
+              "Trees' (ట్రీస్)",
+              "Tree (ట్రీ)"
             ],
             "correct_index": 0,
-            "explanation": "Plural of Tree is Trees."
+            "explanation": "Tree యొక్క బహువచనం Trees.",
+            "id": "te_en_f_3"
           },
           {
-            "id": "te_en_f1_q4",
-            "question": "ప్రశ్న: Which word is an Adjective?",
+            "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
             "options": [
-              "Beautiful",
-              "School (స్కూల్ - పాఠశాల)",
-              "Jump",
-              "They"
+              "Beautiful (బ్యూటిఫుల్)",
+              "School (స్కూల్)",
+              "Jump (జంప్)",
+              "They (దే)"
             ],
             "correct_index": 0,
-            "explanation": "Beautiful is an Adjective."
+            "explanation": "Beautiful అనేది విశేషణం.",
+            "id": "te_en_f_4"
           },
           {
-            "id": "te_en_f1_q5",
-            "question": "ప్రశ్న: Which word is a Verb?",
+            "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
             "options": [
-              "Reading (రీడింగ్ - చదవడం)",
-              "Table",
-              "Blue",
-              "Friend"
+              "Sleep (స్లీప్)",
+              "Book (బుక్)",
+              "Blue (బ్లూ)",
+              "Slowly (స్లోలీ)"
             ],
             "correct_index": 0,
-            "explanation": "Reading is a Verb."
+            "explanation": "Sleep అనేది క్రియ (Verb).",
+            "id": "te_en_f_5"
           },
           {
-            "id": "te_en_f1_q6",
-            "question": "ప్రశ్న: What is another word for Book?",
+            "question": "ప్రశ్న: House అనే పదానికి అర్థం ఏమిటి?",
             "options": [
-              "Pen",
-              "Notebook",
-              "Text",
-              "Volume"
+              "ఇల్లు (Home / హౌస్)",
+              "తోట (Garden)",
+              "కారు (Car)",
+              "పుస్తకం (Book)"
             ],
-            "correct_index": 3,
-            "explanation": "Volume means Book."
+            "correct_index": 0,
+            "explanation": "House అంటే ఇల్లు (Home).",
+            "id": "te_en_f_6"
           },
           {
-            "id": "te_en_f1_q7",
-            "question": "ప్రశ్న: What is a School?",
+            "question": "ప్రశ్న: School అనే పదానికి అర్థం ఏమిటి?",
             "options": [
-              "A hospital",
-              "A place to learn",
-              "A market",
-              "A park"
+              "ఆసుపత్రి (Hospital)",
+              "పాఠశాల (Place for learning)",
+              "మార్కెట్ (Market)",
+              "పార్క్ (Park)"
             ],
             "correct_index": 1,
-            "explanation": "School is a place to learn."
+            "explanation": "School అంటే పాఠశాల.",
+            "id": "te_en_f_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_en_f1_q1",
-          "question": "ప్రశ్న: Which letter does the word Apple begin with?",
+          "question": "ప్రశ్న: Apple అనే పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
           "options": [
-            "B (బీ)",
-            "A (ఏ)",
-            "C (సీ)",
-            "D (డీ)"
+            "B (బి)",
+            "A (ఎ)",
+            "C (సి)",
+            "D (డి)"
           ],
           "correct_index": 1,
-          "explanation": "Apple begins with A."
+          "explanation": "Apple అనేది A తో ప్రారంభమవుతుంది.",
+          "id": "te_en_f_1"
         },
         {
-          "id": "te_en_f1_q2",
-          "question": "ప్రశ్న: Which word is a Noun?",
+          "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
           "options": [
-            "Run (రన్ - పరిగెత్తు)",
-            "Happy (హ్యాపీ - సంతోషం)",
-            "Book (బుక్ - పుస్తకం)",
-            "Quickly (క్విక్లీ - వేగంగా)"
+            "Run (రన్)",
+            "Happy (హ్యాపీ)",
+            "Book (బుక్)",
+            "Quickly (క్విక్లీ)"
           ],
           "correct_index": 2,
-          "explanation": "Book is a Noun."
+          "explanation": "Book నామవాచకం (Noun).",
+          "id": "te_en_f_2"
         },
         {
-          "id": "te_en_f1_q3",
-          "question": "ప్రశ్న: What is the plural of Tree?",
+          "question": "ప్రశ్న: Tree అనే పదానికి బహువచనం (Plural) ఏది?",
           "options": [
-            "Trees (ట్రీస్ - చెట్లు)",
-            "Treees",
-            "Trees'",
-            "Tree (ట్రీ - చెట్టు)"
+            "Trees (ట్రీస్)",
+            "Treees (ట్రీస్)",
+            "Trees' (ట్రీస్)",
+            "Tree (ట్రీ)"
           ],
           "correct_index": 0,
-          "explanation": "Plural of Tree is Trees."
+          "explanation": "Tree యొక్క బహువచనం Trees.",
+          "id": "te_en_f_3"
         },
         {
-          "id": "te_en_f1_q4",
-          "question": "ప్రశ్న: Which word is an Adjective?",
+          "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
           "options": [
-            "Beautiful",
-            "School (స్కూల్ - పాఠశాల)",
-            "Jump",
-            "They"
+            "Beautiful (బ్యూటిఫుల్)",
+            "School (స్కూల్)",
+            "Jump (జంప్)",
+            "They (దే)"
           ],
           "correct_index": 0,
-          "explanation": "Beautiful is an Adjective."
+          "explanation": "Beautiful అనేది విశేషణం.",
+          "id": "te_en_f_4"
         },
         {
-          "id": "te_en_f1_q5",
-          "question": "ప్రశ్న: Which word is a Verb?",
+          "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
           "options": [
-            "Reading (రీడింగ్ - చదవడం)",
-            "Table",
-            "Blue",
-            "Friend"
+            "Sleep (స్లీప్)",
+            "Book (బుక్)",
+            "Blue (బ్లూ)",
+            "Slowly (స్లోలీ)"
           ],
           "correct_index": 0,
-          "explanation": "Reading is a Verb."
+          "explanation": "Sleep అనేది క్రియ (Verb).",
+          "id": "te_en_f_5"
         },
         {
-          "id": "te_en_f1_q6",
-          "question": "ప్రశ్న: What is another word for Book?",
+          "question": "ప్రశ్న: House అనే పదానికి అర్థం ఏమిటి?",
           "options": [
-            "Pen",
-            "Notebook",
-            "Text",
-            "Volume"
+            "ఇల్లు (Home / హౌస్)",
+            "తోట (Garden)",
+            "కారు (Car)",
+            "పుస్తకం (Book)"
           ],
-          "correct_index": 3,
-          "explanation": "Volume means Book."
+          "correct_index": 0,
+          "explanation": "House అంటే ఇల్లు (Home).",
+          "id": "te_en_f_6"
         },
         {
-          "id": "te_en_f1_q7",
-          "question": "ప్రశ్న: What is a School?",
+          "question": "ప్రశ్న: School అనే పదానికి అర్థం ఏమిటి?",
           "options": [
-            "A hospital",
-            "A place to learn",
-            "A market",
-            "A park"
+            "ఆసుపత్రి (Hospital)",
+            "పాఠశాల (Place for learning)",
+            "మార్కెట్ (Market)",
+            "పార్క్ (Park)"
           ],
           "correct_index": 1,
-          "explanation": "School is a place to learn."
+          "explanation": "School అంటే పాఠశాల.",
+          "id": "te_en_f_7"
         }
       ]
     },
@@ -13703,100 +13700,100 @@ export const BILINGUAL_COURSES = {
       "path": "beginner",
       "lang": "en",
       "uiLang": "te",
-      "title": "Course 2: Beginner (నా చుట్టూ ఉన్న పదాలు)",
-      "description": "వర్తమాన కాలం, భూతకాలం మరియు భవిష్యత్ కాలం వాక్యాలను అభ్యసించండి.",
-      "objective": "వర్తమాన కాలం, భూతకాలం మరియు భవిష్యత్ కాలం వాక్యాలను అభ్యసించండి.",
+      "title": "Course 2: Beginner (నా చుట్టూ ఉన్న ఆంగ్ల పదాలు)",
+      "description": "Learn EN curriculum with TE UI guidance (beginner).",
+      "objective": "Learn EN curriculum with TE UI guidance (beginner).",
       "lessons": [
         {
           "id": "beginner-te-en-l1",
-          "title": "Course 2: Beginner (నా చుట్టూ ఉన్న పదాలు)",
-          "learning_goal": "వర్తమాన కాలం, భూతకాలం మరియు భవిష్యత్ కాలం వాక్యాలను అభ్యసించండి.",
+          "title": "Course 2: Beginner (నా చుట్టూ ఉన్న ఆంగ్ల పదాలు)",
+          "learning_goal": "Learn EN curriculum with TE UI guidance (beginner).",
           "teaching_content": "Practice learning EN curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_en_b1_q1",
-              "question": "ప్రశ్న: \"I am going to school.\" Which tense is this?",
+              "question": "ప్రశ్న: \"I am going to school.\" ఇది ఏ కాలం?",
               "options": [
-                "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-                "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-                "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-                "Imperative (ఇంపరేటివ్ - ఆజ్ఞార్థకం)"
+                "Past Tense (భూతకాలం)",
+                "Present Tense (వర్తమాన కాలం)",
+                "Future Tense (భవిష్యత్ కాలం)",
+                "Command (ఆజ్ఞార్థకం)"
               ],
               "correct_index": 1,
-              "explanation": "Present Tense."
+              "explanation": "Present Tense (వర్తమాన కాలం).",
+              "id": "te_en_b_1"
             },
             {
-              "id": "te_en_b1_q2",
-              "question": "ప్రశ్న: \"He came yesterday.\" Which tense is this?",
+              "question": "ప్రశ్న: \"He came yesterday.\" ఇది ఏ కాలం?",
               "options": [
-                "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-                "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-                "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-                "None (నన్ - ఏదీ కాదు)"
+                "Past Tense (భూతకాలం)",
+                "Present Tense (వర్తమాన కాలం)",
+                "Future Tense (భవిష్యత్ కాలం)",
+                "None (ఏదీ కాదు)"
               ],
               "correct_index": 0,
-              "explanation": "Past Tense."
+              "explanation": "Past Tense (భూతకాలం).",
+              "id": "te_en_b_2"
             },
             {
-              "id": "te_en_b1_q3",
-              "question": "ప్రశ్న: \"I will go tomorrow.\" Which tense is this?",
+              "question": "ప్రశ్న: \"I will go tomorrow.\" ఇది ఏ కాలం?",
               "options": [
-                "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-                "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-                "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-                "Noun"
+                "Present Tense (వర్తమాన కాలం)",
+                "Future Tense (భవిష్యత్ కాలం)",
+                "Past Tense (భూతకాలం)",
+                "Noun (నామవాచకం)"
               ],
               "correct_index": 1,
-              "explanation": "Future Tense."
+              "explanation": "Future Tense (భవిష్యత్ కాలం).",
+              "id": "te_en_b_3"
             },
             {
-              "id": "te_en_b1_q4",
-              "question": "ప్రశ్న: \"She is singing.\" Which tense is this?",
+              "question": "ప్రశ్న: \"She is singing a song.\" ఇది ఏ కాలం?",
               "options": [
-                "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-                "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-                "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-                "Adjective"
+                "Present Tense (వర్తమాన కాలం)",
+                "Past Tense (భూతకాలం)",
+                "Future Tense (భవిష్యత్ కాలం)",
+                "Adjective (విశేషణం)"
               ],
               "correct_index": 0,
-              "explanation": "Present Tense."
+              "explanation": "Present Tense (వర్తమాన కాలం).",
+              "id": "te_en_b_4"
             },
             {
-              "id": "te_en_b1_q5",
-              "question": "ప్రశ్న: Which word shows the past tense?",
+              "question": "ప్రశ్న: \"Ate\" ఏ కాలాన్ని సూచిస్తుంది?",
               "options": [
-                "Eat",
-                "Ate (ఏట్ - తిన్నాడు)",
-                "Eating",
-                "Eats"
+                "Present Tense (వర్తమాన కాలం)",
+                "Past Tense (భూతకాలం)",
+                "Future Tense (భవిష్యత్ కాలం)",
+                "None (ఏదీ కాదు)"
               ],
               "correct_index": 1,
-              "explanation": "Ate is past tense."
+              "explanation": "Past Tense (భూతకాలం).",
+              "id": "te_en_b_5"
             },
             {
-              "id": "te_en_b1_q6",
-              "question": "ప్రశ్న: Which word shows the future tense?",
+              "question": "ప్రశ్న: \"Will read\" ఏ కాలానికి చెందుతుంది?",
               "options": [
-                "Read",
-                "Reading (రీడింగ్ - చదవడం)",
-                "Will read (విల్ రీడ్ - చదువుతాను)",
-                "Reads"
+                "Past Tense (భూతకాలం)",
+                "Present Tense (వర్తమాన కాలం)",
+                "Future Tense (భవిష్యత్ కాలం)",
+                "Adjective (విశేషణం)"
               ],
               "correct_index": 2,
-              "explanation": "Will read is future tense."
+              "explanation": "Future Tense (భవిష్యత్ కాలం).",
+              "id": "te_en_b_6"
             },
             {
-              "id": "te_en_b1_q7",
-              "question": "ప్రశ్న: \"They are playing.\" Which tense is this?",
+              "question": "ప్రశ్న: \"Is playing\" ఏ కాలానికి ఉదాహరణ?",
               "options": [
-                "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-                "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-                "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-                "Noun"
+                "Present Tense (వర్తమాన కాలం)",
+                "Past Tense (భూతకాలం)",
+                "Future Tense (భవిష్యత్ కాలం)",
+                "Noun (నామవాచకం)"
               ],
               "correct_index": 0,
-              "explanation": "Present Tense."
+              "explanation": "Present Tense (వర్తమాన కాలం).",
+              "id": "te_en_b_7"
             }
           ]
         }
@@ -13805,175 +13802,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_en_b1_q1",
-            "question": "ప్రశ్న: \"I am going to school.\" Which tense is this?",
+            "question": "ప్రశ్న: \"I am going to school.\" ఇది ఏ కాలం?",
             "options": [
-              "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-              "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-              "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-              "Imperative (ఇంపరేటివ్ - ఆజ్ఞార్థకం)"
+              "Past Tense (భూతకాలం)",
+              "Present Tense (వర్తమాన కాలం)",
+              "Future Tense (భవిష్యత్ కాలం)",
+              "Command (ఆజ్ఞార్థకం)"
             ],
             "correct_index": 1,
-            "explanation": "Present Tense."
+            "explanation": "Present Tense (వర్తమాన కాలం).",
+            "id": "te_en_b_1"
           },
           {
-            "id": "te_en_b1_q2",
-            "question": "ప్రశ్న: \"He came yesterday.\" Which tense is this?",
+            "question": "ప్రశ్న: \"He came yesterday.\" ఇది ఏ కాలం?",
             "options": [
-              "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-              "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-              "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-              "None (నన్ - ఏదీ కాదు)"
+              "Past Tense (భూతకాలం)",
+              "Present Tense (వర్తమాన కాలం)",
+              "Future Tense (భవిష్యత్ కాలం)",
+              "None (ఏదీ కాదు)"
             ],
             "correct_index": 0,
-            "explanation": "Past Tense."
+            "explanation": "Past Tense (భూతకాలం).",
+            "id": "te_en_b_2"
           },
           {
-            "id": "te_en_b1_q3",
-            "question": "ప్రశ్న: \"I will go tomorrow.\" Which tense is this?",
+            "question": "ప్రశ్న: \"I will go tomorrow.\" ఇది ఏ కాలం?",
             "options": [
-              "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-              "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-              "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-              "Noun"
+              "Present Tense (వర్తమాన కాలం)",
+              "Future Tense (భవిష్యత్ కాలం)",
+              "Past Tense (భూతకాలం)",
+              "Noun (నామవాచకం)"
             ],
             "correct_index": 1,
-            "explanation": "Future Tense."
+            "explanation": "Future Tense (భవిష్యత్ కాలం).",
+            "id": "te_en_b_3"
           },
           {
-            "id": "te_en_b1_q4",
-            "question": "ప్రశ్న: \"She is singing.\" Which tense is this?",
+            "question": "ప్రశ్న: \"She is singing a song.\" ఇది ఏ కాలం?",
             "options": [
-              "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-              "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-              "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-              "Adjective"
+              "Present Tense (వర్తమాన కాలం)",
+              "Past Tense (భూతకాలం)",
+              "Future Tense (భవిష్యత్ కాలం)",
+              "Adjective (విశేషణం)"
             ],
             "correct_index": 0,
-            "explanation": "Present Tense."
+            "explanation": "Present Tense (వర్తమాన కాలం).",
+            "id": "te_en_b_4"
           },
           {
-            "id": "te_en_b1_q5",
-            "question": "ప్రశ్న: Which word shows the past tense?",
+            "question": "ప్రశ్న: \"Ate\" ఏ కాలాన్ని సూచిస్తుంది?",
             "options": [
-              "Eat",
-              "Ate (ఏట్ - తిన్నాడు)",
-              "Eating",
-              "Eats"
+              "Present Tense (వర్తమాన కాలం)",
+              "Past Tense (భూతకాలం)",
+              "Future Tense (భవిష్యత్ కాలం)",
+              "None (ఏదీ కాదు)"
             ],
             "correct_index": 1,
-            "explanation": "Ate is past tense."
+            "explanation": "Past Tense (భూతకాలం).",
+            "id": "te_en_b_5"
           },
           {
-            "id": "te_en_b1_q6",
-            "question": "ప్రశ్న: Which word shows the future tense?",
+            "question": "ప్రశ్న: \"Will read\" ఏ కాలానికి చెందుతుంది?",
             "options": [
-              "Read",
-              "Reading (రీడింగ్ - చదవడం)",
-              "Will read (విల్ రీడ్ - చదువుతాను)",
-              "Reads"
+              "Past Tense (భూతకాలం)",
+              "Present Tense (వర్తమాన కాలం)",
+              "Future Tense (భవిష్యత్ కాలం)",
+              "Adjective (విశేషణం)"
             ],
             "correct_index": 2,
-            "explanation": "Will read is future tense."
+            "explanation": "Future Tense (భవిష్యత్ కాలం).",
+            "id": "te_en_b_6"
           },
           {
-            "id": "te_en_b1_q7",
-            "question": "ప్రశ్న: \"They are playing.\" Which tense is this?",
+            "question": "ప్రశ్న: \"Is playing\" ఏ కాలానికి ఉదాహరణ?",
             "options": [
-              "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-              "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-              "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-              "Noun"
+              "Present Tense (వర్తమాన కాలం)",
+              "Past Tense (భూతకాలం)",
+              "Future Tense (భవిష్యత్ కాలం)",
+              "Noun (నామవాచకం)"
             ],
             "correct_index": 0,
-            "explanation": "Present Tense."
+            "explanation": "Present Tense (వర్తమాన కాలం).",
+            "id": "te_en_b_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_en_b1_q1",
-          "question": "ప్రశ్న: \"I am going to school.\" Which tense is this?",
+          "question": "ప్రశ్న: \"I am going to school.\" ఇది ఏ కాలం?",
           "options": [
-            "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-            "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-            "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-            "Imperative (ఇంపరేటివ్ - ఆజ్ఞార్థకం)"
+            "Past Tense (భూతకాలం)",
+            "Present Tense (వర్తమాన కాలం)",
+            "Future Tense (భవిష్యత్ కాలం)",
+            "Command (ఆజ్ఞార్థకం)"
           ],
           "correct_index": 1,
-          "explanation": "Present Tense."
+          "explanation": "Present Tense (వర్తమాన కాలం).",
+          "id": "te_en_b_1"
         },
         {
-          "id": "te_en_b1_q2",
-          "question": "ప్రశ్న: \"He came yesterday.\" Which tense is this?",
+          "question": "ప్రశ్న: \"He came yesterday.\" ఇది ఏ కాలం?",
           "options": [
-            "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-            "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-            "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-            "None (నన్ - ఏదీ కాదు)"
+            "Past Tense (భూతకాలం)",
+            "Present Tense (వర్తమాన కాలం)",
+            "Future Tense (భవిష్యత్ కాలం)",
+            "None (ఏదీ కాదు)"
           ],
           "correct_index": 0,
-          "explanation": "Past Tense."
+          "explanation": "Past Tense (భూతకాలం).",
+          "id": "te_en_b_2"
         },
         {
-          "id": "te_en_b1_q3",
-          "question": "ప్రశ్న: \"I will go tomorrow.\" Which tense is this?",
+          "question": "ప్రశ్న: \"I will go tomorrow.\" ఇది ఏ కాలం?",
           "options": [
-            "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-            "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-            "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-            "Noun"
+            "Present Tense (వర్తమాన కాలం)",
+            "Future Tense (భవిష్యత్ కాలం)",
+            "Past Tense (భూతకాలం)",
+            "Noun (నామవాచకం)"
           ],
           "correct_index": 1,
-          "explanation": "Future Tense."
+          "explanation": "Future Tense (భవిష్యత్ కాలం).",
+          "id": "te_en_b_3"
         },
         {
-          "id": "te_en_b1_q4",
-          "question": "ప్రశ్న: \"She is singing.\" Which tense is this?",
+          "question": "ప్రశ్న: \"She is singing a song.\" ఇది ఏ కాలం?",
           "options": [
-            "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-            "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-            "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-            "Adjective"
+            "Present Tense (వర్తమాన కాలం)",
+            "Past Tense (భూతకాలం)",
+            "Future Tense (భవిష్యత్ కాలం)",
+            "Adjective (విశేషణం)"
           ],
           "correct_index": 0,
-          "explanation": "Present Tense."
+          "explanation": "Present Tense (వర్తమాన కాలం).",
+          "id": "te_en_b_4"
         },
         {
-          "id": "te_en_b1_q5",
-          "question": "ప్రశ్న: Which word shows the past tense?",
+          "question": "ప్రశ్న: \"Ate\" ఏ కాలాన్ని సూచిస్తుంది?",
           "options": [
-            "Eat",
-            "Ate (ఏట్ - తిన్నాడు)",
-            "Eating",
-            "Eats"
+            "Present Tense (వర్తమాన కాలం)",
+            "Past Tense (భూతకాలం)",
+            "Future Tense (భవిష్యత్ కాలం)",
+            "None (ఏదీ కాదు)"
           ],
           "correct_index": 1,
-          "explanation": "Ate is past tense."
+          "explanation": "Past Tense (భూతకాలం).",
+          "id": "te_en_b_5"
         },
         {
-          "id": "te_en_b1_q6",
-          "question": "ప్రశ్న: Which word shows the future tense?",
+          "question": "ప్రశ్న: \"Will read\" ఏ కాలానికి చెందుతుంది?",
           "options": [
-            "Read",
-            "Reading (రీడింగ్ - చదవడం)",
-            "Will read (విల్ రీడ్ - చదువుతాను)",
-            "Reads"
+            "Past Tense (భూతకాలం)",
+            "Present Tense (వర్తమాన కాలం)",
+            "Future Tense (భవిష్యత్ కాలం)",
+            "Adjective (విశేషణం)"
           ],
           "correct_index": 2,
-          "explanation": "Will read is future tense."
+          "explanation": "Future Tense (భవిష్యత్ కాలం).",
+          "id": "te_en_b_6"
         },
         {
-          "id": "te_en_b1_q7",
-          "question": "ప్రశ్న: \"They are playing.\" Which tense is this?",
+          "question": "ప్రశ్న: \"Is playing\" ఏ కాలానికి ఉదాహరణ?",
           "options": [
-            "Present Tense (ప్రజెంట్ టెన్స్ - వర్తమాన కాలం)",
-            "Past Tense (పాస్ట్ టెన్స్ - భూతకాలం)",
-            "Future Tense (ఫ్యూచర్ టెన్స్ - భవిష్యత్ కాలం)",
-            "Noun"
+            "Present Tense (వర్తమాన కాలం)",
+            "Past Tense (భూతకాలం)",
+            "Future Tense (భవిష్యత్ కాలం)",
+            "Noun (నామవాచకం)"
           ],
           "correct_index": 0,
-          "explanation": "Present Tense."
+          "explanation": "Present Tense (వర్తమాన కాలం).",
+          "id": "te_en_b_7"
         }
       ]
     },
@@ -13983,99 +13980,99 @@ export const BILINGUAL_COURSES = {
       "lang": "en",
       "uiLang": "te",
       "title": "Course 3: Intermediate (పదజాలానికి కొత్త అడుగులు)",
-      "description": "మరియు, కానీ, అందువల్ల, లేదా వంటి సంధాన పదాలను నేర్చుకోండి.",
-      "objective": "మరియు, కానీ, అందువల్ల, లేదా వంటి సంధాన పదాలను నేర్చుకోండి.",
+      "description": "Learn EN curriculum with TE UI guidance (intermediate).",
+      "objective": "Learn EN curriculum with TE UI guidance (intermediate).",
       "lessons": [
         {
           "id": "intermediate-te-en-l1",
           "title": "Course 3: Intermediate (పదజాలానికి కొత్త అడుగులు)",
-          "learning_goal": "మరియు, కానీ, అందువల్ల, లేదా వంటి సంధాన పదాలను నేర్చుకోండి.",
+          "learning_goal": "Learn EN curriculum with TE UI guidance (intermediate).",
           "teaching_content": "Practice learning EN curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_en_i1_q1",
-              "question": "ప్రశ్న: Which word joins two ideas?",
+              "question": "ప్రశ్న: \"Ram and Ravi went to school.\" ఇందులో సంధాన పదం (Conjunction) ఏది?",
               "options": [
-                "But (బట్ - కానీ)",
-                "And (యాండ్ - మరియు)",
-                "Because (బికాజ్ - ఎందుకంటే)",
-                "Or (ఆర్ - లేదా)"
+                "But (బట్)",
+                "And (యాండ్)",
+                "Because (బికాజ్)",
+                "Or (ఆర్)"
               ],
               "correct_index": 1,
-              "explanation": "And joins ideas."
+              "explanation": "And సంధాన పదం.",
+              "id": "te_en_i_1"
             },
             {
-              "id": "te_en_i1_q2",
-              "question": "ప్రశ్న: In \"Mother and Father\", which is the joining word?",
+              "question": "ప్రశ్న: \"Mother and Father\" లో సంధాన పదం ఏది?",
               "options": [
-                "Mother (మదర్ - అమ్మ)",
-                "And (యాండ్ - మరియు)",
-                "Father (ఫాదర్ - నాన్న)",
-                "Family"
+                "Mother (మదర్)",
+                "And (యాండ్)",
+                "Father (ఫాదర్)",
+                "In (ఇన్)"
               ],
               "correct_index": 1,
-              "explanation": "And is joining word."
+              "explanation": "And సంధాన పదం.",
+              "id": "te_en_i_2"
             },
             {
-              "id": "te_en_i1_q3",
-              "question": "ప్రశ్న: \"He studied, but he did not pass.\" Which is the joining word?",
+              "question": "ప్రశ్న: \"He studied, but he did not pass.\" ఇందులో సంధాన పదం ఏది?",
               "options": [
-                "But (బట్ - కానీ)",
-                "Studied",
-                "Pass",
-                "He"
+                "But (బట్)",
+                "Studied (స్టడీడ్)",
+                "Pass (పాస్)",
+                "Did not (డిడ్ నాట్)"
               ],
               "correct_index": 0,
-              "explanation": "But is joining word."
+              "explanation": "But సంధాన పదం.",
+              "id": "te_en_i_3"
             },
             {
-              "id": "te_en_i1_q4",
-              "question": "ప్రశ్న: \"And\" is a ______.",
+              "question": "ప్రశ్న: \"And\" ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
-                "Conjunction (కంజంక్షన్ - సంధాన పదం)",
-                "Noun",
-                "Verb",
-                "Adjective"
+                "Conjunction (సంధాన పదం)",
+                "Noun (నామవాచకం)",
+                "Verb (క్రియ)",
+                "Adjective (విశేషణం)"
               ],
               "correct_index": 0,
-              "explanation": "And is a Conjunction."
+              "explanation": "And అనేది Conjunction.",
+              "id": "te_en_i_4"
             },
             {
-              "id": "te_en_i1_q5",
-              "question": "ప్రశ్న: When do we use because?",
+              "question": "ప్రశ్న: \"Therefore\" అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
               "options": [
-                "To show a reason",
-                "To name a person",
-                "To show an action",
-                "To show time"
+                "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (Cause & Effect)",
+                "నామవాచకంగా (As a Noun)",
+                "క్రియగా (As a Verb)",
+                "కాలాన్ని సూచించడానికి (Time)"
               ],
               "correct_index": 0,
-              "explanation": "Because shows a reason."
+              "explanation": "Therefore కారణం మరియు ఫలితాన్ని తెలియజేయడానికి ఉపయోగిస్తారు.",
+              "id": "te_en_i_5"
             },
             {
-              "id": "te_en_i1_q6",
-              "question": "ప్రశ్న: Which is a conjunction?",
+              "question": "ప్రశ్న: సరైన సంధాన పదం (Conjunction) ఏది?",
               "options": [
-                "And (యాండ్ - మరియు)",
-                "House",
-                "Book (బుక్ - పుస్తకం)",
-                "Run (రన్ - పరిగెత్తు)"
+                "And (యాండ్)",
+                "Book (బుక్)",
+                "House (హౌస్)",
+                "Run (రన్)"
               ],
               "correct_index": 0,
-              "explanation": "And is a conjunction."
+              "explanation": "And సరైన సంధాన పదం.",
+              "id": "te_en_i_6"
             },
             {
-              "id": "te_en_i1_q7",
-              "question": "ప్రశ్న: What does or mean?",
+              "question": "ప్రశ్న: \"Or\" అంటే ఏమిటి?",
               "options": [
-                "One choice between two options",
-                "A place",
-                "A time",
-                "An action"
+                "రెండు ఎంపికల్లో ఒకటి (Choice between two)",
+                "సమయం (Time)",
+                "స్థలం (Place)",
+                "క్రియ (Action)"
               ],
               "correct_index": 0,
-              "explanation": "Or means choice."
+              "explanation": "Or అంటే రెండు ఎంపికల్లో ఒకటి.",
+              "id": "te_en_i_7"
             }
           ]
         }
@@ -14084,175 +14081,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_en_i1_q1",
-            "question": "ప్రశ్న: Which word joins two ideas?",
+            "question": "ప్రశ్న: \"Ram and Ravi went to school.\" ఇందులో సంధాన పదం (Conjunction) ఏది?",
             "options": [
-              "But (బట్ - కానీ)",
-              "And (యాండ్ - మరియు)",
-              "Because (బికాజ్ - ఎందుకంటే)",
-              "Or (ఆర్ - లేదా)"
+              "But (బట్)",
+              "And (యాండ్)",
+              "Because (బికాజ్)",
+              "Or (ఆర్)"
             ],
             "correct_index": 1,
-            "explanation": "And joins ideas."
+            "explanation": "And సంధాన పదం.",
+            "id": "te_en_i_1"
           },
           {
-            "id": "te_en_i1_q2",
-            "question": "ప్రశ్న: In \"Mother and Father\", which is the joining word?",
+            "question": "ప్రశ్న: \"Mother and Father\" లో సంధాన పదం ఏది?",
             "options": [
-              "Mother (మదర్ - అమ్మ)",
-              "And (యాండ్ - మరియు)",
-              "Father (ఫాదర్ - నాన్న)",
-              "Family"
+              "Mother (మదర్)",
+              "And (యాండ్)",
+              "Father (ఫాదర్)",
+              "In (ఇన్)"
             ],
             "correct_index": 1,
-            "explanation": "And is joining word."
+            "explanation": "And సంధాన పదం.",
+            "id": "te_en_i_2"
           },
           {
-            "id": "te_en_i1_q3",
-            "question": "ప్రశ్న: \"He studied, but he did not pass.\" Which is the joining word?",
+            "question": "ప్రశ్న: \"He studied, but he did not pass.\" ఇందులో సంధాన పదం ఏది?",
             "options": [
-              "But (బట్ - కానీ)",
-              "Studied",
-              "Pass",
-              "He"
+              "But (బట్)",
+              "Studied (స్టడీడ్)",
+              "Pass (పాస్)",
+              "Did not (డిడ్ నాట్)"
             ],
             "correct_index": 0,
-            "explanation": "But is joining word."
+            "explanation": "But సంధాన పదం.",
+            "id": "te_en_i_3"
           },
           {
-            "id": "te_en_i1_q4",
-            "question": "ప్రశ్న: \"And\" is a ______.",
+            "question": "ప్రశ్న: \"And\" ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
-              "Conjunction (కంజంక్షన్ - సంధాన పదం)",
-              "Noun",
-              "Verb",
-              "Adjective"
+              "Conjunction (సంధాన పదం)",
+              "Noun (నామవాచకం)",
+              "Verb (క్రియ)",
+              "Adjective (విశేషణం)"
             ],
             "correct_index": 0,
-            "explanation": "And is a Conjunction."
+            "explanation": "And అనేది Conjunction.",
+            "id": "te_en_i_4"
           },
           {
-            "id": "te_en_i1_q5",
-            "question": "ప్రశ్న: When do we use because?",
+            "question": "ప్రశ్న: \"Therefore\" అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
             "options": [
-              "To show a reason",
-              "To name a person",
-              "To show an action",
-              "To show time"
+              "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (Cause & Effect)",
+              "నామవాచకంగా (As a Noun)",
+              "క్రియగా (As a Verb)",
+              "కాలాన్ని సూచించడానికి (Time)"
             ],
             "correct_index": 0,
-            "explanation": "Because shows a reason."
+            "explanation": "Therefore కారణం మరియు ఫలితాన్ని తెలియజేయడానికి ఉపయోగిస్తారు.",
+            "id": "te_en_i_5"
           },
           {
-            "id": "te_en_i1_q6",
-            "question": "ప్రశ్న: Which is a conjunction?",
+            "question": "ప్రశ్న: సరైన సంధాన పదం (Conjunction) ఏది?",
             "options": [
-              "And (యాండ్ - మరియు)",
-              "House",
-              "Book (బుక్ - పుస్తకం)",
-              "Run (రన్ - పరిగెత్తు)"
+              "And (యాండ్)",
+              "Book (బుక్)",
+              "House (హౌస్)",
+              "Run (రన్)"
             ],
             "correct_index": 0,
-            "explanation": "And is a conjunction."
+            "explanation": "And సరైన సంధాన పదం.",
+            "id": "te_en_i_6"
           },
           {
-            "id": "te_en_i1_q7",
-            "question": "ప్రశ్న: What does or mean?",
+            "question": "ప్రశ్న: \"Or\" అంటే ఏమిటి?",
             "options": [
-              "One choice between two options",
-              "A place",
-              "A time",
-              "An action"
+              "రెండు ఎంపికల్లో ఒకటి (Choice between two)",
+              "సమయం (Time)",
+              "స్థలం (Place)",
+              "క్రియ (Action)"
             ],
             "correct_index": 0,
-            "explanation": "Or means choice."
+            "explanation": "Or అంటే రెండు ఎంపికల్లో ఒకటి.",
+            "id": "te_en_i_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_en_i1_q1",
-          "question": "ప్రశ్న: Which word joins two ideas?",
+          "question": "ప్రశ్న: \"Ram and Ravi went to school.\" ఇందులో సంధాన పదం (Conjunction) ఏది?",
           "options": [
-            "But (బట్ - కానీ)",
-            "And (యాండ్ - మరియు)",
-            "Because (బికాజ్ - ఎందుకంటే)",
-            "Or (ఆర్ - లేదా)"
+            "But (బట్)",
+            "And (యాండ్)",
+            "Because (బికాజ్)",
+            "Or (ఆర్)"
           ],
           "correct_index": 1,
-          "explanation": "And joins ideas."
+          "explanation": "And సంధాన పదం.",
+          "id": "te_en_i_1"
         },
         {
-          "id": "te_en_i1_q2",
-          "question": "ప్రశ్న: In \"Mother and Father\", which is the joining word?",
+          "question": "ప్రశ్న: \"Mother and Father\" లో సంధాన పదం ఏది?",
           "options": [
-            "Mother (మదర్ - అమ్మ)",
-            "And (యాండ్ - మరియు)",
-            "Father (ఫాదర్ - నాన్న)",
-            "Family"
+            "Mother (మదర్)",
+            "And (యాండ్)",
+            "Father (ఫాదర్)",
+            "In (ఇన్)"
           ],
           "correct_index": 1,
-          "explanation": "And is joining word."
+          "explanation": "And సంధాన పదం.",
+          "id": "te_en_i_2"
         },
         {
-          "id": "te_en_i1_q3",
-          "question": "ప్రశ్న: \"He studied, but he did not pass.\" Which is the joining word?",
+          "question": "ప్రశ్న: \"He studied, but he did not pass.\" ఇందులో సంధాన పదం ఏది?",
           "options": [
-            "But (బట్ - కానీ)",
-            "Studied",
-            "Pass",
-            "He"
+            "But (బట్)",
+            "Studied (స్టడీడ్)",
+            "Pass (పాస్)",
+            "Did not (డిడ్ నాట్)"
           ],
           "correct_index": 0,
-          "explanation": "But is joining word."
+          "explanation": "But సంధాన పదం.",
+          "id": "te_en_i_3"
         },
         {
-          "id": "te_en_i1_q4",
-          "question": "ప్రశ్న: \"And\" is a ______.",
+          "question": "ప్రశ్న: \"And\" ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
-            "Conjunction (కంజంక్షన్ - సంధాన పదం)",
-            "Noun",
-            "Verb",
-            "Adjective"
+            "Conjunction (సంధాన పదం)",
+            "Noun (నామవాచకం)",
+            "Verb (క్రియ)",
+            "Adjective (విశేషణం)"
           ],
           "correct_index": 0,
-          "explanation": "And is a Conjunction."
+          "explanation": "And అనేది Conjunction.",
+          "id": "te_en_i_4"
         },
         {
-          "id": "te_en_i1_q5",
-          "question": "ప్రశ్న: When do we use because?",
+          "question": "ప్రశ్న: \"Therefore\" అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
           "options": [
-            "To show a reason",
-            "To name a person",
-            "To show an action",
-            "To show time"
+            "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (Cause & Effect)",
+            "నామవాచకంగా (As a Noun)",
+            "క్రియగా (As a Verb)",
+            "కాలాన్ని సూచించడానికి (Time)"
           ],
           "correct_index": 0,
-          "explanation": "Because shows a reason."
+          "explanation": "Therefore కారణం మరియు ఫలితాన్ని తెలియజేయడానికి ఉపయోగిస్తారు.",
+          "id": "te_en_i_5"
         },
         {
-          "id": "te_en_i1_q6",
-          "question": "ప్రశ్న: Which is a conjunction?",
+          "question": "ప్రశ్న: సరైన సంధాన పదం (Conjunction) ఏది?",
           "options": [
-            "And (యాండ్ - మరియు)",
-            "House",
-            "Book (బుక్ - పుస్తకం)",
-            "Run (రన్ - పరిగెత్తు)"
+            "And (యాండ్)",
+            "Book (బుక్)",
+            "House (హౌస్)",
+            "Run (రన్)"
           ],
           "correct_index": 0,
-          "explanation": "And is a conjunction."
+          "explanation": "And సరైన సంధాన పదం.",
+          "id": "te_en_i_6"
         },
         {
-          "id": "te_en_i1_q7",
-          "question": "ప్రశ్న: What does or mean?",
+          "question": "ప్రశ్న: \"Or\" అంటే ఏమిటి?",
           "options": [
-            "One choice between two options",
-            "A place",
-            "A time",
-            "An action"
+            "రెండు ఎంపికల్లో ఒకటి (Choice between two)",
+            "సమయం (Time)",
+            "స్థలం (Place)",
+            "క్రియ (Action)"
           ],
           "correct_index": 0,
-          "explanation": "Or means choice."
+          "explanation": "Or అంటే రెండు ఎంపికల్లో ఒకటి.",
+          "id": "te_en_i_7"
         }
       ]
     },
@@ -14261,100 +14258,100 @@ export const BILINGUAL_COURSES = {
       "path": "advanced",
       "lang": "en",
       "uiLang": "te",
-      "title": "Course 4: Advanced (నా ప్రపంచ పదాలు)",
-      "description": "లఘు గద్యభాగాలను చదివి ప్రశ్నలకు సమాధానాలు ఇవ్వడం నేర్చుకోండి.",
-      "objective": "లఘు గద్యభాగాలను చదివి ప్రశ్నలకు సమాధానాలు ఇవ్వడం నేర్చుకోండి.",
+      "title": "Course 4: Advanced (నా ప్రపంచ ఆంగ్ల వాక్యాలు)",
+      "description": "Learn EN curriculum with TE UI guidance (advanced).",
+      "objective": "Learn EN curriculum with TE UI guidance (advanced).",
       "lessons": [
         {
           "id": "advanced-te-en-l1",
-          "title": "Course 4: Advanced (నా ప్రపంచ పదాలు)",
-          "learning_goal": "లఘు గద్యభాగాలను చదివి ప్రశ్నలకు సమాధానాలు ఇవ్వడం నేర్చుకోండి.",
+          "title": "Course 4: Advanced (నా ప్రపంచ ఆంగ్ల వాక్యాలు)",
+          "learning_goal": "Learn EN curriculum with TE UI guidance (advanced).",
           "teaching_content": "Practice learning EN curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_en_a1_q1",
-              "question": "ప్రశ్న: Where does Rahul go?",
+              "question": "ప్రశ్న: Rahul ఎక్కడికి వెళ్తాడు?",
               "options": [
-                "Market (మార్కెట్ - సంత)",
-                "School (స్కూల్ - పాఠశాల)",
-                "Park",
-                "Home"
+                "Market (మార్కెట్)",
+                "School (స్కూల్ / పాఠశాల)",
+                "Park (పార్క్)",
+                "Home (ఇల్లు)"
               ],
               "correct_index": 1,
-              "explanation": "Rahul goes to School."
+              "explanation": "Rahul పాఠశాలకు (School) వెళ్తాడు.",
+              "id": "te_en_a_1"
             },
             {
-              "id": "te_en_a1_q2",
-              "question": "ప్రశ్న: What does Rahul like?",
+              "question": "ప్రశ్న: Rahul కు ఏమి ఇష్టం?",
               "options": [
-                "Playing games",
-                "Reading books (రీడింగ్ బుక్స్ - పుస్తకాలు చదవడం)",
-                "Sleeping (స్లీపింగ్ - నిద్రపోవడం)",
-                "Watching TV (వాచింగ్ టీవీ - టీవీ చూడడం)"
+                "Games (ఆటలు)",
+                "Reading books (పుస్తకాలు చదవడం)",
+                "Sleeping (నిద్రపోవడం)",
+                "Watching TV (టీవీ చూడడం)"
               ],
               "correct_index": 1,
-              "explanation": "Rahul likes reading books."
+              "explanation": "Rahul కు పుస్తకాలు చదవడం (Reading books) చాలా ఇష్టం.",
+              "id": "te_en_a_2"
             },
             {
-              "id": "te_en_a1_q3",
-              "question": "ప్రశ్న: Who is the passage about?",
+              "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
               "options": [
-                "Sita",
+                "Sita (సీత)",
                 "Rahul (రాహుల్)",
                 "Mohan (మోహన్)",
-                "Riya"
+                "Lata (లత)"
               ],
               "correct_index": 1,
-              "explanation": "Passage is about Rahul."
+              "explanation": "ఈ గద్యభాగం Rahul గురించి.",
+              "id": "te_en_a_3"
             },
             {
-              "id": "te_en_a1_q4",
-              "question": "ప్రశ్న: What does every day mean?",
+              "question": "ప్రశ్న: \"Every day\" అంటే ఏమిటి?",
               "options": [
-                "Daily",
-                "Yesterday (యెస్టర్డే - నిన్న)",
-                "Never (నెవర్ - ఎప్పుడూ కాదు)",
-                "Next week (నెక్స్ట్ వీక్ - వచ్చే వారం)"
+                "ప్రతి రోజు (Daily)",
+                "నిన్న (Yesterday)",
+                "ఎప్పుడూ కాదు (Never)",
+                "వచ్చే వారం (Next week)"
               ],
               "correct_index": 0,
-              "explanation": "Every day means daily."
+              "explanation": "Every day అంటే ప్రతి రోజు.",
+              "id": "te_en_a_4"
             },
             {
-              "id": "te_en_a1_q5",
-              "question": "ప్రశ్న: What does Rahul do?",
+              "question": "ప్రశ్న: Rahul ఏమి చేస్తాడు?",
               "options": [
-                "Goes to school (గోస్ టు స్కూల్ - పాఠశాలకు వెళ్తాడు)",
-                "Goes to the market",
-                "Stays at home (స్టేస్ ఎట్ హోమ్ - ఇంట్లో ఉంటాడు)",
-                "Goes to the hospital"
+                "Goes to school (పాఠశాలకు వెళ్తాడు)",
+                "Goes to market (మార్కెట్కు వెళ్తాడు)",
+                "Stays home (ఇంట్లో ఉంటాడు)",
+                "Goes to hospital (ఆసుపత్రికి వెళ్తాడు)"
               ],
               "correct_index": 0,
-              "explanation": "Rahul goes to school."
+              "explanation": "Rahul పాఠశాలకు వెళ్తాడు (Goes to school).",
+              "id": "te_en_a_5"
             },
             {
-              "id": "te_en_a1_q6",
-              "question": "ప్రశ్న: What is the main idea of the passage?",
+              "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
               "options": [
-                "Going to school and reading books",
-                "Traveling",
-                "Rain (రైన్ - వర్షం)",
-                "Mountains"
+                "Study and school habit (చదువు మరియు పాఠశాల అలవాటు)",
+                "Travel (ప్రయాణం)",
+                "Rain (వర్షం)",
+                "Hills (కొండలు)"
               ],
               "correct_index": 0,
-              "explanation": "Main idea is reading & school."
+              "explanation": "ప్రధాన భావం Study and school habit.",
+              "id": "te_en_a_6"
             },
             {
-              "id": "te_en_a1_q7",
-              "question": "ప్రశ్న: Which sentence is correct?",
+              "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
               "options": [
-                "Rahul likes reading books. (రాహుల్‌కు పుస్తకాలు చదవడం ఇష్టం.)",
-                "Rahul never goes to school.",
-                "Rahul only plays games.",
-                "Rahul does not read books."
+                "Rahul likes reading books. (రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.)",
+                "Rahul does not go to school. (రాహుల్ పాఠశాలకు వెళ్లడు.)",
+                "Rahul always plays. (రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.)",
+                "Rahul does not read. (రాహుల్ చదవడు.)"
               ],
               "correct_index": 0,
-              "explanation": "Rahul likes reading books is correct."
+              "explanation": "Rahul likes reading books సరైన వాక్యం.",
+              "id": "te_en_a_7"
             }
           ]
         }
@@ -14363,175 +14360,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_en_a1_q1",
-            "question": "ప్రశ్న: Where does Rahul go?",
+            "question": "ప్రశ్న: Rahul ఎక్కడికి వెళ్తాడు?",
             "options": [
-              "Market (మార్కెట్ - సంత)",
-              "School (స్కూల్ - పాఠశాల)",
-              "Park",
-              "Home"
+              "Market (మార్కెట్)",
+              "School (స్కూల్ / పాఠశాల)",
+              "Park (పార్క్)",
+              "Home (ఇల్లు)"
             ],
             "correct_index": 1,
-            "explanation": "Rahul goes to School."
+            "explanation": "Rahul పాఠశాలకు (School) వెళ్తాడు.",
+            "id": "te_en_a_1"
           },
           {
-            "id": "te_en_a1_q2",
-            "question": "ప్రశ్న: What does Rahul like?",
+            "question": "ప్రశ్న: Rahul కు ఏమి ఇష్టం?",
             "options": [
-              "Playing games",
-              "Reading books (రీడింగ్ బుక్స్ - పుస్తకాలు చదవడం)",
-              "Sleeping (స్లీపింగ్ - నిద్రపోవడం)",
-              "Watching TV (వాచింగ్ టీవీ - టీవీ చూడడం)"
+              "Games (ఆటలు)",
+              "Reading books (పుస్తకాలు చదవడం)",
+              "Sleeping (నిద్రపోవడం)",
+              "Watching TV (టీవీ చూడడం)"
             ],
             "correct_index": 1,
-            "explanation": "Rahul likes reading books."
+            "explanation": "Rahul కు పుస్తకాలు చదవడం (Reading books) చాలా ఇష్టం.",
+            "id": "te_en_a_2"
           },
           {
-            "id": "te_en_a1_q3",
-            "question": "ప్రశ్న: Who is the passage about?",
+            "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
             "options": [
-              "Sita",
+              "Sita (సీత)",
               "Rahul (రాహుల్)",
               "Mohan (మోహన్)",
-              "Riya"
+              "Lata (లత)"
             ],
             "correct_index": 1,
-            "explanation": "Passage is about Rahul."
+            "explanation": "ఈ గద్యభాగం Rahul గురించి.",
+            "id": "te_en_a_3"
           },
           {
-            "id": "te_en_a1_q4",
-            "question": "ప్రశ్న: What does every day mean?",
+            "question": "ప్రశ్న: \"Every day\" అంటే ఏమిటి?",
             "options": [
-              "Daily",
-              "Yesterday (యెస్టర్డే - నిన్న)",
-              "Never (నెవర్ - ఎప్పుడూ కాదు)",
-              "Next week (నెక్స్ట్ వీక్ - వచ్చే వారం)"
+              "ప్రతి రోజు (Daily)",
+              "నిన్న (Yesterday)",
+              "ఎప్పుడూ కాదు (Never)",
+              "వచ్చే వారం (Next week)"
             ],
             "correct_index": 0,
-            "explanation": "Every day means daily."
+            "explanation": "Every day అంటే ప్రతి రోజు.",
+            "id": "te_en_a_4"
           },
           {
-            "id": "te_en_a1_q5",
-            "question": "ప్రశ్న: What does Rahul do?",
+            "question": "ప్రశ్న: Rahul ఏమి చేస్తాడు?",
             "options": [
-              "Goes to school (గోస్ టు స్కూల్ - పాఠశాలకు వెళ్తాడు)",
-              "Goes to the market",
-              "Stays at home (స్టేస్ ఎట్ హోమ్ - ఇంట్లో ఉంటాడు)",
-              "Goes to the hospital"
+              "Goes to school (పాఠశాలకు వెళ్తాడు)",
+              "Goes to market (మార్కెట్కు వెళ్తాడు)",
+              "Stays home (ఇంట్లో ఉంటాడు)",
+              "Goes to hospital (ఆసుపత్రికి వెళ్తాడు)"
             ],
             "correct_index": 0,
-            "explanation": "Rahul goes to school."
+            "explanation": "Rahul పాఠశాలకు వెళ్తాడు (Goes to school).",
+            "id": "te_en_a_5"
           },
           {
-            "id": "te_en_a1_q6",
-            "question": "ప్రశ్న: What is the main idea of the passage?",
+            "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
             "options": [
-              "Going to school and reading books",
-              "Traveling",
-              "Rain (రైన్ - వర్షం)",
-              "Mountains"
+              "Study and school habit (చదువు మరియు పాఠశాల అలవాటు)",
+              "Travel (ప్రయాణం)",
+              "Rain (వర్షం)",
+              "Hills (కొండలు)"
             ],
             "correct_index": 0,
-            "explanation": "Main idea is reading & school."
+            "explanation": "ప్రధాన భావం Study and school habit.",
+            "id": "te_en_a_6"
           },
           {
-            "id": "te_en_a1_q7",
-            "question": "ప్రశ్న: Which sentence is correct?",
+            "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
             "options": [
-              "Rahul likes reading books. (రాహుల్‌కు పుస్తకాలు చదవడం ఇష్టం.)",
-              "Rahul never goes to school.",
-              "Rahul only plays games.",
-              "Rahul does not read books."
+              "Rahul likes reading books. (రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.)",
+              "Rahul does not go to school. (రాహుల్ పాఠశాలకు వెళ్లడు.)",
+              "Rahul always plays. (రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.)",
+              "Rahul does not read. (రాహుల్ చదవడు.)"
             ],
             "correct_index": 0,
-            "explanation": "Rahul likes reading books is correct."
+            "explanation": "Rahul likes reading books సరైన వాక్యం.",
+            "id": "te_en_a_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_en_a1_q1",
-          "question": "ప్రశ్న: Where does Rahul go?",
+          "question": "ప్రశ్న: Rahul ఎక్కడికి వెళ్తాడు?",
           "options": [
-            "Market (మార్కెట్ - సంత)",
-            "School (స్కూల్ - పాఠశాల)",
-            "Park",
-            "Home"
+            "Market (మార్కెట్)",
+            "School (స్కూల్ / పాఠశాల)",
+            "Park (పార్క్)",
+            "Home (ఇల్లు)"
           ],
           "correct_index": 1,
-          "explanation": "Rahul goes to School."
+          "explanation": "Rahul పాఠశాలకు (School) వెళ్తాడు.",
+          "id": "te_en_a_1"
         },
         {
-          "id": "te_en_a1_q2",
-          "question": "ప్రశ్న: What does Rahul like?",
+          "question": "ప్రశ్న: Rahul కు ఏమి ఇష్టం?",
           "options": [
-            "Playing games",
-            "Reading books (రీడింగ్ బుక్స్ - పుస్తకాలు చదవడం)",
-            "Sleeping (స్లీపింగ్ - నిద్రపోవడం)",
-            "Watching TV (వాచింగ్ టీవీ - టీవీ చూడడం)"
+            "Games (ఆటలు)",
+            "Reading books (పుస్తకాలు చదవడం)",
+            "Sleeping (నిద్రపోవడం)",
+            "Watching TV (టీవీ చూడడం)"
           ],
           "correct_index": 1,
-          "explanation": "Rahul likes reading books."
+          "explanation": "Rahul కు పుస్తకాలు చదవడం (Reading books) చాలా ఇష్టం.",
+          "id": "te_en_a_2"
         },
         {
-          "id": "te_en_a1_q3",
-          "question": "ప్రశ్న: Who is the passage about?",
+          "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
           "options": [
-            "Sita",
+            "Sita (సీత)",
             "Rahul (రాహుల్)",
             "Mohan (మోహన్)",
-            "Riya"
+            "Lata (లత)"
           ],
           "correct_index": 1,
-          "explanation": "Passage is about Rahul."
+          "explanation": "ఈ గద్యభాగం Rahul గురించి.",
+          "id": "te_en_a_3"
         },
         {
-          "id": "te_en_a1_q4",
-          "question": "ప్రశ్న: What does every day mean?",
+          "question": "ప్రశ్న: \"Every day\" అంటే ఏమిటి?",
           "options": [
-            "Daily",
-            "Yesterday (యెస్టర్డే - నిన్న)",
-            "Never (నెవర్ - ఎప్పుడూ కాదు)",
-            "Next week (నెక్స్ట్ వీక్ - వచ్చే వారం)"
+            "ప్రతి రోజు (Daily)",
+            "నిన్న (Yesterday)",
+            "ఎప్పుడూ కాదు (Never)",
+            "వచ్చే వారం (Next week)"
           ],
           "correct_index": 0,
-          "explanation": "Every day means daily."
+          "explanation": "Every day అంటే ప్రతి రోజు.",
+          "id": "te_en_a_4"
         },
         {
-          "id": "te_en_a1_q5",
-          "question": "ప్రశ్న: What does Rahul do?",
+          "question": "ప్రశ్న: Rahul ఏమి చేస్తాడు?",
           "options": [
-            "Goes to school (గోస్ టు స్కూల్ - పాఠశాలకు వెళ్తాడు)",
-            "Goes to the market",
-            "Stays at home (స్టేస్ ఎట్ హోమ్ - ఇంట్లో ఉంటాడు)",
-            "Goes to the hospital"
+            "Goes to school (పాఠశాలకు వెళ్తాడు)",
+            "Goes to market (మార్కెట్కు వెళ్తాడు)",
+            "Stays home (ఇంట్లో ఉంటాడు)",
+            "Goes to hospital (ఆసుపత్రికి వెళ్తాడు)"
           ],
           "correct_index": 0,
-          "explanation": "Rahul goes to school."
+          "explanation": "Rahul పాఠశాలకు వెళ్తాడు (Goes to school).",
+          "id": "te_en_a_5"
         },
         {
-          "id": "te_en_a1_q6",
-          "question": "ప్రశ్న: What is the main idea of the passage?",
+          "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
           "options": [
-            "Going to school and reading books",
-            "Traveling",
-            "Rain (రైన్ - వర్షం)",
-            "Mountains"
+            "Study and school habit (చదువు మరియు పాఠశాల అలవాటు)",
+            "Travel (ప్రయాణం)",
+            "Rain (వర్షం)",
+            "Hills (కొండలు)"
           ],
           "correct_index": 0,
-          "explanation": "Main idea is reading & school."
+          "explanation": "ప్రధాన భావం Study and school habit.",
+          "id": "te_en_a_6"
         },
         {
-          "id": "te_en_a1_q7",
-          "question": "ప్రశ్న: Which sentence is correct?",
+          "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
           "options": [
-            "Rahul likes reading books. (రాహుల్‌కు పుస్తకాలు చదవడం ఇష్టం.)",
-            "Rahul never goes to school.",
-            "Rahul only plays games.",
-            "Rahul does not read books."
+            "Rahul likes reading books. (రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.)",
+            "Rahul does not go to school. (రాహుల్ పాఠశాలకు వెళ్లడు.)",
+            "Rahul always plays. (రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.)",
+            "Rahul does not read. (రాహుల్ చదవడు.)"
           ],
           "correct_index": 0,
-          "explanation": "Rahul likes reading books is correct."
+          "explanation": "Rahul likes reading books సరైన వాక్యం.",
+          "id": "te_en_a_7"
         }
       ]
     }
@@ -14542,100 +14539,100 @@ export const BILINGUAL_COURSES = {
       "path": "foundation",
       "lang": "hi",
       "uiLang": "te",
-      "title": "Course 1: Foundation (నా మొదటి అక్షరాస్యత ప్రయాణం)",
-      "description": "వర్ణమాల, నామవాచకం, బహువచనం, విశేషణం, క్రియ మరియు అర్థాలు నేర్చుకోండి.",
-      "objective": "వర్ణమాల, నామవాచకం, బహువచనం, విశేషణం, క్రియ మరియు అర్థాలు నేర్చుకోండి.",
+      "title": "Course 1: Foundation (నా హిందీ అక్షరాస్యత ప్రయాణం)",
+      "description": "Learn HI curriculum with TE UI guidance (foundation).",
+      "objective": "Learn HI curriculum with TE UI guidance (foundation).",
       "lessons": [
         {
           "id": "foundation-te-hi-l1",
-          "title": "Course 1: Foundation (నా మొదటి అక్షరాస్యత ప్రయాణం)",
-          "learning_goal": "వర్ణమాల, నామవాచకం, బహువచనం, విశేషణం, క్రియ మరియు అర్థాలు నేర్చుకోండి.",
+          "title": "Course 1: Foundation (నా హిందీ అక్షరాస్యత ప్రయాణం)",
+          "learning_goal": "Learn HI curriculum with TE UI guidance (foundation).",
           "teaching_content": "Practice learning HI curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_hi_f1_q1",
-              "question": "ప్రశ్న: हिंदी भाषा में स्वर कितने हैं?",
+              "question": "ప్రశ్న: హిందీ భాషలో అచ్చులు (स्वर) ఎన్ని ఉన్నాయి?",
               "options": [
-                "10",
-                "11",
-                "13",
-                "12"
+                "10 (పది)",
+                "11 (పదకొండు)",
+                "13 (పదమూడు)",
+                "12 (పన్నెండు)"
               ],
               "correct_index": 2,
-              "explanation": "हिंदी में 13 स्वर हैं।"
+              "explanation": "హిందీ భాషలో 13 అచ్చులు ఉన్నాయి.",
+              "id": "te_hi_f_1"
             },
             {
-              "id": "te_hi_f1_q2",
-              "question": "ప్రశ్న: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+              "question": "ప్రశ్న: 'माँ' (మా) అనేది ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
-                "क्रिया",
-                "संज्ञा",
-                "विशेषण",
-                "सर्वनाम"
+                "क्रिया (క్రియా - క్రియ)",
+                "संज्ञा (సంగ్న్యా - నామవాచకం)",
+                "विशेषण (విశేషణ్ - విశేషణం)",
+                "सर्वनाम (సర్వనామ్ - సర్వనామం)"
               ],
               "correct_index": 1,
-              "explanation": "\"माँ\" संज्ञा है।"
+              "explanation": "'माँ' నామవాచకం (संज्ञा).",
+              "id": "te_hi_f_2"
             },
             {
-              "id": "te_hi_f1_q3",
-              "question": "ప్రశ్న: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+              "question": "ప్రశ్న: 'लड़का' (లడ్కా) పదానికి బహువచనం ఏది?",
               "options": [
-                "लड़कियाँ",
-                "लड़के",
-                "लड़कों",
-                "लड़का"
+                "लड़कियाँ (లడ్కియాన్)",
+                "लड़के (లడ్కే)",
+                "लड़कों (లడ్కోన్)",
+                "लड़का (లడ్కా)"
               ],
               "correct_index": 1,
-              "explanation": "लड़का का बहुवचन लड़के है।"
+              "explanation": "'लड़का' యొక్క బహువచనం 'लड़के'.",
+              "id": "te_hi_f_3"
             },
             {
-              "id": "te_hi_f1_q4",
-              "question": "ప్రశ్న: \"सुंदर\" (Sundar) शब्द क्या है?",
+              "question": "ప్రశ్న: 'सुंदर' (సుందర్) ఏ పదవర్గం?",
               "options": [
-                "विशेषण",
-                "संज्ञा",
-                "क्रिया",
-                "सर्वनाम"
+                "विशेषण (విశేషణ్ - విశేషణం)",
+                "संज्ञा (సంగ్న్యా - నామవాచకం)",
+                "क्रिया (క్రియా - క్రియ)",
+                "सर्वनाम (సర్వనామ్ - సర్వనామం)"
               ],
               "correct_index": 0,
-              "explanation": "सुंदर विशेषण है।"
+              "explanation": "'सुंदर' విశేషణం (विशेषण).",
+              "id": "te_hi_f_4"
             },
             {
-              "id": "te_hi_f1_q5",
-              "question": "ప్రశ్న: \"पढ़ना\" (Padhna) शब्द क्या है?",
+              "question": "ప్రశ్న: 'पढ़ रहा हूँ' (పఢ్ రహా హూన్) ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
-                "संज्ञा",
-                "क्रिया",
-                "विशेषण",
-                "सर्वनाम"
+                "संज्ञा (సంగ్న్యా - నామవాచకం)",
+                "क्रिया (క్రియా - క్రియ)",
+                "विशेषण (విశేషణ్ - విశేషణం)",
+                "सर्वनाम (సర్వనామ్ - సర్వనామం)"
               ],
               "correct_index": 1,
-              "explanation": "पढ़ना क्रिया है।"
+              "explanation": "'पढ़ रहा हूँ' క్రియ (क्रिया).",
+              "id": "te_hi_f_5"
             },
             {
-              "id": "te_hi_f1_q6",
-              "question": "ప్రశ్న: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+              "question": "ప్రశ్న: 'किताब' (కితాబ్) అనే పదానికి అర్థం ఏమిటి?",
               "options": [
-                "कलम",
-                "कापी",
-                "पाठ",
-                "पुस्तक"
-              ],
-              "correct_index": 3,
-              "explanation": "किताब का अर्थ पुस्तक है।"
-            },
-            {
-              "id": "te_hi_f1_q7",
-              "question": "ప్రశ్న: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
-              "options": [
-                "अस्पताल",
-                "पढ़ने का स्थान (स्कूल)",
-                "बाजार",
-                "पार्क"
+                "घर (ఘర్ - ఇల్లు)",
+                "पुस्तक (పుస్తక్ - గ్రంథం / పుస్తకం)",
+                "पेड़ (పేడ్ - చెట్టు)",
+                "सड़क (సడక్ - రహదారి)"
               ],
               "correct_index": 1,
-              "explanation": "विद्यालय सीखने का स्थान है।"
+              "explanation": "'किताब' అంటే పుస్తకం (पुस्तक).",
+              "id": "te_hi_f_6"
+            },
+            {
+              "question": "ప్రశ్న: 'विद्यालय' (విద్యాలయ్) అనే పదానికి అర్థం ఏమిటి?",
+              "options": [
+                "अस्पताल (అస్పతాల్ - ఆసుపత్రి)",
+                "पढ़ने की जगह (పఠనే కీ జగహ్ - పాఠశాల)",
+                "बाज़ार (బాజార్ - మార్కెట్)",
+                "पार्क (పార్క్ - ఉద్యానవనం)"
+              ],
+              "correct_index": 1,
+              "explanation": "'विद्यालय' అంటే పాఠశాల.",
+              "id": "te_hi_f_7"
             }
           ]
         }
@@ -14644,175 +14641,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_hi_f1_q1",
-            "question": "ప్రశ్న: हिंदी भाषा में स्वर कितने हैं?",
+            "question": "ప్రశ్న: హిందీ భాషలో అచ్చులు (स्वर) ఎన్ని ఉన్నాయి?",
             "options": [
-              "10",
-              "11",
-              "13",
-              "12"
+              "10 (పది)",
+              "11 (పదకొండు)",
+              "13 (పదమూడు)",
+              "12 (పన్నెండు)"
             ],
             "correct_index": 2,
-            "explanation": "हिंदी में 13 स्वर हैं।"
+            "explanation": "హిందీ భాషలో 13 అచ్చులు ఉన్నాయి.",
+            "id": "te_hi_f_1"
           },
           {
-            "id": "te_hi_f1_q2",
-            "question": "ప్రశ్న: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+            "question": "ప్రశ్న: 'माँ' (మా) అనేది ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
-              "क्रिया",
-              "संज्ञा",
-              "विशेषण",
-              "सर्वनाम"
+              "क्रिया (క్రియా - క్రియ)",
+              "संज्ञा (సంగ్న్యా - నామవాచకం)",
+              "विशेषण (విశేషణ్ - విశేషణం)",
+              "सर्वनाम (సర్వనామ్ - సర్వనామం)"
             ],
             "correct_index": 1,
-            "explanation": "\"माँ\" संज्ञा है।"
+            "explanation": "'माँ' నామవాచకం (संज्ञा).",
+            "id": "te_hi_f_2"
           },
           {
-            "id": "te_hi_f1_q3",
-            "question": "ప్రశ్న: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+            "question": "ప్రశ్న: 'लड़का' (లడ్కా) పదానికి బహువచనం ఏది?",
             "options": [
-              "लड़कियाँ",
-              "लड़के",
-              "लड़कों",
-              "लड़का"
+              "लड़कियाँ (లడ్కియాన్)",
+              "लड़के (లడ్కే)",
+              "लड़कों (లడ్కోన్)",
+              "लड़का (లడ్కా)"
             ],
             "correct_index": 1,
-            "explanation": "लड़का का बहुवचन लड़के है।"
+            "explanation": "'लड़का' యొక్క బహువచనం 'लड़के'.",
+            "id": "te_hi_f_3"
           },
           {
-            "id": "te_hi_f1_q4",
-            "question": "ప్రశ్న: \"सुंदर\" (Sundar) शब्द क्या है?",
+            "question": "ప్రశ్న: 'सुंदर' (సుందర్) ఏ పదవర్గం?",
             "options": [
-              "विशेषण",
-              "संज्ञा",
-              "क्रिया",
-              "सर्वनाम"
+              "विशेषण (విశేషణ్ - విశేషణం)",
+              "संज्ञा (సంగ్న్యా - నామవాచకం)",
+              "क्रिया (క్రియా - క్రియ)",
+              "सर्वनाम (సర్వనామ్ - సర్వనామం)"
             ],
             "correct_index": 0,
-            "explanation": "सुंदर विशेषण है।"
+            "explanation": "'सुंदर' విశేషణం (विशेषण).",
+            "id": "te_hi_f_4"
           },
           {
-            "id": "te_hi_f1_q5",
-            "question": "ప్రశ్న: \"पढ़ना\" (Padhna) शब्द क्या है?",
+            "question": "ప్రశ్న: 'पढ़ रहा हूँ' (పఢ్ రహా హూన్) ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
-              "संज्ञा",
-              "क्रिया",
-              "विशेषण",
-              "सर्वनाम"
+              "संज्ञा (సంగ్న్యా - నామవాచకం)",
+              "क्रिया (క్రియా - క్రియ)",
+              "विशेषण (విశేషణ్ - విశేషణం)",
+              "सर्वनाम (సర్వనామ్ - సర్వనామం)"
             ],
             "correct_index": 1,
-            "explanation": "पढ़ना क्रिया है।"
+            "explanation": "'पढ़ रहा हूँ' క్రియ (क्रिया).",
+            "id": "te_hi_f_5"
           },
           {
-            "id": "te_hi_f1_q6",
-            "question": "ప్రశ్న: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+            "question": "ప్రశ్న: 'किताब' (కితాబ్) అనే పదానికి అర్థం ఏమిటి?",
             "options": [
-              "कलम",
-              "कापी",
-              "पाठ",
-              "पुस्तक"
-            ],
-            "correct_index": 3,
-            "explanation": "किताब का अर्थ पुस्तक है।"
-          },
-          {
-            "id": "te_hi_f1_q7",
-            "question": "ప్రశ్న: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
-            "options": [
-              "अस्पताल",
-              "पढ़ने का स्थान (स्कूल)",
-              "बाजार",
-              "पार्क"
+              "घर (ఘర్ - ఇల్లు)",
+              "पुस्तक (పుస్తక్ - గ్రంథం / పుస్తకం)",
+              "पेड़ (పేడ్ - చెట్టు)",
+              "सड़क (సడక్ - రహదారి)"
             ],
             "correct_index": 1,
-            "explanation": "विद्यालय सीखने का स्थान है।"
+            "explanation": "'किताब' అంటే పుస్తకం (पुस्तक).",
+            "id": "te_hi_f_6"
+          },
+          {
+            "question": "ప్రశ్న: 'विद्यालय' (విద్యాలయ్) అనే పదానికి అర్థం ఏమిటి?",
+            "options": [
+              "अस्पताल (అస్పతాల్ - ఆసుపత్రి)",
+              "पढ़ने की जगह (పఠనే కీ జగహ్ - పాఠశాల)",
+              "बाज़ार (బాజార్ - మార్కెట్)",
+              "पार्क (పార్క్ - ఉద్యానవనం)"
+            ],
+            "correct_index": 1,
+            "explanation": "'विद्यालय' అంటే పాఠశాల.",
+            "id": "te_hi_f_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_hi_f1_q1",
-          "question": "ప్రశ్న: हिंदी भाषा में स्वर कितने हैं?",
+          "question": "ప్రశ్న: హిందీ భాషలో అచ్చులు (स्वर) ఎన్ని ఉన్నాయి?",
           "options": [
-            "10",
-            "11",
-            "13",
-            "12"
+            "10 (పది)",
+            "11 (పదకొండు)",
+            "13 (పదమూడు)",
+            "12 (పన్నెండు)"
           ],
           "correct_index": 2,
-          "explanation": "हिंदी में 13 स्वर हैं।"
+          "explanation": "హిందీ భాషలో 13 అచ్చులు ఉన్నాయి.",
+          "id": "te_hi_f_1"
         },
         {
-          "id": "te_hi_f1_q2",
-          "question": "ప్రశ్న: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+          "question": "ప్రశ్న: 'माँ' (మా) అనేది ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
-            "क्रिया",
-            "संज्ञा",
-            "विशेषण",
-            "सर्वनाम"
+            "क्रिया (క్రియా - క్రియ)",
+            "संज्ञा (సంగ్న్యా - నామవాచకం)",
+            "विशेषण (విశేషణ్ - విశేషణం)",
+            "सर्वनाम (సర్వనామ్ - సర్వనామం)"
           ],
           "correct_index": 1,
-          "explanation": "\"माँ\" संज्ञा है।"
+          "explanation": "'माँ' నామవాచకం (संज्ञा).",
+          "id": "te_hi_f_2"
         },
         {
-          "id": "te_hi_f1_q3",
-          "question": "ప్రశ్న: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+          "question": "ప్రశ్న: 'लड़का' (లడ్కా) పదానికి బహువచనం ఏది?",
           "options": [
-            "लड़कियाँ",
-            "लड़के",
-            "लड़कों",
-            "लड़का"
+            "लड़कियाँ (లడ్కియాన్)",
+            "लड़के (లడ్కే)",
+            "लड़कों (లడ్కోన్)",
+            "लड़का (లడ్కా)"
           ],
           "correct_index": 1,
-          "explanation": "लड़का का बहुवचन लड़के है।"
+          "explanation": "'लड़का' యొక్క బహువచనం 'लड़के'.",
+          "id": "te_hi_f_3"
         },
         {
-          "id": "te_hi_f1_q4",
-          "question": "ప్రశ్న: \"सुंदर\" (Sundar) शब्द क्या है?",
+          "question": "ప్రశ్న: 'सुंदर' (సుందర్) ఏ పదవర్గం?",
           "options": [
-            "विशेषण",
-            "संज्ञा",
-            "क्रिया",
-            "सर्वनाम"
+            "विशेषण (విశేషణ్ - విశేషణం)",
+            "संज्ञा (సంగ్న్యా - నామవాచకం)",
+            "क्रिया (క్రియా - క్రియ)",
+            "सर्वनाम (సర్వనామ్ - సర్వనామం)"
           ],
           "correct_index": 0,
-          "explanation": "सुंदर विशेषण है।"
+          "explanation": "'सुंदर' విశేషణం (विशेषण).",
+          "id": "te_hi_f_4"
         },
         {
-          "id": "te_hi_f1_q5",
-          "question": "ప్రశ్న: \"पढ़ना\" (Padhna) शब्द क्या है?",
+          "question": "ప్రశ్న: 'पढ़ रहा हूँ' (పఢ్ రహా హూన్) ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
-            "संज्ञा",
-            "क्रिया",
-            "विशेषण",
-            "सर्वनाम"
+            "संज्ञा (సంగ్న్యా - నామవాచకం)",
+            "क्रिया (క్రియా - క్రియ)",
+            "विशेषण (విశేషణ్ - విశేషణం)",
+            "सर्वनाम (సర్వనామ్ - సర్వనామం)"
           ],
           "correct_index": 1,
-          "explanation": "पढ़ना क्रिया है।"
+          "explanation": "'पढ़ रहा हूँ' క్రియ (क्रिया).",
+          "id": "te_hi_f_5"
         },
         {
-          "id": "te_hi_f1_q6",
-          "question": "ప్రశ్న: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+          "question": "ప్రశ్న: 'किताब' (కితాబ్) అనే పదానికి అర్థం ఏమిటి?",
           "options": [
-            "कलम",
-            "कापी",
-            "पाठ",
-            "पुस्तक"
-          ],
-          "correct_index": 3,
-          "explanation": "किताब का अर्थ पुस्तक है।"
-        },
-        {
-          "id": "te_hi_f1_q7",
-          "question": "ప్రశ్న: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
-          "options": [
-            "अस्पताल",
-            "पढ़ने का स्थान (स्कूल)",
-            "बाजार",
-            "पार्क"
+            "घर (ఘర్ - ఇల్లు)",
+            "पुस्तक (పుస్తక్ - గ్రంథం / పుస్తకం)",
+            "पेड़ (పేడ్ - చెట్టు)",
+            "सड़क (సడక్ - రహదారి)"
           ],
           "correct_index": 1,
-          "explanation": "विद्यालय सीखने का स्थान है।"
+          "explanation": "'किताब' అంటే పుస్తకం (पुस्तक).",
+          "id": "te_hi_f_6"
+        },
+        {
+          "question": "ప్రశ్న: 'विद्यालय' (విద్యాలయ్) అనే పదానికి అర్థం ఏమిటి?",
+          "options": [
+            "अस्पताल (అస్పతాల్ - ఆసుపత్రి)",
+            "पढ़ने की जगह (పఠనే కీ జగహ్ - పాఠశాల)",
+            "बाज़ार (బాజార్ - మార్కెట్)",
+            "पार्क (పార్క్ - ఉద్యానవనం)"
+          ],
+          "correct_index": 1,
+          "explanation": "'विद्यालय' అంటే పాఠశాల.",
+          "id": "te_hi_f_7"
         }
       ]
     },
@@ -14821,100 +14818,100 @@ export const BILINGUAL_COURSES = {
       "path": "beginner",
       "lang": "hi",
       "uiLang": "te",
-      "title": "Course 2: Beginner (నా చుట్టూ ఉన్న పదాలు)",
-      "description": "వర్తమాన కాలం, భూతకాలం మరియు భవిష్యత్ కాలం వాక్యాలను అభ్యసించండి.",
-      "objective": "వర్తమాన కాలం, భూతకాలం మరియు భవిష్యత్ కాలం వాక్యాలను అభ్యసించండి.",
+      "title": "Course 2: Beginner (నా చుట్టూ ఉన్న హిందీ పదాలు)",
+      "description": "Learn HI curriculum with TE UI guidance (beginner).",
+      "objective": "Learn HI curriculum with TE UI guidance (beginner).",
       "lessons": [
         {
           "id": "beginner-te-hi-l1",
-          "title": "Course 2: Beginner (నా చుట్టూ ఉన్న పదాలు)",
-          "learning_goal": "వర్తమాన కాలం, భూతకాలం మరియు భవిష్యత్ కాలం వాక్యాలను అభ్యసించండి.",
+          "title": "Course 2: Beginner (నా చుట్టూ ఉన్న హిందీ పదాలు)",
+          "learning_goal": "Learn HI curriculum with TE UI guidance (beginner).",
           "teaching_content": "Practice learning HI curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_hi_b1_q1",
-              "question": "ప్రశ్న: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+              "question": "ప్రశ్న: \"मैं स्कूल जाता हूँ।\" (నేను పాఠశాలకు వెళుతున్నాను) ఇది ఏ కాలం?",
               "options": [
-                "भूतकाल",
-                "वर्तमान काल",
-                "भविष्य काल",
-                "आज्ञार्थ"
+                "भूतकाल (భూతకాలం)",
+                "वर्तमान काल (వర్తమాన కాలం)",
+                "भविष्य काल (భవిష్యత్ కాలం)",
+                "आज्ञार्थ (ఆజ్ఞార్థకం)"
               ],
               "correct_index": 1,
-              "explanation": "यह वर्तमान काल है।"
+              "explanation": "వర్తమాన కాలం (वर्तमान काल).",
+              "id": "te_hi_b_1"
             },
             {
-              "id": "te_hi_b1_q2",
-              "question": "ప్రశ్న: \"वह कल आया।\" यह कौन सा काल है?",
+              "question": "ప్రశ్న: \"वह कल आया था।\" (అతను నిన్న వచ్చాడు) ఇది ఏ కాలం?",
               "options": [
-                "भूतकाल",
-                "वर्तमान काल",
-                "भविष्य काल",
-                "कोई नहीं"
+                "भूतकाल (భూతకాలం)",
+                "वर्तमान काल (వర్తమాన కాలం)",
+                "भविष्य काल (భవిష్యత్ కాలం)",
+                "సందేహం (సందేహం)"
               ],
               "correct_index": 0,
-              "explanation": "यह भूतकाल है।"
+              "explanation": "భూతకాలం (भूतकाल).",
+              "id": "te_hi_b_2"
             },
             {
-              "id": "te_hi_b1_q3",
-              "question": "ప్రశ్న: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+              "question": "ప్రశ్న: \"मैं कल जाऊँगा।\" (నేను రేపు వెళ్తాను) ఇది ఏ కాలం?",
               "options": [
-                "वर्तमान काल",
-                "भविष्य काल",
-                "भूतकाल",
-                "संज्ञा"
+                "वर्तमान काल (వర్తమాన కాలం)",
+                "भविष्य काल (భవిష్యత్ కాలం)",
+                "भूतकाल (భూతకాలం)",
+                "संज्ञा (నామవాచకం)"
               ],
               "correct_index": 1,
-              "explanation": "यह भविष्य काल है।"
+              "explanation": "భవిష్యత్ కాలం (भविष्य काल).",
+              "id": "te_hi_b_3"
             },
             {
-              "id": "te_hi_b1_q4",
-              "question": "ప్రశ్న: \"वह गा रही है।\" यह कौन सा काल है?",
+              "question": "ప్రశ్న: \"वह गाना गा रही है।\" (ఆమె పాట పాడుతోంది) ఇది ఏ కాలం?",
               "options": [
-                "वर्तमान काल",
-                "भूतकाल",
-                "भविष्य काल",
-                "विशेषण"
+                "वर्तमान काल (వర్తమాన కాలం)",
+                "भूतकाल (భూతకాలం)",
+                "भविष्य काल (భవిష్యత్ కాలం)",
+                "विशेषण (విశేషణం)"
               ],
               "correct_index": 0,
-              "explanation": "यह वर्तमान काल है।"
+              "explanation": "వర్తమాన కాలం (वर्तमान काल).",
+              "id": "te_hi_b_4"
             },
             {
-              "id": "te_hi_b1_q5",
-              "question": "ప్రశ్న: कौन सा शब्द भूतकाल दर्शाता है?",
+              "question": "ప్రశ్న: \"उसने खाया\" (తిన్నాడు) ఏ కాలాన్ని సూచిస్తుంది?",
               "options": [
-                "खाना",
-                "खाया",
-                "खा रहा",
-                "खाएगा"
+                "वर्तमान काल (వర్తమాన కాలం)",
+                "भूतकाल (భూతకాలం)",
+                "भविष्य काल (భవిష్యత్ కాలం)",
+                "ఏదీ కాదు (ఏదీ కాదు)"
               ],
               "correct_index": 1,
-              "explanation": "खाया भूतकाल है।"
+              "explanation": "భూతకాలం (भूतकाल).",
+              "id": "te_hi_b_5"
             },
             {
-              "id": "te_hi_b1_q6",
-              "question": "ప్రశ్న: कौन सा शब्द भविष्य काल दर्शाता है?",
+              "question": "ప్రశ్న: \"पढ़ूँगा\" (చదువుతాను) ఏ కాలానికి చెందుతుంది?",
               "options": [
-                "पढ़ना",
-                "पढ़ रहा",
-                "पढ़ूँगा",
-                "पढ़ता"
+                "भूतकाल (భూతకాలం)",
+                "वर्तमान काल (వర్తమాన కాలం)",
+                "भविष्य काल (భవిష్యత్ కాలం)",
+                "विशेषण (విశేషణం)"
               ],
               "correct_index": 2,
-              "explanation": "पढ़ूँगा भविष्य काल है।"
+              "explanation": "భవిష్యత్ కాలం (भविष्य काल).",
+              "id": "te_hi_b_6"
             },
             {
-              "id": "te_hi_b1_q7",
-              "question": "ప్రశ్న: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+              "question": "ప్రశ్న: \"खेल रहा है\" (ఆడుతున్నాడు) ఏ కాలానికి ఉదాహరణ?",
               "options": [
-                "वर्तमान काल",
-                "भूतकाल",
-                "भविष्य काल",
-                "संज्ञा"
+                "वर्तमान काल (వర్తమాన కాలం)",
+                "भूतकाल (భూతకాలం)",
+                "भविष्य काल (భవిష్యత్ కాలం)",
+                "संज्ञा (నామవాచకం)"
               ],
               "correct_index": 0,
-              "explanation": "यह वर्तमान काल है।"
+              "explanation": "వర్తమాన కాలం (वर्तमान काल).",
+              "id": "te_hi_b_7"
             }
           ]
         }
@@ -14923,175 +14920,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_hi_b1_q1",
-            "question": "ప్రశ్న: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+            "question": "ప్రశ్న: \"मैं स्कूल जाता हूँ।\" (నేను పాఠశాలకు వెళుతున్నాను) ఇది ఏ కాలం?",
             "options": [
-              "भूतकाल",
-              "वर्तमान काल",
-              "भविष्य काल",
-              "आज्ञार्थ"
+              "भूतकाल (భూతకాలం)",
+              "वर्तमान काल (వర్తమాన కాలం)",
+              "भविष्य काल (భవిష్యత్ కాలం)",
+              "आज्ञार्थ (ఆజ్ఞార్థకం)"
             ],
             "correct_index": 1,
-            "explanation": "यह वर्तमान काल है।"
+            "explanation": "వర్తమాన కాలం (वर्तमान काल).",
+            "id": "te_hi_b_1"
           },
           {
-            "id": "te_hi_b1_q2",
-            "question": "ప్రశ్న: \"वह कल आया।\" यह कौन सा काल है?",
+            "question": "ప్రశ్న: \"वह कल आया था।\" (అతను నిన్న వచ్చాడు) ఇది ఏ కాలం?",
             "options": [
-              "भूतकाल",
-              "वर्तमान काल",
-              "भविष्य काल",
-              "कोई नहीं"
+              "भूतकाल (భూతకాలం)",
+              "वर्तमान काल (వర్తమాన కాలం)",
+              "भविष्य काल (భవిష్యత్ కాలం)",
+              "సందేహం (సందేహం)"
             ],
             "correct_index": 0,
-            "explanation": "यह भूतकाल है।"
+            "explanation": "భూతకాలం (भूतकाल).",
+            "id": "te_hi_b_2"
           },
           {
-            "id": "te_hi_b1_q3",
-            "question": "ప్రశ్న: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+            "question": "ప్రశ్న: \"मैं कल जाऊँगा।\" (నేను రేపు వెళ్తాను) ఇది ఏ కాలం?",
             "options": [
-              "वर्तमान काल",
-              "भविष्य काल",
-              "भूतकाल",
-              "संज्ञा"
+              "वर्तमान काल (వర్తమాన కాలం)",
+              "भविष्य काल (భవిష్యత్ కాలం)",
+              "भूतकाल (భూతకాలం)",
+              "संज्ञा (నామవాచకం)"
             ],
             "correct_index": 1,
-            "explanation": "यह भविष्य काल है।"
+            "explanation": "భవిష్యత్ కాలం (भविष्य काल).",
+            "id": "te_hi_b_3"
           },
           {
-            "id": "te_hi_b1_q4",
-            "question": "ప్రశ్న: \"वह गा रही है।\" यह कौन सा काल है?",
+            "question": "ప్రశ్న: \"वह गाना गा रही है।\" (ఆమె పాట పాడుతోంది) ఇది ఏ కాలం?",
             "options": [
-              "वर्तमान काल",
-              "भूतकाल",
-              "भविष्य काल",
-              "विशेषण"
+              "वर्तमान काल (వర్తమాన కాలం)",
+              "भूतकाल (భూతకాలం)",
+              "भविष्य काल (భవిష్యత్ కాలం)",
+              "विशेषण (విశేషణం)"
             ],
             "correct_index": 0,
-            "explanation": "यह वर्तमान काल है।"
+            "explanation": "వర్తమాన కాలం (वर्तमान काल).",
+            "id": "te_hi_b_4"
           },
           {
-            "id": "te_hi_b1_q5",
-            "question": "ప్రశ్న: कौन सा शब्द भूतकाल दर्शाता है?",
+            "question": "ప్రశ్న: \"उसने खाया\" (తిన్నాడు) ఏ కాలాన్ని సూచిస్తుంది?",
             "options": [
-              "खाना",
-              "खाया",
-              "खा रहा",
-              "खाएगा"
+              "वर्तमान काल (వర్తమాన కాలం)",
+              "भूतकाल (భూతకాలం)",
+              "भविष्य काल (భవిష్యత్ కాలం)",
+              "ఏదీ కాదు (ఏదీ కాదు)"
             ],
             "correct_index": 1,
-            "explanation": "खाया भूतकाल है।"
+            "explanation": "భూతకాలం (भूतकाल).",
+            "id": "te_hi_b_5"
           },
           {
-            "id": "te_hi_b1_q6",
-            "question": "ప్రశ్న: कौन सा शब्द भविष्य काल दर्शाता है?",
+            "question": "ప్రశ్న: \"पढ़ूँगा\" (చదువుతాను) ఏ కాలానికి చెందుతుంది?",
             "options": [
-              "पढ़ना",
-              "पढ़ रहा",
-              "पढ़ूँगा",
-              "पढ़ता"
+              "भूतकाल (భూతకాలం)",
+              "वर्तमान काल (వర్తమాన కాలం)",
+              "भविष्य काल (భవిష్యత్ కాలం)",
+              "विशेषण (విశేషణం)"
             ],
             "correct_index": 2,
-            "explanation": "पढ़ूँगा भविष्य काल है।"
+            "explanation": "భవిష్యత్ కాలం (भविष्य काल).",
+            "id": "te_hi_b_6"
           },
           {
-            "id": "te_hi_b1_q7",
-            "question": "ప్రశ్న: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+            "question": "ప్రశ్న: \"खेल रहा है\" (ఆడుతున్నాడు) ఏ కాలానికి ఉదాహరణ?",
             "options": [
-              "वर्तमान काल",
-              "भूतकाल",
-              "भविष्य काल",
-              "संज्ञा"
+              "वर्तमान काल (వర్తమాన కాలం)",
+              "भूतकाल (భూతకాలం)",
+              "भविष्य काल (భవిష్యత్ కాలం)",
+              "संज्ञा (నామవాచకం)"
             ],
             "correct_index": 0,
-            "explanation": "यह वर्तमान काल है।"
+            "explanation": "వర్తమాన కాలం (वर्तमान काल).",
+            "id": "te_hi_b_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_hi_b1_q1",
-          "question": "ప్రశ్న: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+          "question": "ప్రశ్న: \"मैं स्कूल जाता हूँ।\" (నేను పాఠశాలకు వెళుతున్నాను) ఇది ఏ కాలం?",
           "options": [
-            "भूतकाल",
-            "वर्तमान काल",
-            "भविष्य काल",
-            "आज्ञार्थ"
+            "भूतकाल (భూతకాలం)",
+            "वर्तमान काल (వర్తమాన కాలం)",
+            "भविष्य काल (భవిష్యత్ కాలం)",
+            "आज्ञार्थ (ఆజ్ఞార్థకం)"
           ],
           "correct_index": 1,
-          "explanation": "यह वर्तमान काल है।"
+          "explanation": "వర్తమాన కాలం (वर्तमान काल).",
+          "id": "te_hi_b_1"
         },
         {
-          "id": "te_hi_b1_q2",
-          "question": "ప్రశ్న: \"वह कल आया।\" यह कौन सा काल है?",
+          "question": "ప్రశ్న: \"वह कल आया था।\" (అతను నిన్న వచ్చాడు) ఇది ఏ కాలం?",
           "options": [
-            "भूतकाल",
-            "वर्तमान काल",
-            "भविष्य काल",
-            "कोई नहीं"
+            "भूतकाल (భూతకాలం)",
+            "वर्तमान काल (వర్తమాన కాలం)",
+            "भविष्य काल (భవిష్యత్ కాలం)",
+            "సందేహం (సందేహం)"
           ],
           "correct_index": 0,
-          "explanation": "यह भूतकाल है।"
+          "explanation": "భూతకాలం (भूतकाल).",
+          "id": "te_hi_b_2"
         },
         {
-          "id": "te_hi_b1_q3",
-          "question": "ప్రశ్న: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+          "question": "ప్రశ్న: \"मैं कल जाऊँगा।\" (నేను రేపు వెళ్తాను) ఇది ఏ కాలం?",
           "options": [
-            "वर्तमान काल",
-            "भविष्य काल",
-            "भूतकाल",
-            "संज्ञा"
+            "वर्तमान काल (వర్తమాన కాలం)",
+            "भविष्य काल (భవిష్యత్ కాలం)",
+            "भूतकाल (భూతకాలం)",
+            "संज्ञा (నామవాచకం)"
           ],
           "correct_index": 1,
-          "explanation": "यह भविष्य काल है।"
+          "explanation": "భవిష్యత్ కాలం (भविष्य काल).",
+          "id": "te_hi_b_3"
         },
         {
-          "id": "te_hi_b1_q4",
-          "question": "ప్రశ్న: \"वह गा रही है।\" यह कौन सा काल है?",
+          "question": "ప్రశ్న: \"वह गाना गा रही है।\" (ఆమె పాట పాడుతోంది) ఇది ఏ కాలం?",
           "options": [
-            "वर्तमान काल",
-            "भूतकाल",
-            "भविष्य काल",
-            "विशेषण"
+            "वर्तमान काल (వర్తమాన కాలం)",
+            "भूतकाल (భూతకాలం)",
+            "भविष्य काल (భవిష్యత్ కాలం)",
+            "विशेषण (విశేషణం)"
           ],
           "correct_index": 0,
-          "explanation": "यह वर्तमान काल है।"
+          "explanation": "వర్తమాన కాలం (वर्तमान काल).",
+          "id": "te_hi_b_4"
         },
         {
-          "id": "te_hi_b1_q5",
-          "question": "ప్రశ్న: कौन सा शब्द भूतकाल दर्शाता है?",
+          "question": "ప్రశ్న: \"उसने खाया\" (తిన్నాడు) ఏ కాలాన్ని సూచిస్తుంది?",
           "options": [
-            "खाना",
-            "खाया",
-            "खा रहा",
-            "खाएगा"
+            "वर्तमान काल (వర్తమాన కాలం)",
+            "भूतकाल (భూతకాలం)",
+            "भविष्य काल (భవిష్యత్ కాలం)",
+            "ఏదీ కాదు (ఏదీ కాదు)"
           ],
           "correct_index": 1,
-          "explanation": "खाया भूतकाल है।"
+          "explanation": "భూతకాలం (भूतकाल).",
+          "id": "te_hi_b_5"
         },
         {
-          "id": "te_hi_b1_q6",
-          "question": "ప్రశ్న: कौन सा शब्द भविष्य काल दर्शाता है?",
+          "question": "ప్రశ్న: \"पढ़ूँगा\" (చదువుతాను) ఏ కాలానికి చెందుతుంది?",
           "options": [
-            "पढ़ना",
-            "पढ़ रहा",
-            "पढ़ूँगा",
-            "पढ़ता"
+            "भूतकाल (భూతకాలం)",
+            "वर्तमान काल (వర్తమాన కాలం)",
+            "भविष्य काल (భవిష్యత్ కాలం)",
+            "विशेषण (విశేషణం)"
           ],
           "correct_index": 2,
-          "explanation": "पढ़ूँगा भविष्य काल है।"
+          "explanation": "భవిష్యత్ కాలం (भविष्य काल).",
+          "id": "te_hi_b_6"
         },
         {
-          "id": "te_hi_b1_q7",
-          "question": "ప్రశ్న: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+          "question": "ప్రశ్న: \"खेल रहा है\" (ఆడుతున్నాడు) ఏ కాలానికి ఉదాహరణ?",
           "options": [
-            "वर्तमान काल",
-            "भूतकाल",
-            "भविष्य काल",
-            "संज्ञा"
+            "वर्तमान काल (వర్తమాన కాలం)",
+            "भूतकाल (భూతకాలం)",
+            "भविष्य काल (భవిష్యత్ కాలం)",
+            "संज्ञा (నామవాచకం)"
           ],
           "correct_index": 0,
-          "explanation": "यह वर्तमान काल है।"
+          "explanation": "వర్తమాన కాలం (वर्तमान काल).",
+          "id": "te_hi_b_7"
         }
       ]
     },
@@ -15100,100 +15097,100 @@ export const BILINGUAL_COURSES = {
       "path": "intermediate",
       "lang": "hi",
       "uiLang": "te",
-      "title": "Course 3: Intermediate (పదజాలానికి కొత్త అడుగులు)",
-      "description": "మరియు, కానీ, అందువల్ల, లేదా వంటి సంధాన పదాలను నేర్చుకోండి.",
-      "objective": "మరియు, కానీ, అందువల్ల, లేదా వంటి సంధాన పదాలను నేర్చుకోండి.",
+      "title": "Course 3: Intermediate (హిందీ పదజాలానికి కొత్త అడుగులు)",
+      "description": "Learn HI curriculum with TE UI guidance (intermediate).",
+      "objective": "Learn HI curriculum with TE UI guidance (intermediate).",
       "lessons": [
         {
           "id": "intermediate-te-hi-l1",
-          "title": "Course 3: Intermediate (పదజాలానికి కొత్త అడుగులు)",
-          "learning_goal": "మరియు, కానీ, అందువల్ల, లేదా వంటి సంధాన పదాలను నేర్చుకోండి.",
+          "title": "Course 3: Intermediate (హిందీ పదజాలానికి కొత్త అడుగులు)",
+          "learning_goal": "Learn HI curriculum with TE UI guidance (intermediate).",
           "teaching_content": "Practice learning HI curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_hi_i1_q1",
-              "question": "ప్రశ్న: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+              "question": "ప్రశ్న: \"राम और श्याम स्कूल गए।\" ఇందులో సంధాన పదం ఏది?",
               "options": [
-                "लेकिन",
-                "और",
-                "क्योंकि",
-                "या"
+                "लेकिन (లేకిన్ - కానీ)",
+                "और (ఔర్ - మరియు)",
+                "क्योंकि (క్యోంకి - ఎందుకంటే)",
+                "या (యా - లేదా)"
               ],
               "correct_index": 1,
-              "explanation": "और विचारों को जोड़ता है।"
+              "explanation": "'और' సంధాన పదం.",
+              "id": "te_hi_i_1"
             },
             {
-              "id": "te_hi_i1_q2",
-              "question": "ప్రశ్న: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+              "question": "ప్రశ్న: \"माता और पिता\" లో సంధాన పదం ఏది?",
               "options": [
-                "माता",
-                "और",
-                "पिता",
-                "परिवार"
+                "माता (మాతా)",
+                "और (ఔర్ - మరియు)",
+                "पिता (పితా)",
+                "में (మే - లో)"
               ],
               "correct_index": 1,
-              "explanation": "और संयोजक है।"
+              "explanation": "'और' సంధాన పదం.",
+              "id": "te_hi_i_2"
             },
             {
-              "id": "te_hi_i1_q3",
-              "question": "ప్రశ్న: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+              "question": "ప్రశ్న: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" ఇందులో సంధాన పదం ఏది?",
               "options": [
-                "लेकिन",
-                "पढ़ाई",
-                "पास",
-                "वह"
+                "लेकिन (లేకిన్ - కానీ)",
+                "पढ़ा (పఢా)",
+                "पास (పాస్)",
+                "नहीं (నహీన్)"
               ],
               "correct_index": 0,
-              "explanation": "लेकिन विरोधी संयोजक है।"
+              "explanation": "'लेकिन' సంధాన పదం.",
+              "id": "te_hi_i_3"
             },
             {
-              "id": "te_hi_i1_q4",
-              "question": "ప్రశ్న: \"और\" एक ______ है।",
+              "question": "ప్రశ్న: 'और' (ఔర్) ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
-                "సంయోజక్ (కనెక్టర్ - సంయోజక)",
-                "संज्ञा",
-                "क्रिया",
-                "विशेषण"
+                "संयोजक (సంగ్యోజక్ - సంధాన పదం)",
+                "संज्ञा (సంగ్న్యా - నామవాచకం)",
+                "क्रिया (క్రియా - క్రియ)",
+                "विशेषण (విశేషణ్ - విశేషణం)"
               ],
               "correct_index": 0,
-              "explanation": "और संयोजक है।"
+              "explanation": "'और' సంధాన పదం (संयोजक).",
+              "id": "te_hi_i_4"
             },
             {
-              "id": "te_hi_i1_q5",
-              "question": "ప్రశ్న: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+              "question": "ప్రశ్న: 'इसलिए' (ఇస్లియే) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
               "options": [
-                "कारण बताने के लिए",
-                "व्यक्ति के नाम के लिए",
-                "क्रिया बताने के लिए",
-                "समय बताने के लिए"
+                "कारण और परिणाम बताने के लिए (కారణం మరియు ఫలితాన్ని తెలియజేయడానికి)",
+                "संज्ञा के रूप में (నామవాచకంగా)",
+                "क्रिया के रूप में (క్రియగా)",
+                "समय बताने के लिए (కాలాన్ని సూచించడానికి)"
               ],
               "correct_index": 0,
-              "explanation": "क्योंकि कारण बताता है।"
+              "explanation": "'इसलिए' కారణం మరియు ఫలితాన్ని తెలియజేయడానికి ఉపయోగిస్తారు.",
+              "id": "te_hi_i_5"
             },
             {
-              "id": "te_hi_i1_q6",
-              "question": "ప్రశ్న: निम्न में से कौन सा संयोजक है?",
+              "question": "ప్రశ్న: సరైన సంధాన పదం ఏది?",
               "options": [
-                "और",
-                "घर",
-                "किताब",
-                "दौड़ना"
+                "और (ఔర్ - మరియు)",
+                "किताब (కితాబ్)",
+                "घर (ఘర్)",
+                "दौड़ना (దౌడ్నా)"
               ],
               "correct_index": 0,
-              "explanation": "और संयोजक है।"
+              "explanation": "'और' సరైన సంధాన పదం.",
+              "id": "te_hi_i_6"
             },
             {
-              "id": "te_hi_i1_q7",
-              "question": "ప్రశ్న: \"या\" शब्द का क्या अर्थ है?",
+              "question": "ప్రశ్న: 'या' (యా) అంటే ఏమిటి?",
               "options": [
-                "दो विकल्पों में से एक का चयन",
-                "स्थान",
-                "समय",
-                "क्रिया"
+                "दो विकल्पों में से एक (రెండు ఎంపికల్లో ఒకటి)",
+                "समय (సమయం)",
+                "स्थान (స్థలం)",
+                "क्रिया (క్రియ)"
               ],
               "correct_index": 0,
-              "explanation": "या विकल्प दर्शाता है।"
+              "explanation": "'या' అంటే లేదా (Do vikalpon me se ek).",
+              "id": "te_hi_i_7"
             }
           ]
         }
@@ -15202,175 +15199,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_hi_i1_q1",
-            "question": "ప్రశ్న: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+            "question": "ప్రశ్న: \"राम और श्याम स्कूल गए।\" ఇందులో సంధాన పదం ఏది?",
             "options": [
-              "लेकिन",
-              "और",
-              "क्योंकि",
-              "या"
+              "लेकिन (లేకిన్ - కానీ)",
+              "और (ఔర్ - మరియు)",
+              "क्योंकि (క్యోంకి - ఎందుకంటే)",
+              "या (యా - లేదా)"
             ],
             "correct_index": 1,
-            "explanation": "और विचारों को जोड़ता है।"
+            "explanation": "'और' సంధాన పదం.",
+            "id": "te_hi_i_1"
           },
           {
-            "id": "te_hi_i1_q2",
-            "question": "ప్రశ్న: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+            "question": "ప్రశ్న: \"माता और पिता\" లో సంధాన పదం ఏది?",
             "options": [
-              "माता",
-              "और",
-              "पिता",
-              "परिवार"
+              "माता (మాతా)",
+              "और (ఔర్ - మరియు)",
+              "पिता (పితా)",
+              "में (మే - లో)"
             ],
             "correct_index": 1,
-            "explanation": "और संयोजक है।"
+            "explanation": "'और' సంధాన పదం.",
+            "id": "te_hi_i_2"
           },
           {
-            "id": "te_hi_i1_q3",
-            "question": "ప్రశ్న: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+            "question": "ప్రశ్న: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" ఇందులో సంధాన పదం ఏది?",
             "options": [
-              "लेकिन",
-              "पढ़ाई",
-              "पास",
-              "वह"
+              "लेकिन (లేకిన్ - కానీ)",
+              "पढ़ा (పఢా)",
+              "पास (పాస్)",
+              "नहीं (నహీన్)"
             ],
             "correct_index": 0,
-            "explanation": "लेकिन विरोधी संयोजक है।"
+            "explanation": "'लेकिन' సంధాన పదం.",
+            "id": "te_hi_i_3"
           },
           {
-            "id": "te_hi_i1_q4",
-            "question": "ప్రశ్న: \"और\" एक ______ है।",
+            "question": "ప్రశ్న: 'और' (ఔర్) ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
-              "संयोजक (Conjunction)",
-              "संज्ञा",
-              "क्रिया",
-              "विशेषण"
+              "संयोजक (సంగ్యోజక్ - సంధాన పదం)",
+              "संज्ञा (సంగ్న్యా - నామవాచకం)",
+              "क्रिया (క్రియా - క్రియ)",
+              "विशेषण (విశేషణ్ - విశేషణం)"
             ],
             "correct_index": 0,
-            "explanation": "और संयोजक है।"
+            "explanation": "'और' సంధాన పదం (संयोजक).",
+            "id": "te_hi_i_4"
           },
           {
-            "id": "te_hi_i1_q5",
-            "question": "ప్రశ్న: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+            "question": "ప్రశ్న: 'इसलिए' (ఇస్లియే) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
             "options": [
-              "कारण बताने के लिए",
-              "व्यक्ति के नाम के लिए",
-              "क्रिया बताने के लिए",
-              "समय बताने के लिए"
+              "कारण और परिणाम बताने के लिए (కారణం మరియు ఫలితాన్ని తెలియజేయడానికి)",
+              "संज्ञा के रूप में (నామవాచకంగా)",
+              "क्रिया के रूप में (క్రియగా)",
+              "समय बताने के लिए (కాలాన్ని సూచించడానికి)"
             ],
             "correct_index": 0,
-            "explanation": "क्योंकि कारण बताता है।"
+            "explanation": "'इसलिए' కారణం మరియు ఫలితాన్ని తెలియజేయడానికి ఉపయోగిస్తారు.",
+            "id": "te_hi_i_5"
           },
           {
-            "id": "te_hi_i1_q6",
-            "question": "ప్రశ్న: निम्न में से कौन सा संयोजक है?",
+            "question": "ప్రశ్న: సరైన సంధాన పదం ఏది?",
             "options": [
-              "और",
-              "घर",
-              "किताब",
-              "दौड़ना"
+              "और (ఔర్ - మరియు)",
+              "किताब (కితాబ్)",
+              "घर (ఘర్)",
+              "दौड़ना (దౌడ్నా)"
             ],
             "correct_index": 0,
-            "explanation": "और संयोजक है।"
+            "explanation": "'और' సరైన సంధాన పదం.",
+            "id": "te_hi_i_6"
           },
           {
-            "id": "te_hi_i1_q7",
-            "question": "ప్రశ్న: \"या\" शब्द का क्या अर्थ है?",
+            "question": "ప్రశ్న: 'या' (యా) అంటే ఏమిటి?",
             "options": [
-              "दो विकल्पों में से एक का चयन",
-              "स्थान",
-              "समय",
-              "क्रिया"
+              "दो विकल्पों में से एक (రెండు ఎంపికల్లో ఒకటి)",
+              "समय (సమయం)",
+              "स्थान (స్థలం)",
+              "क्रिया (క్రియ)"
             ],
             "correct_index": 0,
-            "explanation": "या विकल्प दर्शाता है।"
+            "explanation": "'या' అంటే లేదా (Do vikalpon me se ek).",
+            "id": "te_hi_i_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_hi_i1_q1",
-          "question": "ప్రశ్న: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+          "question": "ప్రశ్న: \"राम और श्याम स्कूल गए।\" ఇందులో సంధాన పదం ఏది?",
           "options": [
-            "लेकिन",
-            "और",
-            "क्योंकि",
-            "या"
+            "लेकिन (లేకిన్ - కానీ)",
+            "और (ఔర్ - మరియు)",
+            "क्योंकि (క్యోంకి - ఎందుకంటే)",
+            "या (యా - లేదా)"
           ],
           "correct_index": 1,
-          "explanation": "और विचारों को जोड़ता है।"
+          "explanation": "'और' సంధాన పదం.",
+          "id": "te_hi_i_1"
         },
         {
-          "id": "te_hi_i1_q2",
-          "question": "ప్రశ్న: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+          "question": "ప్రశ్న: \"माता और पिता\" లో సంధాన పదం ఏది?",
           "options": [
-            "माता",
-            "और",
-            "पिता",
-            "परिवार"
+            "माता (మాతా)",
+            "और (ఔర్ - మరియు)",
+            "पिता (పితా)",
+            "में (మే - లో)"
           ],
           "correct_index": 1,
-          "explanation": "और संयोजक है।"
+          "explanation": "'और' సంధాన పదం.",
+          "id": "te_hi_i_2"
         },
         {
-          "id": "te_hi_i1_q3",
-          "question": "ప్రశ్న: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+          "question": "ప్రశ్న: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" ఇందులో సంధాన పదం ఏది?",
           "options": [
-            "लेकिन",
-            "पढ़ाई",
-            "पास",
-            "वह"
+            "लेकिन (లేకిన్ - కానీ)",
+            "पढ़ा (పఢా)",
+            "पास (పాస్)",
+            "नहीं (నహీన్)"
           ],
           "correct_index": 0,
-          "explanation": "लेकिन विरोधी संयोजक है।"
+          "explanation": "'लेकिन' సంధాన పదం.",
+          "id": "te_hi_i_3"
         },
         {
-          "id": "te_hi_i1_q4",
-          "question": "ప్రశ్న: \"और\" एक ______ है।",
+          "question": "ప్రశ్న: 'और' (ఔర్) ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
-            "संयोजक (Conjunction)",
-            "संज्ञा",
-            "क्रिया",
-            "विशेषण"
+            "संयोजक (సంగ్యోజక్ - సంధాన పదం)",
+            "संज्ञा (సంగ్న్యా - నామవాచకం)",
+            "क्रिया (క్రియా - క్రియ)",
+            "विशेषण (విశేషణ్ - విశేషణం)"
           ],
           "correct_index": 0,
-          "explanation": "और संयोजक है।"
+          "explanation": "'और' సంధాన పదం (संयोजक).",
+          "id": "te_hi_i_4"
         },
         {
-          "id": "te_hi_i1_q5",
-          "question": "ప్రశ్న: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+          "question": "ప్రశ్న: 'इसलिए' (ఇస్లియే) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
           "options": [
-            "कारण बताने के लिए",
-            "व्यक्ति के नाम के लिए",
-            "क्रिया बताने के लिए",
-            "समय बताने के लिए"
+            "कारण और परिणाम बताने के लिए (కారణం మరియు ఫలితాన్ని తెలియజేయడానికి)",
+            "संज्ञा के रूप में (నామవాచకంగా)",
+            "क्रिया के रूप में (క్రియగా)",
+            "समय बताने के लिए (కాలాన్ని సూచించడానికి)"
           ],
           "correct_index": 0,
-          "explanation": "क्योंकि कारण बताता है।"
+          "explanation": "'इसलिए' కారణం మరియు ఫలితాన్ని తెలియజేయడానికి ఉపయోగిస్తారు.",
+          "id": "te_hi_i_5"
         },
         {
-          "id": "te_hi_i1_q6",
-          "question": "ప్రశ్న: निम्न में से कौन सा संयोजक है?",
+          "question": "ప్రశ్న: సరైన సంధాన పదం ఏది?",
           "options": [
-            "और",
-            "घर",
-            "किताब",
-            "दौड़ना"
+            "और (ఔర్ - మరియు)",
+            "किताब (కితాబ్)",
+            "घर (ఘర్)",
+            "दौड़ना (దౌడ్నా)"
           ],
           "correct_index": 0,
-          "explanation": "और संयोजक है।"
+          "explanation": "'और' సరైన సంధాన పదం.",
+          "id": "te_hi_i_6"
         },
         {
-          "id": "te_hi_i1_q7",
-          "question": "ప్రశ్న: \"या\" शब्द का क्या अर्थ है?",
+          "question": "ప్రశ్న: 'या' (యా) అంటే ఏమిటి?",
           "options": [
-            "दो विकल्पों में से एक का चयन",
-            "स्थान",
-            "समय",
-            "क्रिया"
+            "दो विकल्पों में से एक (రెండు ఎంపికల్లో ఒకటి)",
+            "समय (సమయం)",
+            "स्थान (స్థలం)",
+            "क्रिया (క్రియ)"
           ],
           "correct_index": 0,
-          "explanation": "या विकल्प दर्शाता है।"
+          "explanation": "'या' అంటే లేదా (Do vikalpon me se ek).",
+          "id": "te_hi_i_7"
         }
       ]
     },
@@ -15379,100 +15376,100 @@ export const BILINGUAL_COURSES = {
       "path": "advanced",
       "lang": "hi",
       "uiLang": "te",
-      "title": "Course 4: Advanced (నా ప్రపంచ పదాలు)",
-      "description": "లఘు గద్యభాగాలను చదివి ప్రశ్నలకు సమాధానాలు ఇవ్వడం నేర్చుకోండి.",
-      "objective": "లఘు గద్యభాగాలను చదివి ప్రశ్నలకు సమాధానాలు ఇవ్వడం నేర్చుకోండి.",
+      "title": "Course 4: Advanced (నా ప్రపంచ హిందీ వాక్యాలు)",
+      "description": "Learn HI curriculum with TE UI guidance (advanced).",
+      "objective": "Learn HI curriculum with TE UI guidance (advanced).",
       "lessons": [
         {
           "id": "advanced-te-hi-l1",
-          "title": "Course 4: Advanced (నా ప్రపంచ పదాలు)",
-          "learning_goal": "లఘు గద్యభాగాలను చదివి ప్రశ్నలకు సమాధానాలు ఇవ్వడం నేర్చుకోండి.",
+          "title": "Course 4: Advanced (నా ప్రపంచ హిందీ వాక్యాలు)",
+          "learning_goal": "Learn HI curriculum with TE UI guidance (advanced).",
           "teaching_content": "Practice learning HI curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_hi_a1_q1",
-              "question": "ప్రశ్న: राहुल कहाँ जाता है?",
+              "question": "ప్రశ్న: Rahul (రాహుల్) ఎక్కడికి వెళ్తాడు?",
               "options": [
-                "बाजार",
-                "स्कूल",
-                "पार्क",
-                "घर"
+                "बाज़ार (బాజార్)",
+                "स्कूल (స్కూల్ / పాఠశాల)",
+                "पार्क (పార్క్)",
+                "घर (ఘర్)"
               ],
               "correct_index": 1,
-              "explanation": "राहुल स्कूल जाता है।"
+              "explanation": "Rahul పాఠశాలకు (स्कूल) వెళ్తాడు.",
+              "id": "te_hi_a_1"
             },
             {
-              "id": "te_hi_a1_q2",
-              "question": "ప్రశ్న: राहुल को क्या पसंद है?",
+              "question": "ప్రశ్న: Rahul (రాహుల్) కు ఏమి ఇష్టం?",
               "options": [
-                "खेल खेलना",
-                "किताबें पढ़ना",
-                "सोना",
-                "टीवी देखना"
+                "खेलना (ఆటలు)",
+                "किताबें पढ़ना (పుస్తకాలు చదవడం)",
+                "सोना (నిద్రపోవడం)",
+                "टीवी देखना (టీవీ చూడడం)"
               ],
               "correct_index": 1,
-              "explanation": "राहुल को किताबें पढ़ना पसंद है।"
+              "explanation": "Rahul కు పుస్తకాలు చదవడం ఇష్టం.",
+              "id": "te_hi_a_2"
             },
             {
-              "id": "te_hi_a1_q3",
-              "question": "ప్రశ్న: यह गद्यांश किसके बारे में है?",
+              "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
               "options": [
-                "सीता",
-                "राहुल",
-                "मोहन",
-                "रिया"
+                "रीना (రీనా)",
+                "राहुल (రాహుల్)",
+                "मोहन (మోహన్)",
+                "सीमा (సీమా)"
               ],
               "correct_index": 1,
-              "explanation": "गद्यांश राहुल के बारे में है।"
+              "explanation": "ఈ గద్యభాగం Rahul (రాహుల్) గురించి.",
+              "id": "te_hi_a_3"
             },
             {
-              "id": "te_hi_a1_q4",
-              "question": "ప్రశ్న: \"रोज़ाना\" का क्या अर्थ है?",
+              "question": "ప్రశ్న: 'रोज़' (రోజ్) என்பதన్ అర్థం ఏమిటి?",
               "options": [
-                "ప్రతిదినం (హర్ దిన్ - ప్రతిరోజూ)",
-                "कल",
-                "कभी नहीं",
-                "अगले सप्ताह"
+                "हर दिन (ప్రతి రోజు)",
+                "कल (నిన్న/రేపు)",
+                "कभी नहीं (ఎప్పుడూ కాదు)",
+                "अगले सप्ताह (వచ్చే వారం)"
               ],
               "correct_index": 0,
-              "explanation": "रोज़ाना का अर्थ प्रतिदिन है।"
+              "explanation": "'रोज़' అంటే ప్రతి రోజు (हर दिन).",
+              "id": "te_hi_a_4"
             },
             {
-              "id": "te_hi_a1_q5",
-              "question": "ప్రశ్న: राहुल क्या करता है?",
+              "question": "ప్రశ్న: Rahul (రాహుల్) ఏమి చేస్తాడు?",
               "options": [
-                "स्कूल जाता है",
-                "बाजार जाता है",
-                "घर पर रहता है",
-                "अस्पताल जाता है"
+                "स्कूल जाता है (పాఠశాలకు వెళ్తాడు)",
+                "खेत जाता है (పొలానికి వెళ్తాడు)",
+                "बाज़ार जाता है (మార్కెట్కు వెళ్తాడు)",
+                "अस्पताल जाता है (ఆసుపత్రికి వెళ్తాడు)"
               ],
               "correct_index": 0,
-              "explanation": "राहुल स्कूल जाता है।"
+              "explanation": "Rahul పాఠశాలకు వెళ్తాడు (स्कूल जाता है).",
+              "id": "te_hi_a_5"
             },
             {
-              "id": "te_hi_a1_q6",
-              "question": "ప్రశ్న: गद्यांश का मुख्य विचार क्या है?",
+              "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
               "options": [
-                "स्कूल जाना और पुस्तकें पढ़ना",
-                "यात्रा करना",
-                "बारिश",
-                "पहाड़"
+                "पढ़ाई और स्कूल की आदत (చదువు మరియు పాఠశాల అలవాటు)",
+                "यात्रा (ప్రయాణం)",
+                "वर्षा (వర్షం)",
+                "पर्वत (కొండలు)"
               ],
               "correct_index": 0,
-              "explanation": "मुख्य विचार स्कूल और पठन है।"
+              "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల అలవాటు.",
+              "id": "te_hi_a_6"
             },
             {
-              "id": "te_hi_a1_q7",
-              "question": "ప్రశ్న: कौन सा वाक्य सही है?",
+              "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
               "options": [
-                "राहुल को किताबें पढ़ना पसंद है।",
-                "राहुल कभी स्कूल नहीं जाता।",
-                "राहुल केवल खेल खेलता है।",
-                "राहुल नहीं पढ़ता।"
+                "राहुल को किताबें पढ़ना पसंद है। (రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.)",
+                "राहुल स्कूल नहीं जाता। (రాహుల్ పాఠశాలకు వెళ్లడు.)",
+                "राहुल केवल खेलता है। (రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.)",
+                "राहुल रोज़ सोता रहता है। (రాహుల్ రోజు నిద్రపోతుంటాడు.)"
               ],
               "correct_index": 0,
-              "explanation": "राहुल को किताबें पढ़ना पसंद है।"
+              "explanation": "సరైన వాక్యం: Rahul کو किताबें पढ़ना पसंद है।",
+              "id": "te_hi_a_7"
             }
           ]
         }
@@ -15481,175 +15478,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_hi_a1_q1",
-            "question": "ప్రశ్న: राहुल कहाँ जाता है?",
+            "question": "ప్రశ్న: Rahul (రాహుల్) ఎక్కడికి వెళ్తాడు?",
             "options": [
-              "बाजार",
-              "स्कूल",
-              "पार्क",
-              "घर"
+              "बाज़ार (బాజార్)",
+              "स्कूल (స్కూల్ / పాఠశాల)",
+              "पार्क (పార్క్)",
+              "घर (ఘర్)"
             ],
             "correct_index": 1,
-            "explanation": "राहुल स्कूल जाता है।"
+            "explanation": "Rahul పాఠశాలకు (स्कूल) వెళ్తాడు.",
+            "id": "te_hi_a_1"
           },
           {
-            "id": "te_hi_a1_q2",
-            "question": "ప్రశ్న: राहुल को क्या पसंद है?",
+            "question": "ప్రశ్న: Rahul (రాహుల్) కు ఏమి ఇష్టం?",
             "options": [
-              "खेल खेलना",
-              "किताबें पढ़ना",
-              "सोना",
-              "टीवी देखना"
+              "खेलना (ఆటలు)",
+              "किताबें पढ़ना (పుస్తకాలు చదవడం)",
+              "सोना (నిద్రపోవడం)",
+              "टीवी देखना (టీవీ చూడడం)"
             ],
             "correct_index": 1,
-            "explanation": "राहुल को किताबें पढ़ना पसंद है।"
+            "explanation": "Rahul కు పుస్తకాలు చదవడం ఇష్టం.",
+            "id": "te_hi_a_2"
           },
           {
-            "id": "te_hi_a1_q3",
-            "question": "ప్రశ్న: यह गद्यांश किसके बारे में है?",
+            "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
             "options": [
-              "सीता",
-              "राहुल",
-              "मोहन",
-              "रिया"
+              "रीना (రీనా)",
+              "राहुल (రాహుల్)",
+              "मोहन (మోహన్)",
+              "सीमा (సీమా)"
             ],
             "correct_index": 1,
-            "explanation": "गद्यांश राहुल के बारे में है।"
+            "explanation": "ఈ గద్యభాగం Rahul (రాహుల్) గురించి.",
+            "id": "te_hi_a_3"
           },
           {
-            "id": "te_hi_a1_q4",
-            "question": "ప్రశ్న: \"रोज़ाना\" का क्या अर्थ है?",
+            "question": "ప్రశ్న: 'रोज़' (రోజ్) என்பதన్ అర్థం ఏమిటి?",
             "options": [
-              "प्रतिदिन (Every day)",
-              "कल",
-              "कभी नहीं",
-              "अगले सप्ताह"
+              "हर दिन (ప్రతి రోజు)",
+              "कल (నిన్న/రేపు)",
+              "कभी नहीं (ఎప్పుడూ కాదు)",
+              "अगले सप्ताह (వచ్చే వారం)"
             ],
             "correct_index": 0,
-            "explanation": "रोज़ाना का अर्थ प्रतिदिन है।"
+            "explanation": "'रोज़' అంటే ప్రతి రోజు (हर दिन).",
+            "id": "te_hi_a_4"
           },
           {
-            "id": "te_hi_a1_q5",
-            "question": "ప్రశ్న: राहुल क्या करता है?",
+            "question": "ప్రశ్న: Rahul (రాహుల్) ఏమి చేస్తాడు?",
             "options": [
-              "स्कूल जाता है",
-              "बाजार जाता है",
-              "घर पर रहता है",
-              "अस्पताल जाता है"
+              "स्कूल जाता है (పాఠశాలకు వెళ్తాడు)",
+              "खेत जाता है (పొలానికి వెళ్తాడు)",
+              "बाज़ार जाता है (మార్కెట్కు వెళ్తాడు)",
+              "अस्पताल जाता है (ఆసుపత్రికి వెళ్తాడు)"
             ],
             "correct_index": 0,
-            "explanation": "राहुल स्कूल जाता है।"
+            "explanation": "Rahul పాఠశాలకు వెళ్తాడు (स्कूल जाता है).",
+            "id": "te_hi_a_5"
           },
           {
-            "id": "te_hi_a1_q6",
-            "question": "ప్రశ్న: गद्यांश का मुख्य विचार क्या है?",
+            "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
             "options": [
-              "स्कूल जाना और पुस्तकें पढ़ना",
-              "यात्रा करना",
-              "बारिश",
-              "पहाड़"
+              "पढ़ाई और स्कूल की आदत (చదువు మరియు పాఠశాల అలవాటు)",
+              "यात्रा (ప్రయాణం)",
+              "वर्षा (వర్షం)",
+              "पर्वत (కొండలు)"
             ],
             "correct_index": 0,
-            "explanation": "मुख्य विचार स्कूल और पठन है।"
+            "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల అలవాటు.",
+            "id": "te_hi_a_6"
           },
           {
-            "id": "te_hi_a1_q7",
-            "question": "ప్రశ్న: कौन सा वाक्य सही है?",
+            "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
             "options": [
-              "राहुल को किताबें पढ़ना पसंद है।",
-              "राहुल कभी स्कूल नहीं जाता।",
-              "राहुल केवल खेल खेलता है।",
-              "राहुल नहीं पढ़ता।"
+              "राहुल को किताबें पढ़ना पसंद है। (రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.)",
+              "राहुल स्कूल नहीं जाता। (రాహుల్ పాఠశాలకు వెళ్లడు.)",
+              "राहुल केवल खेलता है। (రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.)",
+              "राहुल रोज़ सोता रहता है। (రాహుల్ రోజు నిద్రపోతుంటాడు.)"
             ],
             "correct_index": 0,
-            "explanation": "राहुल को किताबें पढ़ना पसंद है।"
+            "explanation": "సరైన వాక్యం: Rahul کو किताबें पढ़ना पसंद है।",
+            "id": "te_hi_a_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_hi_a1_q1",
-          "question": "ప్రశ్న: राहुल कहाँ जाता है?",
+          "question": "ప్రశ్న: Rahul (రాహుల్) ఎక్కడికి వెళ్తాడు?",
           "options": [
-            "बाजार",
-            "स्कूल",
-            "पार्क",
-            "घर"
+            "बाज़ार (బాజార్)",
+            "स्कूल (స్కూల్ / పాఠశాల)",
+            "पार्क (పార్క్)",
+            "घर (ఘర్)"
           ],
           "correct_index": 1,
-          "explanation": "राहुल स्कूल जाता है।"
+          "explanation": "Rahul పాఠశాలకు (स्कूल) వెళ్తాడు.",
+          "id": "te_hi_a_1"
         },
         {
-          "id": "te_hi_a1_q2",
-          "question": "ప్రశ్న: राहुल को क्या पसंद है?",
+          "question": "ప్రశ్న: Rahul (రాహుల్) కు ఏమి ఇష్టం?",
           "options": [
-            "खेल खेलना",
-            "किताबें पढ़ना",
-            "सोना",
-            "टीवी देखना"
+            "खेलना (ఆటలు)",
+            "किताबें पढ़ना (పుస్తకాలు చదవడం)",
+            "सोना (నిద్రపోవడం)",
+            "टीवी देखना (టీవీ చూడడం)"
           ],
           "correct_index": 1,
-          "explanation": "राहुल को किताबें पढ़ना पसंद है।"
+          "explanation": "Rahul కు పుస్తకాలు చదవడం ఇష్టం.",
+          "id": "te_hi_a_2"
         },
         {
-          "id": "te_hi_a1_q3",
-          "question": "ప్రశ్న: यह गद्यांश किसके बारे में है?",
+          "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
           "options": [
-            "सीता",
-            "राहुल",
-            "मोहन",
-            "रिया"
+            "रीना (రీనా)",
+            "राहुल (రాహుల్)",
+            "मोहन (మోహన్)",
+            "सीमा (సీమా)"
           ],
           "correct_index": 1,
-          "explanation": "गद्यांश राहुल के बारे में है।"
+          "explanation": "ఈ గద్యభాగం Rahul (రాహుల్) గురించి.",
+          "id": "te_hi_a_3"
         },
         {
-          "id": "te_hi_a1_q4",
-          "question": "ప్రశ్న: \"रोज़ाना\" का क्या अर्थ है?",
+          "question": "ప్రశ్న: 'रोज़' (రోజ్) என்பதన్ అర్థం ఏమిటి?",
           "options": [
-            "प्रतिदिन (Every day)",
-            "कल",
-            "कभी नहीं",
-            "अगले सप्ताह"
+            "हर दिन (ప్రతి రోజు)",
+            "कल (నిన్న/రేపు)",
+            "कभी नहीं (ఎప్పుడూ కాదు)",
+            "अगले सप्ताह (వచ్చే వారం)"
           ],
           "correct_index": 0,
-          "explanation": "रोज़ाना का अर्थ प्रतिदिन है।"
+          "explanation": "'रोज़' అంటే ప్రతి రోజు (हर दिन).",
+          "id": "te_hi_a_4"
         },
         {
-          "id": "te_hi_a1_q5",
-          "question": "ప్రశ్న: राहुल क्या करता है?",
+          "question": "ప్రశ్న: Rahul (రాహుల్) ఏమి చేస్తాడు?",
           "options": [
-            "स्कूल जाता है",
-            "बाजार जाता है",
-            "घर पर रहता है",
-            "अस्पताल जाता है"
+            "स्कूल जाता है (పాఠశాలకు వెళ్తాడు)",
+            "खेत जाता है (పొలానికి వెళ్తాడు)",
+            "बाज़ार जाता है (మార్కెట్కు వెళ్తాడు)",
+            "अस्पताल जाता है (ఆసుపత్రికి వెళ్తాడు)"
           ],
           "correct_index": 0,
-          "explanation": "राहुल स्कूल जाता है।"
+          "explanation": "Rahul పాఠశాలకు వెళ్తాడు (स्कूल जाता है).",
+          "id": "te_hi_a_5"
         },
         {
-          "id": "te_hi_a1_q6",
-          "question": "ప్రశ్న: गद्यांश का मुख्य विचार क्या है?",
+          "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
           "options": [
-            "स्कूल जाना और पुस्तकें पढ़ना",
-            "यात्रा करना",
-            "बारिश",
-            "पहाड़"
+            "पढ़ाई और स्कूल की आदत (చదువు మరియు పాఠశాల అలవాటు)",
+            "यात्रा (ప్రయాణం)",
+            "वर्षा (వర్షం)",
+            "पर्वत (కొండలు)"
           ],
           "correct_index": 0,
-          "explanation": "मुख्य विचार स्कूल और पठन है।"
+          "explanation": "ప్రధాన భావం చదువు మరియు పాఠశాల అలవాటు.",
+          "id": "te_hi_a_6"
         },
         {
-          "id": "te_hi_a1_q7",
-          "question": "ప్రశ్న: कौन सा वाक्य सही है?",
+          "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
           "options": [
-            "राहुल को किताबें पढ़ना पसंद है।",
-            "राहुल कभी स्कूल नहीं जाता।",
-            "राहुल केवल खेल खेलता है।",
-            "राहुल नहीं पढ़ता।"
+            "राहुल को किताबें पढ़ना पसंद है। (రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.)",
+            "राहुल स्कूल नहीं जाता। (రాహుల్ పాఠశాలకు వెళ్లడు.)",
+            "राहुल केवल खेलता है। (రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.)",
+            "राहुल रोज़ सोता रहता है। (రాహుల్ రోజు నిద్రపోతుంటాడు.)"
           ],
           "correct_index": 0,
-          "explanation": "राहुल को किताबें पढ़ना पसंद है।"
+          "explanation": "సరైన వాక్యం: Rahul کو किताबें पढ़ना पसंद है।",
+          "id": "te_hi_a_7"
         }
       ]
     }
@@ -15660,100 +15657,100 @@ export const BILINGUAL_COURSES = {
       "path": "foundation",
       "lang": "ta",
       "uiLang": "te",
-      "title": "Course 1: Foundation (నా మొదటి అక్షరాస్యత ప్రయాణం)",
-      "description": "వర్ణమాల, నామవాచకం, బహువచనం, విశేషణం, క్రియ మరియు అర్థాలు నేర్చుకోండి.",
-      "objective": "వర్ణమాల, నామవాచకం, బహువచనం, విశేషణం, క్రియ మరియు అర్థాలు నేర్చుకోండి.",
+      "title": "Course 1: Foundation (నా తమిళ అక్షరాస్యత ప్రయాణం)",
+      "description": "Learn TA curriculum with TE UI guidance (foundation).",
+      "objective": "Learn TA curriculum with TE UI guidance (foundation).",
       "lessons": [
         {
           "id": "foundation-te-ta-l1",
-          "title": "Course 1: Foundation (నా మొదటి అక్షరాస్యత ప్రయాణం)",
-          "learning_goal": "వర్ణమాల, నామవాచకం, బహువచనం, విశేషణం, క్రియ మరియు అర్థాలు నేర్చుకోండి.",
+          "title": "Course 1: Foundation (నా తమిళ అక్షరాస్యత ప్రయాణం)",
+          "learning_goal": "Learn TA curriculum with TE UI guidance (foundation).",
           "teaching_content": "Practice learning TA curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_ta_f1_q1",
-              "question": "ప్రశ్న: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+              "question": "ప్రశ్న: తమిళ భాషలో అచ్చులు (உயிரெழுத்துகள்) ఎన్ని ఉన్నాయి?",
               "options": [
-                "14",
-                "15",
-                "12",
-                "13"
+                "10 (పది)",
+                "11 (పదకొండు)",
+                "12 (పన్నెండు)",
+                "13 (పదమూడు)"
               ],
               "correct_index": 2,
-              "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
+              "explanation": "తమిళ భాషలో 12 అచ్చులు ఉన్నాయి.",
+              "id": "te_ta_f_1"
             },
             {
-              "id": "te_ta_f1_q2",
-              "question": "ప్రశ్న: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+              "question": "ప్రశ్న: 'அம்மா' (అమ్మ) అనేది ఏ పదవర్గం?",
               "options": [
-                "வினைச்சொல்",
-                "பெயர்ச்சொல்",
-                "உரிச்சொல்",
-                "பிரதிபெயர்"
+                "வினைச்சொல் (క్రియ)",
+                "பெயர்ச்சொல் (నామవాచకం)",
+                "உரிச்சொல் (విశేషణం)",
+                "இடைச்சொல் (అవ్యయం)"
               ],
               "correct_index": 1,
-              "explanation": "\"அம்மா\" பெயர்ச்சொல் ஆகும்."
+              "explanation": "'அம்மா' నామవాచకం (பெயர்ச்சொல்).",
+              "id": "te_ta_f_2"
             },
             {
-              "id": "te_ta_f1_q3",
-              "question": "ప్రశ్న: \"மரம்\" என்பதன் பன்மை?",
+              "question": "ప్రశ్న: 'மரம்' (మరమ్ - చెట్టు) పదానికి బహువచనం ఏది?",
               "options": [
-                "மரம்",
-                "மரங்கள்",
-                "மரத்தால்",
-                "மரங்கள்ல்"
+                "மரம் (మరమ్)",
+                "மரங்கள் (మరంగళ)",
+                "மரங்கள்ல் (మరంగళల్)",
+                "மரத்தால் (మరత్తాల్)"
               ],
               "correct_index": 1,
-              "explanation": "மரம் என்பதன் பன்மை மரங்கள்."
+              "explanation": "'மரம்' యొక్క బహువచనం 'மரங்கள்'.",
+              "id": "te_ta_f_3"
             },
             {
-              "id": "te_ta_f1_q4",
-              "question": "ప్రశ్న: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+              "question": "ప్రశ్న: తమిళ భాషలో మొత్తం ఎన్ని అక్షరాలు ఉన్నాయి?",
               "options": [
-                "உரிச்சொல்",
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "இடைச்சொல்"
+                "247 (రెండు వందల నలభై ఏడు)",
+                "146 (నూరు నలభై ఆరు)",
+                "216 (రెండు వందల పదహారు)",
+                "100 (నూరు)"
               ],
               "correct_index": 0,
-              "explanation": "அழகான உரிச்சொல் ஆகும்."
+              "explanation": "తమిళ భాషలో మొత్తం 247 అక్షరాలు ఉన్నాయి.",
+              "id": "te_ta_f_4"
             },
             {
-              "id": "te_ta_f1_q5",
-              "question": "ప్రశ్న: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+              "question": "ప్రశ్న: 'படிக்கிறேன்' (పడిక్కిరేన్ - చదువుతున్నాను) ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "உரிச்சொல்",
-                "பிரதிபெயர்"
+                "பெயர்ச்சொல் (నామవాచకం)",
+                "வினைச்சொல் (క్రియ)",
+                "உரிச்சொல் (విశేషణం)",
+                "இடைச்சொல் (అవ్యయం)"
               ],
               "correct_index": 1,
-              "explanation": "படிக்கிறான் வினைச்சொல்."
+              "explanation": "'படிக்கிறேன்' క్రియ (வினைச்சொல்).",
+              "id": "te_ta_f_5"
             },
             {
-              "id": "te_ta_f1_q6",
-              "question": "ప్రశ్న: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+              "question": "ప్రశ్న: 'புத்தகம்' (పుత్తగమ్) అనే పదానికి అర్థం ఏమిటి?",
               "options": [
-                "பேனா",
-                "நோட்டு",
-                "பாடம்",
-                "நூல்"
-              ],
-              "correct_index": 3,
-              "explanation": "புத்தகம் என்பதன் பொருள் நூல்."
-            },
-            {
-              "id": "te_ta_f1_q7",
-              "question": "ప్రశ్న: \"பள்ளி\" என்பதன் பொருள் என்ன?",
-              "options": [
-                "மருத்துவமனை",
-                "கற்கும் இடம்",
-                "சந்தை",
-                "பூங்கா"
+                "வீடு (ఇల్లు)",
+                "நூல் (గ్రంథం / పుస్తకం)",
+                "மரம் (చెట్టు)",
+                "சாலை (రహదారి)"
               ],
               "correct_index": 1,
-              "explanation": "பள்ளி என்பது கற்கும் இடம்."
+              "explanation": "'புத்தகம்' అంటే పుస్తకం (நூல்).",
+              "id": "te_ta_f_6"
+            },
+            {
+              "question": "ప్రశ్న: 'பள்ளி' (పళ్ళి) అనే పదానికి అర్థం ఏమిటి?",
+              "options": [
+                "மருத்துவமனை (ఆసుపత్రి)",
+                "பாடம் கற்கும் இடம் (పాఠశాల)",
+                "சந்தை (మార్కెట్)",
+                "பூங்கா (ఉద్యానవనం)"
+              ],
+              "correct_index": 1,
+              "explanation": "'பள்ளி' అంటే పాఠశాల.",
+              "id": "te_ta_f_7"
             }
           ]
         }
@@ -15762,175 +15759,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_ta_f1_q1",
-            "question": "ప్రశ్న: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+            "question": "ప్రశ్న: తమిళ భాషలో అచ్చులు (உயிரெழுத்துகள்) ఎన్ని ఉన్నాయి?",
             "options": [
-              "14",
-              "15",
-              "12",
-              "13"
+              "10 (పది)",
+              "11 (పదకొండు)",
+              "12 (పన్నెండు)",
+              "13 (పదమూడు)"
             ],
             "correct_index": 2,
-            "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
+            "explanation": "తమిళ భాషలో 12 అచ్చులు ఉన్నాయి.",
+            "id": "te_ta_f_1"
           },
           {
-            "id": "te_ta_f1_q2",
-            "question": "ప్రశ్న: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+            "question": "ప్రశ్న: 'அம்மா' (అమ్మ) అనేది ఏ పదవర్గం?",
             "options": [
-              "வினைச்சொல்",
-              "பெயர்ச்சொல்",
-              "உரிச்சொல்",
-              "பிரதிபெயர்"
+              "வினைச்சொல் (క్రియ)",
+              "பெயர்ச்சொல் (నామవాచకం)",
+              "உரிச்சொல் (విశేషణం)",
+              "இடைச்சொல் (అవ్యయం)"
             ],
             "correct_index": 1,
-            "explanation": "\"அம்மா\" பெயர்ச்சொல் ஆகும்."
+            "explanation": "'அம்மா' నామవాచకం (பெயர்ச்சொல்).",
+            "id": "te_ta_f_2"
           },
           {
-            "id": "te_ta_f1_q3",
-            "question": "ప్రశ్న: \"மரம்\" என்பதன் பன்மை?",
+            "question": "ప్రశ్న: 'மரம்' (మరమ్ - చెట్టు) పదానికి బహువచనం ఏది?",
             "options": [
-              "மரம்",
-              "மரங்கள்",
-              "மரத்தால்",
-              "மரங்கள்ல்"
+              "மரம் (మరమ్)",
+              "மரங்கள் (మరంగళ)",
+              "மரங்கள்ல் (మరంగళల్)",
+              "மரத்தால் (మరత్తాల్)"
             ],
             "correct_index": 1,
-            "explanation": "மரம் என்பதன் பன்மை மரங்கள்."
+            "explanation": "'மரம்' యొక్క బహువచనం 'மரங்கள்'.",
+            "id": "te_ta_f_3"
           },
           {
-            "id": "te_ta_f1_q4",
-            "question": "ప్రశ్న: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+            "question": "ప్రశ్న: తమిళ భాషలో మొత్తం ఎన్ని అక్షరాలు ఉన్నాయి?",
             "options": [
-              "உரிச்சொல்",
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "இடைச்சொல்"
+              "247 (రెండు వందల నలభై ఏడు)",
+              "146 (నూరు నలభై ఆరు)",
+              "216 (రెండు వందల పదహారు)",
+              "100 (నూరు)"
             ],
             "correct_index": 0,
-            "explanation": "அழகான உரிச்சொல் ஆகும்."
+            "explanation": "తమిళ భాషలో మొత్తం 247 అక్షరాలు ఉన్నాయి.",
+            "id": "te_ta_f_4"
           },
           {
-            "id": "te_ta_f1_q5",
-            "question": "ప్రశ్న: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+            "question": "ప్రశ్న: 'படிக்கிறேன்' (పడిక్కిరేన్ - చదువుతున్నాను) ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "உரிச்சொல்",
-              "பிரதிபெயர்"
+              "பெயர்ச்சொல் (నామవాచకం)",
+              "வினைச்சொல் (క్రియ)",
+              "உரிச்சொல் (విశేషణం)",
+              "இடைச்சொல் (అవ్యయం)"
             ],
             "correct_index": 1,
-            "explanation": "படிக்கிறான் வினைச்சொல்."
+            "explanation": "'படிக்கிறேன்' క్రియ (வினைச்சொல்).",
+            "id": "te_ta_f_5"
           },
           {
-            "id": "te_ta_f1_q6",
-            "question": "ప్రశ్న: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+            "question": "ప్రశ్న: 'புத்தகம்' (పుత్తగమ్) అనే పదానికి అర్థం ఏమిటి?",
             "options": [
-              "பேனா",
-              "நோட்டு",
-              "பாடம்",
-              "நூல்"
-            ],
-            "correct_index": 3,
-            "explanation": "புத்தகம் என்பதன் பொருள் நூல்."
-          },
-          {
-            "id": "te_ta_f1_q7",
-            "question": "ప్రశ్న: \"பள்ளி\" என்பதன் பொருள் என்ன?",
-            "options": [
-              "மருத்துவமனை",
-              "கற்கும் இடம்",
-              "சந்தை",
-              "பூங்கா"
+              "வீடு (ఇల్లు)",
+              "நூல் (గ్రంథం / పుస్తకం)",
+              "மரம் (చెట్టు)",
+              "சாலை (రహదారి)"
             ],
             "correct_index": 1,
-            "explanation": "பள்ளி என்பது கற்கும் இடம்."
+            "explanation": "'புத்தகம்' అంటే పుస్తకం (நூல்).",
+            "id": "te_ta_f_6"
+          },
+          {
+            "question": "ప్రశ్న: 'பள்ளி' (పళ్ళి) అనే పదానికి అర్థం ఏమిటి?",
+            "options": [
+              "மருத்துவமனை (ఆసుపత్రి)",
+              "பாடம் கற்கும் இடம் (పాఠశాల)",
+              "சந்தை (మార్కెట్)",
+              "பூங்கா (ఉద్యానవనం)"
+            ],
+            "correct_index": 1,
+            "explanation": "'பள்ளி' అంటే పాఠశాల.",
+            "id": "te_ta_f_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_ta_f1_q1",
-          "question": "ప్రశ్న: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+          "question": "ప్రశ్న: తమిళ భాషలో అచ్చులు (உயிரெழுத்துகள்) ఎన్ని ఉన్నాయి?",
           "options": [
-            "14",
-            "15",
-            "12",
-            "13"
+            "10 (పది)",
+            "11 (పదకొండు)",
+            "12 (పన్నెండు)",
+            "13 (పదమూడు)"
           ],
           "correct_index": 2,
-          "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
+          "explanation": "తమిళ భాషలో 12 అచ్చులు ఉన్నాయి.",
+          "id": "te_ta_f_1"
         },
         {
-          "id": "te_ta_f1_q2",
-          "question": "ప్రశ్న: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+          "question": "ప్రశ్న: 'அம்மா' (అమ్మ) అనేది ఏ పదవర్గం?",
           "options": [
-            "வினைச்சொல்",
-            "பெயர்ச்சொல்",
-            "உரிச்சொல்",
-            "பிரதிபெயர்"
+            "வினைச்சொல் (క్రియ)",
+            "பெயர்ச்சொல் (నామవాచకం)",
+            "உரிச்சொல் (విశేషణం)",
+            "இடைச்சொல் (అవ్యయం)"
           ],
           "correct_index": 1,
-          "explanation": "\"அம்மா\" பெயர்ச்சொல் ஆகும்."
+          "explanation": "'அம்மா' నామవాచకం (பெயர்ச்சொல்).",
+          "id": "te_ta_f_2"
         },
         {
-          "id": "te_ta_f1_q3",
-          "question": "ప్రశ్న: \"மரம்\" என்பதன் பன்மை?",
+          "question": "ప్రశ్న: 'மரம்' (మరమ్ - చెట్టు) పదానికి బహువచనం ఏది?",
           "options": [
-            "மரம்",
-            "மரங்கள்",
-            "மரத்தால்",
-            "மரங்கள்ல்"
+            "மரம் (మరమ్)",
+            "மரங்கள் (మరంగళ)",
+            "மரங்கள்ல் (మరంగళల్)",
+            "மரத்தால் (మరత్తాల్)"
           ],
           "correct_index": 1,
-          "explanation": "மரம் என்பதன் பன்மை மரங்கள்."
+          "explanation": "'மரம்' యొక్క బహువచనం 'மரங்கள்'.",
+          "id": "te_ta_f_3"
         },
         {
-          "id": "te_ta_f1_q4",
-          "question": "ప్రశ్న: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+          "question": "ప్రశ్న: తమిళ భాషలో మొత్తం ఎన్ని అక్షరాలు ఉన్నాయి?",
           "options": [
-            "உரிச்சொல்",
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "இடைச்சொல்"
+            "247 (రెండు వందల నలభై ఏడు)",
+            "146 (నూరు నలభై ఆరు)",
+            "216 (రెండు వందల పదహారు)",
+            "100 (నూరు)"
           ],
           "correct_index": 0,
-          "explanation": "அழகான உரிச்சொல் ஆகும்."
+          "explanation": "తమిళ భాషలో మొత్తం 247 అక్షరాలు ఉన్నాయి.",
+          "id": "te_ta_f_4"
         },
         {
-          "id": "te_ta_f1_q5",
-          "question": "ప్రశ్న: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+          "question": "ప్రశ్న: 'படிக்கிறேன்' (పడిక్కిరేన్ - చదువుతున్నాను) ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "உரிச்சொல்",
-            "பிரதிபெயர்"
+            "பெயர்ச்சொல் (నామవాచకం)",
+            "வினைச்சொல் (క్రియ)",
+            "உரிச்சொல் (విశేషణం)",
+            "இடைச்சொல் (అవ్యయం)"
           ],
           "correct_index": 1,
-          "explanation": "படிக்கிறான் வினைச்சொல்."
+          "explanation": "'படிக்கிறேன்' క్రియ (வினைச்சொல்).",
+          "id": "te_ta_f_5"
         },
         {
-          "id": "te_ta_f1_q6",
-          "question": "ప్రశ్న: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+          "question": "ప్రశ్న: 'புத்தகம்' (పుత్తగమ్) అనే పదానికి అర్థం ఏమిటి?",
           "options": [
-            "பேனா",
-            "நோட்டு",
-            "பாடம்",
-            "நூல்"
-          ],
-          "correct_index": 3,
-          "explanation": "புத்தகம் என்பதன் பொருள் நூல்."
-        },
-        {
-          "id": "te_ta_f1_q7",
-          "question": "ప్రశ్న: \"பள்ளி\" என்பதன் பொருள் என்ன?",
-          "options": [
-            "மருத்துவமனை",
-            "கற்கும் இடம்",
-            "சந்தை",
-            "பூங்கா"
+            "வீடு (ఇల్లు)",
+            "நூல் (గ్రంథం / పుస్తకం)",
+            "மரம் (చెట్టు)",
+            "சாலை (రహదారి)"
           ],
           "correct_index": 1,
-          "explanation": "பள்ளி என்பது கற்கும் இடம்."
+          "explanation": "'புத்தகம்' అంటే పుస్తకం (நூல்).",
+          "id": "te_ta_f_6"
+        },
+        {
+          "question": "ప్రశ్న: 'பள்ளி' (పళ్ళి) అనే పదానికి అర్థం ఏమిటి?",
+          "options": [
+            "மருத்துவமனை (ఆసుపత్రి)",
+            "பாடம் கற்கும் இடம் (పాఠశాల)",
+            "சந்தை (మార్కెట్)",
+            "பூங்கா (ఉద్యానవనం)"
+          ],
+          "correct_index": 1,
+          "explanation": "'பள்ளி' అంటే పాఠశాల.",
+          "id": "te_ta_f_7"
         }
       ]
     },
@@ -15939,100 +15936,100 @@ export const BILINGUAL_COURSES = {
       "path": "beginner",
       "lang": "ta",
       "uiLang": "te",
-      "title": "Course 2: Beginner (నా చుట్టూ ఉన్న పదాలు)",
-      "description": "వర్తమాన కాలం, భూతకాలం మరియు భవిష్యత్ కాలం వాక్యాలను అభ్యసించండి.",
-      "objective": "వర్తమాన కాలం, భూతకాలం మరియు భవిష్యత్ కాలం వాక్యాలను అభ్యసించండి.",
+      "title": "Course 2: Beginner (నా చుట్టూ ఉన్న తమిళ పదాలు)",
+      "description": "Learn TA curriculum with TE UI guidance (beginner).",
+      "objective": "Learn TA curriculum with TE UI guidance (beginner).",
       "lessons": [
         {
           "id": "beginner-te-ta-l1",
-          "title": "Course 2: Beginner (నా చుట్టూ ఉన్న పదాలు)",
-          "learning_goal": "వర్తమాన కాలం, భూతకాలం మరియు భవిష్యత్ కాలం వాక్యాలను అభ్యసించండి.",
+          "title": "Course 2: Beginner (నా చుట్టూ ఉన్న తమిళ పదాలు)",
+          "learning_goal": "Learn TA curriculum with TE UI guidance (beginner).",
           "teaching_content": "Practice learning TA curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_ta_b1_q1",
-              "question": "ప్రశ్న: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+              "question": "ప్రశ్న: \"நான் பள்ளிக்குச் செல்கிறேன்.\" (నేను పాఠశాలకు వెళుతున్నాను) ఇది ఏ కాలం?",
               "options": [
-                "இறந்தகாலம்",
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
-                "கட்டளை"
+                "இறந்த காலம் (భూతకాలం)",
+                "நிகழ்காலம் (వర్తమాన కాలం)",
+                "எதிர்காலம் (భవిష్యత్ కాలం)",
+                "கட்டளை (ఆజ్ఞార్థకం)"
               ],
               "correct_index": 1,
-              "explanation": "இது நிகழ்காலம்."
+              "explanation": "ఇది వర్తమాన కాలం (நிகழ்காலம்).",
+              "id": "te_ta_b_1"
             },
             {
-              "id": "te_ta_b1_q2",
-              "question": "ప్రశ్న: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+              "question": "ప్రశ్న: \"அவன் நேற்று வந்தான்.\" (అతను నిన్న వచ్చాడు) ఇది ఏ కాలం?",
               "options": [
-                "இறந்தகாலம்",
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
-                "எதுவுமில்லை"
+                "இறந்த காலம் (భూతకాలం)",
+                "நிகழ்காலம் (వర్తమాన కాలం)",
+                "எதிர்காலம் (భవిష్యత్ కాలం)",
+                "சந்தేహం (సందేహం)"
               ],
               "correct_index": 0,
-              "explanation": "வந்தான் இறந்தகாலம்."
+              "explanation": "ఇది భూతకాలం (இறந்த காலம்).",
+              "id": "te_ta_b_2"
             },
             {
-              "id": "te_ta_b1_q3",
-              "question": "ప్రశ్న: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+              "question": "ప్రశ్న: \"நான் நாளை செல்வேன்.\" (నేను రేపు వెళ్తాను) ఇది ఏ కాలం?",
               "options": [
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
-                "இறந்தகாலம்",
-                "பெயர்ச்சொல்"
+                "நிகழ்காலம் (వర్తమాన కాలం)",
+                "எதிர்காலம் (భవిష్యత్ కాలం)",
+                "இறந்த காலம் (భూతకాలం)",
+                "பெயர்ச்சொல் (నామవాచకం)"
               ],
               "correct_index": 1,
-              "explanation": "செல்வேன் எதிர்காலம்."
+              "explanation": "ఇది భవిష్యత్ కాలం (எதிர்காலம்).",
+              "id": "te_ta_b_3"
             },
             {
-              "id": "te_ta_b1_q4",
-              "question": "ప్రశ్న: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+              "question": "ప్రశ్న: \"அவள் பாடுகிறாள்.\" (ఆమె పాట పాడుతోంది) ఇది ఏ కాలం?",
               "options": [
-                "நிகழ்காலம்",
-                "இறந்தகாலம்",
-                "எதிர்காலம்",
-                "உரிச்சொல்"
+                "நிகழ்காலம் (వర్తమాన కాలం)",
+                "இறந்த காலம் (భూతకాలం)",
+                "எதிர்காலம் (భవిష్యత్ కాలం)",
+                "உரிச்சொல் (విశేషణం)"
               ],
               "correct_index": 0,
-              "explanation": "பாடுகிறாள் நிகழ்காலம்."
+              "explanation": "ఇది వర్తమాన కాలం (நிகழ்காலம்).",
+              "id": "te_ta_b_4"
             },
             {
-              "id": "te_ta_b1_q5",
-              "question": "ప్రశ్న: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+              "question": "ప్రశ్న: \"சாப்பிட்டான்\" (తిన్నాడు) ఏ కాలాన్ని సూచిస్తుంది?",
               "options": [
-                "சாப்பிடு",
-                "சாப்பிட்டான்",
-                "சாப்பிடுகிறான்",
-                "சாப்பிடுவான்"
+                "நிகழ்காலம் (వర్తమాన కాలం)",
+                "இறந்த காலம் (భూతకాలం)",
+                "எதிர்காலம் (భవిష్యత్ కాలం)",
+                "ఏదీ కాదు (ఏదీ కాదు)"
               ],
               "correct_index": 1,
-              "explanation": "சாப்பிட்டான் இறந்தகாலம்."
+              "explanation": "ఇది భూతకాలం (இறந்த காலம்).",
+              "id": "te_ta_b_5"
             },
             {
-              "id": "te_ta_b1_q6",
-              "question": "ప్రశ్న: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+              "question": "ప్రశ్న: \"படிப்பேன்\" (చదువుతాను) ఏ కాలానికి చెందుతుంది?",
               "options": [
-                "படி",
-                "படிக்கிறான்",
-                "படிப்பேன்",
-                "படித்தான்"
+                "இறந்த காலம் (భూతకాలం)",
+                "நிகழ்காலம் (వర్తమాన కాలం)",
+                "எதிர்காலம் (భవిష్యత్ కాలం)",
+                "உரிச்சொல் (విశేషణం)"
               ],
               "correct_index": 2,
-              "explanation": "படிப்பேன் எதிர்காலம்."
+              "explanation": "ఇది భవిష్యత్ కాలం (எதிர்காலம்).",
+              "id": "te_ta_b_6"
             },
             {
-              "id": "te_ta_b1_q7",
-              "question": "ప్రశ్న: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+              "question": "ప్రశ్న: \"விளையாடுகிறான்\" (ఆడుతున్నాడు) ఏ కాలానికి ఉదాహరణ?",
               "options": [
-                "நிகழ்காலம்",
-                "இறந்தகாலம்",
-                "எதிர்காலம்",
-                "பெயர்ச்சொல்"
+                "நிகழ்காலம் (వర్తమాన కాలం)",
+                "இறந்த காலம் (భూతకాలం)",
+                "எதிர்காலம் (భవిష్యత్ కాలం)",
+                "பெயர்ச்சொல் (నామవాచకం)"
               ],
               "correct_index": 0,
-              "explanation": "நிகழ்காலம்."
+              "explanation": "ఇది వర్తమాన కాలం (நிகழ்காலம்).",
+              "id": "te_ta_b_7"
             }
           ]
         }
@@ -16041,175 +16038,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_ta_b1_q1",
-            "question": "ప్రశ్న: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+            "question": "ప్రశ్న: \"நான் பள்ளிக்குச் செல்கிறேன்.\" (నేను పాఠశాలకు వెళుతున్నాను) ఇది ఏ కాలం?",
             "options": [
-              "இறந்தகாலம்",
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
-              "கட்டளை"
+              "இறந்த காலம் (భూతకాలం)",
+              "நிகழ்காலம் (వర్తమాన కాలం)",
+              "எதிர்காலம் (భవిష్యత్ కాలం)",
+              "கட்டளை (ఆజ్ఞార్థకం)"
             ],
             "correct_index": 1,
-            "explanation": "இது நிகழ்காலம்."
+            "explanation": "ఇది వర్తమాన కాలం (நிகழ்காலம்).",
+            "id": "te_ta_b_1"
           },
           {
-            "id": "te_ta_b1_q2",
-            "question": "ప్రశ్న: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+            "question": "ప్రశ్న: \"அவன் நேற்று வந்தான்.\" (అతను నిన్న వచ్చాడు) ఇది ఏ కాలం?",
             "options": [
-              "இறந்தகாலம்",
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
-              "எதுவுமில்லை"
+              "இறந்த காலம் (భూతకాలం)",
+              "நிகழ்காலம் (వర్తమాన కాలం)",
+              "எதிர்காலம் (భవిష్యత్ కాలం)",
+              "சந்தేహం (సందేహం)"
             ],
             "correct_index": 0,
-            "explanation": "வந்தான் இறந்தகாலம்."
+            "explanation": "ఇది భూతకాలం (இறந்த காலம்).",
+            "id": "te_ta_b_2"
           },
           {
-            "id": "te_ta_b1_q3",
-            "question": "ప్రశ్న: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+            "question": "ప్రశ్న: \"நான் நாளை செல்வேன்.\" (నేను రేపు వెళ్తాను) ఇది ఏ కాలం?",
             "options": [
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
-              "இறந்தகாலம்",
-              "பெயர்ச்சொல்"
+              "நிகழ்காலம் (వర్తమాన కాలం)",
+              "எதிர்காலம் (భవిష్యత్ కాలం)",
+              "இறந்த காலம் (భూతకాలం)",
+              "பெயர்ச்சொல் (నామవాచకం)"
             ],
             "correct_index": 1,
-            "explanation": "செல்வேன் எதிர்காலம்."
+            "explanation": "ఇది భవిష్యత్ కాలం (எதிர்காலம்).",
+            "id": "te_ta_b_3"
           },
           {
-            "id": "te_ta_b1_q4",
-            "question": "ప్రశ్న: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+            "question": "ప్రశ్న: \"அவள் பாடுகிறாள்.\" (ఆమె పాట పాడుతోంది) ఇది ఏ కాలం?",
             "options": [
-              "நிகழ்காலம்",
-              "இறந்தகாலம்",
-              "எதிர்காலம்",
-              "உரிச்சொல்"
+              "நிகழ்காலம் (వర్తమాన కాలం)",
+              "இறந்த காலம் (భూతకాలం)",
+              "எதிர்காலம் (భవిష్యత్ కాలం)",
+              "உரிச்சொல் (విశేషణం)"
             ],
             "correct_index": 0,
-            "explanation": "பாடுகிறாள் நிகழ்காலம்."
+            "explanation": "ఇది వర్తమాన కాలం (நிகழ்காலம்).",
+            "id": "te_ta_b_4"
           },
           {
-            "id": "te_ta_b1_q5",
-            "question": "ప్రశ్న: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+            "question": "ప్రశ్న: \"சாப்பிட்டான்\" (తిన్నాడు) ఏ కాలాన్ని సూచిస్తుంది?",
             "options": [
-              "சாப்பிடு",
-              "சாப்பிட்டான்",
-              "சாப்பிடுகிறான்",
-              "சாப்பிடுவான்"
+              "நிகழ்காலம் (వర్తమాన కాలం)",
+              "இறந்த காலம் (భూతకాలం)",
+              "எதிர்காலம் (భవిష్యత్ కాలం)",
+              "ఏదీ కాదు (ఏదీ కాదు)"
             ],
             "correct_index": 1,
-            "explanation": "சாப்பிட்டான் இறந்தகாலம்."
+            "explanation": "ఇది భూతకాలం (இறந்த காலம்).",
+            "id": "te_ta_b_5"
           },
           {
-            "id": "te_ta_b1_q6",
-            "question": "ప్రశ్న: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+            "question": "ప్రశ్న: \"படிப்பேன்\" (చదువుతాను) ఏ కాలానికి చెందుతుంది?",
             "options": [
-              "படி",
-              "படிக்கிறான்",
-              "படிப்பேன்",
-              "படித்தான்"
+              "இறந்த காலம் (భూతకాలం)",
+              "நிகழ்காலம் (వర్తమాన కాలం)",
+              "எதிர்காலம் (భవిష్యత్ కాలం)",
+              "உரிச்சொல் (విశేషణం)"
             ],
             "correct_index": 2,
-            "explanation": "படிப்பேன் எதிர்காலம்."
+            "explanation": "ఇది భవిష్యత్ కాలం (எதிர்காலம்).",
+            "id": "te_ta_b_6"
           },
           {
-            "id": "te_ta_b1_q7",
-            "question": "ప్రశ్న: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+            "question": "ప్రశ్న: \"விளையாடுகிறான்\" (ఆడుతున్నాడు) ఏ కాలానికి ఉదాహరణ?",
             "options": [
-              "நிகழ்காலம்",
-              "இறந்தகாலம்",
-              "எதிர்காலம்",
-              "பெயர்ச்சொல்"
+              "நிகழ்காலம் (వర్తమాన కాలం)",
+              "இறந்த காலம் (భూతకాలం)",
+              "எதிர்காலம் (భవిష్యత్ కాలం)",
+              "பெயர்ச்சொல் (నామవాచకం)"
             ],
             "correct_index": 0,
-            "explanation": "நிகழ்காலம்."
+            "explanation": "ఇది వర్తమాన కాలం (நிகழ்காலம்).",
+            "id": "te_ta_b_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_ta_b1_q1",
-          "question": "ప్రశ్న: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+          "question": "ప్రశ్న: \"நான் பள்ளிக்குச் செல்கிறேன்.\" (నేను పాఠశాలకు వెళుతున్నాను) ఇది ఏ కాలం?",
           "options": [
-            "இறந்தகாலம்",
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
-            "கட்டளை"
+            "இறந்த காலம் (భూతకాలం)",
+            "நிகழ்காலம் (వర్తమాన కాలం)",
+            "எதிர்காலம் (భవిష్యత్ కాలం)",
+            "கட்டளை (ఆజ్ఞార్థకం)"
           ],
           "correct_index": 1,
-          "explanation": "இது நிகழ்காலம்."
+          "explanation": "ఇది వర్తమాన కాలం (நிகழ்காலம்).",
+          "id": "te_ta_b_1"
         },
         {
-          "id": "te_ta_b1_q2",
-          "question": "ప్రశ్న: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+          "question": "ప్రశ్న: \"அவன் நேற்று வந்தான்.\" (అతను నిన్న వచ్చాడు) ఇది ఏ కాలం?",
           "options": [
-            "இறந்தகாலம்",
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
-            "எதுவுமில்லை"
+            "இறந்த காலம் (భూతకాలం)",
+            "நிகழ்காலம் (వర్తమాన కాలం)",
+            "எதிர்காலம் (భవిష్యత్ కాలం)",
+            "சந்தేహం (సందేహం)"
           ],
           "correct_index": 0,
-          "explanation": "வந்தான் இறந்தகாலம்."
+          "explanation": "ఇది భూతకాలం (இறந்த காலம்).",
+          "id": "te_ta_b_2"
         },
         {
-          "id": "te_ta_b1_q3",
-          "question": "ప్రశ్న: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+          "question": "ప్రశ్న: \"நான் நாளை செல்வேன்.\" (నేను రేపు వెళ్తాను) ఇది ఏ కాలం?",
           "options": [
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
-            "இறந்தகாலம்",
-            "பெயர்ச்சொல்"
+            "நிகழ்காலம் (వర్తమాన కాలం)",
+            "எதிர்காலம் (భవిష్యత్ కాలం)",
+            "இறந்த காலம் (భూతకాలం)",
+            "பெயர்ச்சொல் (నామవాచకం)"
           ],
           "correct_index": 1,
-          "explanation": "செல்வேன் எதிர்காலம்."
+          "explanation": "ఇది భవిష్యత్ కాలం (எதிர்காலம்).",
+          "id": "te_ta_b_3"
         },
         {
-          "id": "te_ta_b1_q4",
-          "question": "ప్రశ్న: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+          "question": "ప్రశ్న: \"அவள் பாடுகிறாள்.\" (ఆమె పాట పాడుతోంది) ఇది ఏ కాలం?",
           "options": [
-            "நிகழ்காலம்",
-            "இறந்தகாலம்",
-            "எதிர்காலம்",
-            "உரிச்சொல்"
+            "நிகழ்காலம் (వర్తమాన కాలం)",
+            "இறந்த காலம் (భూతకాలం)",
+            "எதிர்காலம் (భవిష్యత్ కాలం)",
+            "உரிச்சொல் (విశేషణం)"
           ],
           "correct_index": 0,
-          "explanation": "பாடுகிறாள் நிகழ்காலம்."
+          "explanation": "ఇది వర్తమాన కాలం (நிகழ்காலம்).",
+          "id": "te_ta_b_4"
         },
         {
-          "id": "te_ta_b1_q5",
-          "question": "ప్రశ్న: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+          "question": "ప్రశ్న: \"சாப்பிட்டான்\" (తిన్నాడు) ఏ కాలాన్ని సూచిస్తుంది?",
           "options": [
-            "சாப்பிடு",
-            "சாப்பிட்டான்",
-            "சாப்பிடுகிறான்",
-            "சாப்பிடுவான்"
+            "நிகழ்காலம் (వర్తమాన కాలం)",
+            "இறந்த காலம் (భూతకాలం)",
+            "எதிர்காலம் (భవిష్యత్ కాలం)",
+            "ఏదీ కాదు (ఏదీ కాదు)"
           ],
           "correct_index": 1,
-          "explanation": "சாப்பிட்டான் இறந்தகாலம்."
+          "explanation": "ఇది భూతకాలం (இறந்த காலம்).",
+          "id": "te_ta_b_5"
         },
         {
-          "id": "te_ta_b1_q6",
-          "question": "ప్రశ్న: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+          "question": "ప్రశ్న: \"படிப்பேன்\" (చదువుతాను) ఏ కాలానికి చెందుతుంది?",
           "options": [
-            "படி",
-            "படிக்கிறான்",
-            "படிப்பேன்",
-            "படித்தான்"
+            "இறந்த காலம் (భూతకాలం)",
+            "நிகழ்காலம் (వర్తమాన కాలం)",
+            "எதிர்காலம் (భవిష్యత్ కాలం)",
+            "உரிச்சொல் (విశేషణం)"
           ],
           "correct_index": 2,
-          "explanation": "படிப்பேன் எதிர்காலம்."
+          "explanation": "ఇది భవిష్యత్ కాలం (எதிர்காலம்).",
+          "id": "te_ta_b_6"
         },
         {
-          "id": "te_ta_b1_q7",
-          "question": "ప్రశ్న: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+          "question": "ప్రశ్న: \"விளையாடுகிறான்\" (ఆడుతున్నాడు) ఏ కాలానికి ఉదాహరణ?",
           "options": [
-            "நிகழ்காலம்",
-            "இறந்தகாலம்",
-            "எதிர்காலம்",
-            "பெயர்ச்சொல்"
+            "நிகழ்காலம் (వర్తమాన కాలం)",
+            "இறந்த காலம் (భూతకాలం)",
+            "எதிர்காலம் (భవిష్యత్ కాలం)",
+            "பெயர்ச்சொல் (నామవాచకం)"
           ],
           "correct_index": 0,
-          "explanation": "நிகழ்காலம்."
+          "explanation": "ఇది వర్తమాన కాలం (நிகழ்காலம்).",
+          "id": "te_ta_b_7"
         }
       ]
     },
@@ -16219,99 +16216,99 @@ export const BILINGUAL_COURSES = {
       "lang": "ta",
       "uiLang": "te",
       "title": "Course 3: Intermediate (పదజాలానికి కొత్త అడుగులు)",
-      "description": "మరియు, కానీ, అందువల్ల, లేదా వంటి సంధాన పదాలను నేర్చుకోండి.",
-      "objective": "మరియు, కానీ, అందువల్ల, లేదా వంటి సంధాన పదాలను నేర్చుకోండి.",
+      "description": "Learn TA curriculum with TE UI guidance (intermediate).",
+      "objective": "Learn TA curriculum with TE UI guidance (intermediate).",
       "lessons": [
         {
           "id": "intermediate-te-ta-l1",
           "title": "Course 3: Intermediate (పదజాలానికి కొత్త అడుగులు)",
-          "learning_goal": "మరియు, కానీ, అందువల్ల, లేదా వంటి సంధాన పదాలను నేర్చుకోండి.",
+          "learning_goal": "Learn TA curriculum with TE UI guidance (intermediate).",
           "teaching_content": "Practice learning TA curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_ta_i1_q1",
-              "question": "ప్రశ్న: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+              "question": "ప్రశ్న: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" ఇందులో సంధాన పదం ఏది?",
               "options": [
-                "ஆனால்",
-                "மற்றும்",
-                "ஏனெனில்",
-                "அல்லது"
+                "ஆனால் (కానీ)",
+                "உம் (మరియు)",
+                "ஏனெனில் (ఎందుకంటే)",
+                "அல்லது (లేదా)"
               ],
               "correct_index": 1,
-              "explanation": "மற்றும் இணைப்புச் சொல்."
+              "explanation": "'உம்' సంధాన పదం.",
+              "id": "te_ta_i_1"
             },
             {
-              "id": "te_ta_i1_q2",
-              "question": "ప్రశ్న: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+              "question": "ప్రశ్న: \"அம்மாவும் அப்பாவும்\" లో సంధాన పదం ఏది?",
               "options": [
-                "அம்மா",
-                "மற்றும்",
-                "அப்பா",
-                "குடும்பம்"
+                "அம்மா (అమ్మ)",
+                "உம் (మరియు)",
+                "அப்பா (నాన్న)",
+                "இல் (లో)"
               ],
               "correct_index": 1,
-              "explanation": "மற்றும் இணைப்புச் சொல்."
+              "explanation": "'உம்' సంధాన పదం.",
+              "id": "te_ta_i_2"
             },
             {
-              "id": "te_ta_i1_q3",
-              "question": "ప్రశ్న: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+              "question": "ప్రశ్న: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" ఇందులో సంధాన పదం ఏది?",
               "options": [
-                "ஆனால்",
-                "படித்தான்",
-                "தேர்ச்சி",
-                "அவன்"
+                "ஆனால் (కానీ)",
+                "படித்தான் (చదివాడు)",
+                "தேர்ச்சி (ఉత్తీర్ణుడు)",
+                "பெறவில்லை (కాలేదు)"
               ],
               "correct_index": 0,
-              "explanation": "ஆனால் எதிர்ப்பு இணைப்புச் சொல்."
+              "explanation": "'ஆனால்' సంధాన పదం.",
+              "id": "te_ta_i_3"
             },
             {
-              "id": "te_ta_i1_q4",
-              "question": "ప్రశ్న: \"மற்றும்\" என்பது ஒரு ______.",
+              "question": "ప్రశ్న: 'மற்றும்' (మరియు) ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
-                "இணைப்புச் சொல்",
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "உரிச்சொல்"
+                "இணைப்புச் சொல் (సంధాన పదం)",
+                "பெயர்ச்சொல் (నామవాచకం)",
+                "வினைச்சொல் (క్రియ)",
+                "உரிச்சொல் (విశేషణం)"
               ],
               "correct_index": 0,
-              "explanation": "மற்றும் இணைப்புச் சொல்."
+              "explanation": "'மற்றும்' సంధాన పదం (இணைப்புச் சொல்).",
+              "id": "te_ta_i_4"
             },
             {
-              "id": "te_ta_i1_q5",
-              "question": "ప్రశ్న: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+              "question": "ప్రశ్న: 'ஆகையால்' (అందువల్ల) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
               "options": [
-                "காரணம் கூற",
-                "பெயர் கூற",
-                "செயல் கூற",
-                "நேரம் கூற"
+                "காரணம் మరియు ఫలితం చెప్పడానికి (Cause & Effect)",
+                "பெயர்ச்சொல் గా",
+                "வினைச்சொல் గా",
+                "కాలం చెప్పడానికి"
               ],
               "correct_index": 0,
-              "explanation": "ஏனெனில் காரணம் கூற பயன்படும்."
+              "explanation": "'ஆகையால்' కారణం మరియు ఫలితం చెప్పడానికి ఉపయోగిస్తారు.",
+              "id": "te_ta_i_5"
             },
             {
-              "id": "te_ta_i1_q6",
-              "question": "ప్రశ్న: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+              "question": "ప్రశ్న: సరైన సంధాన పదం ఏది?",
               "options": [
-                "மற்றும்",
-                "வீடு",
-                "புத்தகம்",
-                "ஓடு"
+                "மற்றும் (మరియు)",
+                "புத்தகம் (పుస్తకం)",
+                "வீடு (ఇల్లు)",
+                "ஓடு (పరుగెత్తు)"
               ],
               "correct_index": 0,
-              "explanation": "மற்றும் இணைப்புச் சொல்."
+              "explanation": "'மற்றும்' సరైన సంధాన పదం.",
+              "id": "te_ta_i_6"
             },
             {
-              "id": "te_ta_i1_q7",
-              "question": "ప్రశ్న: \"அல்லது\" என்பதன் பொருள் என்ன?",
+              "question": "ప్రశ్న: 'அல்லது' (లేదా) అంటే ఏమిటి?",
               "options": [
-                "இரண்டு தேர்வுகளில் ஒன்று",
-                "இடம்",
-                "நேரம்",
-                "செயல்"
+                "రెండు ఎంపికల్లో ఒకటి (Choice between two)",
+                "நேரம் (సమయం)",
+                "இடம் (స్థలం)",
+                "வினை (క్రియ)"
               ],
               "correct_index": 0,
-              "explanation": "அல்லது தேர்வு ஆகும்."
+              "explanation": "'அல்லது' అంటే రెండు ఎంపికల్లో ఒకటి.",
+              "id": "te_ta_i_7"
             }
           ]
         }
@@ -16320,175 +16317,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_ta_i1_q1",
-            "question": "ప్రశ్న: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+            "question": "ప్రశ్న: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" ఇందులో సంధాన పదం ఏది?",
             "options": [
-              "ஆனால்",
-              "மற்றும்",
-              "ஏனெனில்",
-              "அல்லது"
+              "ஆனால் (కానీ)",
+              "உம் (మరియు)",
+              "ஏனெனில் (ఎందుకంటే)",
+              "அல்லது (లేదా)"
             ],
             "correct_index": 1,
-            "explanation": "மற்றும் இணைப்புச் சொல்."
+            "explanation": "'உம்' సంధాన పదం.",
+            "id": "te_ta_i_1"
           },
           {
-            "id": "te_ta_i1_q2",
-            "question": "ప్రశ్న: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+            "question": "ప్రశ్న: \"அம்மாவும் அப்பாவும்\" లో సంధాన పదం ఏది?",
             "options": [
-              "அம்மா",
-              "மற்றும்",
-              "அப்பா",
-              "குடும்பம்"
+              "அம்மா (అమ్మ)",
+              "உம் (మరియు)",
+              "அப்பா (నాన్న)",
+              "இல் (లో)"
             ],
             "correct_index": 1,
-            "explanation": "மற்றும் இணைப்புச் சொல்."
+            "explanation": "'உம்' సంధాన పదం.",
+            "id": "te_ta_i_2"
           },
           {
-            "id": "te_ta_i1_q3",
-            "question": "ప్రశ్న: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+            "question": "ప్రశ్న: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" ఇందులో సంధాన పదం ఏది?",
             "options": [
-              "ஆனால்",
-              "படித்தான்",
-              "தேர்ச்சி",
-              "அவன்"
+              "ஆனால் (కానీ)",
+              "படித்தான் (చదివాడు)",
+              "தேர்ச்சி (ఉత్తీర్ణుడు)",
+              "பெறவில்லை (కాలేదు)"
             ],
             "correct_index": 0,
-            "explanation": "ஆனால் எதிர்ப்பு இணைப்புச் சொல்."
+            "explanation": "'ஆனால்' సంధాన పదం.",
+            "id": "te_ta_i_3"
           },
           {
-            "id": "te_ta_i1_q4",
-            "question": "ప్రశ్న: \"மற்றும்\" என்பது ஒரு ______.",
+            "question": "ప్రశ్న: 'மற்றும்' (మరియు) ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
-              "இணைப்புச் சொல்",
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "உரிச்சொல்"
+              "இணைப்புச் சொல் (సంధాన పదం)",
+              "பெயர்ச்சொல் (నామవాచకం)",
+              "வினைச்சொல் (క్రియ)",
+              "உரிச்சொல் (విశేషణం)"
             ],
             "correct_index": 0,
-            "explanation": "மற்றும் இணைப்புச் சொல்."
+            "explanation": "'மற்றும்' సంధాన పదం (இணைப்புச் சொல்).",
+            "id": "te_ta_i_4"
           },
           {
-            "id": "te_ta_i1_q5",
-            "question": "ప్రశ్న: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+            "question": "ప్రశ్న: 'ஆகையால்' (అందువల్ల) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
             "options": [
-              "காரணம் கூற",
-              "பெயர் கூற",
-              "செயல் கூற",
-              "நேரம் கூற"
+              "காரணம் మరియు ఫలితం చెప్పడానికి (Cause & Effect)",
+              "பெயர்ச்சொல் గా",
+              "வினைச்சொல் గా",
+              "కాలం చెప్పడానికి"
             ],
             "correct_index": 0,
-            "explanation": "ஏனெனில் காரணம் கூற பயன்படும்."
+            "explanation": "'ஆகையால்' కారణం మరియు ఫలితం చెప్పడానికి ఉపయోగిస్తారు.",
+            "id": "te_ta_i_5"
           },
           {
-            "id": "te_ta_i1_q6",
-            "question": "ప్రశ్న: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+            "question": "ప్రశ్న: సరైన సంధాన పదం ఏది?",
             "options": [
-              "மற்றும்",
-              "வீடு",
-              "புத்தகம்",
-              "ஓடு"
+              "மற்றும் (మరియు)",
+              "புத்தகம் (పుస్తకం)",
+              "வீடு (ఇల్లు)",
+              "ஓடு (పరుగెత్తు)"
             ],
             "correct_index": 0,
-            "explanation": "மற்றும் இணைப்புச் சொல்."
+            "explanation": "'மற்றும்' సరైన సంధాన పదం.",
+            "id": "te_ta_i_6"
           },
           {
-            "id": "te_ta_i1_q7",
-            "question": "ప్రశ్న: \"அல்லது\" என்பதன் பொருள் என்ன?",
+            "question": "ప్రశ్న: 'அல்லது' (లేదా) అంటే ఏమిటి?",
             "options": [
-              "இரண்டு தேர்வுகளில் ஒன்று",
-              "இடம்",
-              "நேரம்",
-              "செயல்"
+              "రెండు ఎంపికల్లో ఒకటి (Choice between two)",
+              "நேரம் (సమయం)",
+              "இடம் (స్థలం)",
+              "வினை (క్రియ)"
             ],
             "correct_index": 0,
-            "explanation": "அல்லது தேர்வு ஆகும்."
+            "explanation": "'அல்லது' అంటే రెండు ఎంపికల్లో ఒకటి.",
+            "id": "te_ta_i_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_ta_i1_q1",
-          "question": "ప్రశ్న: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+          "question": "ప్రశ్న: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" ఇందులో సంధాన పదం ఏది?",
           "options": [
-            "ஆனால்",
-            "மற்றும்",
-            "ஏனெனில்",
-            "அல்லது"
+            "ஆனால் (కానీ)",
+            "உம் (మరియు)",
+            "ஏனெனில் (ఎందుకంటే)",
+            "அல்லது (లేదా)"
           ],
           "correct_index": 1,
-          "explanation": "மற்றும் இணைப்புச் சொல்."
+          "explanation": "'உம்' సంధాన పదం.",
+          "id": "te_ta_i_1"
         },
         {
-          "id": "te_ta_i1_q2",
-          "question": "ప్రశ్న: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+          "question": "ప్రశ్న: \"அம்மாவும் அப்பாவும்\" లో సంధాన పదం ఏది?",
           "options": [
-            "அம்மா",
-            "மற்றும்",
-            "அப்பா",
-            "குடும்பம்"
+            "அம்மா (అమ్మ)",
+            "உம் (మరియు)",
+            "அப்பா (నాన్న)",
+            "இல் (లో)"
           ],
           "correct_index": 1,
-          "explanation": "மற்றும் இணைப்புச் சொல்."
+          "explanation": "'உம்' సంధాన పదం.",
+          "id": "te_ta_i_2"
         },
         {
-          "id": "te_ta_i1_q3",
-          "question": "ప్రశ్న: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+          "question": "ప్రశ్న: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" ఇందులో సంధాన పదం ఏది?",
           "options": [
-            "ஆனால்",
-            "படித்தான்",
-            "தேர்ச்சி",
-            "அவன்"
+            "ஆனால் (కానీ)",
+            "படித்தான் (చదివాడు)",
+            "தேர்ச்சி (ఉత్తీర్ణుడు)",
+            "பெறவில்லை (కాలేదు)"
           ],
           "correct_index": 0,
-          "explanation": "ஆனால் எதிர்ப்பு இணைப்புச் சொல்."
+          "explanation": "'ஆனால்' సంధాన పదం.",
+          "id": "te_ta_i_3"
         },
         {
-          "id": "te_ta_i1_q4",
-          "question": "ప్రశ్న: \"மற்றும்\" என்பது ஒரு ______.",
+          "question": "ప్రశ్న: 'மற்றும்' (మరియు) ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
-            "இணைப்புச் சொல்",
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "உரிச்சொல்"
+            "இணைப்புச் சொல் (సంధాన పదం)",
+            "பெயர்ச்சொல் (నామవాచకం)",
+            "வினைச்சொல் (క్రియ)",
+            "உரிச்சொல் (విశేషణం)"
           ],
           "correct_index": 0,
-          "explanation": "மற்றும் இணைப்புச் சொல்."
+          "explanation": "'மற்றும்' సంధాన పదం (இணைப்புச் சொல்).",
+          "id": "te_ta_i_4"
         },
         {
-          "id": "te_ta_i1_q5",
-          "question": "ప్రశ్న: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+          "question": "ప్రశ్న: 'ஆகையால்' (అందువల్ల) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
           "options": [
-            "காரணம் கூற",
-            "பெயர் கூற",
-            "செயல் கூற",
-            "நேரம் கூற"
+            "காரணம் మరియు ఫలితం చెప్పడానికి (Cause & Effect)",
+            "பெயர்ச்சொல் గా",
+            "வினைச்சொல் గా",
+            "కాలం చెప్పడానికి"
           ],
           "correct_index": 0,
-          "explanation": "ஏனெனில் காரணம் கூற பயன்படும்."
+          "explanation": "'ஆகையால்' కారణం మరియు ఫలితం చెప్పడానికి ఉపయోగిస్తారు.",
+          "id": "te_ta_i_5"
         },
         {
-          "id": "te_ta_i1_q6",
-          "question": "ప్రశ్న: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+          "question": "ప్రశ్న: సరైన సంధాన పదం ఏది?",
           "options": [
-            "மற்றும்",
-            "வீடு",
-            "புத்தகம்",
-            "ஓடு"
+            "மற்றும் (మరియు)",
+            "புத்தகம் (పుస్తకం)",
+            "வீடு (ఇల్లు)",
+            "ஓடு (పరుగెత్తు)"
           ],
           "correct_index": 0,
-          "explanation": "மற்றும் இணைப்புச் சொல்."
+          "explanation": "'மற்றும்' సరైన సంధాన పదం.",
+          "id": "te_ta_i_6"
         },
         {
-          "id": "te_ta_i1_q7",
-          "question": "ప్రశ్న: \"அல்லது\" என்பதன் பொருள் என்ன?",
+          "question": "ప్రశ్న: 'அல்லது' (లేదా) అంటే ఏమిటి?",
           "options": [
-            "இரண்டு தேர்வுகளில் ஒன்று",
-            "இடம்",
-            "நேரம்",
-            "செயல்"
+            "రెండు ఎంపికల్లో ఒకటి (Choice between two)",
+            "நேரம் (సమయం)",
+            "இடம் (స్థలం)",
+            "வினை (క్రియ)"
           ],
           "correct_index": 0,
-          "explanation": "அல்லது தேர்வு ஆகும்."
+          "explanation": "'அல்லது' అంటే రెండు ఎంపికల్లో ఒకటి.",
+          "id": "te_ta_i_7"
         }
       ]
     },
@@ -16497,100 +16494,100 @@ export const BILINGUAL_COURSES = {
       "path": "advanced",
       "lang": "ta",
       "uiLang": "te",
-      "title": "Course 4: Advanced (నా ప్రపంచ పదాలు)",
-      "description": "లఘు గద్యభాగాలను చదివి ప్రశ్నలకు సమాధానాలు ఇవ్వడం నేర్చుకోండి.",
-      "objective": "లఘు గద్యభాగాలను చదివి ప్రశ్నలకు సమాధానాలు ఇవ్వడం నేర్చుకోండి.",
+      "title": "Course 4: Advanced (నా ప్రపంచ తమిళ వాక్యాలు)",
+      "description": "Learn TA curriculum with TE UI guidance (advanced).",
+      "objective": "Learn TA curriculum with TE UI guidance (advanced).",
       "lessons": [
         {
           "id": "advanced-te-ta-l1",
-          "title": "Course 4: Advanced (నా ప్రపంచ పదాలు)",
-          "learning_goal": "లఘు గద్యభాగాలను చదివి ప్రశ్నలకు సమాధానాలు ఇవ్వడం నేర్చుకోండి.",
+          "title": "Course 4: Advanced (నా ప్రపంచ తమిళ వాక్యాలు)",
+          "learning_goal": "Learn TA curriculum with TE UI guidance (advanced).",
           "teaching_content": "Practice learning TA curriculum with TE guidance.",
           "image_key": "book",
           "practice_questions": [
             {
-              "id": "te_ta_a1_q1",
-              "question": "ప్రశ్న: ராகுல் எங்கே செல்கிறான்?",
+              "question": "ప్రశ్న: Ram (రామ్) ఎక్కడికి వెళ్తాడు?",
               "options": [
-                "சந்தை",
-                "பள்ளி",
-                "பூங்கா",
-                "வீடு"
+                "சந்தை (మార్కెట్)",
+                "பள்ளி (పాఠశాల)",
+                "பூங்கா (పార్క్)",
+                "வீடு (ఇల్లు)"
               ],
               "correct_index": 1,
-              "explanation": "ராகுல் பள்ளிக்குச் செல்கிறான்."
+              "explanation": "Ram పాఠశాలకు (பள்ளி) వెళ్తాడు.",
+              "id": "te_ta_a_1"
             },
             {
-              "id": "te_ta_a1_q2",
-              "question": "ప్రశ్న: ராகுலுக்கு என்ன பிடிக்கும்?",
+              "question": "ప్రశ్న: Ram (రామ్) కు ఏమి ఇష్టం?",
               "options": [
-                "விளையாடுவது",
-                "புத்தகங்கள் படிப்பது",
-                "தூங்குவது",
-                "டிவி பார்ப்பது"
+                "விளையாட்டு (ఆటలు)",
+                "புத்தகங்கள் படித்தல் (పుస్తకాలు చదవడం)",
+                "தூங்குவது (నిద్రపోవడం)",
+                "டிவி பார்ப்பது (టీవీ చూడడం)"
               ],
               "correct_index": 1,
-              "explanation": "ராகுலுக்கு புத்தகங்கள் படிக்கப் பிடிக்கும்."
+              "explanation": "Ram కు పుస్తకాలు చదవడం ఇష్టం.",
+              "id": "te_ta_a_2"
             },
             {
-              "id": "te_ta_a1_q3",
-              "question": "ప్రశ్న: இந்தப் பத்தி யாரைப் பற்றியது?",
+              "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
               "options": [
-                "சீதா",
-                "ராகுல்",
-                "மோகன்",
-                "ரியா"
+                "சீதா (సీత)",
+                "ராம் (రామ్)",
+                "குமார் (కుమార్)",
+                "லலிதா (లత)"
               ],
               "correct_index": 1,
-              "explanation": "பத்தி ராகுலைப் பற்றியது."
+              "explanation": "ఈ గద్యభాగం Ram (ராம்) గురించి.",
+              "id": "te_ta_a_3"
             },
             {
-              "id": "te_ta_a1_q4",
-              "question": "ప్రశ్న: \"தினமும்\" என்பதன் பொருள் என்ன?",
+              "question": "ప్రశ్న: 'தினமும்' (తిన్ముమ్) అంటే ఏమిటి?",
               "options": [
-                "ஒவ்வொரு நாளும்",
-                "நேற்று",
-                "ஒருபோதும் இல்லை",
-                "அடுத்த வாரம்"
+                "சில நேரம் (కొన్నిసార్లు)",
+                "ஒவ்வொரு நாள் (ప్రతి రోజు)",
+                "நேற்று (నిన్న)",
+                "நாளை (రేపు)"
               ],
-              "correct_index": 0,
-              "explanation": "தினமும் என்பது ஒவ்வொரு நாளும்."
+              "correct_index": 1,
+              "explanation": "'தினமும்' అంటే ప్రతి రోజు (ஒவ்வொரு நாள்).",
+              "id": "te_ta_a_4"
             },
             {
-              "id": "te_ta_a1_q5",
-              "question": "ప్రశ్న: ராகுல் என்ன செய்கிறான்?",
+              "question": "ప్రశ్న: Ram (రామ్) ఏమి చేస్తాడు?",
               "options": [
-                "பள்ளிக்குச் செல்கிறான்",
-                "சந்தைக்குச் செல்கிறான்",
-                "வீட்டில் இருக்கிறான்",
-                "மருத்துவமனை செல்கிறான்"
+                "பள்ளிக்குச் செல்கிறான் (పాఠశాలకు వెళ్తాడు)",
+                "தூங்குகிறான் (నిద్రపోతాడు)",
+                "ஓடுகிறான் (పరుగెడతాడు)",
+                "பாடுகிறான் (పాడుతాడు)"
               ],
               "correct_index": 0,
-              "explanation": "ராகுல் பள்ளிக்குச் செல்கிறான்."
+              "explanation": "Ram పాఠశాలకు వెళ్తాడు (பள்ளிக்குச் செல்கிறான்).",
+              "id": "te_ta_a_5"
             },
             {
-              "id": "te_ta_a1_q6",
-              "question": "ప్రశ్న: இந்தப் பத்தியின் முக்கியக் கருத்து என்ன?",
+              "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
               "options": [
-                "பள்ளி செல்வது மற்றும் வாசிப்பது",
-                "பயணம்",
-                "மழை",
-                "மலைகள்"
+                "பள்ளி செல்லும் பழக்கம் (చదువు మరియు పాఠశాల అలవాటు)",
+                "கடல் (సముద్రం)",
+                "மழை (వర్షం)",
+                "மலை (కొండలు)"
               ],
               "correct_index": 0,
-              "explanation": "முக்கியக் கருத்து பள்ளி மற்றும் வாசிப்பு."
+              "explanation": "ప్రధాన భావం పాఠశాల అలవాటు (பள்ளி செல்லும் பழக்கம்).",
+              "id": "te_ta_a_6"
             },
             {
-              "id": "te_ta_a1_q7",
-              "question": "ప్రశ్న: எந்த வாக்கியம் சரியானது?",
+              "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
               "options": [
-                "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும்.",
-                "ராகுல் பள்ளிக்குச் செல்வதில்லை.",
-                "ராகுல் விளையாட மட்டுமே செய்வான்.",
-                "ராகுல் படிப்பதே இல்லை."
+                "ராம் புத்தகங்களை விரும்புகிறான். (రామ్కు పుస్తకాలు చదవడం ఇష్టం.)",
+                "ராம் பள்ளிக்குச் செல்லவில்லை. (రామ్ పాఠశాలకు వెళ్లడు.)",
+                "ராம் தினமும் தூங்குகிறான். (రామ్ ఎప్పుడూ నిద్రపోతాడు.)",
+                "ராம் கிரிக்கெட் மட்டும் விளையாடுகிறான். (రామ్ క్రికెట్ మాత్రమే ఆడుతాడు.)"
               ],
               "correct_index": 0,
-              "explanation": "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும் என்பதே சரி."
+              "explanation": "సరైన వాక్యం: రామ్ పుస్తకాలను ఇష్టపడతాడు.",
+              "id": "te_ta_a_7"
             }
           ]
         }
@@ -16599,175 +16596,175 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "id": "te_ta_a1_q1",
-            "question": "ప్రశ్న: ராகுல் எங்கே செல்கிறான்?",
+            "question": "ప్రశ్న: Ram (రామ్) ఎక్కడికి వెళ్తాడు?",
             "options": [
-              "சந்தை",
-              "பள்ளி",
-              "பூங்கா",
-              "வீடு"
+              "சந்தை (మార్కెట్)",
+              "பள்ளி (పాఠశాల)",
+              "பூங்கா (పార్క్)",
+              "வீடு (ఇల్లు)"
             ],
             "correct_index": 1,
-            "explanation": "ராகுல் பள்ளிக்குச் செல்கிறான்."
+            "explanation": "Ram పాఠశాలకు (பள்ளி) వెళ్తాడు.",
+            "id": "te_ta_a_1"
           },
           {
-            "id": "te_ta_a1_q2",
-            "question": "ప్రశ్న: ராகுலுக்கு என்ன பிடிக்கும்?",
+            "question": "ప్రశ్న: Ram (రామ్) కు ఏమి ఇష్టం?",
             "options": [
-              "விளையாடுவது",
-              "புத்தகங்கள் படிப்பது",
-              "தூங்குவது",
-              "டிவி பார்ப்பது"
+              "விளையாட்டு (ఆటలు)",
+              "புத்தகங்கள் படித்தல் (పుస్తకాలు చదవడం)",
+              "தூங்குவது (నిద్రపోవడం)",
+              "டிவி பார்ப்பது (టీవీ చూడడం)"
             ],
             "correct_index": 1,
-            "explanation": "ராகுலுக்கு புத்தகங்கள் படிக்கப் பிடிக்கும்."
+            "explanation": "Ram కు పుస్తకాలు చదవడం ఇష్టం.",
+            "id": "te_ta_a_2"
           },
           {
-            "id": "te_ta_a1_q3",
-            "question": "ప్రశ్న: இந்தப் பத்தி யாரைப் பற்றியது?",
+            "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
             "options": [
-              "சீதா",
-              "ராகுல்",
-              "மோகன்",
-              "ரியா"
+              "சீதா (సీత)",
+              "ராம் (రామ్)",
+              "குமார் (కుమార్)",
+              "லலிதா (లత)"
             ],
             "correct_index": 1,
-            "explanation": "பத்தி ராகுலைப் பற்றியது."
+            "explanation": "ఈ గద్యభాగం Ram (ராம்) గురించి.",
+            "id": "te_ta_a_3"
           },
           {
-            "id": "te_ta_a1_q4",
-            "question": "ప్రశ్న: \"தினமும்\" என்பதன் பொருள் என்ன?",
+            "question": "ప్రశ్న: 'தினமும்' (తిన్ముమ్) అంటే ఏమిటి?",
             "options": [
-              "ஒவ்வொரு நாளும்",
-              "நேற்று",
-              "ஒருபோதும் இல்லை",
-              "அடுத்த வாரம்"
+              "சில நேரம் (కొన్నిసార్లు)",
+              "ஒவ்வொரு நாள் (ప్రతి రోజు)",
+              "நேற்று (నిన్న)",
+              "நாளை (రేపు)"
             ],
-            "correct_index": 0,
-            "explanation": "தினமும் என்பது ஒவ்வொரு நாளும்."
+            "correct_index": 1,
+            "explanation": "'தினமும்' అంటే ప్రతి రోజు (ஒவ்வொரு நாள்).",
+            "id": "te_ta_a_4"
           },
           {
-            "id": "te_ta_a1_q5",
-            "question": "ప్రశ్న: ராகுல் என்ன செய்கிறான்?",
+            "question": "ప్రశ్న: Ram (రామ్) ఏమి చేస్తాడు?",
             "options": [
-              "பள்ளிக்குச் செல்கிறான்",
-              "சந்தைக்குச் செல்கிறான்",
-              "வீட்டில் இருக்கிறான்",
-              "மருத்துவமனை செல்கிறான்"
+              "பள்ளிக்குச் செல்கிறான் (పాఠశాలకు వెళ్తాడు)",
+              "தூங்குகிறான் (నిద్రపోతాడు)",
+              "ஓடுகிறான் (పరుగెడతాడు)",
+              "பாடுகிறான் (పాడుతాడు)"
             ],
             "correct_index": 0,
-            "explanation": "ராகுல் பள்ளிக்குச் செல்கிறான்."
+            "explanation": "Ram పాఠశాలకు వెళ్తాడు (பள்ளிக்குச் செல்கிறான்).",
+            "id": "te_ta_a_5"
           },
           {
-            "id": "te_ta_a1_q6",
-            "question": "ప్రశ్న: இந்தப் பத்தியின் முக்கியக் கருத்து என்ன?",
+            "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
             "options": [
-              "பள்ளி செல்வது மற்றும் வாசிப்பது",
-              "பயணம்",
-              "மழை",
-              "மலைகள்"
+              "பள்ளி செல்லும் பழக்கம் (చదువు మరియు పాఠశాల అలవాటు)",
+              "கடல் (సముద్రం)",
+              "மழை (వర్షం)",
+              "மலை (కొండలు)"
             ],
             "correct_index": 0,
-            "explanation": "முக்கியக் கருத்து பள்ளி மற்றும் வாசிப்பு."
+            "explanation": "ప్రధాన భావం పాఠశాల అలవాటు (பள்ளி செல்லும் பழக்கம்).",
+            "id": "te_ta_a_6"
           },
           {
-            "id": "te_ta_a1_q7",
-            "question": "ప్రశ్న: எந்த வாக்கியம் சரியானது?",
+            "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
             "options": [
-              "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும்.",
-              "ராகுல் பள்ளிக்குச் செல்வதில்லை.",
-              "ராகுல் விளையாட மட்டுமே செய்வான்.",
-              "ராகுல் படிப்பதே இல்லை."
+              "ராம் புத்தகங்களை விரும்புகிறான். (రామ్కు పుస్తకాలు చదవడం ఇష్టం.)",
+              "ராம் பள்ளிக்குச் செல்லவில்லை. (రామ్ పాఠశాలకు వెళ్లడు.)",
+              "ராம் தினமும் தூங்குகிறான். (రామ్ ఎప్పుడూ నిద్రపోతాడు.)",
+              "ராம் கிரிக்கெட் மட்டும் விளையாடுகிறான். (రామ్ క్రికెట్ మాత్రమే ఆడుతాడు.)"
             ],
             "correct_index": 0,
-            "explanation": "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும் என்பதே சரி."
+            "explanation": "సరైన వాక్యం: రామ్ పుస్తకాలను ఇష్టపడతాడు.",
+            "id": "te_ta_a_7"
           }
         ]
       },
       "checkpoint_test": [
         {
-          "id": "te_ta_a1_q1",
-          "question": "ప్రశ్న: ராகுல் எங்கே செல்கிறான்?",
+          "question": "ప్రశ్న: Ram (రామ్) ఎక్కడికి వెళ్తాడు?",
           "options": [
-            "சந்தை",
-            "பள்ளி",
-            "பூங்கா",
-            "வீடு"
+            "சந்தை (మార్కెట్)",
+            "பள்ளி (పాఠశాల)",
+            "பூங்கா (పార్క్)",
+            "வீடு (ఇల్లు)"
           ],
           "correct_index": 1,
-          "explanation": "ராகுல் பள்ளிக்குச் செல்கிறான்."
+          "explanation": "Ram పాఠశాలకు (பள்ளி) వెళ్తాడు.",
+          "id": "te_ta_a_1"
         },
         {
-          "id": "te_ta_a1_q2",
-          "question": "ప్రశ్న: ராகுலுக்கு என்ன பிடிக்கும்?",
+          "question": "ప్రశ్న: Ram (రామ్) కు ఏమి ఇష్టం?",
           "options": [
-            "விளையாடுவது",
-            "புத்தகங்கள் படிப்பது",
-            "தூங்குவது",
-            "டிவி பார்ப்பது"
+            "விளையாட்டு (ఆటలు)",
+            "புத்தகங்கள் படித்தல் (పుస్తకాలు చదవడం)",
+            "தூங்குவது (నిద్రపోవడం)",
+            "டிவி பார்ப்பது (టీవీ చూడడం)"
           ],
           "correct_index": 1,
-          "explanation": "ராகுலுக்கு புத்தகங்கள் படிக்கப் பிடிக்கும்."
+          "explanation": "Ram కు పుస్తకాలు చదవడం ఇష్టం.",
+          "id": "te_ta_a_2"
         },
         {
-          "id": "te_ta_a1_q3",
-          "question": "ప్రశ్న: இந்தப் பத்தி யாரைப் பற்றியது?",
+          "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
           "options": [
-            "சீதா",
-            "ராகுல்",
-            "மோகன்",
-            "ரியா"
+            "சீதா (సీత)",
+            "ராம் (రామ్)",
+            "குமார் (కుమార్)",
+            "லலிதா (లత)"
           ],
           "correct_index": 1,
-          "explanation": "பத்தி ராகுலைப் பற்றியது."
+          "explanation": "ఈ గద్యభాగం Ram (ராம்) గురించి.",
+          "id": "te_ta_a_3"
         },
         {
-          "id": "te_ta_a1_q4",
-          "question": "ప్రశ్న: \"தினமும்\" என்பதன் பொருள் என்ன?",
+          "question": "ప్రశ్న: 'தினமும்' (తిన్ముమ్) అంటే ఏమిటి?",
           "options": [
-            "ஒவ்வொரு நாளும்",
-            "நேற்று",
-            "ஒருபோதும் இல்லை",
-            "அடுத்த வாரம்"
+            "சில நேரம் (కొన్నిసార్లు)",
+            "ஒவ்வொரு நாள் (ప్రతి రోజు)",
+            "நேற்று (నిన్న)",
+            "நாளை (రేపు)"
           ],
-          "correct_index": 0,
-          "explanation": "தினமும் என்பது ஒவ்வொரு நாளும்."
+          "correct_index": 1,
+          "explanation": "'தினமும்' అంటే ప్రతి రోజు (ஒவ்வொரு நாள்).",
+          "id": "te_ta_a_4"
         },
         {
-          "id": "te_ta_a1_q5",
-          "question": "ప్రశ్న: ராகுல் என்ன செய்கிறான்?",
+          "question": "ప్రశ్న: Ram (రామ్) ఏమి చేస్తాడు?",
           "options": [
-            "பள்ளிக்குச் செல்கிறான்",
-            "சந்தைக்குச் செல்கிறான்",
-            "வீட்டில் இருக்கிறான்",
-            "மருத்துவமனை செல்கிறான்"
+            "பள்ளிக்குச் செல்கிறான் (పాఠశాలకు వెళ్తాడు)",
+            "தூங்குகிறான் (నిద్రపోతాడు)",
+            "ஓடுகிறான் (పరుగెడతాడు)",
+            "பாடுகிறான் (పాడుతాడు)"
           ],
           "correct_index": 0,
-          "explanation": "ராகுல் பள்ளிக்குச் செல்கிறான்."
+          "explanation": "Ram పాఠశాలకు వెళ్తాడు (பள்ளிக்குச் செல்கிறான்).",
+          "id": "te_ta_a_5"
         },
         {
-          "id": "te_ta_a1_q6",
-          "question": "ప్రశ్న: இந்தப் பத்தியின் முக்கியக் கருத்து என்ன?",
+          "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
           "options": [
-            "பள்ளி செல்வது மற்றும் வாசிப்பது",
-            "பயணம்",
-            "மழை",
-            "மலைகள்"
+            "பள்ளி செல்லும் பழக்கம் (చదువు మరియు పాఠశాల అలవాటు)",
+            "கடல் (సముద్రం)",
+            "மழை (వర్షం)",
+            "மலை (కొండలు)"
           ],
           "correct_index": 0,
-          "explanation": "முக்கியக் கருத்து பள்ளி மற்றும் வாசிப்பு."
+          "explanation": "ప్రధాన భావం పాఠశాల అలవాటు (பள்ளி செல்லும் பழக்கம்).",
+          "id": "te_ta_a_6"
         },
         {
-          "id": "te_ta_a1_q7",
-          "question": "ప్రశ్న: எந்த வாக்கியம் சரியானது?",
+          "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
           "options": [
-            "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும்.",
-            "ராகுல் பள்ளிக்குச் செல்வதில்லை.",
-            "ராகுல் விளையாட மட்டுமே செய்வான்.",
-            "ராகுல் படிப்பதே இல்லை."
+            "ராம் புத்தகங்களை விரும்புகிறான். (రామ్కు పుస్తకాలు చదవడం ఇష్టం.)",
+            "ராம் பள்ளிக்குச் செல்லவில்லை. (రామ్ పాఠశాలకు వెళ్లడు.)",
+            "ராம் தினமும் தூங்குகிறான். (రామ్ ఎప్పుడూ నిద్రపోతాడు.)",
+            "ராம் கிரிக்கெட் மட்டும் விளையாடுகிறான். (రామ్ క్రికెట్ మాత్రమే ఆడుతాడు.)"
           ],
           "correct_index": 0,
-          "explanation": "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும் என்பதே சரி."
+          "explanation": "సరైన వాక్యం: రామ్ పుస్తకాలను ఇష్టపడతాడు.",
+          "id": "te_ta_a_7"
         }
       ]
     }
@@ -16793,10 +16790,10 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_f1_q1",
               "question": "ప్రశ్న: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
               "options": [
-                "12",
-                "13",
-                "14",
-                "15"
+                "12 (12 - పన్నెండు))",
+                "13 (13 - పదమూడు))",
+                "14 (14 - పదునాలుగు))",
+                "15 (15 - పదిహేను))"
               ],
               "correct_index": 1,
               "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -16805,10 +16802,10 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_f1_q2",
               "question": "ప్రశ్న: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ಕ್ರಿಯಾಪದ",
-                "ನಾಮಪದ",
-                "ವಿಶೇಷಣ",
-                "ಸರ್ವನಾಮ"
+                "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+                "ನಾಮಪದ (నామపద - నామవాచకం))",
+                "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
+                "ಸರ್ವನಾಮ (సర్వనామ - సర్వనామం))"
               ],
               "correct_index": 1,
               "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -16817,8 +16814,8 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_f1_q3",
               "question": "ప్రశ్న: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
               "options": [
-                "ಮರ",
-                "ಮರಗಳು",
+                "ಮರ (మర - చెట్టు))",
+                "ಮರಗಳು (మరగళు - చెట్లు))",
                 "ಮರಗಳ",
                 "ಮರವು"
               ],
@@ -16829,10 +16826,10 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_f1_q4",
               "question": "ప్రశ్న: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
               "options": [
-                "ವಿಶೇಷಣ",
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ಸರ್ವನಾಮ"
+                "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
+                "ನಾಮಪದ (నామపద - నామవాచకం))",
+                "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+                "ಸರ್ವನಾಮ (సర్వనామ - సర్వనామం))"
               ],
               "correct_index": 0,
               "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -16841,10 +16838,10 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_f1_q5",
               "question": "ప్రశ్న: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ವಿಶೇಷಣ",
-                "ಸರ್ವನಾಮ"
+                "ನಾಮಪದ (నామపద - నామవాచకం))",
+                "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+                "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
+                "ಸರ್ವನಾಮ (సర్వనామ - సర్వనామం))"
               ],
               "correct_index": 1,
               "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -16856,7 +16853,7 @@ export const BILINGUAL_COURSES = {
                 "ಮನೆ",
                 "ಗ್ರಂಥ",
                 "ರಸ್ತೆ",
-                "ಮರ"
+                "ಮರ (మర - చెట్టు))"
               ],
               "correct_index": 1,
               "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -16883,10 +16880,10 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_f1_q1",
             "question": "ప్రశ్న: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
             "options": [
-              "12",
-              "13",
-              "14",
-              "15"
+              "12 (12 - పన్నెండు))",
+              "13 (13 - పదమూడు))",
+              "14 (14 - పదునాలుగు))",
+              "15 (15 - పదిహేను))"
             ],
             "correct_index": 1,
             "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -16895,10 +16892,10 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_f1_q2",
             "question": "ప్రశ్న: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ಕ್ರಿಯಾಪದ",
-              "ನಾಮಪದ",
-              "ವಿಶೇಷಣ",
-              "ಸರ್ವನಾಮ"
+              "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+              "ನಾಮಪದ (నామపద - నామవాచకం))",
+              "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
+              "ಸರ್ವನಾಮ (సర్వనామ - సర్వనామం))"
             ],
             "correct_index": 1,
             "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -16907,8 +16904,8 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_f1_q3",
             "question": "ప్రశ్న: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
             "options": [
-              "ಮರ",
-              "ಮರಗಳು",
+              "ಮರ (మర - చెట్టు))",
+              "ಮರಗಳು (మరగళు - చెట్లు))",
               "ಮರಗಳ",
               "ಮರವು"
             ],
@@ -16919,10 +16916,10 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_f1_q4",
             "question": "ప్రశ్న: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
             "options": [
-              "ವಿಶೇಷಣ",
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ಸರ್ವನಾಮ"
+              "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
+              "ನಾಮಪದ (నామపద - నామవాచకం))",
+              "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+              "ಸರ್ವನಾಮ (సర్వనామ - సర్వనామం))"
             ],
             "correct_index": 0,
             "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -16931,10 +16928,10 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_f1_q5",
             "question": "ప్రశ్న: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ವಿಶೇಷಣ",
-              "ಸರ್ವನಾಮ"
+              "ನಾಮಪದ (నామపద - నామవాచకం))",
+              "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+              "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
+              "ಸರ್ವನಾಮ (సర్వనామ - సర్వనామం))"
             ],
             "correct_index": 1,
             "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -16946,7 +16943,7 @@ export const BILINGUAL_COURSES = {
               "ಮನೆ",
               "ಗ್ರಂಥ",
               "ರಸ್ತೆ",
-              "ಮರ"
+              "ಮರ (మర - చెట్టు))"
             ],
             "correct_index": 1,
             "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -16970,10 +16967,10 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_f1_q1",
           "question": "ప్రశ్న: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
           "options": [
-            "12",
-            "13",
-            "14",
-            "15"
+            "12 (12 - పన్నెండు))",
+            "13 (13 - పదమూడు))",
+            "14 (14 - పదునాలుగు))",
+            "15 (15 - పదిహేను))"
           ],
           "correct_index": 1,
           "explanation": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳಿವೆ."
@@ -16982,10 +16979,10 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_f1_q2",
           "question": "ప్రశ్న: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ಕ್ರಿಯಾಪದ",
-            "ನಾಮಪದ",
-            "ವಿಶೇಷಣ",
-            "ಸರ್ವನಾಮ"
+            "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+            "ನಾಮಪದ (నామపద - నామవాచకం))",
+            "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
+            "ಸರ್ವನಾಮ (సర్వనామ - సర్వనామం))"
           ],
           "correct_index": 1,
           "explanation": "“ಅಮ್ಮ” ಎಂಬುದು ನಾಮಪದ."
@@ -16994,8 +16991,8 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_f1_q3",
           "question": "ప్రశ్న: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
           "options": [
-            "ಮರ",
-            "ಮರಗಳು",
+            "ಮರ (మర - చెట్టు))",
+            "ಮರಗಳು (మరగళు - చెట్లు))",
             "ಮರಗಳ",
             "ಮರವು"
           ],
@@ -17006,10 +17003,10 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_f1_q4",
           "question": "ప్రశ్న: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
           "options": [
-            "ವಿಶೇಷಣ",
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ಸರ್ವನಾಮ"
+            "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
+            "ನಾಮಪದ (నామపద - నామవాచకం))",
+            "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+            "ಸರ್ವನಾಮ (సర్వనామ - సర్వనామం))"
           ],
           "correct_index": 0,
           "explanation": "“ಒಳ್ಳೆಯ” ಎಂಬುದು ವಿಶೇಷಣ."
@@ -17018,10 +17015,10 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_f1_q5",
           "question": "ప్రశ్న: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ವಿಶೇಷಣ",
-            "ಸರ್ವನಾಮ"
+            "ನಾಮಪದ (నామపద - నామవాచకం))",
+            "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+            "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
+            "ಸರ್ವನಾಮ (సర్వనామ - సర్వనామం))"
           ],
           "correct_index": 1,
           "explanation": "“ಓದುತ್ತಿದ್ದೇನೆ” ಎಂಬುದು ಕ್ರಿಯಾಪದ."
@@ -17033,7 +17030,7 @@ export const BILINGUAL_COURSES = {
             "ಮನೆ",
             "ಗ್ರಂಥ",
             "ರಸ್ತೆ",
-            "ಮರ"
+            "ಮರ (మర - చెట్టు))"
           ],
           "correct_index": 1,
           "explanation": "“ಪುಸ್ತಕ” ಎಂದರೆ ಗ್ರಂಥ."
@@ -17072,9 +17069,9 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_b1_q1",
               "question": "ప్రశ్న: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+                "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
                 "ಆಜ್ಞಾರ್ಥಕ"
               ],
               "correct_index": 1,
@@ -17084,9 +17081,9 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_b1_q2",
               "question": "ప్రశ్న: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+                "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
                 "ಯಾವುದೂ ಅಲ್ಲ"
               ],
               "correct_index": 0,
@@ -17096,10 +17093,10 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_b1_q3",
               "question": "ప్రశ్న: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ನಾಮಪದ"
+                "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+                "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+                "ನಾಮಪದ (నామపద - నామవాచకం))"
               ],
               "correct_index": 1,
               "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -17108,10 +17105,10 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_b1_q4",
               "question": "ప్రశ్న: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ವಿಶೇಷಣ"
+                "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+                "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+                "ವಿಶೇಷಣ (విశేషణ - విశేషణం))"
               ],
               "correct_index": 0,
               "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -17120,9 +17117,9 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_b1_q5",
               "question": "ప్రశ్న: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
+                "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+                "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
                 "ಯಾವುದೂ ಅಲ್ಲ"
               ],
               "correct_index": 1,
@@ -17132,10 +17129,10 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_b1_q6",
               "question": "ప్రశ్న: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
-                "ಭೂತಕಾಲ",
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ವಿಶೇಷಣ"
+                "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+                "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+                "ವಿಶೇಷಣ (విశేషణ - విశేషణం))"
               ],
               "correct_index": 2,
               "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -17144,10 +17141,10 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_b1_q7",
               "question": "ప్రశ్న: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
               "options": [
-                "ವರ್ತಮಾನಕಾಲ",
-                "ಭೂತಕಾಲ",
-                "ಭವಿಷ್ಯತ್ಕಾಲ",
-                "ನಾಮಪದ"
+                "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+                "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+                "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+                "ನಾಮಪದ (నామపద - నామవాచకం))"
               ],
               "correct_index": 0,
               "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -17162,9 +17159,9 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_b1_q1",
             "question": "ప్రశ్న: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+              "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
               "ಆಜ್ಞಾರ್ಥಕ"
             ],
             "correct_index": 1,
@@ -17174,9 +17171,9 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_b1_q2",
             "question": "ప్రశ్న: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+              "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
               "ಯಾವುದೂ ಅಲ್ಲ"
             ],
             "correct_index": 0,
@@ -17186,10 +17183,10 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_b1_q3",
             "question": "ప్రశ్న: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ನಾಮಪದ"
+              "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+              "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+              "ನಾಮಪದ (నామపద - నామవాచకం))"
             ],
             "correct_index": 1,
             "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -17198,10 +17195,10 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_b1_q4",
             "question": "ప్రశ్న: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ವಿಶೇಷಣ"
+              "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+              "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+              "ವಿಶೇಷಣ (విశేషణ - విశేషణం))"
             ],
             "correct_index": 0,
             "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -17210,9 +17207,9 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_b1_q5",
             "question": "ప్రశ్న: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
+              "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+              "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
               "ಯಾವುದೂ ಅಲ್ಲ"
             ],
             "correct_index": 1,
@@ -17222,10 +17219,10 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_b1_q6",
             "question": "ప్రశ్న: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
-              "ಭೂತಕಾಲ",
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ವಿಶೇಷಣ"
+              "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+              "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+              "ವಿಶೇಷಣ (విశేషణ - విశేషణం))"
             ],
             "correct_index": 2,
             "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -17234,10 +17231,10 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_b1_q7",
             "question": "ప్రశ్న: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
             "options": [
-              "ವರ್ತಮಾನಕಾಲ",
-              "ಭೂತಕಾಲ",
-              "ಭವಿಷ್ಯತ್ಕಾಲ",
-              "ನಾಮಪದ"
+              "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+              "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+              "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+              "ನಾಮಪದ (నామపద - నామవాచకం))"
             ],
             "correct_index": 0,
             "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -17249,9 +17246,9 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_b1_q1",
           "question": "ప్రశ్న: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+            "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
             "ಆಜ್ಞಾರ್ಥಕ"
           ],
           "correct_index": 1,
@@ -17261,9 +17258,9 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_b1_q2",
           "question": "ప్రశ్న: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+            "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
             "ಯಾವುದೂ ಅಲ್ಲ"
           ],
           "correct_index": 0,
@@ -17273,10 +17270,10 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_b1_q3",
           "question": "ప్రశ్న: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ನಾಮಪದ"
+            "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+            "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+            "ನಾಮಪದ (నామపద - నామవాచకం))"
           ],
           "correct_index": 1,
           "explanation": "ಇದು ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -17285,10 +17282,10 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_b1_q4",
           "question": "ప్రశ్న: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ವಿಶೇಷಣ"
+            "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+            "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+            "ವಿಶೇಷಣ (విశేషణ - విశేషణం))"
           ],
           "correct_index": 0,
           "explanation": "ಇದು ವರ್ತಮಾನಕಾಲ."
@@ -17297,9 +17294,9 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_b1_q5",
           "question": "ప్రశ్న: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
+            "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+            "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
             "ಯಾವುದೂ ಅಲ್ಲ"
           ],
           "correct_index": 1,
@@ -17309,10 +17306,10 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_b1_q6",
           "question": "ప్రశ్న: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
-            "ಭೂತಕಾಲ",
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ವಿಶೇಷಣ"
+            "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+            "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+            "ವಿಶೇಷಣ (విశేషణ - విశేషణం))"
           ],
           "correct_index": 2,
           "explanation": "ಓದುವೆ ಭವಿಷ್ಯತ್ಕಾಲ."
@@ -17321,10 +17318,10 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_b1_q7",
           "question": "ప్రశ్న: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
           "options": [
-            "ವರ್ತಮಾನಕಾಲ",
-            "ಭೂತಕಾಲ",
-            "ಭವಿಷ್ಯತ್ಕಾಲ",
-            "ನಾಮಪದ"
+            "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
+            "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
+            "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
+            "ನಾಮಪದ (నామపద - నామవాచకం))"
           ],
           "correct_index": 0,
           "explanation": "ವರ್ತಮಾನಕಾಲ."
@@ -17351,10 +17348,10 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_i1_q1",
               "question": "ప్రశ్న: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಆದರೆ",
-                "ಮತ್ತು",
+                "ಆದರೆ (ఆదరె - కానీ))",
+                "ಮತ್ತು (మత్తు - మరియు))",
                 "ಏಕೆಂದರೆ",
-                "ಅಥವಾ"
+                "ಅಥವಾ (అథవా - లేదా))"
               ],
               "correct_index": 1,
               "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -17364,7 +17361,7 @@ export const BILINGUAL_COURSES = {
               "question": "ప్రశ్న: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
                 "ಅಮ್ಮ",
-                "ಮತ್ತು",
+                "ಮತ್ತು (మత్తు - మరియు))",
                 "ಅಪ್ಪ",
                 "ನಲ್ಲಿ"
               ],
@@ -17375,7 +17372,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_i1_q3",
               "question": "ప్రశ్న: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಆದರೆ",
+                "ಆದರೆ (ఆదరె - కానీ))",
                 "ಓದಿದನು",
                 "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
                 "ಅವನು"
@@ -17388,9 +17385,9 @@ export const BILINGUAL_COURSES = {
               "question": "ప్రశ్న: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
               "options": [
                 "ಸಂಪರ್ಕಪದ",
-                "ನಾಮಪದ",
-                "ಕ್ರಿಯಾಪದ",
-                "ವಿಶೇಷಣ"
+                "ನಾಮಪದ (నామపద - నామవాచకం))",
+                "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+                "ವಿಶೇಷಣ (విశేషణ - విశేషణం))"
               ],
               "correct_index": 0,
               "explanation": "ಸಂಪರ್ಕಪದ."
@@ -17411,7 +17408,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_kn_i1_q6",
               "question": "ప్రశ్న: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
               "options": [
-                "ಮತ್ತು",
+                "ಮತ್ತು (మత్తు - మరియు))",
                 "ಪುಸ್ತಕ",
                 "ಮನೆ",
                 "ಓಡು"
@@ -17441,10 +17438,10 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_i1_q1",
             "question": "ప్రశ్న: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಆದರೆ",
-              "ಮತ್ತು",
+              "ಆದರೆ (ఆదరె - కానీ))",
+              "ಮತ್ತು (మత్తు - మరియు))",
               "ಏಕೆಂದರೆ",
-              "ಅಥವಾ"
+              "ಅಥವಾ (అథవా - లేదా))"
             ],
             "correct_index": 1,
             "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -17454,7 +17451,7 @@ export const BILINGUAL_COURSES = {
             "question": "ప్రశ్న: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
               "ಅಮ್ಮ",
-              "ಮತ್ತು",
+              "ಮತ್ತು (మత్తు - మరియు))",
               "ಅಪ್ಪ",
               "ನಲ್ಲಿ"
             ],
@@ -17465,7 +17462,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_i1_q3",
             "question": "ప్రశ్న: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಆದರೆ",
+              "ಆದರೆ (ఆదరె - కానీ))",
               "ಓದಿದನು",
               "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
               "ಅವನು"
@@ -17478,9 +17475,9 @@ export const BILINGUAL_COURSES = {
             "question": "ప్రశ్న: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
             "options": [
               "ಸಂಪರ್ಕಪದ",
-              "ನಾಮಪದ",
-              "ಕ್ರಿಯಾಪದ",
-              "ವಿಶೇಷಣ"
+              "ನಾಮಪದ (నామపద - నామవాచకం))",
+              "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+              "ವಿಶೇಷಣ (విశేషణ - విశేషణం))"
             ],
             "correct_index": 0,
             "explanation": "ಸಂಪರ್ಕಪದ."
@@ -17501,7 +17498,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_kn_i1_q6",
             "question": "ప్రశ్న: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
             "options": [
-              "ಮತ್ತು",
+              "ಮತ್ತು (మత్తు - మరియు))",
               "ಪುಸ್ತಕ",
               "ಮನೆ",
               "ಓಡು"
@@ -17528,10 +17525,10 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_i1_q1",
           "question": "ప్రశ్న: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಆದರೆ",
-            "ಮತ್ತು",
+            "ಆದರೆ (ఆదరె - కానీ))",
+            "ಮತ್ತು (మత్తు - మరియు))",
             "ಏಕೆಂದರೆ",
-            "ಅಥವಾ"
+            "ಅಥವಾ (అథవా - లేదా))"
           ],
           "correct_index": 1,
           "explanation": "ಮತ್ತು ಸಂಪರ್ಕ ಪದ."
@@ -17541,7 +17538,7 @@ export const BILINGUAL_COURSES = {
           "question": "ప్రశ్న: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
             "ಅಮ್ಮ",
-            "ಮತ್ತು",
+            "ಮತ್ತು (మత్తు - మరియు))",
             "ಅಪ್ಪ",
             "ನಲ್ಲಿ"
           ],
@@ -17552,7 +17549,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_i1_q3",
           "question": "ప్రశ్న: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಆದರೆ",
+            "ಆದರೆ (ఆదరె - కానీ))",
             "ಓದಿದನು",
             "ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ",
             "ಅವನು"
@@ -17565,9 +17562,9 @@ export const BILINGUAL_COURSES = {
           "question": "ప్రశ్న: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
           "options": [
             "ಸಂಪರ್ಕಪದ",
-            "ನಾಮಪದ",
-            "ಕ್ರಿಯಾಪದ",
-            "ವಿಶೇಷಣ"
+            "ನಾಮಪದ (నామపద - నామవాచకం))",
+            "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
+            "ವಿಶೇಷಣ (విశేషణ - విశేషణం))"
           ],
           "correct_index": 0,
           "explanation": "ಸಂಪರ್ಕಪದ."
@@ -17588,7 +17585,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_kn_i1_q6",
           "question": "ప్రశ్న: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
           "options": [
-            "ಮತ್ತು",
+            "ಮತ್ತು (మత్తు - మరియు))",
             "ಪುಸ್ತಕ",
             "ಮನೆ",
             "ಓಡು"
@@ -19029,10 +19026,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_f1_q1",
               "question": "ಪ್ರಶ್ನೆ: हिंदी भाषा में स्वर कितने हैं?",
               "options": [
-                "10",
-                "11",
-                "13",
-                "12"
+                "10 (10 - ಹತ್ತು))",
+                "11 (11 - ಹನ್ನೊಂದು))",
+                "13 (13 - ಹದಿಮೂರು))",
+                "12 (12 - ಹನ್ನೆರಡು))"
               ],
               "correct_index": 2,
               "explanation": "हिंदी में 13 स्वर हैं।"
@@ -19041,10 +19038,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_f1_q2",
               "question": "ಪ್ರಶ್ನೆ: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
               "options": [
-                "क्रिया",
-                "संज्ञा",
-                "विशेषण",
-                "सर्वनाम"
+                "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+                "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+                "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
+                "सर्वनाम (ಸರ್ವನಾಮ್ - ಸರ್ವನಾಮ))"
               ],
               "correct_index": 1,
               "explanation": "\"माँ\" संज्ञा है।"
@@ -19053,10 +19050,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_f1_q3",
               "question": "ಪ್ರಶ್ನೆ: \"लड़का\" (Ladka) का बहुवचन क्या है?",
               "options": [
-                "लड़कियाँ",
-                "लड़के",
+                "लड़कियाँ (ಲಡ್ಕಿಯಾನ್ - ಹುಡುಗಿಯರು))",
+                "लड़के (ಲಡ್ಕೆ - ಹುಡುಗರು))",
                 "लड़कों",
-                "लड़का"
+                "लड़का (ಲಡ್ಕಾ - ಹುಡುಗ))"
               ],
               "correct_index": 1,
               "explanation": "लड़का का बहुवचन लड़के है।"
@@ -19065,10 +19062,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_f1_q4",
               "question": "ಪ್ರಶ್ನೆ: \"सुंदर\" (Sundar) शब्द क्या है?",
               "options": [
-                "विशेषण",
-                "संज्ञा",
-                "क्रिया",
-                "सर्वनाम"
+                "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
+                "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+                "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+                "सर्वनाम (ಸರ್ವನಾಮ್ - ಸರ್ವನಾಮ))"
               ],
               "correct_index": 0,
               "explanation": "सुंदर विशेषण है।"
@@ -19077,10 +19074,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_f1_q5",
               "question": "ಪ್ರಶ್ನೆ: \"पढ़ना\" (Padhna) शब्द क्या है?",
               "options": [
-                "संज्ञा",
-                "क्रिया",
-                "विशेषण",
-                "सर्वनाम"
+                "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+                "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+                "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
+                "सर्वनाम (ಸರ್ವನಾಮ್ - ಸರ್ವನಾಮ))"
               ],
               "correct_index": 1,
               "explanation": "पढ़ना क्रिया है।"
@@ -19119,10 +19116,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_f1_q1",
             "question": "ಪ್ರಶ್ನೆ: हिंदी भाषा में स्वर कितने हैं?",
             "options": [
-              "10",
-              "11",
-              "13",
-              "12"
+              "10 (10 - ಹತ್ತು))",
+              "11 (11 - ಹನ್ನೊಂದು))",
+              "13 (13 - ಹದಿಮೂರು))",
+              "12 (12 - ಹನ್ನೆರಡು))"
             ],
             "correct_index": 2,
             "explanation": "हिंदी में 13 स्वर हैं।"
@@ -19131,10 +19128,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_f1_q2",
             "question": "ಪ್ರಶ್ನೆ: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
             "options": [
-              "क्रिया",
-              "संज्ञा",
-              "विशेषण",
-              "सर्वनाम"
+              "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+              "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+              "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
+              "सर्वनाम (ಸರ್ವನಾಮ್ - ಸರ್ವನಾಮ))"
             ],
             "correct_index": 1,
             "explanation": "\"माँ\" संज्ञा है।"
@@ -19143,10 +19140,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_f1_q3",
             "question": "ಪ್ರಶ್ನೆ: \"लड़का\" (Ladka) का बहुवचन क्या है?",
             "options": [
-              "लड़कियाँ",
-              "लड़के",
+              "लड़कियाँ (ಲಡ್ಕಿಯಾನ್ - ಹುಡುಗಿಯರು))",
+              "लड़के (ಲಡ್ಕೆ - ಹುಡುಗರು))",
               "लड़कों",
-              "लड़का"
+              "लड़का (ಲಡ್ಕಾ - ಹುಡುಗ))"
             ],
             "correct_index": 1,
             "explanation": "लड़का का बहुवचन लड़के है।"
@@ -19155,10 +19152,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_f1_q4",
             "question": "ಪ್ರಶ್ನೆ: \"सुंदर\" (Sundar) शब्द क्या है?",
             "options": [
-              "विशेषण",
-              "संज्ञा",
-              "क्रिया",
-              "सर्वनाम"
+              "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
+              "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+              "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+              "सर्वनाम (ಸರ್ವನಾಮ್ - ಸರ್ವನಾಮ))"
             ],
             "correct_index": 0,
             "explanation": "सुंदर विशेषण है।"
@@ -19167,10 +19164,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_f1_q5",
             "question": "ಪ್ರಶ್ನೆ: \"पढ़ना\" (Padhna) शब्द क्या है?",
             "options": [
-              "संज्ञा",
-              "क्रिया",
-              "विशेषण",
-              "सर्वनाम"
+              "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+              "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+              "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
+              "सर्वनाम (ಸರ್ವನಾಮ್ - ಸರ್ವನಾಮ))"
             ],
             "correct_index": 1,
             "explanation": "पढ़ना क्रिया है।"
@@ -19206,10 +19203,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_f1_q1",
           "question": "ಪ್ರಶ್ನೆ: हिंदी भाषा में स्वर कितने हैं?",
           "options": [
-            "10",
-            "11",
-            "13",
-            "12"
+            "10 (10 - ಹತ್ತು))",
+            "11 (11 - ಹನ್ನೊಂದು))",
+            "13 (13 - ಹದಿಮೂರು))",
+            "12 (12 - ಹನ್ನೆರಡು))"
           ],
           "correct_index": 2,
           "explanation": "हिंदी में 13 स्वर हैं।"
@@ -19218,10 +19215,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_f1_q2",
           "question": "ಪ್ರಶ್ನೆ: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
           "options": [
-            "क्रिया",
-            "संज्ञा",
-            "विशेषण",
-            "सर्वनाम"
+            "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+            "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+            "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
+            "सर्वनाम (ಸರ್ವನಾಮ್ - ಸರ್ವನಾಮ))"
           ],
           "correct_index": 1,
           "explanation": "\"माँ\" संज्ञा है।"
@@ -19230,10 +19227,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_f1_q3",
           "question": "ಪ್ರಶ್ನೆ: \"लड़का\" (Ladka) का बहुवचन क्या है?",
           "options": [
-            "लड़कियाँ",
-            "लड़के",
+            "लड़कियाँ (ಲಡ್ಕಿಯಾನ್ - ಹುಡುಗಿಯರು))",
+            "लड़के (ಲಡ್ಕೆ - ಹುಡುಗರು))",
             "लड़कों",
-            "लड़का"
+            "लड़का (ಲಡ್ಕಾ - ಹುಡುಗ))"
           ],
           "correct_index": 1,
           "explanation": "लड़का का बहुवचन लड़के है।"
@@ -19242,10 +19239,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_f1_q4",
           "question": "ಪ್ರಶ್ನೆ: \"सुंदर\" (Sundar) शब्द क्या है?",
           "options": [
-            "विशेषण",
-            "संज्ञा",
-            "क्रिया",
-            "सर्वनाम"
+            "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
+            "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+            "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+            "सर्वनाम (ಸರ್ವನಾಮ್ - ಸರ್ವನಾಮ))"
           ],
           "correct_index": 0,
           "explanation": "सुंदर विशेषण है।"
@@ -19254,10 +19251,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_f1_q5",
           "question": "ಪ್ರಶ್ನೆ: \"पढ़ना\" (Padhna) शब्द क्या है?",
           "options": [
-            "संज्ञा",
-            "क्रिया",
-            "विशेषण",
-            "सर्वनाम"
+            "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+            "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+            "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
+            "सर्वनाम (ಸರ್ವನಾಮ್ - ಸರ್ವನಾಮ))"
           ],
           "correct_index": 1,
           "explanation": "पढ़ना क्रिया है।"
@@ -19308,9 +19305,9 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_b1_q1",
               "question": "ಪ್ರಶ್ನೆ: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
               "options": [
-                "भूतकाल",
-                "वर्तमान काल",
-                "भविष्य काल",
+                "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+                "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+                "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
                 "आज्ञार्थ"
               ],
               "correct_index": 1,
@@ -19320,9 +19317,9 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_b1_q2",
               "question": "ಪ್ರಶ್ನೆ: \"वह कल आया।\" यह कौन सा काल है?",
               "options": [
-                "भूतकाल",
-                "वर्तमान काल",
-                "भविष्य काल",
+                "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+                "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+                "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
                 "कोई नहीं"
               ],
               "correct_index": 0,
@@ -19332,10 +19329,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_b1_q3",
               "question": "ಪ್ರಶ್ನೆ: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
               "options": [
-                "वर्तमान काल",
-                "भविष्य काल",
-                "भूतकाल",
-                "संज्ञा"
+                "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+                "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+                "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+                "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))"
               ],
               "correct_index": 1,
               "explanation": "यह भविष्य काल है।"
@@ -19344,10 +19341,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_b1_q4",
               "question": "ಪ್ರಶ್ನೆ: \"वह गा रही है।\" यह कौन सा काल है?",
               "options": [
-                "वर्तमान काल",
-                "भूतकाल",
-                "भविष्य काल",
-                "विशेषण"
+                "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+                "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+                "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+                "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))"
               ],
               "correct_index": 0,
               "explanation": "यह वर्तमान काल है।"
@@ -19380,10 +19377,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_b1_q7",
               "question": "ಪ್ರಶ್ನೆ: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
               "options": [
-                "वर्तमान काल",
-                "भूतकाल",
-                "भविष्य काल",
-                "संज्ञा"
+                "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+                "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+                "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+                "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))"
               ],
               "correct_index": 0,
               "explanation": "यह वर्तमान काल है।"
@@ -19398,9 +19395,9 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_b1_q1",
             "question": "ಪ್ರಶ್ನೆ: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
             "options": [
-              "भूतकाल",
-              "वर्तमान काल",
-              "भविष्य काल",
+              "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+              "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+              "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
               "आज्ञार्थ"
             ],
             "correct_index": 1,
@@ -19410,9 +19407,9 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_b1_q2",
             "question": "ಪ್ರಶ್ನೆ: \"वह कल आया।\" यह कौन सा काल है?",
             "options": [
-              "भूतकाल",
-              "वर्तमान काल",
-              "भविष्य काल",
+              "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+              "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+              "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
               "कोई नहीं"
             ],
             "correct_index": 0,
@@ -19422,10 +19419,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_b1_q3",
             "question": "ಪ್ರಶ್ನೆ: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
             "options": [
-              "वर्तमान काल",
-              "भविष्य काल",
-              "भूतकाल",
-              "संज्ञा"
+              "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+              "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+              "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+              "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))"
             ],
             "correct_index": 1,
             "explanation": "यह भविष्य काल है।"
@@ -19434,10 +19431,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_b1_q4",
             "question": "ಪ್ರಶ್ನೆ: \"वह गा रही है।\" यह कौन सा काल है?",
             "options": [
-              "वर्तमान काल",
-              "भूतकाल",
-              "भविष्य काल",
-              "विशेषण"
+              "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+              "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+              "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+              "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))"
             ],
             "correct_index": 0,
             "explanation": "यह वर्तमान काल है।"
@@ -19470,10 +19467,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_b1_q7",
             "question": "ಪ್ರಶ್ನೆ: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
             "options": [
-              "वर्तमान काल",
-              "भूतकाल",
-              "भविष्य काल",
-              "संज्ञा"
+              "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+              "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+              "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+              "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))"
             ],
             "correct_index": 0,
             "explanation": "यह वर्तमान काल है।"
@@ -19485,9 +19482,9 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_b1_q1",
           "question": "ಪ್ರಶ್ನೆ: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
           "options": [
-            "भूतकाल",
-            "वर्तमान काल",
-            "भविष्य काल",
+            "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+            "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+            "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
             "आज्ञार्थ"
           ],
           "correct_index": 1,
@@ -19497,9 +19494,9 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_b1_q2",
           "question": "ಪ್ರಶ್ನೆ: \"वह कल आया।\" यह कौन सा काल है?",
           "options": [
-            "भूतकाल",
-            "वर्तमान काल",
-            "भविष्य काल",
+            "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+            "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+            "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
             "कोई नहीं"
           ],
           "correct_index": 0,
@@ -19509,10 +19506,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_b1_q3",
           "question": "ಪ್ರಶ್ನೆ: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
           "options": [
-            "वर्तमान काल",
-            "भविष्य काल",
-            "भूतकाल",
-            "संज्ञा"
+            "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+            "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+            "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+            "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))"
           ],
           "correct_index": 1,
           "explanation": "यह भविष्य काल है।"
@@ -19521,10 +19518,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_b1_q4",
           "question": "ಪ್ರಶ್ನೆ: \"वह गा रही है।\" यह कौन सा काल है?",
           "options": [
-            "वर्तमान काल",
-            "भूतकाल",
-            "भविष्य काल",
-            "विशेषण"
+            "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+            "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+            "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+            "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))"
           ],
           "correct_index": 0,
           "explanation": "यह वर्तमान काल है।"
@@ -19557,10 +19554,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_b1_q7",
           "question": "ಪ್ರಶ್ನೆ: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
           "options": [
-            "वर्तमान काल",
-            "भूतकाल",
-            "भविष्य काल",
-            "संज्ञा"
+            "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
+            "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
+            "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+            "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))"
           ],
           "correct_index": 0,
           "explanation": "यह वर्तमान काल है।"
@@ -19587,10 +19584,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_i1_q1",
               "question": "ಪ್ರಶ್ನೆ: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
               "options": [
-                "लेकिन",
-                "और",
-                "क्योंकि",
-                "या"
+                "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
+                "और (ಔರ್ - ಮತ್ತು))",
+                "क्योंकि (ಕ್ಯೋಂಕಿ - ಏಕೆಂದರೆ))",
+                "या (ಯಾ - ಅಥವಾ))"
               ],
               "correct_index": 1,
               "explanation": "और विचारों को जोड़ता है।"
@@ -19600,7 +19597,7 @@ export const BILINGUAL_COURSES = {
               "question": "ಪ್ರಶ್ನೆ: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
               "options": [
                 "माता",
-                "और",
+                "और (ಔರ್ - ಮತ್ತು))",
                 "पिता",
                 "परिवार"
               ],
@@ -19611,7 +19608,7 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_i1_q3",
               "question": "ಪ್ರಶ್ನೆ: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
               "options": [
-                "लेकिन",
+                "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
                 "पढ़ाई",
                 "पास",
                 "वह"
@@ -19624,9 +19621,9 @@ export const BILINGUAL_COURSES = {
               "question": "ಪ್ರಶ್ನೆ: \"और\" एक ______ है।",
               "options": [
                 "ಸಂಯೋಜಕ (ಸಂಯೋಜಕ - ಜೋಡಣೆ)",
-                "संज्ञा",
-                "क्रिया",
-                "विशेषण"
+                "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+                "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+                "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))"
               ],
               "correct_index": 0,
               "explanation": "और संयोजक है।"
@@ -19647,7 +19644,7 @@ export const BILINGUAL_COURSES = {
               "id": "kn_hi_i1_q6",
               "question": "ಪ್ರಶ್ನೆ: निम्न में से कौन सा संयोजक है?",
               "options": [
-                "और",
+                "और (ಔರ್ - ಮತ್ತು))",
                 "घर",
                 "किताब",
                 "दौड़ना"
@@ -19662,7 +19659,7 @@ export const BILINGUAL_COURSES = {
                 "दो विकल्पों में से एक का चयन",
                 "स्थान",
                 "समय",
-                "क्रिया"
+                "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))"
               ],
               "correct_index": 0,
               "explanation": "या विकल्प दर्शाता है।"
@@ -19677,10 +19674,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_i1_q1",
             "question": "ಪ್ರಶ್ನೆ: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
             "options": [
-              "लेकिन",
-              "और",
-              "क्योंकि",
-              "या"
+              "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
+              "और (ಔರ್ - ಮತ್ತು))",
+              "क्योंकि (ಕ್ಯೋಂಕಿ - ಏಕೆಂದರೆ))",
+              "या (ಯಾ - ಅಥವಾ))"
             ],
             "correct_index": 1,
             "explanation": "और विचारों को जोड़ता है।"
@@ -19690,7 +19687,7 @@ export const BILINGUAL_COURSES = {
             "question": "ಪ್ರಶ್ನೆ: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
             "options": [
               "माता",
-              "और",
+              "और (ಔರ್ - ಮತ್ತು))",
               "पिता",
               "परिवार"
             ],
@@ -19701,7 +19698,7 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_i1_q3",
             "question": "ಪ್ರಶ್ನೆ: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
             "options": [
-              "लेकिन",
+              "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
               "पढ़ाई",
               "पास",
               "वह"
@@ -19713,10 +19710,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_i1_q4",
             "question": "ಪ್ರಶ್ನೆ: \"और\" एक ______ है।",
             "options": [
-              "संयोजक (Conjunction)",
-              "संज्ञा",
-              "क्रिया",
-              "विशेषण"
+              "ಸಂಯೋಜಕ (ಸಂಯೋಜಕ - ಜೋಡಣೆ)",
+              "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+              "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+              "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))"
             ],
             "correct_index": 0,
             "explanation": "और संयोजक है।"
@@ -19737,7 +19734,7 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_i1_q6",
             "question": "ಪ್ರಶ್ನೆ: निम्न में से कौन सा संयोजक है?",
             "options": [
-              "और",
+              "और (ಔರ್ - ಮತ್ತು))",
               "घर",
               "किताब",
               "दौड़ना"
@@ -19752,7 +19749,7 @@ export const BILINGUAL_COURSES = {
               "दो विकल्पों में से एक का चयन",
               "स्थान",
               "समय",
-              "क्रिया"
+              "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))"
             ],
             "correct_index": 0,
             "explanation": "या विकल्प दर्शाता है।"
@@ -19764,10 +19761,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_i1_q1",
           "question": "ಪ್ರಶ್ನೆ: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
           "options": [
-            "लेकिन",
-            "और",
-            "क्योंकि",
-            "या"
+            "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
+            "और (ಔರ್ - ಮತ್ತು))",
+            "क्योंकि (ಕ್ಯೋಂಕಿ - ಏಕೆಂದರೆ))",
+            "या (ಯಾ - ಅಥವಾ))"
           ],
           "correct_index": 1,
           "explanation": "और विचारों को जोड़ता है।"
@@ -19777,7 +19774,7 @@ export const BILINGUAL_COURSES = {
           "question": "ಪ್ರಶ್ನೆ: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
           "options": [
             "माता",
-            "और",
+            "और (ಔರ್ - ಮತ್ತು))",
             "पिता",
             "परिवार"
           ],
@@ -19788,7 +19785,7 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_i1_q3",
           "question": "ಪ್ರಶ್ನೆ: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
           "options": [
-            "लेकिन",
+            "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
             "पढ़ाई",
             "पास",
             "वह"
@@ -19800,10 +19797,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_i1_q4",
           "question": "ಪ್ರಶ್ನೆ: \"और\" एक ______ है।",
           "options": [
-            "संयोजक (Conjunction)",
-            "संज्ञा",
-            "क्रिया",
-            "विशेषण"
+            "ಸಂಯೋಜಕ (ಸಂಯೋಜಕ - ಜೋಡಣೆ)",
+            "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
+            "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+            "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))"
           ],
           "correct_index": 0,
           "explanation": "और संयोजक है।"
@@ -19824,7 +19821,7 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_i1_q6",
           "question": "ಪ್ರಶ್ನೆ: निम्न में से कौन सा संयोजक है?",
           "options": [
-            "और",
+            "और (ಔರ್ - ಮತ್ತು))",
             "घर",
             "किताब",
             "दौड़ना"
@@ -19839,7 +19836,7 @@ export const BILINGUAL_COURSES = {
             "दो विकल्पों में से एक का चयन",
             "स्थान",
             "समय",
-            "क्रिया"
+            "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))"
           ],
           "correct_index": 0,
           "explanation": "या विकल्प दर्शाता है।"
@@ -19992,7 +19989,7 @@ export const BILINGUAL_COURSES = {
             "id": "kn_hi_a1_q4",
             "question": "ಪ್ರಶ್ನೆ: \"रोज़ाना\" का क्या अर्थ है?",
             "options": [
-              "प्रतिदिन (Every day)",
+              "ಪ್ರತಿದಿನ (ಪ್ರತಿ ದಿನ - ಹರ್ ದಿನ್)",
               "कल",
               "कभी नहीं",
               "अगले सप्ताह"
@@ -20079,7 +20076,7 @@ export const BILINGUAL_COURSES = {
           "id": "kn_hi_a1_q4",
           "question": "ಪ್ರಶ್ನೆ: \"रोज़ाना\" का क्या अर्थ है?",
           "options": [
-            "प्रतिदिन (Every day)",
+            "ಪ್ರತಿದಿನ (ಪ್ರತಿ ದಿನ - ಹರ್ ದಿನ್)",
             "कल",
             "कभी नहीं",
             "अगले सप्ताह"
@@ -20147,10 +20144,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_f1_q1",
               "question": "ಪ್ರಶ್ನೆ: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
               "options": [
-                "14",
-                "15",
-                "12",
-                "13"
+                "14 (14 - ಹದಿನಾಲ್ಕು))",
+                "15 (15 - ಹದಿನೈದು))",
+                "12 (12 - ಹನ್ನೆರಡು))",
+                "13 (13 - ಹದಿಮೂರು))"
               ],
               "correct_index": 2,
               "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
@@ -20159,9 +20156,9 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_f1_q2",
               "question": "ಪ್ರಶ್ನೆ: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
               "options": [
-                "வினைச்சொல்",
-                "பெயர்ச்சொல்",
-                "உரிச்சொல்",
+                "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+                "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+                "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
                 "பிரதிபெயர்"
               ],
               "correct_index": 1,
@@ -20171,8 +20168,8 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_f1_q3",
               "question": "ಪ್ರಶ್ನೆ: \"மரம்\" என்பதன் பன்மை?",
               "options": [
-                "மரம்",
-                "மரங்கள்",
+                "மரம் (ಮರಂ - ಮರ))",
+                "மரங்கள் (ಮರಂಗಳ್ - ಮರಗಳು))",
                 "மரத்தால்",
                 "மரங்கள்ல்"
               ],
@@ -20183,10 +20180,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_f1_q4",
               "question": "ಪ್ರಶ್ನೆ: \"அழகான\" என்பது எந்த வகைச் சொல்?",
               "options": [
-                "உரிச்சொல்",
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "இடைச்சொல்"
+                "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
+                "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+                "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+                "இடைச்சொல் (ಇಡೈಚ್‌ಸೊಲ್ - ಅವ್ಯಯ))"
               ],
               "correct_index": 0,
               "explanation": "அழகான உரிச்சொல் ஆகும்."
@@ -20195,9 +20192,9 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_f1_q5",
               "question": "ಪ್ರಶ್ನೆ: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
               "options": [
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "உரிச்சொல்",
+                "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+                "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+                "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
                 "பிரதிபெயர்"
               ],
               "correct_index": 1,
@@ -20237,10 +20234,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_f1_q1",
             "question": "ಪ್ರಶ್ನೆ: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
             "options": [
-              "14",
-              "15",
-              "12",
-              "13"
+              "14 (14 - ಹದಿನಾಲ್ಕು))",
+              "15 (15 - ಹದಿನೈದು))",
+              "12 (12 - ಹನ್ನೆರಡು))",
+              "13 (13 - ಹದಿಮೂರು))"
             ],
             "correct_index": 2,
             "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
@@ -20249,9 +20246,9 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_f1_q2",
             "question": "ಪ್ರಶ್ನೆ: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
             "options": [
-              "வினைச்சொல்",
-              "பெயர்ச்சொல்",
-              "உரிச்சொல்",
+              "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+              "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+              "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
               "பிரதிபெயர்"
             ],
             "correct_index": 1,
@@ -20261,8 +20258,8 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_f1_q3",
             "question": "ಪ್ರಶ್ನೆ: \"மரம்\" என்பதன் பன்மை?",
             "options": [
-              "மரம்",
-              "மரங்கள்",
+              "மரம் (ಮರಂ - ಮರ))",
+              "மரங்கள் (ಮರಂಗಳ್ - ಮರಗಳು))",
               "மரத்தால்",
               "மரங்கள்ல்"
             ],
@@ -20273,10 +20270,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_f1_q4",
             "question": "ಪ್ರಶ್ನೆ: \"அழகான\" என்பது எந்த வகைச் சொல்?",
             "options": [
-              "உரிச்சொல்",
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "இடைச்சொல்"
+              "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
+              "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+              "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+              "இடைச்சொல் (ಇಡೈಚ್‌ಸೊಲ್ - ಅವ್ಯಯ))"
             ],
             "correct_index": 0,
             "explanation": "அழகான உரிச்சொல் ஆகும்."
@@ -20285,9 +20282,9 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_f1_q5",
             "question": "ಪ್ರಶ್ನೆ: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
             "options": [
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "உரிச்சொல்",
+              "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+              "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+              "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
               "பிரதிபெயர்"
             ],
             "correct_index": 1,
@@ -20324,10 +20321,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_f1_q1",
           "question": "ಪ್ರಶ್ನೆ: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
           "options": [
-            "14",
-            "15",
-            "12",
-            "13"
+            "14 (14 - ಹದಿನಾಲ್ಕು))",
+            "15 (15 - ಹದಿನೈದು))",
+            "12 (12 - ಹನ್ನೆರಡು))",
+            "13 (13 - ಹದಿಮೂರು))"
           ],
           "correct_index": 2,
           "explanation": "தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
@@ -20336,9 +20333,9 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_f1_q2",
           "question": "ಪ್ರಶ್ನೆ: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
           "options": [
-            "வினைச்சொல்",
-            "பெயர்ச்சொல்",
-            "உரிச்சொல்",
+            "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+            "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+            "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
             "பிரதிபெயர்"
           ],
           "correct_index": 1,
@@ -20348,8 +20345,8 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_f1_q3",
           "question": "ಪ್ರಶ್ನೆ: \"மரம்\" என்பதன் பன்மை?",
           "options": [
-            "மரம்",
-            "மரங்கள்",
+            "மரம் (ಮರಂ - ಮರ))",
+            "மரங்கள் (ಮರಂಗಳ್ - ಮರಗಳು))",
             "மரத்தால்",
             "மரங்கள்ல்"
           ],
@@ -20360,10 +20357,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_f1_q4",
           "question": "ಪ್ರಶ್ನೆ: \"அழகான\" என்பது எந்த வகைச் சொல்?",
           "options": [
-            "உரிச்சொல்",
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "இடைச்சொல்"
+            "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
+            "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+            "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+            "இடைச்சொல் (ಇಡೈಚ್‌ಸೊಲ್ - ಅವ್ಯಯ))"
           ],
           "correct_index": 0,
           "explanation": "அழகான உரிச்சொல் ஆகும்."
@@ -20372,9 +20369,9 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_f1_q5",
           "question": "ಪ್ರಶ್ನೆ: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
           "options": [
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "உரிச்சொல்",
+            "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+            "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+            "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
             "பிரதிபெயர்"
           ],
           "correct_index": 1,
@@ -20426,9 +20423,9 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_b1_q1",
               "question": "ಪ್ರಶ್ನೆ: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
               "options": [
-                "இறந்தகாலம்",
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
+                "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+                "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
                 "கட்டளை"
               ],
               "correct_index": 1,
@@ -20438,9 +20435,9 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_b1_q2",
               "question": "ಪ್ರಶ್ನೆ: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
               "options": [
-                "இறந்தகாலம்",
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
+                "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+                "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
                 "எதுவுமில்லை"
               ],
               "correct_index": 0,
@@ -20450,10 +20447,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_b1_q3",
               "question": "ಪ್ರಶ್ನೆ: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
               "options": [
-                "நிகழ்காலம்",
-                "எதிர்காலம்",
-                "இறந்தகாலம்",
-                "பெயர்ச்சொல்"
+                "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+                "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+                "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))"
               ],
               "correct_index": 1,
               "explanation": "செல்வேன் எதிர்காலம்."
@@ -20462,10 +20459,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_b1_q4",
               "question": "ಪ್ರಶ್ನೆ: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
               "options": [
-                "நிகழ்காலம்",
-                "இறந்தகாலம்",
-                "எதிர்காலம்",
-                "உரிச்சொல்"
+                "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+                "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+                "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))"
               ],
               "correct_index": 0,
               "explanation": "பாடுகிறாள் நிகழ்காலம்."
@@ -20498,10 +20495,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_b1_q7",
               "question": "ಪ್ರಶ್ನೆ: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
               "options": [
-                "நிகழ்காலம்",
-                "இறந்தகாலம்",
-                "எதிர்காலம்",
-                "பெயர்ச்சொல்"
+                "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+                "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+                "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))"
               ],
               "correct_index": 0,
               "explanation": "நிகழ்காலம்."
@@ -20516,9 +20513,9 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_b1_q1",
             "question": "ಪ್ರಶ್ನೆ: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
             "options": [
-              "இறந்தகாலம்",
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
+              "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+              "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
               "கட்டளை"
             ],
             "correct_index": 1,
@@ -20528,9 +20525,9 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_b1_q2",
             "question": "ಪ್ರಶ್ನೆ: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
             "options": [
-              "இறந்தகாலம்",
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
+              "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+              "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
               "எதுவுமில்லை"
             ],
             "correct_index": 0,
@@ -20540,10 +20537,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_b1_q3",
             "question": "ಪ್ರಶ್ನೆ: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
             "options": [
-              "நிகழ்காலம்",
-              "எதிர்காலம்",
-              "இறந்தகாலம்",
-              "பெயர்ச்சொல்"
+              "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+              "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+              "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))"
             ],
             "correct_index": 1,
             "explanation": "செல்வேன் எதிர்காலம்."
@@ -20552,10 +20549,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_b1_q4",
             "question": "ಪ್ರಶ್ನೆ: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
             "options": [
-              "நிகழ்காலம்",
-              "இறந்தகாலம்",
-              "எதிர்காலம்",
-              "உரிச்சொல்"
+              "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+              "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+              "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))"
             ],
             "correct_index": 0,
             "explanation": "பாடுகிறாள் நிகழ்காலம்."
@@ -20588,10 +20585,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_b1_q7",
             "question": "ಪ್ರಶ್ನೆ: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
             "options": [
-              "நிகழ்காலம்",
-              "இறந்தகாலம்",
-              "எதிர்காலம்",
-              "பெயர்ச்சொல்"
+              "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+              "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+              "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))"
             ],
             "correct_index": 0,
             "explanation": "நிகழ்காலம்."
@@ -20603,9 +20600,9 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_b1_q1",
           "question": "ಪ್ರಶ್ನೆ: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
           "options": [
-            "இறந்தகாலம்",
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
+            "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+            "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
             "கட்டளை"
           ],
           "correct_index": 1,
@@ -20615,9 +20612,9 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_b1_q2",
           "question": "ಪ್ರಶ್ನೆ: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
           "options": [
-            "இறந்தகாலம்",
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
+            "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+            "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
             "எதுவுமில்லை"
           ],
           "correct_index": 0,
@@ -20627,10 +20624,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_b1_q3",
           "question": "ಪ್ರಶ್ನೆ: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
           "options": [
-            "நிகழ்காலம்",
-            "எதிர்காலம்",
-            "இறந்தகாலம்",
-            "பெயர்ச்சொல்"
+            "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+            "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+            "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))"
           ],
           "correct_index": 1,
           "explanation": "செல்வேன் எதிர்காலம்."
@@ -20639,10 +20636,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_b1_q4",
           "question": "ಪ್ರಶ್ನೆ: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
           "options": [
-            "நிகழ்காலம்",
-            "இறந்தகாலம்",
-            "எதிர்காலம்",
-            "உரிச்சொல்"
+            "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+            "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+            "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))"
           ],
           "correct_index": 0,
           "explanation": "பாடுகிறாள் நிகழ்காலம்."
@@ -20675,10 +20672,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_b1_q7",
           "question": "ಪ್ರಶ್ನೆ: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
           "options": [
-            "நிகழ்காலம்",
-            "இறந்தகாலம்",
-            "எதிர்காலம்",
-            "பெயர்ச்சொல்"
+            "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
+            "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+            "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))"
           ],
           "correct_index": 0,
           "explanation": "நிகழ்காலம்."
@@ -20705,10 +20702,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_i1_q1",
               "question": "ಪ್ರಶ್ನೆ: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
               "options": [
-                "ஆனால்",
-                "மற்றும்",
+                "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
+                "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
                 "ஏனெனில்",
-                "அல்லது"
+                "அல்லது (ಅಲ್ಲದು - ಅಥವಾ))"
               ],
               "correct_index": 1,
               "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -20718,7 +20715,7 @@ export const BILINGUAL_COURSES = {
               "question": "ಪ್ರಶ್ನೆ: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
               "options": [
                 "அம்மா",
-                "மற்றும்",
+                "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
                 "அப்பா",
                 "குடும்பம்"
               ],
@@ -20729,7 +20726,7 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_i1_q3",
               "question": "ಪ್ರಶ್ನೆ: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
               "options": [
-                "ஆனால்",
+                "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
                 "படித்தான்",
                 "தேர்ச்சி",
                 "அவன்"
@@ -20741,10 +20738,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_i1_q4",
               "question": "ಪ್ರಶ್ನೆ: \"மற்றும்\" என்பது ஒரு ______.",
               "options": [
-                "இணைப்புச் சொல்",
-                "பெயர்ச்சொல்",
-                "வினைச்சொல்",
-                "உரிச்சொல்"
+                "இணைப்புச் சொல் (ಇಣೈಪ್ಪುಚ್‌ಸೊಲ್ - ಸಂಪರ್ಕ ಪದ))",
+                "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+                "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+                "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))"
               ],
               "correct_index": 0,
               "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -20765,7 +20762,7 @@ export const BILINGUAL_COURSES = {
               "id": "kn_ta_i1_q6",
               "question": "ಪ್ರಶ್ನೆ: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
               "options": [
-                "மற்றும்",
+                "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
                 "வீடு",
                 "புத்தகம்",
                 "ஓடு"
@@ -20795,10 +20792,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_i1_q1",
             "question": "ಪ್ರಶ್ನೆ: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
             "options": [
-              "ஆனால்",
-              "மற்றும்",
+              "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
+              "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
               "ஏனெனில்",
-              "அல்லது"
+              "அல்லது (ಅಲ್ಲದು - ಅಥವಾ))"
             ],
             "correct_index": 1,
             "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -20808,7 +20805,7 @@ export const BILINGUAL_COURSES = {
             "question": "ಪ್ರಶ್ನೆ: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
             "options": [
               "அம்மா",
-              "மற்றும்",
+              "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
               "அப்பா",
               "குடும்பம்"
             ],
@@ -20819,7 +20816,7 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_i1_q3",
             "question": "ಪ್ರಶ್ನೆ: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
             "options": [
-              "ஆனால்",
+              "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
               "படித்தான்",
               "தேர்ச்சி",
               "அவன்"
@@ -20831,10 +20828,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_i1_q4",
             "question": "ಪ್ರಶ್ನೆ: \"மற்றும்\" என்பது ஒரு ______.",
             "options": [
-              "இணைப்புச் சொல்",
-              "பெயர்ச்சொல்",
-              "வினைச்சொல்",
-              "உரிச்சொல்"
+              "இணைப்புச் சொல் (ಇಣೈಪ್ಪುಚ್‌ಸೊಲ್ - ಸಂಪರ್ಕ ಪದ))",
+              "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+              "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+              "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))"
             ],
             "correct_index": 0,
             "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -20855,7 +20852,7 @@ export const BILINGUAL_COURSES = {
             "id": "kn_ta_i1_q6",
             "question": "ಪ್ರಶ್ನೆ: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
             "options": [
-              "மற்றும்",
+              "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
               "வீடு",
               "புத்தகம்",
               "ஓடு"
@@ -20882,10 +20879,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_i1_q1",
           "question": "ಪ್ರಶ್ನೆ: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
           "options": [
-            "ஆனால்",
-            "மற்றும்",
+            "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
+            "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
             "ஏனெனில்",
-            "அல்லது"
+            "அல்லது (ಅಲ್ಲದು - ಅಥವಾ))"
           ],
           "correct_index": 1,
           "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -20895,7 +20892,7 @@ export const BILINGUAL_COURSES = {
           "question": "ಪ್ರಶ್ನೆ: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
           "options": [
             "அம்மா",
-            "மற்றும்",
+            "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
             "அப்பா",
             "குடும்பம்"
           ],
@@ -20906,7 +20903,7 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_i1_q3",
           "question": "ಪ್ರಶ್ನೆ: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
           "options": [
-            "ஆனால்",
+            "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
             "படித்தான்",
             "தேர்ச்சி",
             "அவன்"
@@ -20918,10 +20915,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_i1_q4",
           "question": "ಪ್ರಶ್ನೆ: \"மற்றும்\" என்பது ஒரு ______.",
           "options": [
-            "இணைப்புச் சொல்",
-            "பெயர்ச்சொல்",
-            "வினைச்சொல்",
-            "உரிச்சொல்"
+            "இணைப்புச் சொல் (ಇಣೈಪ್ಪುಚ್‌ಸೊಲ್ - ಸಂಪರ್ಕ ಪದ))",
+            "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
+            "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
+            "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))"
           ],
           "correct_index": 0,
           "explanation": "மற்றும் இணைப்புச் சொல்."
@@ -20942,7 +20939,7 @@ export const BILINGUAL_COURSES = {
           "id": "kn_ta_i1_q6",
           "question": "ಪ್ರಶ್ನೆ: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
           "options": [
-            "மற்றும்",
+            "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
             "வீடு",
             "புத்தகம்",
             "ஓடு"
@@ -21265,10 +21262,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_f1_q1",
               "question": "ಪ್ರಶ್ನೆ: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
               "options": [
-                "14",
-                "15",
-                "16",
-                "12"
+                "14 (14 - ಹದಿನಾಲ್ಕು))",
+                "15 (15 - ಹದಿನೈದು))",
+                "16 (16 - ಹದಿನಾರು))",
+                "12 (12 - ಹನ್ನೆರಡು))"
               ],
               "correct_index": 2,
               "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
@@ -21277,10 +21274,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_f1_q2",
               "question": "ಪ್ರಶ್ನೆ: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
-                "క్రియ",
-                "నామవాచకం",
-                "విశేషణం",
-                "సర్వనామం"
+                "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+                "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+                "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
+                "సర్వనామం (ಸರ್ವನಾಮಂ - ಸರ್ವನಾಮ))"
               ],
               "correct_index": 1,
               "explanation": "“అమ్మ” నామవాచకం."
@@ -21289,8 +21286,8 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_f1_q3",
               "question": "ಪ್ರಶ್ನೆ: “చెట్టు” పదానికి బహువచనం ఏది?",
               "options": [
-                "చెట్టు",
-                "చెట్లు",
+                "చెట్టు (ಚೆಟ್ಟು - ಮರ))",
+                "చెట్లు (ಚೆಟ್ಲು - ಮರಗಳು))",
                 "చెట్టులు",
                 "చెట్ల"
               ],
@@ -21301,9 +21298,9 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_f1_q4",
               "question": "ಪ್ರಶ್ನೆ: “మంచి” ఏ పదవర్గం?",
               "options": [
-                "విశేషణం",
-                "నామవాచకం",
-                "క్రియ",
+                "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
+                "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+                "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
                 "అవ్యయం"
               ],
               "correct_index": 0,
@@ -21313,10 +21310,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_f1_q5",
               "question": "ಪ್ರಶ್ನೆ: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
-                "నామవాచకం",
-                "క్రియ",
-                "విశేషణం",
-                "సర్వనామం"
+                "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+                "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+                "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
+                "సర్వనామం (ಸರ್ವನಾಮಂ - ಸರ್ವನಾಮ))"
               ],
               "correct_index": 1,
               "explanation": "చదువుతున్నాను క్రియ."
@@ -21327,7 +21324,7 @@ export const BILINGUAL_COURSES = {
               "options": [
                 "ఇల్లు",
                 "గ్రంథం",
-                "చెట్టు",
+                "చెట్టు (ಚೆಟ್ಟು - ಮರ))",
                 "రహదారి"
               ],
               "correct_index": 1,
@@ -21355,10 +21352,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_f1_q1",
             "question": "ಪ್ರಶ್ನೆ: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
             "options": [
-              "14",
-              "15",
-              "16",
-              "12"
+              "14 (14 - ಹದಿನಾಲ್ಕು))",
+              "15 (15 - ಹದಿನೈದು))",
+              "16 (16 - ಹದಿನಾರು))",
+              "12 (12 - ಹನ್ನೆರಡು))"
             ],
             "correct_index": 2,
             "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
@@ -21367,10 +21364,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_f1_q2",
             "question": "ಪ್ರಶ್ನೆ: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
-              "క్రియ",
-              "నామవాచకం",
-              "విశేషణం",
-              "సర్వనామం"
+              "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+              "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+              "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
+              "సర్వనామం (ಸರ್ವನಾಮಂ - ಸರ್ವನಾಮ))"
             ],
             "correct_index": 1,
             "explanation": "“అమ్మ” నామవాచకం."
@@ -21379,8 +21376,8 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_f1_q3",
             "question": "ಪ್ರಶ್ನೆ: “చెట్టు” పదానికి బహువచనం ఏది?",
             "options": [
-              "చెట్టు",
-              "చెట్లు",
+              "చెట్టు (ಚೆಟ್ಟು - ಮರ))",
+              "చెట్లు (ಚೆಟ್ಲು - ಮರಗಳು))",
               "చెట్టులు",
               "చెట్ల"
             ],
@@ -21391,9 +21388,9 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_f1_q4",
             "question": "ಪ್ರಶ್ನೆ: “మంచి” ఏ పదవర్గం?",
             "options": [
-              "విశేషణం",
-              "నామవాచకం",
-              "క్రియ",
+              "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
+              "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+              "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
               "అవ్యయం"
             ],
             "correct_index": 0,
@@ -21403,10 +21400,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_f1_q5",
             "question": "ಪ್ರಶ್ನೆ: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
-              "నామవాచకం",
-              "క్రియ",
-              "విశేషణం",
-              "సర్వనామం"
+              "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+              "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+              "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
+              "సర్వనామం (ಸರ್ವನಾಮಂ - ಸರ್ವನಾಮ))"
             ],
             "correct_index": 1,
             "explanation": "చదువుతున్నాను క్రియ."
@@ -21417,7 +21414,7 @@ export const BILINGUAL_COURSES = {
             "options": [
               "ఇల్లు",
               "గ్రంథం",
-              "చెట్టు",
+              "చెట్టు (ಚೆಟ್ಟು - ಮರ))",
               "రహదారి"
             ],
             "correct_index": 1,
@@ -21442,10 +21439,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_f1_q1",
           "question": "ಪ್ರಶ್ನೆ: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
           "options": [
-            "14",
-            "15",
-            "16",
-            "12"
+            "14 (14 - ಹದಿನಾಲ್ಕು))",
+            "15 (15 - ಹದಿನೈದು))",
+            "16 (16 - ಹದಿನಾರು))",
+            "12 (12 - ಹನ್ನೆರಡು))"
           ],
           "correct_index": 2,
           "explanation": "తెలుగులో 16 అచ్చులు ఉన్నాయి."
@@ -21454,10 +21451,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_f1_q2",
           "question": "ಪ್ರಶ್ನೆ: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
-            "క్రియ",
-            "నామవాచకం",
-            "విశేషణం",
-            "సర్వనామం"
+            "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+            "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+            "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
+            "సర్వనామం (ಸರ್ವನಾಮಂ - ಸರ್ವನಾಮ))"
           ],
           "correct_index": 1,
           "explanation": "“అమ్మ” నామవాచకం."
@@ -21466,8 +21463,8 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_f1_q3",
           "question": "ಪ್ರಶ್ನೆ: “చెట్టు” పదానికి బహువచనం ఏది?",
           "options": [
-            "చెట్టు",
-            "చెట్లు",
+            "చెట్టు (ಚೆಟ್ಟು - ಮರ))",
+            "చెట్లు (ಚೆಟ್ಲು - ಮರಗಳು))",
             "చెట్టులు",
             "చెట్ల"
           ],
@@ -21478,9 +21475,9 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_f1_q4",
           "question": "ಪ್ರಶ್ನೆ: “మంచి” ఏ పదవర్గం?",
           "options": [
-            "విశేషణం",
-            "నామవాచకం",
-            "క్రియ",
+            "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
+            "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+            "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
             "అవ్యయం"
           ],
           "correct_index": 0,
@@ -21490,10 +21487,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_f1_q5",
           "question": "ಪ್ರಶ್ನೆ: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
-            "నామవాచకం",
-            "క్రియ",
-            "విశేషణం",
-            "సర్వనామం"
+            "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+            "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+            "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
+            "సర్వనామం (ಸರ್ವನಾಮಂ - ಸರ್ವನಾಮ))"
           ],
           "correct_index": 1,
           "explanation": "చదువుతున్నాను క్రియ."
@@ -21504,7 +21501,7 @@ export const BILINGUAL_COURSES = {
           "options": [
             "ఇల్లు",
             "గ్రంథం",
-            "చెట్టు",
+            "చెట్టు (ಚೆಟ್ಟು - ಮರ))",
             "రహదారి"
           ],
           "correct_index": 1,
@@ -21544,9 +21541,9 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_b1_q1",
               "question": "ಪ್ರಶ್ನೆ: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
+                "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+                "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
                 "ఆజ్ఞార్థకం"
               ],
               "correct_index": 1,
@@ -21556,9 +21553,9 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_b1_q2",
               "question": "ಪ್ರಶ್ನೆ: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
+                "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+                "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
                 "లేదు"
               ],
               "correct_index": 0,
@@ -21568,10 +21565,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_b1_q3",
               "question": "ಪ್ರಶ್ನೆ: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
               "options": [
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "భూతకాలం",
-                "నామవాచకం"
+                "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+                "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+                "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))"
               ],
               "correct_index": 1,
               "explanation": "వెళ్తాను భవిష్యత్ కాలం."
@@ -21580,10 +21577,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_b1_q4",
               "question": "ಪ್ರಶ್ನೆ: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "విశేషణం"
+                "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+                "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+                "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))"
               ],
               "correct_index": 0,
               "explanation": "పాడుతోంది వర్తమాన కాలం."
@@ -21592,9 +21589,9 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_b1_q5",
               "question": "ಪ್ರಶ್ನೆ: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
+                "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+                "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
                 "లేదు"
               ],
               "correct_index": 1,
@@ -21604,10 +21601,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_b1_q6",
               "question": "ಪ್ರಶ್ನೆ: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
               "options": [
-                "భూతకాలం",
-                "వర్తమాన కాలం",
-                "భవిష్యత్ కాలం",
-                "విశేషణం"
+                "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+                "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+                "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))"
               ],
               "correct_index": 2,
               "explanation": "చదువుతాను భవిష్యత్ కాలం."
@@ -21616,10 +21613,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_b1_q7",
               "question": "ಪ್ರಶ್ನೆ: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
               "options": [
-                "వర్తమాన కాలం",
-                "భూతకాలం",
-                "భవిష్యత్ కాలం",
-                "నామవాచకం"
+                "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+                "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+                "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+                "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))"
               ],
               "correct_index": 0,
               "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
@@ -21634,9 +21631,9 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_b1_q1",
             "question": "ಪ್ರಶ್ನೆ: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
+              "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+              "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
               "ఆజ్ఞార్థకం"
             ],
             "correct_index": 1,
@@ -21646,9 +21643,9 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_b1_q2",
             "question": "ಪ್ರಶ್ನೆ: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
+              "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+              "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
               "లేదు"
             ],
             "correct_index": 0,
@@ -21658,10 +21655,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_b1_q3",
             "question": "ಪ್ರಶ್ನೆ: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
             "options": [
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "భూతకాలం",
-              "నామవాచకం"
+              "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+              "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+              "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))"
             ],
             "correct_index": 1,
             "explanation": "వెళ్తాను భవిష్యత్ కాలం."
@@ -21670,10 +21667,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_b1_q4",
             "question": "ಪ್ರಶ್ನೆ: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "విశేషణం"
+              "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+              "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+              "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))"
             ],
             "correct_index": 0,
             "explanation": "పాడుతోంది వర్తమాన కాలం."
@@ -21682,9 +21679,9 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_b1_q5",
             "question": "ಪ್ರಶ್ನೆ: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
+              "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+              "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
               "లేదు"
             ],
             "correct_index": 1,
@@ -21694,10 +21691,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_b1_q6",
             "question": "ಪ್ರಶ್ನೆ: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
             "options": [
-              "భూతకాలం",
-              "వర్తమాన కాలం",
-              "భవిష్యత్ కాలం",
-              "విశేషణం"
+              "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+              "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+              "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))"
             ],
             "correct_index": 2,
             "explanation": "చదువుతాను భవిష్యత్ కాలం."
@@ -21706,10 +21703,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_b1_q7",
             "question": "ಪ್ರಶ್ನೆ: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
             "options": [
-              "వర్తమాన కాలం",
-              "భూతకాలం",
-              "భవిష్యత్ కాలం",
-              "నామవాచకం"
+              "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+              "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+              "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+              "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))"
             ],
             "correct_index": 0,
             "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
@@ -21721,9 +21718,9 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_b1_q1",
           "question": "ಪ್ರಶ್ನೆ: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
+            "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+            "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
             "ఆజ్ఞార్థకం"
           ],
           "correct_index": 1,
@@ -21733,9 +21730,9 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_b1_q2",
           "question": "ಪ್ರಶ್ನೆ: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
+            "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+            "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
             "లేదు"
           ],
           "correct_index": 0,
@@ -21745,10 +21742,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_b1_q3",
           "question": "ಪ್ರಶ್ನೆ: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
           "options": [
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "భూతకాలం",
-            "నామవాచకం"
+            "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+            "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+            "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))"
           ],
           "correct_index": 1,
           "explanation": "వెళ్తాను భవిష్యత్ కాలం."
@@ -21757,10 +21754,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_b1_q4",
           "question": "ಪ್ರಶ್ನೆ: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "విశేషణం"
+            "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+            "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+            "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))"
           ],
           "correct_index": 0,
           "explanation": "పాడుతోంది వర్తమాన కాలం."
@@ -21769,9 +21766,9 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_b1_q5",
           "question": "ಪ್ರಶ್ನೆ: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
+            "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+            "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
             "లేదు"
           ],
           "correct_index": 1,
@@ -21781,10 +21778,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_b1_q6",
           "question": "ಪ್ರಶ್ನೆ: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
           "options": [
-            "భూతకాలం",
-            "వర్తమాన కాలం",
-            "భవిష్యత్ కాలం",
-            "విశేషణం"
+            "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+            "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+            "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))"
           ],
           "correct_index": 2,
           "explanation": "చదువుతాను భవిష్యత్ కాలం."
@@ -21793,10 +21790,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_b1_q7",
           "question": "ಪ್ರಶ್ನೆ: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
           "options": [
-            "వర్తమాన కాలం",
-            "భూతకాలం",
-            "భవిష్యత్ కాలం",
-            "నామవాచకం"
+            "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
+            "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
+            "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
+            "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))"
           ],
           "correct_index": 0,
           "explanation": "ఆడుతున్నాడు వర్తమాన కాలం."
@@ -21823,10 +21820,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_i1_q1",
               "question": "ಪ್ರಶ್ನೆ: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
               "options": [
-                "కానీ",
-                "మరియు",
+                "కానీ (ಕಾನೀ - ಆದರೆ))",
+                "మరియు (ಮರಿಯು - ಮತ್ತು))",
                 "ఎందుకంటే",
-                "లేదా"
+                "లేదా (ಲೇದಾ - ಅಥವಾ))"
               ],
               "correct_index": 1,
               "explanation": "మరియు సంధాన పదం."
@@ -21836,7 +21833,7 @@ export const BILINGUAL_COURSES = {
               "question": "ಪ್ರಶ್ನೆ: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
               "options": [
                 "అమ్మ",
-                "మరియు",
+                "మరియు (ಮರಿಯು - ಮತ್ತು))",
                 "నాన్న",
                 "లో"
               ],
@@ -21847,7 +21844,7 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_i1_q3",
               "question": "ಪ್ರಶ್ನೆ: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
               "options": [
-                "కానీ",
+                "కానీ (ಕಾನೀ - ಆದರೆ))",
                 "చదివాడు",
                 "ఉత్తీర్ణుడు",
                 "కాలేదు"
@@ -21859,10 +21856,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_i1_q4",
               "question": "ಪ್ರಶ್ನೆ: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
-                "సంధాన పదం",
-                "నామవాచకం",
-                "క్రియ",
-                "విశేషణం"
+                "సంధాన పదం (ಸಂಧಾನ ಪದಂ - ಸಂಪರ್ಕ ಪದ))",
+                "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+                "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+                "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))"
               ],
               "correct_index": 0,
               "explanation": "మరియు సంధాన పదం."
@@ -21883,7 +21880,7 @@ export const BILINGUAL_COURSES = {
               "id": "kn_te_i1_q6",
               "question": "ಪ್ರಶ್ನೆ: సరైన సంధాన పదం ఏది?",
               "options": [
-                "మరియు",
+                "మరియు (ಮರಿಯು - ಮತ್ತು))",
                 "పుస్తకం",
                 "ఇల్లు",
                 "పరుగెత్తు"
@@ -21898,7 +21895,7 @@ export const BILINGUAL_COURSES = {
                 "రెండు ఎంపికల్లో ఒకటి",
                 "సమయం",
                 "స్థలం",
-                "క్రియ"
+                "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))"
               ],
               "correct_index": 0,
               "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
@@ -21913,10 +21910,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_i1_q1",
             "question": "ಪ್ರಶ್ನೆ: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
             "options": [
-              "కానీ",
-              "మరియు",
+              "కానీ (ಕಾನೀ - ಆದರೆ))",
+              "మరియు (ಮರಿಯು - ಮತ್ತು))",
               "ఎందుకంటే",
-              "లేదా"
+              "లేదా (ಲೇದಾ - ಅಥವಾ))"
             ],
             "correct_index": 1,
             "explanation": "మరియు సంధాన పదం."
@@ -21926,7 +21923,7 @@ export const BILINGUAL_COURSES = {
             "question": "ಪ್ರಶ್ನೆ: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
             "options": [
               "అమ్మ",
-              "మరియు",
+              "మరియు (ಮರಿಯು - ಮತ್ತು))",
               "నాన్న",
               "లో"
             ],
@@ -21937,7 +21934,7 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_i1_q3",
             "question": "ಪ್ರಶ್ನೆ: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
             "options": [
-              "కానీ",
+              "కానీ (ಕಾನೀ - ಆದರೆ))",
               "చదివాడు",
               "ఉత్తీర్ణుడు",
               "కాలేదు"
@@ -21949,10 +21946,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_i1_q4",
             "question": "ಪ್ರಶ್ನೆ: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
-              "సంధాన పదం",
-              "నామవాచకం",
-              "క్రియ",
-              "విశేషణం"
+              "సంధాన పదం (ಸಂಧಾನ ಪದಂ - ಸಂಪರ್ಕ ಪದ))",
+              "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+              "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+              "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))"
             ],
             "correct_index": 0,
             "explanation": "మరియు సంధాన పదం."
@@ -21973,7 +21970,7 @@ export const BILINGUAL_COURSES = {
             "id": "kn_te_i1_q6",
             "question": "ಪ್ರಶ್ನೆ: సరైన సంధాన పదం ఏది?",
             "options": [
-              "మరియు",
+              "మరియు (ಮರಿಯು - ಮತ್ತು))",
               "పుస్తకం",
               "ఇల్లు",
               "పరుగెత్తు"
@@ -21988,7 +21985,7 @@ export const BILINGUAL_COURSES = {
               "రెండు ఎంపికల్లో ఒకటి",
               "సమయం",
               "స్థలం",
-              "క్రియ"
+              "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))"
             ],
             "correct_index": 0,
             "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
@@ -22000,10 +21997,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_i1_q1",
           "question": "ಪ್ರಶ್ನೆ: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
           "options": [
-            "కానీ",
-            "మరియు",
+            "కానీ (ಕಾನೀ - ಆದರೆ))",
+            "మరియు (ಮರಿಯು - ಮತ್ತು))",
             "ఎందుకంటే",
-            "లేదా"
+            "లేదా (ಲೇದಾ - ಅಥವಾ))"
           ],
           "correct_index": 1,
           "explanation": "మరియు సంధాన పదం."
@@ -22013,7 +22010,7 @@ export const BILINGUAL_COURSES = {
           "question": "ಪ್ರಶ್ನೆ: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
           "options": [
             "అమ్మ",
-            "మరియు",
+            "మరియు (ಮರಿಯು - ಮತ್ತು))",
             "నాన్న",
             "లో"
           ],
@@ -22024,7 +22021,7 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_i1_q3",
           "question": "ಪ್ರಶ್ನೆ: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
           "options": [
-            "కానీ",
+            "కానీ (ಕಾನೀ - ಆದರೆ))",
             "చదివాడు",
             "ఉత్తీర్ణుడు",
             "కాలేదు"
@@ -22036,10 +22033,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_i1_q4",
           "question": "ಪ್ರಶ್ನೆ: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
-            "సంధాన పదం",
-            "నామవాచకం",
-            "క్రియ",
-            "విశేషణం"
+            "సంధాన పదం (ಸಂಧಾನ ಪದಂ - ಸಂಪರ್ಕ ಪದ))",
+            "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
+            "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
+            "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))"
           ],
           "correct_index": 0,
           "explanation": "మరియు సంధాన పదం."
@@ -22060,7 +22057,7 @@ export const BILINGUAL_COURSES = {
           "id": "kn_te_i1_q6",
           "question": "ಪ್ರಶ್ನೆ: సరైన సంధాన పదం ఏది?",
           "options": [
-            "మరియు",
+            "మరియు (ಮರಿಯು - ಮತ್ತು))",
             "పుస్తకం",
             "ఇల్లు",
             "పరుగెత్తు"
@@ -22075,7 +22072,7 @@ export const BILINGUAL_COURSES = {
             "రెండు ఎంపికల్లో ఒకటి",
             "సమయం",
             "స్థలం",
-            "క్రియ"
+            "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))"
           ],
           "correct_index": 0,
           "explanation": "లేదా అంటే రెండు ఎంపికల్లో ఒకటి."
@@ -22380,7 +22377,6 @@ export function getBilingualCourse(courseIdOrPath, uiLang, learnLang) {
   }
   return null;
 }
-
 
 export function loadBilingualCoursesList(uiLang, learnLang) {
   if (!uiLang || !learnLang) return null;
