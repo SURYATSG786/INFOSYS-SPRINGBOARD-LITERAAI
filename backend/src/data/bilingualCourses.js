@@ -22380,3 +22380,12 @@ export function getBilingualCourse(courseIdOrPath, uiLang, learnLang) {
   }
   return null;
 }
+
+
+export function loadBilingualCoursesList(uiLang, learnLang) {
+  if (!uiLang || !learnLang) return null;
+  const pairKey = uiLang + '-' + learnLang;
+  const pairCourses = BILINGUAL_COURSES[pairKey];
+  if (!pairCourses) return null;
+  return Object.values(pairCourses);
+}
