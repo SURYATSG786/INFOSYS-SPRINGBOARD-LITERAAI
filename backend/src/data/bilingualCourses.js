@@ -4492,10 +4492,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_f1_q1",
               "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
               "options": [
-                "B",
-                "A",
-                "C",
-                "D"
+                "B (बी)",
+                "A (ए)",
+                "C (सी)",
+                "D (डी)"
               ],
               "correct_index": 1,
               "explanation": "Apple begins with A."
@@ -4504,10 +4504,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_f1_q2",
               "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
               "options": [
-                "Run",
-                "Happy",
-                "Book",
-                "Quickly"
+                "Run (रन)",
+                "Happy (हैप्पी)",
+                "Book (बुक)",
+                "Quickly (क्विकली)"
               ],
               "correct_index": 2,
               "explanation": "Book is a Noun."
@@ -4516,10 +4516,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_f1_q3",
               "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
               "options": [
-                "Trees",
-                "Treees",
-                "Trees'",
-                "Tree"
+                "Trees (ट्रीस)",
+                "Treees (ट्रीस)",
+                "Trees' (ट्रीस)",
+                "Tree (ट्री)"
               ],
               "correct_index": 0,
               "explanation": "Plural of Tree is Trees."
@@ -4528,10 +4528,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_f1_q4",
               "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
               "options": [
-                "Beautiful",
-                "School",
-                "Jump",
-                "They"
+                "Beautiful (ब्यूटीफुल)",
+                "School (स्कूल)",
+                "Jump (जंप)",
+                "They (दे)"
               ],
               "correct_index": 0,
               "explanation": "Beautiful is an Adjective."
@@ -4540,10 +4540,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_f1_q5",
               "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
               "options": [
-                "Reading",
-                "Table",
-                "Blue",
-                "Friend"
+                "Sleep (स्लीप)",
+                "Book (बुक)",
+                "Blue (ब्लू)",
+                "Slowly (स्लोली)"
               ],
               "correct_index": 0,
               "explanation": "Reading is a Verb."
@@ -4552,10 +4552,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_f1_q6",
               "question": "प्रश्न: House शब्द का अर्थ क्या है?",
               "options": [
-                "Pen",
-                "Notebook",
-                "Text",
-                "Volume"
+                "Home (होम)",
+                "Garden (गार्डन)",
+                "Car (कार)",
+                "Book (बुक)"
               ],
               "correct_index": 3,
               "explanation": "Volume means Book."
@@ -4564,10 +4564,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_f1_q7",
               "question": "प्रश्न: School शब्द का अर्थ क्या है?",
               "options": [
-                "A hospital",
-                "A place to learn",
-                "A market",
-                "A park"
+                "Hospital (हॉस्पिटल)",
+                "School (स्कूल)",
+                "Market (मार्केट)",
+                "Park (पार्क)"
               ],
               "correct_index": 1,
               "explanation": "School is a place to learn."
@@ -4582,10 +4582,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_f1_q1",
             "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
             "options": [
-              "B",
-              "A",
-              "C",
-              "D"
+              "B (बी)",
+              "A (ए)",
+              "C (सी)",
+              "D (डी)"
             ],
             "correct_index": 1,
             "explanation": "Apple begins with A."
@@ -4594,10 +4594,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_f1_q2",
             "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
             "options": [
-              "Run",
-              "Happy",
-              "Book",
-              "Quickly"
+              "Run (रन)",
+              "Happy (हैप्पी)",
+              "Book (बुक)",
+              "Quickly (क्विकली)"
             ],
             "correct_index": 2,
             "explanation": "Book is a Noun."
@@ -4606,10 +4606,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_f1_q3",
             "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
             "options": [
-              "Trees",
-              "Treees",
-              "Trees'",
-              "Tree"
+              "Trees (ट्रीस)",
+              "Treees (ट्रीस)",
+              "Trees' (ट्रीस)",
+              "Tree (ट्री)"
             ],
             "correct_index": 0,
             "explanation": "Plural of Tree is Trees."
@@ -4618,10 +4618,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_f1_q4",
             "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
             "options": [
-              "Beautiful",
-              "School",
-              "Jump",
-              "They"
+              "Beautiful (ब्यूटीफुल)",
+              "School (स्कूल)",
+              "Jump (जंप)",
+              "They (दे)"
             ],
             "correct_index": 0,
             "explanation": "Beautiful is an Adjective."
@@ -4630,10 +4630,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_f1_q5",
             "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
             "options": [
-              "Reading",
-              "Table",
-              "Blue",
-              "Friend"
+              "Sleep (स्लीप)",
+              "Book (बुक)",
+              "Blue (ब्लू)",
+              "Slowly (स्लोली)"
             ],
             "correct_index": 0,
             "explanation": "Reading is a Verb."
@@ -4642,10 +4642,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_f1_q6",
             "question": "प्रश्न: House शब्द का अर्थ क्या है?",
             "options": [
-              "Pen",
-              "Notebook",
-              "Text",
-              "Volume"
+              "Home (होम)",
+              "Garden (गार्डन)",
+              "Car (कार)",
+              "Book (बुक)"
             ],
             "correct_index": 3,
             "explanation": "Volume means Book."
@@ -4654,10 +4654,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_f1_q7",
             "question": "प्रश्न: School शब्द का अर्थ क्या है?",
             "options": [
-              "A hospital",
-              "A place to learn",
-              "A market",
-              "A park"
+              "Hospital (हॉस्पिटल)",
+              "School (स्कूल)",
+              "Market (मार्केट)",
+              "Park (पार्क)"
             ],
             "correct_index": 1,
             "explanation": "School is a place to learn."
@@ -4669,10 +4669,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_f1_q1",
           "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
           "options": [
-            "B",
-            "A",
-            "C",
-            "D"
+            "B (बी)",
+            "A (ए)",
+            "C (सी)",
+            "D (डी)"
           ],
           "correct_index": 1,
           "explanation": "Apple begins with A."
@@ -4681,10 +4681,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_f1_q2",
           "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
           "options": [
-            "Run",
-            "Happy",
-            "Book",
-            "Quickly"
+            "Run (रन)",
+            "Happy (हैप्पी)",
+            "Book (बुक)",
+            "Quickly (क्विकली)"
           ],
           "correct_index": 2,
           "explanation": "Book is a Noun."
@@ -4693,10 +4693,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_f1_q3",
           "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
           "options": [
-            "Trees",
-            "Treees",
-            "Trees'",
-            "Tree"
+            "Trees (ट्रीस)",
+            "Treees (ट्रीस)",
+            "Trees' (ट्रीस)",
+            "Tree (ट्री)"
           ],
           "correct_index": 0,
           "explanation": "Plural of Tree is Trees."
@@ -4705,10 +4705,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_f1_q4",
           "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
           "options": [
-            "Beautiful",
-            "School",
-            "Jump",
-            "They"
+            "Beautiful (ब्यूटीफुल)",
+            "School (स्कूल)",
+            "Jump (जंप)",
+            "They (दे)"
           ],
           "correct_index": 0,
           "explanation": "Beautiful is an Adjective."
@@ -4717,10 +4717,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_f1_q5",
           "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
           "options": [
-            "Reading",
-            "Table",
-            "Blue",
-            "Friend"
+            "Sleep (स्लीप)",
+            "Book (बुक)",
+            "Blue (ब्लू)",
+            "Slowly (स्लोली)"
           ],
           "correct_index": 0,
           "explanation": "Reading is a Verb."
@@ -4729,10 +4729,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_f1_q6",
           "question": "प्रश्न: House शब्द का अर्थ क्या है?",
           "options": [
-            "Pen",
-            "Notebook",
-            "Text",
-            "Volume"
+            "Home (होम)",
+            "Garden (गार्डन)",
+            "Car (कार)",
+            "Book (बुक)"
           ],
           "correct_index": 3,
           "explanation": "Volume means Book."
@@ -4741,10 +4741,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_f1_q7",
           "question": "प्रश्न: School शब्द का अर्थ क्या है?",
           "options": [
-            "A hospital",
-            "A place to learn",
-            "A market",
-            "A park"
+            "Hospital (हॉस्पिटल)",
+            "School (स्कूल)",
+            "Market (मार्केट)",
+            "Park (पार्क)"
           ],
           "correct_index": 1,
           "explanation": "School is a place to learn."
@@ -4771,10 +4771,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_b1_q1",
               "question": "प्रश्न: \"मैं स्कूल जा रहा हूँ।\" यह कौन सा काल है?",
               "options": [
-                "Past Tense",
-                "Present Tense",
-                "Future Tense",
-                "Imperative"
+                "Past Tense (पास्ट टेंस)",
+                "Present Tense (प्रेजेंट टेंस)",
+                "Future Tense (फ्यूचर टेंस)",
+                "Command (कमांड)"
               ],
               "correct_index": 1,
               "explanation": "Present Tense."
@@ -4783,10 +4783,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_b1_q2",
               "question": "प्रश्न: \"वह कल आया था।\" यह कौन सा काल है?",
               "options": [
-                "Past Tense",
-                "Present Tense",
-                "Future Tense",
-                "None"
+                "Past Tense (पास्ट टेंस)",
+                "Present Tense (प्रेजेंट टेंस)",
+                "Future Tense (फ्यूचर टेंस)",
+                "None (नन)"
               ],
               "correct_index": 0,
               "explanation": "Past Tense."
@@ -4795,10 +4795,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_b1_q3",
               "question": "प्रश्न: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
               "options": [
-                "Present Tense",
-                "Future Tense",
-                "Past Tense",
-                "Noun"
+                "Present Tense (प्रेजेंट टेंस)",
+                "Future Tense (फ्यूचर टेंस)",
+                "Past Tense (पास्ट टेंस)",
+                "Noun (नाउन)"
               ],
               "correct_index": 1,
               "explanation": "Future Tense."
@@ -4807,10 +4807,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_b1_q4",
               "question": "प्रश्न: \"वह गा रही है।\" यह कौन सा काल है?",
               "options": [
-                "Present Tense",
-                "Past Tense",
-                "Future Tense",
-                "Adjective"
+                "Present Tense (प्रेजेंट टेंस)",
+                "Past Tense (पास्ट टेंस)",
+                "Future Tense (फ्यूचर टेंस)",
+                "Adjective (एडजेक्टिव)"
               ],
               "correct_index": 0,
               "explanation": "Present Tense."
@@ -4819,10 +4819,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_b1_q5",
               "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
               "options": [
-                "Eat",
-                "Ate",
-                "Eating",
-                "Eats"
+                "Present Tense (प्रेजेंट टेंस)",
+                "Past Tense (पास्ट टेंस)",
+                "Future Tense (फ्यूचर टेंस)",
+                "None (नन)"
               ],
               "correct_index": 1,
               "explanation": "Ate is past tense."
@@ -4831,10 +4831,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_b1_q6",
               "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
               "options": [
-                "Read",
-                "Reading",
-                "Will read",
-                "Reads"
+                "Past Tense (पास्ट टेंस)",
+                "Present Tense (प्रेजेंट टेंस)",
+                "Future Tense (फ्यूचर टेंस)",
+                "Adjective (एडजेक्टिव)"
               ],
               "correct_index": 2,
               "explanation": "Will read is future tense."
@@ -4843,10 +4843,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_b1_q7",
               "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
               "options": [
-                "Present Tense",
-                "Past Tense",
-                "Future Tense",
-                "Noun"
+                "Present Tense (प्रेजेंट टेंस)",
+                "Past Tense (पास्ट टेंस)",
+                "Future Tense (फ्यूचर टेंस)",
+                "Noun (नाउन)"
               ],
               "correct_index": 0,
               "explanation": "Present Tense."
@@ -4861,10 +4861,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_b1_q1",
             "question": "प्रश्न: \"मैं स्कूल जा रहा हूँ।\" यह कौन सा काल है?",
             "options": [
-              "Past Tense",
-              "Present Tense",
-              "Future Tense",
-              "Imperative"
+              "Past Tense (पास्ट टेंस)",
+              "Present Tense (प्रेजेंट टेंस)",
+              "Future Tense (फ्यूचर टेंस)",
+              "Command (कमांड)"
             ],
             "correct_index": 1,
             "explanation": "Present Tense."
@@ -4873,10 +4873,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_b1_q2",
             "question": "प्रश्न: \"वह कल आया था।\" यह कौन सा काल है?",
             "options": [
-              "Past Tense",
-              "Present Tense",
-              "Future Tense",
-              "None"
+              "Past Tense (पास्ट टेंस)",
+              "Present Tense (प्रेजेंट टेंस)",
+              "Future Tense (फ्यूचर टेंस)",
+              "None (नन)"
             ],
             "correct_index": 0,
             "explanation": "Past Tense."
@@ -4885,10 +4885,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_b1_q3",
             "question": "प्रश्न: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
             "options": [
-              "Present Tense",
-              "Future Tense",
-              "Past Tense",
-              "Noun"
+              "Present Tense (प्रेजेंट टेंस)",
+              "Future Tense (फ्यूचर टेंस)",
+              "Past Tense (पास्ट टेंस)",
+              "Noun (नाउन)"
             ],
             "correct_index": 1,
             "explanation": "Future Tense."
@@ -4897,10 +4897,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_b1_q4",
             "question": "प्रश्न: \"वह गा रही है।\" यह कौन सा काल है?",
             "options": [
-              "Present Tense",
-              "Past Tense",
-              "Future Tense",
-              "Adjective"
+              "Present Tense (प्रेजेंट टेंस)",
+              "Past Tense (पास्ट टेंस)",
+              "Future Tense (फ्यूचर टेंस)",
+              "Adjective (एडजेक्टिव)"
             ],
             "correct_index": 0,
             "explanation": "Present Tense."
@@ -4909,10 +4909,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_b1_q5",
             "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
             "options": [
-              "Eat",
-              "Ate",
-              "Eating",
-              "Eats"
+              "Present Tense (प्रेजेंट टेंस)",
+              "Past Tense (पास्ट टेंस)",
+              "Future Tense (फ्यूचर टेंस)",
+              "None (नन)"
             ],
             "correct_index": 1,
             "explanation": "Ate is past tense."
@@ -4921,10 +4921,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_b1_q6",
             "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
             "options": [
-              "Read",
-              "Reading",
-              "Will read",
-              "Reads"
+              "Past Tense (पास्ट टेंस)",
+              "Present Tense (प्रेजेंट टेंस)",
+              "Future Tense (फ्यूचर टेंस)",
+              "Adjective (एडजेक्टिव)"
             ],
             "correct_index": 2,
             "explanation": "Will read is future tense."
@@ -4933,10 +4933,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_b1_q7",
             "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
             "options": [
-              "Present Tense",
-              "Past Tense",
-              "Future Tense",
-              "Noun"
+              "Present Tense (प्रेजेंट टेंस)",
+              "Past Tense (पास्ट टेंस)",
+              "Future Tense (फ्यूचर टेंस)",
+              "Noun (नाउन)"
             ],
             "correct_index": 0,
             "explanation": "Present Tense."
@@ -4948,10 +4948,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_b1_q1",
           "question": "प्रश्न: \"मैं स्कूल जा रहा हूँ।\" यह कौन सा काल है?",
           "options": [
-            "Past Tense",
-            "Present Tense",
-            "Future Tense",
-            "Imperative"
+            "Past Tense (पास्ट टेंस)",
+            "Present Tense (प्रेजेंट टेंस)",
+            "Future Tense (फ्यूचर टेंस)",
+            "Command (कमांड)"
           ],
           "correct_index": 1,
           "explanation": "Present Tense."
@@ -4960,10 +4960,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_b1_q2",
           "question": "प्रश्न: \"वह कल आया था।\" यह कौन सा काल है?",
           "options": [
-            "Past Tense",
-            "Present Tense",
-            "Future Tense",
-            "None"
+            "Past Tense (पास्ट टेंस)",
+            "Present Tense (प्रेजेंट टेंस)",
+            "Future Tense (फ्यूचर टेंस)",
+            "None (नन)"
           ],
           "correct_index": 0,
           "explanation": "Past Tense."
@@ -4972,10 +4972,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_b1_q3",
           "question": "प्रश्न: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
           "options": [
-            "Present Tense",
-            "Future Tense",
-            "Past Tense",
-            "Noun"
+            "Present Tense (प्रेजेंट टेंस)",
+            "Future Tense (फ्यूचर टेंस)",
+            "Past Tense (पास्ट टेंस)",
+            "Noun (नाउन)"
           ],
           "correct_index": 1,
           "explanation": "Future Tense."
@@ -4984,10 +4984,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_b1_q4",
           "question": "प्रश्न: \"वह गा रही है।\" यह कौन सा काल है?",
           "options": [
-            "Present Tense",
-            "Past Tense",
-            "Future Tense",
-            "Adjective"
+            "Present Tense (प्रेजेंट टेंस)",
+            "Past Tense (पास्ट टेंस)",
+            "Future Tense (फ्यूचर टेंस)",
+            "Adjective (एडजेक्टिव)"
           ],
           "correct_index": 0,
           "explanation": "Present Tense."
@@ -4996,10 +4996,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_b1_q5",
           "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
           "options": [
-            "Eat",
-            "Ate",
-            "Eating",
-            "Eats"
+            "Present Tense (प्रेजेंट टेंस)",
+            "Past Tense (पास्ट टेंस)",
+            "Future Tense (फ्यूचर टेंस)",
+            "None (नन)"
           ],
           "correct_index": 1,
           "explanation": "Ate is past tense."
@@ -5008,10 +5008,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_b1_q6",
           "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
           "options": [
-            "Read",
-            "Reading",
-            "Will read",
-            "Reads"
+            "Past Tense (पास्ट टेंस)",
+            "Present Tense (प्रेजेंट टेंस)",
+            "Future Tense (फ्यूचर टेंस)",
+            "Adjective (एडजेक्टिव)"
           ],
           "correct_index": 2,
           "explanation": "Will read is future tense."
@@ -5020,10 +5020,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_b1_q7",
           "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
           "options": [
-            "Present Tense",
-            "Past Tense",
-            "Future Tense",
-            "Noun"
+            "Present Tense (प्रेजेंट टेंस)",
+            "Past Tense (पास्ट टेंस)",
+            "Future Tense (फ्यूचर टेंस)",
+            "Noun (नाउन)"
           ],
           "correct_index": 0,
           "explanation": "Present Tense."
@@ -5050,10 +5050,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_i1_q1",
               "question": "प्रश्न: \"राम और श्याम स्कूल गए।\" इसमें संयोजक शब्द कौन सा है?",
               "options": [
-                "But",
-                "And",
-                "Because",
-                "Or"
+                "But (बट)",
+                "And (एंड)",
+                "Because (बिकॉज़)",
+                "Or (ऑर)"
               ],
               "correct_index": 1,
               "explanation": "And joins ideas."
@@ -5062,10 +5062,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_i1_q2",
               "question": "प्रश्न: \"माता और पिता\" में संयोजक कौन सा है?",
               "options": [
-                "Mother",
-                "And",
-                "Father",
-                "Family"
+                "Mother (मदर)",
+                "And (एंड)",
+                "Father (फादर)",
+                "In (इन)"
               ],
               "correct_index": 1,
               "explanation": "And is joining word."
@@ -5074,10 +5074,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_i1_q3",
               "question": "प्रश्न: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" इसमें संयोजक शब्द कौन सा है?",
               "options": [
-                "But",
-                "Studied",
-                "Pass",
-                "He"
+                "But (बट)",
+                "Studied (स्टडीड)",
+                "Pass (पास)",
+                "Did not (डिड नॉट)"
               ],
               "correct_index": 0,
               "explanation": "But is joining word."
@@ -5086,10 +5086,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_i1_q4",
               "question": "प्रश्न: \"और\" (And) किस प्रकार का शब्द है?",
               "options": [
-                "Conjunction",
-                "Noun",
-                "Verb",
-                "Adjective"
+                "Conjunction (कंजंक्शन)",
+                "Noun (नाउन)",
+                "Verb (वर्ब)",
+                "Adjective (एडजेक्टिव)"
               ],
               "correct_index": 0,
               "explanation": "And is a Conjunction."
@@ -5098,10 +5098,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_i1_q5",
               "question": "प्रश्न: \"इसलिए\" (Therefore) शब्द का प्रयोग कब किया जाता है?",
               "options": [
-                "To show a reason",
-                "To name a person",
-                "To show an action",
-                "To show time"
+                "Cause & Effect (कॉज़ एंड इफेक्ट)",
+                "Noun (नाउन)",
+                "Verb (वर्ब)",
+                "Time (टाइम)"
               ],
               "correct_index": 0,
               "explanation": "Because shows a reason."
@@ -5110,10 +5110,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_i1_q6",
               "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
               "options": [
-                "And",
-                "House",
-                "Book",
-                "Run"
+                "And (एंड)",
+                "Book (बुक)",
+                "House (हाउस)",
+                "Run (रन)"
               ],
               "correct_index": 0,
               "explanation": "And is a conjunction."
@@ -5122,10 +5122,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_i1_q7",
               "question": "प्रश्न: \"या\" (Or) का अर्थ क्या है?",
               "options": [
-                "One choice between two options",
-                "A place",
-                "A time",
-                "An action"
+                "Choice between two (चॉइस बिटवीन टू)",
+                "Time (टाइम)",
+                "Place (प्लेस)",
+                "Action (एक्शन)"
               ],
               "correct_index": 0,
               "explanation": "Or means choice."
@@ -5140,10 +5140,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_i1_q1",
             "question": "प्रश्न: \"राम और श्याम स्कूल गए।\" इसमें संयोजक शब्द कौन सा है?",
             "options": [
-              "But",
-              "And",
-              "Because",
-              "Or"
+              "But (बट)",
+              "And (एंड)",
+              "Because (बिकॉज़)",
+              "Or (ऑर)"
             ],
             "correct_index": 1,
             "explanation": "And joins ideas."
@@ -5152,10 +5152,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_i1_q2",
             "question": "प्रश्न: \"माता और पिता\" में संयोजक कौन सा है?",
             "options": [
-              "Mother",
-              "And",
-              "Father",
-              "Family"
+              "Mother (मदर)",
+              "And (एंड)",
+              "Father (फादर)",
+              "In (इन)"
             ],
             "correct_index": 1,
             "explanation": "And is joining word."
@@ -5164,10 +5164,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_i1_q3",
             "question": "प्रश्न: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" इसमें संयोजक शब्द कौन सा है?",
             "options": [
-              "But",
-              "Studied",
-              "Pass",
-              "He"
+              "But (बट)",
+              "Studied (स्टडीड)",
+              "Pass (पास)",
+              "Did not (डिड नॉट)"
             ],
             "correct_index": 0,
             "explanation": "But is joining word."
@@ -5176,10 +5176,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_i1_q4",
             "question": "प्रश्न: \"और\" (And) किस प्रकार का शब्द है?",
             "options": [
-              "Conjunction",
-              "Noun",
-              "Verb",
-              "Adjective"
+              "Conjunction (कंजंक्शन)",
+              "Noun (नाउन)",
+              "Verb (वर्ब)",
+              "Adjective (एडजेक्टिव)"
             ],
             "correct_index": 0,
             "explanation": "And is a Conjunction."
@@ -5188,10 +5188,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_i1_q5",
             "question": "प्रश्न: \"इसलिए\" (Therefore) शब्द का प्रयोग कब किया जाता है?",
             "options": [
-              "To show a reason",
-              "To name a person",
-              "To show an action",
-              "To show time"
+              "Cause & Effect (कॉज़ एंड इफेक्ट)",
+              "Noun (नाउन)",
+              "Verb (वर्ब)",
+              "Time (टाइम)"
             ],
             "correct_index": 0,
             "explanation": "Because shows a reason."
@@ -5200,10 +5200,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_i1_q6",
             "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
             "options": [
-              "And",
-              "House",
-              "Book",
-              "Run"
+              "And (एंड)",
+              "Book (बुक)",
+              "House (हाउस)",
+              "Run (रन)"
             ],
             "correct_index": 0,
             "explanation": "And is a conjunction."
@@ -5212,10 +5212,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_i1_q7",
             "question": "प्रश्न: \"या\" (Or) का अर्थ क्या है?",
             "options": [
-              "One choice between two options",
-              "A place",
-              "A time",
-              "An action"
+              "Choice between two (चॉइस बिटवीन टू)",
+              "Time (टाइम)",
+              "Place (प्लेस)",
+              "Action (एक्शन)"
             ],
             "correct_index": 0,
             "explanation": "Or means choice."
@@ -5227,10 +5227,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_i1_q1",
           "question": "प्रश्न: \"राम और श्याम स्कूल गए।\" इसमें संयोजक शब्द कौन सा है?",
           "options": [
-            "But",
-            "And",
-            "Because",
-            "Or"
+            "But (बट)",
+            "And (एंड)",
+            "Because (बिकॉज़)",
+            "Or (ऑर)"
           ],
           "correct_index": 1,
           "explanation": "And joins ideas."
@@ -5239,10 +5239,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_i1_q2",
           "question": "प्रश्न: \"माता और पिता\" में संयोजक कौन सा है?",
           "options": [
-            "Mother",
-            "And",
-            "Father",
-            "Family"
+            "Mother (मदर)",
+            "And (एंड)",
+            "Father (फादर)",
+            "In (इन)"
           ],
           "correct_index": 1,
           "explanation": "And is joining word."
@@ -5251,10 +5251,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_i1_q3",
           "question": "प्रश्न: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" इसमें संयोजक शब्द कौन सा है?",
           "options": [
-            "But",
-            "Studied",
-            "Pass",
-            "He"
+            "But (बट)",
+            "Studied (स्टडीड)",
+            "Pass (पास)",
+            "Did not (डिड नॉट)"
           ],
           "correct_index": 0,
           "explanation": "But is joining word."
@@ -5263,10 +5263,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_i1_q4",
           "question": "प्रश्न: \"और\" (And) किस प्रकार का शब्द है?",
           "options": [
-            "Conjunction",
-            "Noun",
-            "Verb",
-            "Adjective"
+            "Conjunction (कंजंक्शन)",
+            "Noun (नाउन)",
+            "Verb (वर्ब)",
+            "Adjective (एडजेक्टिव)"
           ],
           "correct_index": 0,
           "explanation": "And is a Conjunction."
@@ -5275,10 +5275,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_i1_q5",
           "question": "प्रश्न: \"इसलिए\" (Therefore) शब्द का प्रयोग कब किया जाता है?",
           "options": [
-            "To show a reason",
-            "To name a person",
-            "To show an action",
-            "To show time"
+            "Cause & Effect (कॉज़ एंड इफेक्ट)",
+            "Noun (नाउन)",
+            "Verb (वर्ब)",
+            "Time (टाइम)"
           ],
           "correct_index": 0,
           "explanation": "Because shows a reason."
@@ -5287,10 +5287,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_i1_q6",
           "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
           "options": [
-            "And",
-            "House",
-            "Book",
-            "Run"
+            "And (एंड)",
+            "Book (बुक)",
+            "House (हाउस)",
+            "Run (रन)"
           ],
           "correct_index": 0,
           "explanation": "And is a conjunction."
@@ -5299,10 +5299,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_i1_q7",
           "question": "प्रश्न: \"या\" (Or) का अर्थ क्या है?",
           "options": [
-            "One choice between two options",
-            "A place",
-            "A time",
-            "An action"
+            "Choice between two (चॉइस बिटवीन टू)",
+            "Time (टाइम)",
+            "Place (प्लेस)",
+            "Action (एक्शन)"
           ],
           "correct_index": 0,
           "explanation": "Or means choice."
@@ -5329,10 +5329,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_a1_q1",
               "question": "प्रश्न: राहुल कहाँ जाता है?",
               "options": [
-                "Market",
-                "School",
-                "Park",
-                "Home"
+                "Market (मार्केट)",
+                "School (स्कूल)",
+                "Park (पार्क)",
+                "Home (होम)"
               ],
               "correct_index": 1,
               "explanation": "Rahul goes to School."
@@ -5341,10 +5341,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_a1_q2",
               "question": "प्रश्न: राहुल को क्या पसंद है?",
               "options": [
-                "Playing games",
-                "Reading books",
-                "Sleeping",
-                "Watching TV"
+                "Playing games (प्लेइंग गेम्स)",
+                "Reading books (रीडिंग बुक्स)",
+                "Sleeping (स्लीपिंग)",
+                "Watching TV (वाचिंग टीवी)"
               ],
               "correct_index": 1,
               "explanation": "Rahul likes reading books."
@@ -5353,10 +5353,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_a1_q3",
               "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
               "options": [
-                "Sita",
-                "Rahul",
-                "Mohan",
-                "Riya"
+                "Reena (रीना)",
+                "Rahul (राहुल)",
+                "Mohan (मोहन)",
+                "Seema (सीमा)"
               ],
               "correct_index": 1,
               "explanation": "Passage is about Rahul."
@@ -5365,10 +5365,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_a1_q4",
               "question": "प्रश्न: \"प्रतिदिन\" का अर्थ क्या है?",
               "options": [
-                "Daily",
-                "Yesterday",
-                "Never",
-                "Next week"
+                "Every day (एवरी डे)",
+                "Yesterday (यस्टरडे)",
+                "Never (नेवर)",
+                "Next week (नेक्स्ट वीक)"
               ],
               "correct_index": 0,
               "explanation": "Every day means daily."
@@ -5377,10 +5377,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_a1_q5",
               "question": "प्रश्न: राहुल क्या करता है?",
               "options": [
-                "Goes to school",
-                "Goes to the market",
-                "Stays at home",
-                "Goes to the hospital"
+                "Goes to school (गोज़ टू स्कूल)",
+                "Goes to market (गोज़ टू मार्केट)",
+                "Stays home (स्टेज़ होम)",
+                "Goes to hospital (गोज़ टू हॉस्पिटल)"
               ],
               "correct_index": 0,
               "explanation": "Rahul goes to school."
@@ -5389,10 +5389,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_a1_q6",
               "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
               "options": [
-                "Going to school and reading books",
-                "Traveling",
-                "Rain",
-                "Mountains"
+                "Study habit (स्टडी हैबिट)",
+                "Travel (ट्रैवल)",
+                "Rain (रेन)",
+                "Hills (हिल्स)"
               ],
               "correct_index": 0,
               "explanation": "Main idea is reading & school."
@@ -5401,10 +5401,10 @@ export const BILINGUAL_COURSES = {
               "id": "hi_en_a1_q7",
               "question": "प्रश्न: सही कथन चुनिए।",
               "options": [
-                "Rahul likes reading books.",
-                "Rahul never goes to school.",
-                "Rahul only plays games.",
-                "Rahul does not read books."
+                "Rahul likes reading books (राहुल लाइक्स रीडिंग बुक्स)",
+                "Rahul does not go to school (राहुल डज़ नॉट गो टू स्कूल)",
+                "Rahul only plays (राहुल ओनली प्लेज़)",
+                "Rahul sleeps all day (राहुल स्लीप्स ऑल डे)"
               ],
               "correct_index": 0,
               "explanation": "Rahul likes reading books is correct."
@@ -5419,10 +5419,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_a1_q1",
             "question": "प्रश्न: राहुल कहाँ जाता है?",
             "options": [
-              "Market",
-              "School",
-              "Park",
-              "Home"
+              "Market (मार्केट)",
+              "School (स्कूल)",
+              "Park (पार्क)",
+              "Home (होम)"
             ],
             "correct_index": 1,
             "explanation": "Rahul goes to School."
@@ -5431,10 +5431,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_a1_q2",
             "question": "प्रश्न: राहुल को क्या पसंद है?",
             "options": [
-              "Playing games",
-              "Reading books",
-              "Sleeping",
-              "Watching TV"
+              "Playing games (प्लेइंग गेम्स)",
+              "Reading books (रीडिंग बुक्स)",
+              "Sleeping (स्लीपिंग)",
+              "Watching TV (वाचिंग टीवी)"
             ],
             "correct_index": 1,
             "explanation": "Rahul likes reading books."
@@ -5443,10 +5443,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_a1_q3",
             "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
             "options": [
-              "Sita",
-              "Rahul",
-              "Mohan",
-              "Riya"
+              "Reena (रीना)",
+              "Rahul (राहुल)",
+              "Mohan (मोहन)",
+              "Seema (सीमा)"
             ],
             "correct_index": 1,
             "explanation": "Passage is about Rahul."
@@ -5455,10 +5455,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_a1_q4",
             "question": "प्रश्न: \"प्रतिदिन\" का अर्थ क्या है?",
             "options": [
-              "Daily",
-              "Yesterday",
-              "Never",
-              "Next week"
+              "Every day (एवरी डे)",
+              "Yesterday (यस्टरडे)",
+              "Never (नेवर)",
+              "Next week (नेक्स्ट वीक)"
             ],
             "correct_index": 0,
             "explanation": "Every day means daily."
@@ -5467,10 +5467,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_a1_q5",
             "question": "प्रश्न: राहुल क्या करता है?",
             "options": [
-              "Goes to school",
-              "Goes to the market",
-              "Stays at home",
-              "Goes to the hospital"
+              "Goes to school (गोज़ टू स्कूल)",
+              "Goes to market (गोज़ टू मार्केट)",
+              "Stays home (स्टेज़ होम)",
+              "Goes to hospital (गोज़ टू हॉस्पिटल)"
             ],
             "correct_index": 0,
             "explanation": "Rahul goes to school."
@@ -5479,10 +5479,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_a1_q6",
             "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
             "options": [
-              "Going to school and reading books",
-              "Traveling",
-              "Rain",
-              "Mountains"
+              "Study habit (स्टडी हैबिट)",
+              "Travel (ट्रैवल)",
+              "Rain (रेन)",
+              "Hills (हिल्स)"
             ],
             "correct_index": 0,
             "explanation": "Main idea is reading & school."
@@ -5491,10 +5491,10 @@ export const BILINGUAL_COURSES = {
             "id": "hi_en_a1_q7",
             "question": "प्रश्न: सही कथन चुनिए।",
             "options": [
-              "Rahul likes reading books.",
-              "Rahul never goes to school.",
-              "Rahul only plays games.",
-              "Rahul does not read books."
+              "Rahul likes reading books (राहुल लाइक्स रीडिंग बुक्स)",
+              "Rahul does not go to school (राहुल डज़ नॉट गो टू स्कूल)",
+              "Rahul only plays (राहुल ओनली प्लेज़)",
+              "Rahul sleeps all day (राहुल स्लीप्स ऑल डे)"
             ],
             "correct_index": 0,
             "explanation": "Rahul likes reading books is correct."
@@ -5506,10 +5506,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_a1_q1",
           "question": "प्रश्न: राहुल कहाँ जाता है?",
           "options": [
-            "Market",
-            "School",
-            "Park",
-            "Home"
+            "Market (मार्केट)",
+            "School (स्कूल)",
+            "Park (पार्क)",
+            "Home (होम)"
           ],
           "correct_index": 1,
           "explanation": "Rahul goes to School."
@@ -5518,10 +5518,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_a1_q2",
           "question": "प्रश्न: राहुल को क्या पसंद है?",
           "options": [
-            "Playing games",
-            "Reading books",
-            "Sleeping",
-            "Watching TV"
+            "Playing games (प्लेइंग गेम्स)",
+            "Reading books (रीडिंग बुक्स)",
+            "Sleeping (स्लीपिंग)",
+            "Watching TV (वाचिंग टीवी)"
           ],
           "correct_index": 1,
           "explanation": "Rahul likes reading books."
@@ -5530,10 +5530,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_a1_q3",
           "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
           "options": [
-            "Sita",
-            "Rahul",
-            "Mohan",
-            "Riya"
+            "Reena (रीना)",
+            "Rahul (राहुल)",
+            "Mohan (मोहन)",
+            "Seema (सीमा)"
           ],
           "correct_index": 1,
           "explanation": "Passage is about Rahul."
@@ -5542,10 +5542,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_a1_q4",
           "question": "प्रश्न: \"प्रतिदिन\" का अर्थ क्या है?",
           "options": [
-            "Daily",
-            "Yesterday",
-            "Never",
-            "Next week"
+            "Every day (एवरी डे)",
+            "Yesterday (यस्टरडे)",
+            "Never (नेवर)",
+            "Next week (नेक्स्ट वीक)"
           ],
           "correct_index": 0,
           "explanation": "Every day means daily."
@@ -5554,10 +5554,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_a1_q5",
           "question": "प्रश्न: राहुल क्या करता है?",
           "options": [
-            "Goes to school",
-            "Goes to the market",
-            "Stays at home",
-            "Goes to the hospital"
+            "Goes to school (गोज़ टू स्कूल)",
+            "Goes to market (गोज़ टू मार्केट)",
+            "Stays home (स्टेज़ होम)",
+            "Goes to hospital (गोज़ टू हॉस्पिटल)"
           ],
           "correct_index": 0,
           "explanation": "Rahul goes to school."
@@ -5566,10 +5566,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_a1_q6",
           "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
           "options": [
-            "Going to school and reading books",
-            "Traveling",
-            "Rain",
-            "Mountains"
+            "Study habit (स्टडी हैबिट)",
+            "Travel (ट्रैवल)",
+            "Rain (रेन)",
+            "Hills (हिल्स)"
           ],
           "correct_index": 0,
           "explanation": "Main idea is reading & school."
@@ -5578,10 +5578,10 @@ export const BILINGUAL_COURSES = {
           "id": "hi_en_a1_q7",
           "question": "प्रश्न: सही कथन चुनिए।",
           "options": [
-            "Rahul likes reading books.",
-            "Rahul never goes to school.",
-            "Rahul only plays games.",
-            "Rahul does not read books."
+            "Rahul likes reading books (राहुल लाइक्स रीडिंग बुक्स)",
+            "Rahul does not go to school (राहुल डज़ नॉट गो टू स्कूल)",
+            "Rahul only plays (राहुल ओनली प्लेज़)",
+            "Rahul sleeps all day (राहुल स्लीप्स ऑल डे)"
           ],
           "correct_index": 0,
           "explanation": "Rahul likes reading books is correct."
@@ -8964,10 +8964,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_f1_q1",
               "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
               "options": [
-                "B",
-                "A",
-                "C",
-                "D"
+                "B (பி)",
+                "A (ஏ)",
+                "C (சி)",
+                "D (டி)"
               ],
               "correct_index": 1,
               "explanation": "Apple begins with A."
@@ -8976,10 +8976,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_f1_q2",
               "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
               "options": [
-                "Run",
-                "Happy",
-                "Book",
-                "Quickly"
+                "Run (ரன்)",
+                "Happy (ஹேப்பி)",
+                "Book (புக்)",
+                "Quickly (க்விக்லி)"
               ],
               "correct_index": 2,
               "explanation": "Book is a Noun."
@@ -8988,10 +8988,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_f1_q3",
               "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
               "options": [
-                "Trees",
-                "Treees",
-                "Trees'",
-                "Tree"
+                "Trees (ட்ரீஸ்)",
+                "Treees (ட்ரீஸ்)",
+                "Trees' (ட்ரீஸ்)",
+                "Tree (ட்ரீ)"
               ],
               "correct_index": 0,
               "explanation": "Plural of Tree is Trees."
@@ -9000,10 +9000,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_f1_q4",
               "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
               "options": [
-                "Beautiful",
-                "School",
-                "Jump",
-                "They"
+                "Beautiful (பியூட்டிஃபுல்)",
+                "School (ஸ்கூல்)",
+                "Jump (ஜம்ப்)",
+                "They (தே)"
               ],
               "correct_index": 0,
               "explanation": "Beautiful is an Adjective."
@@ -9012,10 +9012,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_f1_q5",
               "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
               "options": [
-                "Reading",
-                "Table",
-                "Blue",
-                "Friend"
+                "Sleep (ஸ்லீப்)",
+                "Book (புக்)",
+                "Blue (ப்ளூ)",
+                "Slowly (ஸ்லோலி)"
               ],
               "correct_index": 0,
               "explanation": "Reading is a Verb."
@@ -9024,10 +9024,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_f1_q6",
               "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
               "options": [
-                "Pen",
-                "Notebook",
-                "Text",
-                "Volume"
+                "Home (ஹோம்)",
+                "Garden (கார்டன்)",
+                "Car (கார்)",
+                "Book (புக்)"
               ],
               "correct_index": 3,
               "explanation": "Volume means Book."
@@ -9036,10 +9036,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_f1_q7",
               "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
               "options": [
-                "A hospital",
-                "A place to learn",
-                "A market",
-                "A park"
+                "Hospital (ஹாஸ்பிடல்)",
+                "School (ஸ்கூல்)",
+                "Market (மார்க்கெட்)",
+                "Park (பார்க்)"
               ],
               "correct_index": 1,
               "explanation": "School is a place to learn."
@@ -9054,10 +9054,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_f1_q1",
             "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
             "options": [
-              "B",
-              "A",
-              "C",
-              "D"
+              "B (பி)",
+              "A (ஏ)",
+              "C (சி)",
+              "D (டி)"
             ],
             "correct_index": 1,
             "explanation": "Apple begins with A."
@@ -9066,10 +9066,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_f1_q2",
             "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
             "options": [
-              "Run",
-              "Happy",
-              "Book",
-              "Quickly"
+              "Run (ரன்)",
+              "Happy (ஹேப்பி)",
+              "Book (புக்)",
+              "Quickly (க்விக்லி)"
             ],
             "correct_index": 2,
             "explanation": "Book is a Noun."
@@ -9078,10 +9078,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_f1_q3",
             "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
             "options": [
-              "Trees",
-              "Treees",
-              "Trees'",
-              "Tree"
+              "Trees (ட்ரீஸ்)",
+              "Treees (ட்ரீஸ்)",
+              "Trees' (ட்ரீஸ்)",
+              "Tree (ட்ரீ)"
             ],
             "correct_index": 0,
             "explanation": "Plural of Tree is Trees."
@@ -9090,10 +9090,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_f1_q4",
             "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
             "options": [
-              "Beautiful",
-              "School",
-              "Jump",
-              "They"
+              "Beautiful (பியூட்டிஃபுல்)",
+              "School (ஸ்கூல்)",
+              "Jump (ஜம்ப்)",
+              "They (தே)"
             ],
             "correct_index": 0,
             "explanation": "Beautiful is an Adjective."
@@ -9102,10 +9102,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_f1_q5",
             "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
             "options": [
-              "Reading",
-              "Table",
-              "Blue",
-              "Friend"
+              "Sleep (ஸ்லீப்)",
+              "Book (புக்)",
+              "Blue (ப்ளூ)",
+              "Slowly (ஸ்லோலி)"
             ],
             "correct_index": 0,
             "explanation": "Reading is a Verb."
@@ -9114,10 +9114,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_f1_q6",
             "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
             "options": [
-              "Pen",
-              "Notebook",
-              "Text",
-              "Volume"
+              "Home (ஹோம்)",
+              "Garden (கார்டன்)",
+              "Car (கார்)",
+              "Book (புக்)"
             ],
             "correct_index": 3,
             "explanation": "Volume means Book."
@@ -9126,10 +9126,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_f1_q7",
             "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
             "options": [
-              "A hospital",
-              "A place to learn",
-              "A market",
-              "A park"
+              "Hospital (ஹாஸ்பிடல்)",
+              "School (ஸ்கூல்)",
+              "Market (மார்க்கெட்)",
+              "Park (பார்க்)"
             ],
             "correct_index": 1,
             "explanation": "School is a place to learn."
@@ -9141,10 +9141,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_f1_q1",
           "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
           "options": [
-            "B",
-            "A",
-            "C",
-            "D"
+            "B (பி)",
+            "A (ஏ)",
+            "C (சி)",
+            "D (டி)"
           ],
           "correct_index": 1,
           "explanation": "Apple begins with A."
@@ -9153,10 +9153,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_f1_q2",
           "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
           "options": [
-            "Run",
-            "Happy",
-            "Book",
-            "Quickly"
+            "Run (ரன்)",
+            "Happy (ஹேப்பி)",
+            "Book (புக்)",
+            "Quickly (க்விக்லி)"
           ],
           "correct_index": 2,
           "explanation": "Book is a Noun."
@@ -9165,10 +9165,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_f1_q3",
           "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
           "options": [
-            "Trees",
-            "Treees",
-            "Trees'",
-            "Tree"
+            "Trees (ட்ரீஸ்)",
+            "Treees (ட்ரீஸ்)",
+            "Trees' (ட்ரீஸ்)",
+            "Tree (ட்ரீ)"
           ],
           "correct_index": 0,
           "explanation": "Plural of Tree is Trees."
@@ -9177,10 +9177,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_f1_q4",
           "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
           "options": [
-            "Beautiful",
-            "School",
-            "Jump",
-            "They"
+            "Beautiful (பியூட்டிஃபுல்)",
+            "School (ஸ்கூல்)",
+            "Jump (ஜம்ப்)",
+            "They (தே)"
           ],
           "correct_index": 0,
           "explanation": "Beautiful is an Adjective."
@@ -9189,10 +9189,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_f1_q5",
           "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
           "options": [
-            "Reading",
-            "Table",
-            "Blue",
-            "Friend"
+            "Sleep (ஸ்லீப்)",
+            "Book (புக்)",
+            "Blue (ப்ளூ)",
+            "Slowly (ஸ்லோலி)"
           ],
           "correct_index": 0,
           "explanation": "Reading is a Verb."
@@ -9201,10 +9201,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_f1_q6",
           "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
           "options": [
-            "Pen",
-            "Notebook",
-            "Text",
-            "Volume"
+            "Home (ஹோம்)",
+            "Garden (கார்டன்)",
+            "Car (கார்)",
+            "Book (புக்)"
           ],
           "correct_index": 3,
           "explanation": "Volume means Book."
@@ -9213,10 +9213,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_f1_q7",
           "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
           "options": [
-            "A hospital",
-            "A place to learn",
-            "A market",
-            "A park"
+            "Hospital (ஹாஸ்பிடல்)",
+            "School (ஸ்கூல்)",
+            "Market (மார்க்கெட்)",
+            "Park (பார்க்)"
           ],
           "correct_index": 1,
           "explanation": "School is a place to learn."
@@ -9243,10 +9243,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_b1_q1",
               "question": "கேள்வி: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
               "options": [
-                "Past Tense",
-                "Present Tense",
-                "Future Tense",
-                "Imperative"
+                "Past Tense (பாஸ்ட் டென்ஸ்)",
+                "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+                "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+                "Command (கமாண்ட்)"
               ],
               "correct_index": 1,
               "explanation": "Present Tense."
@@ -9255,10 +9255,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_b1_q2",
               "question": "கேள்வி: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
               "options": [
-                "Past Tense",
-                "Present Tense",
-                "Future Tense",
-                "None"
+                "Past Tense (பாஸ்ட் டென்ஸ்)",
+                "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+                "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+                "None (நன்)"
               ],
               "correct_index": 0,
               "explanation": "Past Tense."
@@ -9267,10 +9267,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_b1_q3",
               "question": "கேள்வி: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
               "options": [
-                "Present Tense",
-                "Future Tense",
-                "Past Tense",
-                "Noun"
+                "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+                "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+                "Past Tense (பாஸ்ட் டென்ஸ்)",
+                "Noun (நவுன்)"
               ],
               "correct_index": 1,
               "explanation": "Future Tense."
@@ -9279,10 +9279,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_b1_q4",
               "question": "கேள்வி: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
               "options": [
-                "Present Tense",
-                "Past Tense",
-                "Future Tense",
-                "Adjective"
+                "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+                "Past Tense (பாஸ்ட் டென்ஸ்)",
+                "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+                "Adjective (அட்ஜெக்டிவ்)"
               ],
               "correct_index": 0,
               "explanation": "Present Tense."
@@ -9291,10 +9291,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_b1_q5",
               "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
               "options": [
-                "Eat",
-                "Ate",
-                "Eating",
-                "Eats"
+                "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+                "Past Tense (பாஸ்ட் டென்ஸ்)",
+                "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+                "None (நன்)"
               ],
               "correct_index": 1,
               "explanation": "Ate is past tense."
@@ -9303,10 +9303,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_b1_q6",
               "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
               "options": [
-                "Read",
-                "Reading",
-                "Will read",
-                "Reads"
+                "Past Tense (பாஸ்ட் டென்ஸ்)",
+                "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+                "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+                "Adjective (அட்ஜெக்டிவ்)"
               ],
               "correct_index": 2,
               "explanation": "Will read is future tense."
@@ -9315,10 +9315,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_b1_q7",
               "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
               "options": [
-                "Present Tense",
-                "Past Tense",
-                "Future Tense",
-                "Noun"
+                "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+                "Past Tense (பாஸ்ட் டென்ஸ்)",
+                "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+                "Noun (நவுன்)"
               ],
               "correct_index": 0,
               "explanation": "Present Tense."
@@ -9333,10 +9333,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_b1_q1",
             "question": "கேள்வி: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
             "options": [
-              "Past Tense",
-              "Present Tense",
-              "Future Tense",
-              "Imperative"
+              "Past Tense (பாஸ்ட் டென்ஸ்)",
+              "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+              "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+              "Command (கமாண்ட்)"
             ],
             "correct_index": 1,
             "explanation": "Present Tense."
@@ -9345,10 +9345,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_b1_q2",
             "question": "கேள்வி: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
             "options": [
-              "Past Tense",
-              "Present Tense",
-              "Future Tense",
-              "None"
+              "Past Tense (பாஸ்ட் டென்ஸ்)",
+              "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+              "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+              "None (நன்)"
             ],
             "correct_index": 0,
             "explanation": "Past Tense."
@@ -9357,10 +9357,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_b1_q3",
             "question": "கேள்வி: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
             "options": [
-              "Present Tense",
-              "Future Tense",
-              "Past Tense",
-              "Noun"
+              "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+              "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+              "Past Tense (பாஸ்ட் டென்ஸ்)",
+              "Noun (நவுன்)"
             ],
             "correct_index": 1,
             "explanation": "Future Tense."
@@ -9369,10 +9369,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_b1_q4",
             "question": "கேள்வி: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
             "options": [
-              "Present Tense",
-              "Past Tense",
-              "Future Tense",
-              "Adjective"
+              "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+              "Past Tense (பாஸ்ட் டென்ஸ்)",
+              "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+              "Adjective (அட்ஜெக்டிவ்)"
             ],
             "correct_index": 0,
             "explanation": "Present Tense."
@@ -9381,10 +9381,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_b1_q5",
             "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
             "options": [
-              "Eat",
-              "Ate",
-              "Eating",
-              "Eats"
+              "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+              "Past Tense (பாஸ்ட் டென்ஸ்)",
+              "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+              "None (நன்)"
             ],
             "correct_index": 1,
             "explanation": "Ate is past tense."
@@ -9393,10 +9393,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_b1_q6",
             "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
             "options": [
-              "Read",
-              "Reading",
-              "Will read",
-              "Reads"
+              "Past Tense (பாஸ்ட் டென்ஸ்)",
+              "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+              "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+              "Adjective (அட்ஜெக்டிவ்)"
             ],
             "correct_index": 2,
             "explanation": "Will read is future tense."
@@ -9405,10 +9405,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_b1_q7",
             "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
             "options": [
-              "Present Tense",
-              "Past Tense",
-              "Future Tense",
-              "Noun"
+              "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+              "Past Tense (பாஸ்ட் டென்ஸ்)",
+              "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+              "Noun (நவுன்)"
             ],
             "correct_index": 0,
             "explanation": "Present Tense."
@@ -9420,10 +9420,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_b1_q1",
           "question": "கேள்வி: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
           "options": [
-            "Past Tense",
-            "Present Tense",
-            "Future Tense",
-            "Imperative"
+            "Past Tense (பாஸ்ட் டென்ஸ்)",
+            "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+            "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+            "Command (கமாண்ட்)"
           ],
           "correct_index": 1,
           "explanation": "Present Tense."
@@ -9432,10 +9432,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_b1_q2",
           "question": "கேள்வி: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
           "options": [
-            "Past Tense",
-            "Present Tense",
-            "Future Tense",
-            "None"
+            "Past Tense (பாஸ்ட் டென்ஸ்)",
+            "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+            "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+            "None (நன்)"
           ],
           "correct_index": 0,
           "explanation": "Past Tense."
@@ -9444,10 +9444,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_b1_q3",
           "question": "கேள்வி: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
           "options": [
-            "Present Tense",
-            "Future Tense",
-            "Past Tense",
-            "Noun"
+            "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+            "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+            "Past Tense (பாஸ்ட் டென்ஸ்)",
+            "Noun (நவுன்)"
           ],
           "correct_index": 1,
           "explanation": "Future Tense."
@@ -9456,10 +9456,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_b1_q4",
           "question": "கேள்வி: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
           "options": [
-            "Present Tense",
-            "Past Tense",
-            "Future Tense",
-            "Adjective"
+            "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+            "Past Tense (பாஸ்ட் டென்ஸ்)",
+            "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+            "Adjective (அட்ஜெக்டிவ்)"
           ],
           "correct_index": 0,
           "explanation": "Present Tense."
@@ -9468,10 +9468,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_b1_q5",
           "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
           "options": [
-            "Eat",
-            "Ate",
-            "Eating",
-            "Eats"
+            "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+            "Past Tense (பாஸ்ட் டென்ஸ்)",
+            "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+            "None (நன்)"
           ],
           "correct_index": 1,
           "explanation": "Ate is past tense."
@@ -9480,10 +9480,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_b1_q6",
           "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
           "options": [
-            "Read",
-            "Reading",
-            "Will read",
-            "Reads"
+            "Past Tense (பாஸ்ட் டென்ஸ்)",
+            "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+            "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+            "Adjective (அட்ஜெக்டிவ்)"
           ],
           "correct_index": 2,
           "explanation": "Will read is future tense."
@@ -9492,10 +9492,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_b1_q7",
           "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
           "options": [
-            "Present Tense",
-            "Past Tense",
-            "Future Tense",
-            "Noun"
+            "Present Tense (ப்ரெசண்ட் டென்ஸ்)",
+            "Past Tense (பாஸ்ட் டென்ஸ்)",
+            "Future Tense (ஃப்யூச்சர் டென்ஸ்)",
+            "Noun (நவுன்)"
           ],
           "correct_index": 0,
           "explanation": "Present Tense."
@@ -9522,10 +9522,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_i1_q1",
               "question": "கேள்வி: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" இதில் இணைப்புச் சொல் எது?",
               "options": [
-                "But",
-                "And",
-                "Because",
-                "Or"
+                "But (பட்)",
+                "And (ஆண்ட்)",
+                "Because (பிகாஸ்)",
+                "Or (ஆர்)"
               ],
               "correct_index": 1,
               "explanation": "And joins ideas."
@@ -9534,10 +9534,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_i1_q2",
               "question": "கேள்வி: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
               "options": [
-                "Mother",
-                "And",
-                "Father",
-                "Family"
+                "Mother (மதர்)",
+                "And (ஆண்ட்)",
+                "Father (ஃபாதர்)",
+                "In (இன்)"
               ],
               "correct_index": 1,
               "explanation": "And is joining word."
@@ -9546,10 +9546,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_i1_q3",
               "question": "கேள்வி: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
               "options": [
-                "But",
-                "Studied",
-                "Pass",
-                "He"
+                "But (பட்)",
+                "Studied (ஸ்டடீட்)",
+                "Pass (பாஸ்)",
+                "Did not (டிட் நாட்)"
               ],
               "correct_index": 0,
               "explanation": "But is joining word."
@@ -9558,10 +9558,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_i1_q4",
               "question": "கேள்வி: \"மற்றும்\" (And) என்பது எந்த வகைச் சொல்?",
               "options": [
-                "Conjunction",
-                "Noun",
-                "Verb",
-                "Adjective"
+                "Conjunction (கன்ஜங்ஷன்)",
+                "Noun (நவுன்)",
+                "Verb (வெர்ப்)",
+                "Adjective (அட்ஜெக்டிவ்)"
               ],
               "correct_index": 0,
               "explanation": "And is a Conjunction."
@@ -9570,10 +9570,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_i1_q5",
               "question": "கேள்வி: \"ஆகையால்\" (Therefore) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
               "options": [
-                "To show a reason",
-                "To name a person",
-                "To show an action",
-                "To show time"
+                "Cause & Effect (காஸ் அண்ட் எஃபெக்ட்)",
+                "Noun (நவுன்)",
+                "Verb (வெர்ப்)",
+                "Time (டைம்)"
               ],
               "correct_index": 0,
               "explanation": "Because shows a reason."
@@ -9582,10 +9582,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_i1_q6",
               "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
               "options": [
-                "And",
-                "House",
-                "Book",
-                "Run"
+                "And (ஆண்ட்)",
+                "Book (புக்)",
+                "House (ஹவுஸ்)",
+                "Run (ரன்)"
               ],
               "correct_index": 0,
               "explanation": "And is a conjunction."
@@ -9594,10 +9594,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_i1_q7",
               "question": "கேள்வி: \"அல்லது\" (Or) என்பதன் பொருள் என்ன?",
               "options": [
-                "One choice between two options",
-                "A place",
-                "A time",
-                "An action"
+                "Choice between two (சாய்ஸ் பிட்வீன் டூ)",
+                "Time (டைம்)",
+                "Place (ப்ளேஸ்)",
+                "Action (ஆக்ஷன்)"
               ],
               "correct_index": 0,
               "explanation": "Or means choice."
@@ -9612,10 +9612,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_i1_q1",
             "question": "கேள்வி: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" இதில் இணைப்புச் சொல் எது?",
             "options": [
-              "But",
-              "And",
-              "Because",
-              "Or"
+              "But (பட்)",
+              "And (ஆண்ட்)",
+              "Because (பிகாஸ்)",
+              "Or (ஆர்)"
             ],
             "correct_index": 1,
             "explanation": "And joins ideas."
@@ -9624,10 +9624,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_i1_q2",
             "question": "கேள்வி: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
             "options": [
-              "Mother",
-              "And",
-              "Father",
-              "Family"
+              "Mother (மதர்)",
+              "And (ஆண்ட்)",
+              "Father (ஃபாதர்)",
+              "In (இன்)"
             ],
             "correct_index": 1,
             "explanation": "And is joining word."
@@ -9636,10 +9636,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_i1_q3",
             "question": "கேள்வி: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
             "options": [
-              "But",
-              "Studied",
-              "Pass",
-              "He"
+              "But (பட்)",
+              "Studied (ஸ்டடீட்)",
+              "Pass (பாஸ்)",
+              "Did not (டிட் நாட்)"
             ],
             "correct_index": 0,
             "explanation": "But is joining word."
@@ -9648,10 +9648,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_i1_q4",
             "question": "கேள்வி: \"மற்றும்\" (And) என்பது எந்த வகைச் சொல்?",
             "options": [
-              "Conjunction",
-              "Noun",
-              "Verb",
-              "Adjective"
+              "Conjunction (கன்ஜங்ஷன்)",
+              "Noun (நவுன்)",
+              "Verb (வெர்ப்)",
+              "Adjective (அட்ஜெக்டிவ்)"
             ],
             "correct_index": 0,
             "explanation": "And is a Conjunction."
@@ -9660,10 +9660,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_i1_q5",
             "question": "கேள்வி: \"ஆகையால்\" (Therefore) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
             "options": [
-              "To show a reason",
-              "To name a person",
-              "To show an action",
-              "To show time"
+              "Cause & Effect (காஸ் அண்ட் எஃபெக்ட்)",
+              "Noun (நவுன்)",
+              "Verb (வெர்ப்)",
+              "Time (டைம்)"
             ],
             "correct_index": 0,
             "explanation": "Because shows a reason."
@@ -9672,10 +9672,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_i1_q6",
             "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
             "options": [
-              "And",
-              "House",
-              "Book",
-              "Run"
+              "And (ஆண்ட்)",
+              "Book (புக்)",
+              "House (ஹவுஸ்)",
+              "Run (ரன்)"
             ],
             "correct_index": 0,
             "explanation": "And is a conjunction."
@@ -9684,10 +9684,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_i1_q7",
             "question": "கேள்வி: \"அல்லது\" (Or) என்பதன் பொருள் என்ன?",
             "options": [
-              "One choice between two options",
-              "A place",
-              "A time",
-              "An action"
+              "Choice between two (சாய்ஸ் பிட்வீன் டூ)",
+              "Time (டைம்)",
+              "Place (ப்ளேஸ்)",
+              "Action (ஆக்ஷன்)"
             ],
             "correct_index": 0,
             "explanation": "Or means choice."
@@ -9699,10 +9699,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_i1_q1",
           "question": "கேள்வி: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" இதில் இணைப்புச் சொல் எது?",
           "options": [
-            "But",
-            "And",
-            "Because",
-            "Or"
+            "But (பட்)",
+            "And (ஆண்ட்)",
+            "Because (பிகாஸ்)",
+            "Or (ஆர்)"
           ],
           "correct_index": 1,
           "explanation": "And joins ideas."
@@ -9711,10 +9711,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_i1_q2",
           "question": "கேள்வி: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
           "options": [
-            "Mother",
-            "And",
-            "Father",
-            "Family"
+            "Mother (மதர்)",
+            "And (ஆண்ட்)",
+            "Father (ஃபாதர்)",
+            "In (இன்)"
           ],
           "correct_index": 1,
           "explanation": "And is joining word."
@@ -9723,10 +9723,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_i1_q3",
           "question": "கேள்வி: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
           "options": [
-            "But",
-            "Studied",
-            "Pass",
-            "He"
+            "But (பட்)",
+            "Studied (ஸ்டடீட்)",
+            "Pass (பாஸ்)",
+            "Did not (டிட் நாட்)"
           ],
           "correct_index": 0,
           "explanation": "But is joining word."
@@ -9735,10 +9735,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_i1_q4",
           "question": "கேள்வி: \"மற்றும்\" (And) என்பது எந்த வகைச் சொல்?",
           "options": [
-            "Conjunction",
-            "Noun",
-            "Verb",
-            "Adjective"
+            "Conjunction (கன்ஜங்ஷன்)",
+            "Noun (நவுன்)",
+            "Verb (வெர்ப்)",
+            "Adjective (அட்ஜெக்டிவ்)"
           ],
           "correct_index": 0,
           "explanation": "And is a Conjunction."
@@ -9747,10 +9747,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_i1_q5",
           "question": "கேள்வி: \"ஆகையால்\" (Therefore) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
           "options": [
-            "To show a reason",
-            "To name a person",
-            "To show an action",
-            "To show time"
+            "Cause & Effect (காஸ் அண்ட் எஃபெக்ட்)",
+            "Noun (நவுன்)",
+            "Verb (வெர்ப்)",
+            "Time (டைம்)"
           ],
           "correct_index": 0,
           "explanation": "Because shows a reason."
@@ -9759,10 +9759,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_i1_q6",
           "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
           "options": [
-            "And",
-            "House",
-            "Book",
-            "Run"
+            "And (ஆண்ட்)",
+            "Book (புக்)",
+            "House (ஹவுஸ்)",
+            "Run (ரன்)"
           ],
           "correct_index": 0,
           "explanation": "And is a conjunction."
@@ -9771,10 +9771,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_i1_q7",
           "question": "கேள்வி: \"அல்லது\" (Or) என்பதன் பொருள் என்ன?",
           "options": [
-            "One choice between two options",
-            "A place",
-            "A time",
-            "An action"
+            "Choice between two (சாய்ஸ் பிட்வீன் டூ)",
+            "Time (டைம்)",
+            "Place (ப்ளேஸ்)",
+            "Action (ஆக்ஷன்)"
           ],
           "correct_index": 0,
           "explanation": "Or means choice."
@@ -9801,10 +9801,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_a1_q1",
               "question": "கேள்வி: ராஹுல் எங்கே செல்கிறான்?",
               "options": [
-                "Market",
-                "School",
-                "Park",
-                "Home"
+                "Market (மார்க்கெட்)",
+                "School (ஸ்கூல்)",
+                "Park (பார்க்)",
+                "Home (ஹோம்)"
               ],
               "correct_index": 1,
               "explanation": "Rahul goes to School."
@@ -9813,10 +9813,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_a1_q2",
               "question": "கேள்வி: ராஹுலுக்கு என்ன பிடிக்கும்?",
               "options": [
-                "Playing games",
-                "Reading books",
-                "Sleeping",
-                "Watching TV"
+                "Playing games (ப்ளேயிங் கேம்ஸ்)",
+                "Reading books (ரீடிங் புக்ஸ்)",
+                "Sleeping (ஸ்லீப்பிங்)",
+                "Watching TV (வாட்சிங் டிவி)"
               ],
               "correct_index": 1,
               "explanation": "Rahul likes reading books."
@@ -9825,10 +9825,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_a1_q3",
               "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
               "options": [
-                "Sita",
-                "Rahul",
-                "Mohan",
-                "Riya"
+                "Reena (ரீனா)",
+                "Rahul (ராஹுல்)",
+                "Mohan (மோஹன்)",
+                "Seema (சீமா)"
               ],
               "correct_index": 1,
               "explanation": "Passage is about Rahul."
@@ -9837,10 +9837,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_a1_q4",
               "question": "கேள்வி: \"தினமும்\" என்பதன் பொருள் என்ன?",
               "options": [
-                "Daily",
-                "Yesterday",
-                "Never",
-                "Next week"
+                "Every day (எவ்ரி டே)",
+                "Yesterday (யெஸ்டர்டே)",
+                "Never (நெவர்)",
+                "Next week (நெக்ஸ்ட் வீக்)"
               ],
               "correct_index": 0,
               "explanation": "Every day means daily."
@@ -9849,10 +9849,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_a1_q5",
               "question": "கேள்வி: ராஹுல் என்ன செய்கிறான்?",
               "options": [
-                "Goes to school",
-                "Goes to the market",
-                "Stays at home",
-                "Goes to the hospital"
+                "Goes to school (கோஸ் டு ஸ்கூல்)",
+                "Goes to market (கோஸ் டு மார்க்கெட்)",
+                "Stays home (ஸ்டேஸ் ஹோம்)",
+                "Goes to hospital (கோஸ் டு ஹாஸ்பிடல்)"
               ],
               "correct_index": 0,
               "explanation": "Rahul goes to school."
@@ -9861,10 +9861,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_a1_q6",
               "question": "கேள்வி: பகுதியின் முக்கிய கருத்து என்ன?",
               "options": [
-                "Going to school and reading books",
-                "Traveling",
-                "Rain",
-                "Mountains"
+                "Study habit (ஸ்டடி ஹாபிட்)",
+                "Travel (டிராவல்)",
+                "Rain (ரெய்ன்)",
+                "Hills (ஹில்ஸ்)"
               ],
               "correct_index": 0,
               "explanation": "Main idea is reading & school."
@@ -9873,10 +9873,10 @@ export const BILINGUAL_COURSES = {
               "id": "ta_en_a1_q7",
               "question": "கேள்வி: சரியான கூற்று எது?",
               "options": [
-                "Rahul likes reading books.",
-                "Rahul never goes to school.",
-                "Rahul only plays games.",
-                "Rahul does not read books."
+                "Rahul likes reading books (ராஹுல் லைக்ஸ் ரீடிங் புக்ஸ்)",
+                "Rahul does not go to school (ராஹுல் டஸ் நாட் கோ டு ஸ்கூல்)",
+                "Rahul only plays (ராஹுல் ஒன்லி ப்ளேஸ்)",
+                "Rahul sleeps all day (ராஹுல் ஸ்லீப்ஸ் ஆல் டே)"
               ],
               "correct_index": 0,
               "explanation": "Rahul likes reading books is correct."
@@ -9891,10 +9891,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_a1_q1",
             "question": "கேள்வி: ராஹுல் எங்கே செல்கிறான்?",
             "options": [
-              "Market",
-              "School",
-              "Park",
-              "Home"
+              "Market (மார்க்கெட்)",
+              "School (ஸ்கூல்)",
+              "Park (பார்க்)",
+              "Home (ஹோம்)"
             ],
             "correct_index": 1,
             "explanation": "Rahul goes to School."
@@ -9903,10 +9903,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_a1_q2",
             "question": "கேள்வி: ராஹுலுக்கு என்ன பிடிக்கும்?",
             "options": [
-              "Playing games",
-              "Reading books",
-              "Sleeping",
-              "Watching TV"
+              "Playing games (ப்ளேயிங் கேம்ஸ்)",
+              "Reading books (ரீடிங் புக்ஸ்)",
+              "Sleeping (ஸ்லீப்பிங்)",
+              "Watching TV (வாட்சிங் டிவி)"
             ],
             "correct_index": 1,
             "explanation": "Rahul likes reading books."
@@ -9915,10 +9915,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_a1_q3",
             "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
             "options": [
-              "Sita",
-              "Rahul",
-              "Mohan",
-              "Riya"
+              "Reena (ரீனா)",
+              "Rahul (ராஹுல்)",
+              "Mohan (மோஹன்)",
+              "Seema (சீமா)"
             ],
             "correct_index": 1,
             "explanation": "Passage is about Rahul."
@@ -9927,10 +9927,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_a1_q4",
             "question": "கேள்வி: \"தினமும்\" என்பதன் பொருள் என்ன?",
             "options": [
-              "Daily",
-              "Yesterday",
-              "Never",
-              "Next week"
+              "Every day (எவ்ரி டே)",
+              "Yesterday (யெஸ்டர்டே)",
+              "Never (நெவர்)",
+              "Next week (நெக்ஸ்ட் வீக்)"
             ],
             "correct_index": 0,
             "explanation": "Every day means daily."
@@ -9939,10 +9939,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_a1_q5",
             "question": "கேள்வி: ராஹுல் என்ன செய்கிறான்?",
             "options": [
-              "Goes to school",
-              "Goes to the market",
-              "Stays at home",
-              "Goes to the hospital"
+              "Goes to school (கோஸ் டு ஸ்கூல்)",
+              "Goes to market (கோஸ் டு மார்க்கெட்)",
+              "Stays home (ஸ்டேஸ் ஹோம்)",
+              "Goes to hospital (கோஸ் டு ஹாஸ்பிடல்)"
             ],
             "correct_index": 0,
             "explanation": "Rahul goes to school."
@@ -9951,10 +9951,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_a1_q6",
             "question": "கேள்வி: பகுதியின் முக்கிய கருத்து என்ன?",
             "options": [
-              "Going to school and reading books",
-              "Traveling",
-              "Rain",
-              "Mountains"
+              "Study habit (ஸ்டடி ஹாபிட்)",
+              "Travel (டிராவல்)",
+              "Rain (ரெய்ன்)",
+              "Hills (ஹில்ஸ்)"
             ],
             "correct_index": 0,
             "explanation": "Main idea is reading & school."
@@ -9963,10 +9963,10 @@ export const BILINGUAL_COURSES = {
             "id": "ta_en_a1_q7",
             "question": "கேள்வி: சரியான கூற்று எது?",
             "options": [
-              "Rahul likes reading books.",
-              "Rahul never goes to school.",
-              "Rahul only plays games.",
-              "Rahul does not read books."
+              "Rahul likes reading books (ராஹுல் லைக்ஸ் ரீடிங் புக்ஸ்)",
+              "Rahul does not go to school (ராஹுல் டஸ் நாட் கோ டு ஸ்கூல்)",
+              "Rahul only plays (ராஹுல் ஒன்லி ப்ளேஸ்)",
+              "Rahul sleeps all day (ராஹுல் ஸ்லீப்ஸ் ஆல் டே)"
             ],
             "correct_index": 0,
             "explanation": "Rahul likes reading books is correct."
@@ -9978,10 +9978,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_a1_q1",
           "question": "கேள்வி: ராஹுல் எங்கே செல்கிறான்?",
           "options": [
-            "Market",
-            "School",
-            "Park",
-            "Home"
+            "Market (மார்க்கெட்)",
+            "School (ஸ்கூல்)",
+            "Park (பார்க்)",
+            "Home (ஹோம்)"
           ],
           "correct_index": 1,
           "explanation": "Rahul goes to School."
@@ -9990,10 +9990,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_a1_q2",
           "question": "கேள்வி: ராஹுலுக்கு என்ன பிடிக்கும்?",
           "options": [
-            "Playing games",
-            "Reading books",
-            "Sleeping",
-            "Watching TV"
+            "Playing games (ப்ளேயிங் கேம்ஸ்)",
+            "Reading books (ரீடிங் புக்ஸ்)",
+            "Sleeping (ஸ்லீப்பிங்)",
+            "Watching TV (வாட்சிங் டிவி)"
           ],
           "correct_index": 1,
           "explanation": "Rahul likes reading books."
@@ -10002,10 +10002,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_a1_q3",
           "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
           "options": [
-            "Sita",
-            "Rahul",
-            "Mohan",
-            "Riya"
+            "Reena (ரீனா)",
+            "Rahul (ராஹுல்)",
+            "Mohan (மோஹன்)",
+            "Seema (சீமா)"
           ],
           "correct_index": 1,
           "explanation": "Passage is about Rahul."
@@ -10014,10 +10014,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_a1_q4",
           "question": "கேள்வி: \"தினமும்\" என்பதன் பொருள் என்ன?",
           "options": [
-            "Daily",
-            "Yesterday",
-            "Never",
-            "Next week"
+            "Every day (எவ்ரி டே)",
+            "Yesterday (யெஸ்டர்டே)",
+            "Never (நெவர்)",
+            "Next week (நெக்ஸ்ட் வீக்)"
           ],
           "correct_index": 0,
           "explanation": "Every day means daily."
@@ -10026,10 +10026,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_a1_q5",
           "question": "கேள்வி: ராஹுல் என்ன செய்கிறான்?",
           "options": [
-            "Goes to school",
-            "Goes to the market",
-            "Stays at home",
-            "Goes to the hospital"
+            "Goes to school (கோஸ் டு ஸ்கூல்)",
+            "Goes to market (கோஸ் டு மார்க்கெட்)",
+            "Stays home (ஸ்டேஸ் ஹோம்)",
+            "Goes to hospital (கோஸ் டு ஹாஸ்பிடல்)"
           ],
           "correct_index": 0,
           "explanation": "Rahul goes to school."
@@ -10038,10 +10038,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_a1_q6",
           "question": "கேள்வி: பகுதியின் முக்கிய கருத்து என்ன?",
           "options": [
-            "Going to school and reading books",
-            "Traveling",
-            "Rain",
-            "Mountains"
+            "Study habit (ஸ்டடி ஹாபிட்)",
+            "Travel (டிராவல்)",
+            "Rain (ரெய்ன்)",
+            "Hills (ஹில்ஸ்)"
           ],
           "correct_index": 0,
           "explanation": "Main idea is reading & school."
@@ -10050,10 +10050,10 @@ export const BILINGUAL_COURSES = {
           "id": "ta_en_a1_q7",
           "question": "கேள்வி: சரியான கூற்று எது?",
           "options": [
-            "Rahul likes reading books.",
-            "Rahul never goes to school.",
-            "Rahul only plays games.",
-            "Rahul does not read books."
+            "Rahul likes reading books (ராஹுல் லைக்ஸ் ரீடிங் புக்ஸ்)",
+            "Rahul does not go to school (ராஹுல் டஸ் நாட் கோ டு ஸ்கூல்)",
+            "Rahul only plays (ராஹுல் ஒன்லி ப்ளேஸ்)",
+            "Rahul sleeps all day (ராஹுல் ஸ்லீப்ஸ் ஆல் டே)"
           ],
           "correct_index": 0,
           "explanation": "Rahul likes reading books is correct."
@@ -13495,10 +13495,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
               "options": [
-                "ఇల్లు (Home / హౌస్)",
-                "తోట (Garden)",
-                "కారు (Car)",
-                "పుస్తకం (Book)"
+                "Home (హోమ్)",
+                "Garden (గార్డెన్)",
+                "Car (కార్)",
+                "Book (బుక్)"
               ],
               "correct_index": 0,
               "explanation": "House అంటే ఇల్లు (Home).",
@@ -13507,10 +13507,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
               "options": [
-                "ఆసుపత్రి (Hospital)",
-                "పాఠశాల (Place for learning)",
-                "మార్కెట్ (Market)",
-                "పార్క్ (Park)"
+                "Hospital (హాస్పిటల్)",
+                "School (స్కూల్)",
+                "Market (మార్కెట్)",
+                "Park (పార్క్)"
               ],
               "correct_index": 1,
               "explanation": "School అంటే పాఠశాల.",
@@ -13585,10 +13585,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
             "options": [
-              "ఇల్లు (Home / హౌస్)",
-              "తోట (Garden)",
-              "కారు (Car)",
-              "పుస్తకం (Book)"
+              "Home (హోమ్)",
+              "Garden (గార్డెన్)",
+              "Car (కార్)",
+              "Book (బుక్)"
             ],
             "correct_index": 0,
             "explanation": "House అంటే ఇల్లు (Home).",
@@ -13597,10 +13597,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
             "options": [
-              "ఆసుపత్రి (Hospital)",
-              "పాఠశాల (Place for learning)",
-              "మార్కెట్ (Market)",
-              "పార్క్ (Park)"
+              "Hospital (హాస్పిటల్)",
+              "School (స్కూల్)",
+              "Market (మార్కెట్)",
+              "Park (పార్క్)"
             ],
             "correct_index": 1,
             "explanation": "School అంటే పాఠశాల.",
@@ -13672,10 +13672,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
           "options": [
-            "ఇల్లు (Home / హౌస్)",
-            "తోట (Garden)",
-            "కారు (Car)",
-            "పుస్తకం (Book)"
+            "Home (హోమ్)",
+            "Garden (గార్డెన్)",
+            "Car (కార్)",
+            "Book (బుక్)"
           ],
           "correct_index": 0,
           "explanation": "House అంటే ఇల్లు (Home).",
@@ -13684,10 +13684,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
           "options": [
-            "ఆసుపత్రి (Hospital)",
-            "పాఠశాల (Place for learning)",
-            "మార్కెట్ (Market)",
-            "పార్క్ (Park)"
+            "Hospital (హాస్పిటల్)",
+            "School (స్కూల్)",
+            "Market (మార్కెట్)",
+            "Park (పార్క్)"
           ],
           "correct_index": 1,
           "explanation": "School అంటే పాఠశాల.",
@@ -13714,10 +13714,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"నేను పాఠశాలకు వెళుతున్నాను.\" ఇది ఏ కాలం?",
               "options": [
-                "Past Tense (భూతకాలం)",
-                "Present Tense (వర్తమాన కాలం)",
-                "Future Tense (భవిష్యత్ కాలం)",
-                "Command (ఆజ్ఞార్థకం)"
+                "Past Tense (పాస్ట్ టెన్స్)",
+                "Present Tense (ప్రెసెంట్ టెన్స్)",
+                "Future Tense (ఫ్యూచర్ టెన్స్)",
+                "Command (కమాండ్)"
               ],
               "correct_index": 1,
               "explanation": "Present Tense (వర్తమాన కాలం).",
@@ -13726,10 +13726,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"అతను నిన్న వచ్చాడు.\" ఇది ఏ కాలం?",
               "options": [
-                "Past Tense (భూతకాలం)",
-                "Present Tense (వర్తమాన కాలం)",
-                "Future Tense (భవిష్యత్ కాలం)",
-                "None (ఏదీ కాదు)"
+                "Past Tense (పాస్ట్ టెన్స్)",
+                "Present Tense (ప్రెసెంట్ టెన్స్)",
+                "Future Tense (ఫ్యూచర్ టెన్స్)",
+                "None (నన్)"
               ],
               "correct_index": 0,
               "explanation": "Past Tense (భూతకాలం).",
@@ -13738,10 +13738,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"నేను రేపు వెళ్తాను.\" ఇది ఏ కాలం?",
               "options": [
-                "Present Tense (వర్తమాన కాలం)",
-                "Future Tense (భవిష్యత్ కాలం)",
-                "Past Tense (భూతకాలం)",
-                "Noun (నామవాచకం)"
+                "Present Tense (ప్రెసెంట్ టెన్స్)",
+                "Future Tense (ఫ్యూచర్ టెన్స్)",
+                "Past Tense (పాస్ట్ టెన్స్)",
+                "Noun (నౌన్)"
               ],
               "correct_index": 1,
               "explanation": "Future Tense (భవిష్యత్ కాలం).",
@@ -13750,10 +13750,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"ఆమె పాట పాడుతోంది.\" ఇది ఏ కాలం?",
               "options": [
-                "Present Tense (వర్తమాన కాలం)",
-                "Past Tense (భూతకాలం)",
-                "Future Tense (భవిష్యత్ కాలం)",
-                "Adjective (విశేషణం)"
+                "Present Tense (ప్రెసెంట్ టెన్స్)",
+                "Past Tense (పాస్ట్ టెన్స్)",
+                "Future Tense (ఫ్యూచర్ టెన్స్)",
+                "Adjective (అడ్జెక్టివ్)"
               ],
               "correct_index": 0,
               "explanation": "Present Tense (వర్తమాన కాలం).",
@@ -13762,10 +13762,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
               "options": [
-                "Present Tense (వర్తమాన కాలం)",
-                "Past Tense (భూతకాలం)",
-                "Future Tense (భవిష్యత్ కాలం)",
-                "None (ఏదీ కాదు)"
+                "Present Tense (ప్రెసెంట్ టెన్స్)",
+                "Past Tense (పాస్ట్ టెన్స్)",
+                "Future Tense (ఫ్యూచర్ టెన్స్)",
+                "None (నన్)"
               ],
               "correct_index": 1,
               "explanation": "Past Tense (భూతకాలం).",
@@ -13774,10 +13774,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
               "options": [
-                "Past Tense (భూతకాలం)",
-                "Present Tense (వర్తమాన కాలం)",
-                "Future Tense (భవిష్యత్ కాలం)",
-                "Adjective (విశేషణం)"
+                "Past Tense (పాస్ట్ టెన్స్)",
+                "Present Tense (ప్రెసెంట్ టెన్స్)",
+                "Future Tense (ఫ్యూచర్ టెన్స్)",
+                "Adjective (అడ్జెక్టివ్)"
               ],
               "correct_index": 2,
               "explanation": "Future Tense (భవిష్యత్ కాలం).",
@@ -13786,10 +13786,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
               "options": [
-                "Present Tense (వర్తమాన కాలం)",
-                "Past Tense (భూతకాలం)",
-                "Future Tense (భవిష్యత్ కాలం)",
-                "Noun (నామవాచకం)"
+                "Present Tense (ప్రెసెంట్ టెన్స్)",
+                "Past Tense (పాస్ట్ టెన్స్)",
+                "Future Tense (ఫ్యూచర్ టెన్స్)",
+                "Noun (నౌన్)"
               ],
               "correct_index": 0,
               "explanation": "Present Tense (వర్తమాన కాలం).",
@@ -13804,10 +13804,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"నేను పాఠశాలకు వెళుతున్నాను.\" ఇది ఏ కాలం?",
             "options": [
-              "Past Tense (భూతకాలం)",
-              "Present Tense (వర్తమాన కాలం)",
-              "Future Tense (భవిష్యత్ కాలం)",
-              "Command (ఆజ్ఞార్థకం)"
+              "Past Tense (పాస్ట్ టెన్స్)",
+              "Present Tense (ప్రెసెంట్ టెన్స్)",
+              "Future Tense (ఫ్యూచర్ టెన్స్)",
+              "Command (కమాండ్)"
             ],
             "correct_index": 1,
             "explanation": "Present Tense (వర్తమాన కాలం).",
@@ -13816,10 +13816,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"అతను నిన్న వచ్చాడు.\" ఇది ఏ కాలం?",
             "options": [
-              "Past Tense (భూతకాలం)",
-              "Present Tense (వర్తమాన కాలం)",
-              "Future Tense (భవిష్యత్ కాలం)",
-              "None (ఏదీ కాదు)"
+              "Past Tense (పాస్ట్ టెన్స్)",
+              "Present Tense (ప్రెసెంట్ టెన్స్)",
+              "Future Tense (ఫ్యూచర్ టెన్స్)",
+              "None (నన్)"
             ],
             "correct_index": 0,
             "explanation": "Past Tense (భూతకాలం).",
@@ -13828,10 +13828,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"నేను రేపు వెళ్తాను.\" ఇది ఏ కాలం?",
             "options": [
-              "Present Tense (వర్తమాన కాలం)",
-              "Future Tense (భవిష్యత్ కాలం)",
-              "Past Tense (భూతకాలం)",
-              "Noun (నామవాచకం)"
+              "Present Tense (ప్రెసెంట్ టెన్స్)",
+              "Future Tense (ఫ్యూచర్ టెన్స్)",
+              "Past Tense (పాస్ట్ టెన్స్)",
+              "Noun (నౌన్)"
             ],
             "correct_index": 1,
             "explanation": "Future Tense (భవిష్యత్ కాలం).",
@@ -13840,10 +13840,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"ఆమె పాట పాడుతోంది.\" ఇది ఏ కాలం?",
             "options": [
-              "Present Tense (వర్తమాన కాలం)",
-              "Past Tense (భూతకాలం)",
-              "Future Tense (భవిష్యత్ కాలం)",
-              "Adjective (విశేషణం)"
+              "Present Tense (ప్రెసెంట్ టెన్స్)",
+              "Past Tense (పాస్ట్ టెన్స్)",
+              "Future Tense (ఫ్యూచర్ టెన్స్)",
+              "Adjective (అడ్జెక్టివ్)"
             ],
             "correct_index": 0,
             "explanation": "Present Tense (వర్తమాన కాలం).",
@@ -13852,10 +13852,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
             "options": [
-              "Present Tense (వర్తమాన కాలం)",
-              "Past Tense (భూతకాలం)",
-              "Future Tense (భవిష్యత్ కాలం)",
-              "None (ఏదీ కాదు)"
+              "Present Tense (ప్రెసెంట్ టెన్స్)",
+              "Past Tense (పాస్ట్ టెన్స్)",
+              "Future Tense (ఫ్యూచర్ టెన్స్)",
+              "None (నన్)"
             ],
             "correct_index": 1,
             "explanation": "Past Tense (భూతకాలం).",
@@ -13864,10 +13864,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
             "options": [
-              "Past Tense (భూతకాలం)",
-              "Present Tense (వర్తమాన కాలం)",
-              "Future Tense (భవిష్యత్ కాలం)",
-              "Adjective (విశేషణం)"
+              "Past Tense (పాస్ట్ టెన్స్)",
+              "Present Tense (ప్రెసెంట్ టెన్స్)",
+              "Future Tense (ఫ్యూచర్ టెన్స్)",
+              "Adjective (అడ్జెక్టివ్)"
             ],
             "correct_index": 2,
             "explanation": "Future Tense (భవిష్యత్ కాలం).",
@@ -13876,10 +13876,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
             "options": [
-              "Present Tense (వర్తమాన కాలం)",
-              "Past Tense (భూతకాలం)",
-              "Future Tense (భవిష్యత్ కాలం)",
-              "Noun (నామవాచకం)"
+              "Present Tense (ప్రెసెంట్ టెన్స్)",
+              "Past Tense (పాస్ట్ టెన్స్)",
+              "Future Tense (ఫ్యూచర్ టెన్స్)",
+              "Noun (నౌన్)"
             ],
             "correct_index": 0,
             "explanation": "Present Tense (వర్తమాన కాలం).",
@@ -13891,10 +13891,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"నేను పాఠశాలకు వెళుతున్నాను.\" ఇది ఏ కాలం?",
           "options": [
-            "Past Tense (భూతకాలం)",
-            "Present Tense (వర్తమాన కాలం)",
-            "Future Tense (భవిష్యత్ కాలం)",
-            "Command (ఆజ్ఞార్థకం)"
+            "Past Tense (పాస్ట్ టెన్స్)",
+            "Present Tense (ప్రెసెంట్ టెన్స్)",
+            "Future Tense (ఫ్యూచర్ టెన్స్)",
+            "Command (కమాండ్)"
           ],
           "correct_index": 1,
           "explanation": "Present Tense (వర్తమాన కాలం).",
@@ -13903,10 +13903,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"అతను నిన్న వచ్చాడు.\" ఇది ఏ కాలం?",
           "options": [
-            "Past Tense (భూతకాలం)",
-            "Present Tense (వర్తమాన కాలం)",
-            "Future Tense (భవిష్యత్ కాలం)",
-            "None (ఏదీ కాదు)"
+            "Past Tense (పాస్ట్ టెన్స్)",
+            "Present Tense (ప్రెసెంట్ టెన్స్)",
+            "Future Tense (ఫ్యూచర్ టెన్స్)",
+            "None (నన్)"
           ],
           "correct_index": 0,
           "explanation": "Past Tense (భూతకాలం).",
@@ -13915,10 +13915,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"నేను రేపు వెళ్తాను.\" ఇది ఏ కాలం?",
           "options": [
-            "Present Tense (వర్తమాన కాలం)",
-            "Future Tense (భవిష్యత్ కాలం)",
-            "Past Tense (భూతకాలం)",
-            "Noun (నామవాచకం)"
+            "Present Tense (ప్రెసెంట్ టెన్స్)",
+            "Future Tense (ఫ్యూచర్ టెన్స్)",
+            "Past Tense (పాస్ట్ టెన్స్)",
+            "Noun (నౌన్)"
           ],
           "correct_index": 1,
           "explanation": "Future Tense (భవిష్యత్ కాలం).",
@@ -13927,10 +13927,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"ఆమె పాట పాడుతోంది.\" ఇది ఏ కాలం?",
           "options": [
-            "Present Tense (వర్తమాన కాలం)",
-            "Past Tense (భూతకాలం)",
-            "Future Tense (భవిష్యత్ కాలం)",
-            "Adjective (విశేషణం)"
+            "Present Tense (ప్రెసెంట్ టెన్స్)",
+            "Past Tense (పాస్ట్ టెన్స్)",
+            "Future Tense (ఫ్యూచర్ టెన్స్)",
+            "Adjective (అడ్జెక్టివ్)"
           ],
           "correct_index": 0,
           "explanation": "Present Tense (వర్తమాన కాలం).",
@@ -13939,10 +13939,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
           "options": [
-            "Present Tense (వర్తమాన కాలం)",
-            "Past Tense (భూతకాలం)",
-            "Future Tense (భవిష్యత్ కాలం)",
-            "None (ఏదీ కాదు)"
+            "Present Tense (ప్రెసెంట్ టెన్స్)",
+            "Past Tense (పాస్ట్ టెన్స్)",
+            "Future Tense (ఫ్యూచర్ టెన్స్)",
+            "None (నన్)"
           ],
           "correct_index": 1,
           "explanation": "Past Tense (భూతకాలం).",
@@ -13951,10 +13951,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
           "options": [
-            "Past Tense (భూతకాలం)",
-            "Present Tense (వర్తమాన కాలం)",
-            "Future Tense (భవిష్యత్ కాలం)",
-            "Adjective (విశేషణం)"
+            "Past Tense (పాస్ట్ టెన్స్)",
+            "Present Tense (ప్రెసెంట్ టెన్స్)",
+            "Future Tense (ఫ్యూచర్ టెన్స్)",
+            "Adjective (అడ్జెక్టివ్)"
           ],
           "correct_index": 2,
           "explanation": "Future Tense (భవిష్యత్ కాలం).",
@@ -13963,10 +13963,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
           "options": [
-            "Present Tense (వర్తమాన కాలం)",
-            "Past Tense (భూతకాలం)",
-            "Future Tense (భవిష్యత్ కాలం)",
-            "Noun (నామవాచకం)"
+            "Present Tense (ప్రెసెంట్ టెన్స్)",
+            "Past Tense (పాస్ట్ టెన్స్)",
+            "Future Tense (ఫ్యూచర్ టెన్స్)",
+            "Noun (నౌన్)"
           ],
           "correct_index": 0,
           "explanation": "Present Tense (వర్తమాన కాలం).",
@@ -14029,10 +14029,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"మరియు\" (And) ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
-                "Conjunction (సంధాన పదం)",
-                "Noun (నామవాచకం)",
-                "Verb (క్రియ)",
-                "Adjective (విశేషణం)"
+                "Conjunction (కంజంక్షన్)",
+                "Noun (నౌన్)",
+                "Verb (వర్బ్)",
+                "Adjective (అడ్జెక్టివ్)"
               ],
               "correct_index": 0,
               "explanation": "And అనేది Conjunction.",
@@ -14041,10 +14041,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"అందువల్ల\" (Therefore) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
               "options": [
-                "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (Cause & Effect)",
-                "నామవాచకంగా (As a Noun)",
-                "క్రియగా (As a Verb)",
-                "కాలాన్ని సూచించడానికి (Time)"
+                "Cause & Effect (కాజ్ అండ్ ఎఫెక్ట్)",
+                "Noun (నౌన్)",
+                "Verb (వర్బ్)",
+                "Time (టైమ్)"
               ],
               "correct_index": 0,
               "explanation": "Therefore కారణం మరియు ఫలితాన్ని తెలియజేయడానికి ఉపయోగిస్తారు.",
@@ -14065,10 +14065,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"లేదా\" (Or) అంటే ఏమిటి?",
               "options": [
-                "రెండు ఎంపికల్లో ఒకటి (Choice between two)",
-                "సమయం (Time)",
-                "స్థలం (Place)",
-                "క్రియ (Action)"
+                "Choice between two (ఛాయిస్ బిట్వీన్ టూ)",
+                "Time (టైమ్)",
+                "Place (ప్లేస్)",
+                "Action (యాక్షన్)"
               ],
               "correct_index": 0,
               "explanation": "Or అంటే రెండు ఎంపికల్లో ఒకటి.",
@@ -14119,10 +14119,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"మరియు\" (And) ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
-              "Conjunction (సంధాన పదం)",
-              "Noun (నామవాచకం)",
-              "Verb (క్రియ)",
-              "Adjective (విశేషణం)"
+              "Conjunction (కంజంక్షన్)",
+              "Noun (నౌన్)",
+              "Verb (వర్బ్)",
+              "Adjective (అడ్జెక్టివ్)"
             ],
             "correct_index": 0,
             "explanation": "And అనేది Conjunction.",
@@ -14131,10 +14131,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"అందువల్ల\" (Therefore) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
             "options": [
-              "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (Cause & Effect)",
-              "నామవాచకంగా (As a Noun)",
-              "క్రియగా (As a Verb)",
-              "కాలాన్ని సూచించడానికి (Time)"
+              "Cause & Effect (కాజ్ అండ్ ఎఫెక్ట్)",
+              "Noun (నౌన్)",
+              "Verb (వర్బ్)",
+              "Time (టైమ్)"
             ],
             "correct_index": 0,
             "explanation": "Therefore కారణం మరియు ఫలితాన్ని తెలియజేయడానికి ఉపయోగిస్తారు.",
@@ -14155,10 +14155,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"లేదా\" (Or) అంటే ఏమిటి?",
             "options": [
-              "రెండు ఎంపికల్లో ఒకటి (Choice between two)",
-              "సమయం (Time)",
-              "స్థలం (Place)",
-              "క్రియ (Action)"
+              "Choice between two (ఛాయిస్ బిట్వీన్ టూ)",
+              "Time (టైమ్)",
+              "Place (ప్లేస్)",
+              "Action (యాక్షన్)"
             ],
             "correct_index": 0,
             "explanation": "Or అంటే రెండు ఎంపికల్లో ఒకటి.",
@@ -14206,10 +14206,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"మరియు\" (And) ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
-            "Conjunction (సంధాన పదం)",
-            "Noun (నామవాచకం)",
-            "Verb (క్రియ)",
-            "Adjective (విశేషణం)"
+            "Conjunction (కంజంక్షన్)",
+            "Noun (నౌన్)",
+            "Verb (వర్బ్)",
+            "Adjective (అడ్జెక్టివ్)"
           ],
           "correct_index": 0,
           "explanation": "And అనేది Conjunction.",
@@ -14218,10 +14218,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"అందువల్ల\" (Therefore) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
           "options": [
-            "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి (Cause & Effect)",
-            "నామవాచకంగా (As a Noun)",
-            "క్రియగా (As a Verb)",
-            "కాలాన్ని సూచించడానికి (Time)"
+            "Cause & Effect (కాజ్ అండ్ ఎఫెక్ట్)",
+            "Noun (నౌన్)",
+            "Verb (వర్బ్)",
+            "Time (టైమ్)"
           ],
           "correct_index": 0,
           "explanation": "Therefore కారణం మరియు ఫలితాన్ని తెలియజేయడానికి ఉపయోగిస్తారు.",
@@ -14242,10 +14242,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"లేదా\" (Or) అంటే ఏమిటి?",
           "options": [
-            "రెండు ఎంపికల్లో ఒకటి (Choice between two)",
-            "సమయం (Time)",
-            "స్థలం (Place)",
-            "క్రియ (Action)"
+            "Choice between two (ఛాయిస్ బిట్వీన్ టూ)",
+            "Time (టైమ్)",
+            "Place (ప్లేస్)",
+            "Action (యాక్షన్)"
           ],
           "correct_index": 0,
           "explanation": "Or అంటే రెండు ఎంపికల్లో ఒకటి.",
@@ -14273,9 +14273,9 @@ export const BILINGUAL_COURSES = {
               "question": "ప్రశ్న: రాహుల్ ఎక్కడికి వెళ్తాడు?",
               "options": [
                 "Market (మార్కెట్)",
-                "School (స్కూల్ / పాఠశాల)",
+                "School (స్కూల్)",
                 "Park (పార్క్)",
-                "Home (ఇల్లు)"
+                "Home (హోమ్)"
               ],
               "correct_index": 1,
               "explanation": "Rahul పాఠశాలకు (School) వెళ్తాడు.",
@@ -14284,10 +14284,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: రాహుల్ కు ఏమి ఇష్టం?",
               "options": [
-                "Games (ఆటలు)",
-                "Reading books (పుస్తకాలు చదవడం)",
-                "Sleeping (నిద్రపోవడం)",
-                "Watching TV (టీవీ చూడడం)"
+                "Playing games (ప్లేయింగ్ గేమ్స్)",
+                "Reading books (రీడింగ్ బుక్స్)",
+                "Sleeping (స్లీపింగ్)",
+                "Watching TV (వాచింగ్ టీవీ)"
               ],
               "correct_index": 1,
               "explanation": "Rahul కు పుస్తకాలు చదవడం (Reading books) చాలా ఇష్టం.",
@@ -14296,10 +14296,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
               "options": [
-                "Sita (సీత)",
+                "Reena (రీనా)",
                 "Rahul (రాహుల్)",
                 "Mohan (మోహన్)",
-                "Lata (లత)"
+                "Seema (సీమా)"
               ],
               "correct_index": 1,
               "explanation": "ఈ గద్యభాగం Rahul గురించి.",
@@ -14308,10 +14308,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: \"ప్రతిరోజూ\" అంటే ఏమిటి?",
               "options": [
-                "ప్రతి రోజు (Daily)",
-                "నిన్న (Yesterday)",
-                "ఎప్పుడూ కాదు (Never)",
-                "వచ్చే వారం (Next week)"
+                "Every day (ఎవ్రీ డే)",
+                "Yesterday (యెస్టర్డే)",
+                "Never (నెవర్)",
+                "Next week (నెక్స్ట్ వీక్)"
               ],
               "correct_index": 0,
               "explanation": "Every day అంటే ప్రతి రోజు.",
@@ -14320,10 +14320,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: రాహుల్ ఏమి చేస్తాడు?",
               "options": [
-                "Goes to school (పాఠశాలకు వెళ్తాడు)",
-                "Goes to market (మార్కెట్కు వెళ్తాడు)",
-                "Stays home (ఇంట్లో ఉంటాడు)",
-                "Goes to hospital (ఆసుపత్రికి వెళ్తాడు)"
+                "Goes to school (గోస్ టు స్కూల్)",
+                "Goes to market (గోస్ టు మార్కెట్)",
+                "Stays home (స్టేస్ హోమ్)",
+                "Goes to hospital (గోస్ టు హాస్పిటల్)"
               ],
               "correct_index": 0,
               "explanation": "Rahul పాఠశాలకు వెళ్తాడు (Goes to school).",
@@ -14332,10 +14332,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
               "options": [
-                "Study and school habit (చదువు మరియు పాఠశాల అలవాటు)",
-                "Travel (ప్రయాణం)",
-                "Rain (వర్షం)",
-                "Hills (కొండలు)"
+                "Study habit (స్టడీ హ్యాబిట్)",
+                "Travel (ట్రావెల్)",
+                "Rain (రైన్)",
+                "Hills (హిల్స్)"
               ],
               "correct_index": 0,
               "explanation": "ప్రధాన భావం Study and school habit.",
@@ -14344,10 +14344,10 @@ export const BILINGUAL_COURSES = {
             {
               "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
               "options": [
-                "Rahul likes reading books. (రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.)",
-                "Rahul does not go to school. (రాహుల్ పాఠశాలకు వెళ్లడు.)",
-                "Rahul always plays. (రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.)",
-                "Rahul does not read. (రాహుల్ చదవడు.)"
+                "Rahul likes reading books (రాహుల్ లైక్స్ రీడింగ్ బుక్స్)",
+                "Rahul does not go to school (రాహుల్ డస్ నాట్ గో టు స్కూల్)",
+                "Rahul only plays (రాహుల్ ఓన్లీ ప్లేస్)",
+                "Rahul sleeps all day (రాహుల్ స్లీప్స్ ఆల్ డే)"
               ],
               "correct_index": 0,
               "explanation": "Rahul likes reading books సరైన వాక్యం.",
@@ -14363,9 +14363,9 @@ export const BILINGUAL_COURSES = {
             "question": "ప్రశ్న: రాహుల్ ఎక్కడికి వెళ్తాడు?",
             "options": [
               "Market (మార్కెట్)",
-              "School (స్కూల్ / పాఠశాల)",
+              "School (స్కూల్)",
               "Park (పార్క్)",
-              "Home (ఇల్లు)"
+              "Home (హోమ్)"
             ],
             "correct_index": 1,
             "explanation": "Rahul పాఠశాలకు (School) వెళ్తాడు.",
@@ -14374,10 +14374,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: రాహుల్ కు ఏమి ఇష్టం?",
             "options": [
-              "Games (ఆటలు)",
-              "Reading books (పుస్తకాలు చదవడం)",
-              "Sleeping (నిద్రపోవడం)",
-              "Watching TV (టీవీ చూడడం)"
+              "Playing games (ప్లేయింగ్ గేమ్స్)",
+              "Reading books (రీడింగ్ బుక్స్)",
+              "Sleeping (స్లీపింగ్)",
+              "Watching TV (వాచింగ్ టీవీ)"
             ],
             "correct_index": 1,
             "explanation": "Rahul కు పుస్తకాలు చదవడం (Reading books) చాలా ఇష్టం.",
@@ -14386,10 +14386,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
             "options": [
-              "Sita (సీత)",
+              "Reena (రీనా)",
               "Rahul (రాహుల్)",
               "Mohan (మోహన్)",
-              "Lata (లత)"
+              "Seema (సీమా)"
             ],
             "correct_index": 1,
             "explanation": "ఈ గద్యభాగం Rahul గురించి.",
@@ -14398,10 +14398,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: \"ప్రతిరోజూ\" అంటే ఏమిటి?",
             "options": [
-              "ప్రతి రోజు (Daily)",
-              "నిన్న (Yesterday)",
-              "ఎప్పుడూ కాదు (Never)",
-              "వచ్చే వారం (Next week)"
+              "Every day (ఎవ్రీ డే)",
+              "Yesterday (యెస్టర్డే)",
+              "Never (నెవర్)",
+              "Next week (నెక్స్ట్ వీక్)"
             ],
             "correct_index": 0,
             "explanation": "Every day అంటే ప్రతి రోజు.",
@@ -14410,10 +14410,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: రాహుల్ ఏమి చేస్తాడు?",
             "options": [
-              "Goes to school (పాఠశాలకు వెళ్తాడు)",
-              "Goes to market (మార్కెట్కు వెళ్తాడు)",
-              "Stays home (ఇంట్లో ఉంటాడు)",
-              "Goes to hospital (ఆసుపత్రికి వెళ్తాడు)"
+              "Goes to school (గోస్ టు స్కూల్)",
+              "Goes to market (గోస్ టు మార్కెట్)",
+              "Stays home (స్టేస్ హోమ్)",
+              "Goes to hospital (గోస్ టు హాస్పిటల్)"
             ],
             "correct_index": 0,
             "explanation": "Rahul పాఠశాలకు వెళ్తాడు (Goes to school).",
@@ -14422,10 +14422,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
             "options": [
-              "Study and school habit (చదువు మరియు పాఠశాల అలవాటు)",
-              "Travel (ప్రయాణం)",
-              "Rain (వర్షం)",
-              "Hills (కొండలు)"
+              "Study habit (స్టడీ హ్యాబిట్)",
+              "Travel (ట్రావెల్)",
+              "Rain (రైన్)",
+              "Hills (హిల్స్)"
             ],
             "correct_index": 0,
             "explanation": "ప్రధాన భావం Study and school habit.",
@@ -14434,10 +14434,10 @@ export const BILINGUAL_COURSES = {
           {
             "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
             "options": [
-              "Rahul likes reading books. (రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.)",
-              "Rahul does not go to school. (రాహుల్ పాఠశాలకు వెళ్లడు.)",
-              "Rahul always plays. (రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.)",
-              "Rahul does not read. (రాహుల్ చదవడు.)"
+              "Rahul likes reading books (రాహుల్ లైక్స్ రీడింగ్ బుక్స్)",
+              "Rahul does not go to school (రాహుల్ డస్ నాట్ గో టు స్కూల్)",
+              "Rahul only plays (రాహుల్ ఓన్లీ ప్లేస్)",
+              "Rahul sleeps all day (రాహుల్ స్లీప్స్ ఆల్ డే)"
             ],
             "correct_index": 0,
             "explanation": "Rahul likes reading books సరైన వాక్యం.",
@@ -14450,9 +14450,9 @@ export const BILINGUAL_COURSES = {
           "question": "ప్రశ్న: రాహుల్ ఎక్కడికి వెళ్తాడు?",
           "options": [
             "Market (మార్కెట్)",
-            "School (స్కూల్ / పాఠశాల)",
+            "School (స్కూల్)",
             "Park (పార్క్)",
-            "Home (ఇల్లు)"
+            "Home (హోమ్)"
           ],
           "correct_index": 1,
           "explanation": "Rahul పాఠశాలకు (School) వెళ్తాడు.",
@@ -14461,10 +14461,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: రాహుల్ కు ఏమి ఇష్టం?",
           "options": [
-            "Games (ఆటలు)",
-            "Reading books (పుస్తకాలు చదవడం)",
-            "Sleeping (నిద్రపోవడం)",
-            "Watching TV (టీవీ చూడడం)"
+            "Playing games (ప్లేయింగ్ గేమ్స్)",
+            "Reading books (రీడింగ్ బుక్స్)",
+            "Sleeping (స్లీపింగ్)",
+            "Watching TV (వాచింగ్ టీవీ)"
           ],
           "correct_index": 1,
           "explanation": "Rahul కు పుస్తకాలు చదవడం (Reading books) చాలా ఇష్టం.",
@@ -14473,10 +14473,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
           "options": [
-            "Sita (సీత)",
+            "Reena (రీనా)",
             "Rahul (రాహుల్)",
             "Mohan (మోహన్)",
-            "Lata (లత)"
+            "Seema (సీమా)"
           ],
           "correct_index": 1,
           "explanation": "ఈ గద్యభాగం Rahul గురించి.",
@@ -14485,10 +14485,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: \"ప్రతిరోజూ\" అంటే ఏమిటి?",
           "options": [
-            "ప్రతి రోజు (Daily)",
-            "నిన్న (Yesterday)",
-            "ఎప్పుడూ కాదు (Never)",
-            "వచ్చే వారం (Next week)"
+            "Every day (ఎవ్రీ డే)",
+            "Yesterday (యెస్టర్డే)",
+            "Never (నెవర్)",
+            "Next week (నెక్స్ట్ వీక్)"
           ],
           "correct_index": 0,
           "explanation": "Every day అంటే ప్రతి రోజు.",
@@ -14497,10 +14497,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: రాహుల్ ఏమి చేస్తాడు?",
           "options": [
-            "Goes to school (పాఠశాలకు వెళ్తాడు)",
-            "Goes to market (మార్కెట్కు వెళ్తాడు)",
-            "Stays home (ఇంట్లో ఉంటాడు)",
-            "Goes to hospital (ఆసుపత్రికి వెళ్తాడు)"
+            "Goes to school (గోస్ టు స్కూల్)",
+            "Goes to market (గోస్ టు మార్కెట్)",
+            "Stays home (స్టేస్ హోమ్)",
+            "Goes to hospital (గోస్ టు హాస్పిటల్)"
           ],
           "correct_index": 0,
           "explanation": "Rahul పాఠశాలకు వెళ్తాడు (Goes to school).",
@@ -14509,10 +14509,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
           "options": [
-            "Study and school habit (చదువు మరియు పాఠశాల అలవాటు)",
-            "Travel (ప్రయాణం)",
-            "Rain (వర్షం)",
-            "Hills (కొండలు)"
+            "Study habit (స్టడీ హ్యాబిట్)",
+            "Travel (ట్రావెల్)",
+            "Rain (రైన్)",
+            "Hills (హిల్స్)"
           ],
           "correct_index": 0,
           "explanation": "ప్రధాన భావం Study and school habit.",
@@ -14521,10 +14521,10 @@ export const BILINGUAL_COURSES = {
         {
           "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
           "options": [
-            "Rahul likes reading books. (రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.)",
-            "Rahul does not go to school. (రాహుల్ పాఠశాలకు వెళ్లడు.)",
-            "Rahul always plays. (రాహుల్ ఎప్పుడూ ఆడుతుంటాడు.)",
-            "Rahul does not read. (రాహుల్ చదవడు.)"
+            "Rahul likes reading books (రాహుల్ లైక్స్ రీడింగ్ బుక్స్)",
+            "Rahul does not go to school (రాహుల్ డస్ నాట్ గో టు స్కూల్)",
+            "Rahul only plays (రాహుల్ ఓన్లీ ప్లేస్)",
+            "Rahul sleeps all day (రాహుల్ స్లీప్స్ ఆల్ డే)"
           ],
           "correct_index": 0,
           "explanation": "Rahul likes reading books సరైన వాక్యం.",
@@ -17908,10 +17908,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_f1_q1",
               "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
               "options": [
-                "B",
-                "A",
-                "C",
-                "D"
+                "B (ಬಿ)",
+                "A (ಎ)",
+                "C (ಸಿ)",
+                "D (ಡಿ)"
               ],
               "correct_index": 1,
               "explanation": "Apple begins with A."
@@ -17920,10 +17920,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_f1_q2",
               "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
               "options": [
-                "Run",
-                "Happy",
-                "Book",
-                "Quickly"
+                "Run (ರನ್)",
+                "Happy (ಹ್ಯಾಪಿ)",
+                "Book (ಬುಕ್)",
+                "Quickly (ಕ್ವಿಕ್ಲಿ)"
               ],
               "correct_index": 2,
               "explanation": "Book is a Noun."
@@ -17932,10 +17932,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_f1_q3",
               "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
               "options": [
-                "Trees",
-                "Treees",
-                "Trees'",
-                "Tree"
+                "Trees (ಟ್ರಿಸ್)",
+                "Treees (ಟ್ರಿಸ್)",
+                "Trees' (ಟ್ರಿಸ್)",
+                "Tree (ಟ್ರಿ)"
               ],
               "correct_index": 0,
               "explanation": "Plural of Tree is Trees."
@@ -17944,10 +17944,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_f1_q4",
               "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
               "options": [
-                "Beautiful",
-                "School",
-                "Jump",
-                "They"
+                "Beautiful (ಬ್ಯೂಟಿಫುಲ್)",
+                "School (ಸ್ಕೂಲ್)",
+                "Jump (ಜಂಪ್)",
+                "They (ದೇ)"
               ],
               "correct_index": 0,
               "explanation": "Beautiful is an Adjective."
@@ -17956,10 +17956,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_f1_q5",
               "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
               "options": [
-                "Reading",
-                "Table",
-                "Blue",
-                "Friend"
+                "Sleep (ಸ್ಲೀಪ್)",
+                "Book (ಬುಕ್)",
+                "Blue (ಬ್ಲೂ)",
+                "Slowly (ಸ್ಲೋಲಿ)"
               ],
               "correct_index": 0,
               "explanation": "Reading is a Verb."
@@ -17968,10 +17968,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_f1_q6",
               "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
               "options": [
-                "Pen",
-                "Notebook",
-                "Text",
-                "Volume"
+                "Home (ಹೋಮ್)",
+                "Garden (ಗಾರ್ಡನ್)",
+                "Car (ಕಾರ್)",
+                "Book (ಬುಕ್)"
               ],
               "correct_index": 3,
               "explanation": "Volume means Book."
@@ -17980,10 +17980,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_f1_q7",
               "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
               "options": [
-                "A hospital",
-                "A place to learn",
-                "A market",
-                "A park"
+                "Hospital (ಹಾಸ್ಪಿಟಲ್)",
+                "School (ಸ್ಕೂಲ್)",
+                "Market (ಮಾರ್ಕೆಟ್)",
+                "Park (ಪಾರ್ಕ್)"
               ],
               "correct_index": 1,
               "explanation": "School is a place to learn."
@@ -17998,10 +17998,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_f1_q1",
             "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
             "options": [
-              "B",
-              "A",
-              "C",
-              "D"
+              "B (ಬಿ)",
+              "A (ಎ)",
+              "C (ಸಿ)",
+              "D (ಡಿ)"
             ],
             "correct_index": 1,
             "explanation": "Apple begins with A."
@@ -18010,10 +18010,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_f1_q2",
             "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
             "options": [
-              "Run",
-              "Happy",
-              "Book",
-              "Quickly"
+              "Run (ರನ್)",
+              "Happy (ಹ್ಯಾಪಿ)",
+              "Book (ಬುಕ್)",
+              "Quickly (ಕ್ವಿಕ್ಲಿ)"
             ],
             "correct_index": 2,
             "explanation": "Book is a Noun."
@@ -18022,10 +18022,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_f1_q3",
             "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
             "options": [
-              "Trees",
-              "Treees",
-              "Trees'",
-              "Tree"
+              "Trees (ಟ್ರಿಸ್)",
+              "Treees (ಟ್ರಿಸ್)",
+              "Trees' (ಟ್ರಿಸ್)",
+              "Tree (ಟ್ರಿ)"
             ],
             "correct_index": 0,
             "explanation": "Plural of Tree is Trees."
@@ -18034,10 +18034,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_f1_q4",
             "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
             "options": [
-              "Beautiful",
-              "School",
-              "Jump",
-              "They"
+              "Beautiful (ಬ್ಯೂಟಿಫುಲ್)",
+              "School (ಸ್ಕೂಲ್)",
+              "Jump (ಜಂಪ್)",
+              "They (ದೇ)"
             ],
             "correct_index": 0,
             "explanation": "Beautiful is an Adjective."
@@ -18046,10 +18046,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_f1_q5",
             "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
             "options": [
-              "Reading",
-              "Table",
-              "Blue",
-              "Friend"
+              "Sleep (ಸ್ಲೀಪ್)",
+              "Book (ಬುಕ್)",
+              "Blue (ಬ್ಲೂ)",
+              "Slowly (ಸ್ಲೋಲಿ)"
             ],
             "correct_index": 0,
             "explanation": "Reading is a Verb."
@@ -18058,10 +18058,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_f1_q6",
             "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
             "options": [
-              "Pen",
-              "Notebook",
-              "Text",
-              "Volume"
+              "Home (ಹೋಮ್)",
+              "Garden (ಗಾರ್ಡನ್)",
+              "Car (ಕಾರ್)",
+              "Book (ಬುಕ್)"
             ],
             "correct_index": 3,
             "explanation": "Volume means Book."
@@ -18070,10 +18070,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_f1_q7",
             "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
             "options": [
-              "A hospital",
-              "A place to learn",
-              "A market",
-              "A park"
+              "Hospital (ಹಾಸ್ಪಿಟಲ್)",
+              "School (ಸ್ಕೂಲ್)",
+              "Market (ಮಾರ್ಕೆಟ್)",
+              "Park (ಪಾರ್ಕ್)"
             ],
             "correct_index": 1,
             "explanation": "School is a place to learn."
@@ -18085,10 +18085,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_f1_q1",
           "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
           "options": [
-            "B",
-            "A",
-            "C",
-            "D"
+            "B (ಬಿ)",
+            "A (ಎ)",
+            "C (ಸಿ)",
+            "D (ಡಿ)"
           ],
           "correct_index": 1,
           "explanation": "Apple begins with A."
@@ -18097,10 +18097,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_f1_q2",
           "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
           "options": [
-            "Run",
-            "Happy",
-            "Book",
-            "Quickly"
+            "Run (ರನ್)",
+            "Happy (ಹ್ಯಾಪಿ)",
+            "Book (ಬುಕ್)",
+            "Quickly (ಕ್ವಿಕ್ಲಿ)"
           ],
           "correct_index": 2,
           "explanation": "Book is a Noun."
@@ -18109,10 +18109,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_f1_q3",
           "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
           "options": [
-            "Trees",
-            "Treees",
-            "Trees'",
-            "Tree"
+            "Trees (ಟ್ರಿಸ್)",
+            "Treees (ಟ್ರಿಸ್)",
+            "Trees' (ಟ್ರಿಸ್)",
+            "Tree (ಟ್ರಿ)"
           ],
           "correct_index": 0,
           "explanation": "Plural of Tree is Trees."
@@ -18121,10 +18121,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_f1_q4",
           "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
           "options": [
-            "Beautiful",
-            "School",
-            "Jump",
-            "They"
+            "Beautiful (ಬ್ಯೂಟಿಫುಲ್)",
+            "School (ಸ್ಕೂಲ್)",
+            "Jump (ಜಂಪ್)",
+            "They (ದೇ)"
           ],
           "correct_index": 0,
           "explanation": "Beautiful is an Adjective."
@@ -18133,10 +18133,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_f1_q5",
           "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
           "options": [
-            "Reading",
-            "Table",
-            "Blue",
-            "Friend"
+            "Sleep (ಸ್ಲೀಪ್)",
+            "Book (ಬುಕ್)",
+            "Blue (ಬ್ಲೂ)",
+            "Slowly (ಸ್ಲೋಲಿ)"
           ],
           "correct_index": 0,
           "explanation": "Reading is a Verb."
@@ -18145,10 +18145,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_f1_q6",
           "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
           "options": [
-            "Pen",
-            "Notebook",
-            "Text",
-            "Volume"
+            "Home (ಹೋಮ್)",
+            "Garden (ಗಾರ್ಡನ್)",
+            "Car (ಕಾರ್)",
+            "Book (ಬುಕ್)"
           ],
           "correct_index": 3,
           "explanation": "Volume means Book."
@@ -18157,10 +18157,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_f1_q7",
           "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
           "options": [
-            "A hospital",
-            "A place to learn",
-            "A market",
-            "A park"
+            "Hospital (ಹಾಸ್ಪಿಟಲ್)",
+            "School (ಸ್ಕೂಲ್)",
+            "Market (ಮಾರ್ಕೆಟ್)",
+            "Park (ಪಾರ್ಕ್)"
           ],
           "correct_index": 1,
           "explanation": "School is a place to learn."
@@ -18187,10 +18187,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_b1_q1",
               "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "Past Tense",
-                "Present Tense",
-                "Future Tense",
-                "Imperative"
+                "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+                "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+                "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+                "Command (ಕಮಾಂಡ್)"
               ],
               "correct_index": 1,
               "explanation": "Present Tense."
@@ -18199,10 +18199,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_b1_q2",
               "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "Past Tense",
-                "Present Tense",
-                "Future Tense",
-                "None"
+                "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+                "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+                "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+                "None (ನನ್)"
               ],
               "correct_index": 0,
               "explanation": "Past Tense."
@@ -18211,10 +18211,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_b1_q3",
               "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "Present Tense",
-                "Future Tense",
-                "Past Tense",
-                "Noun"
+                "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+                "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+                "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+                "Noun (ನೌನ್)"
               ],
               "correct_index": 1,
               "explanation": "Future Tense."
@@ -18223,10 +18223,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_b1_q4",
               "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
-                "Present Tense",
-                "Past Tense",
-                "Future Tense",
-                "Adjective"
+                "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+                "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+                "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+                "Adjective (ಅಡ್ಜೆಕ್ಟಿವ್)"
               ],
               "correct_index": 0,
               "explanation": "Present Tense."
@@ -18235,10 +18235,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_b1_q5",
               "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
               "options": [
-                "Eat",
-                "Ate",
-                "Eating",
-                "Eats"
+                "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+                "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+                "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+                "None (ನನ್)"
               ],
               "correct_index": 1,
               "explanation": "Ate is past tense."
@@ -18247,10 +18247,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_b1_q6",
               "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
               "options": [
-                "Read",
-                "Reading",
-                "Will read",
-                "Reads"
+                "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+                "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+                "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+                "Adjective (ಅಡ್ಜೆಕ್ಟಿವ್)"
               ],
               "correct_index": 2,
               "explanation": "Will read is future tense."
@@ -18259,10 +18259,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_b1_q7",
               "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
               "options": [
-                "Present Tense",
-                "Past Tense",
-                "Future Tense",
-                "Noun"
+                "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+                "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+                "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+                "Noun (ನೌನ್)"
               ],
               "correct_index": 0,
               "explanation": "Present Tense."
@@ -18277,10 +18277,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_b1_q1",
             "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "Past Tense",
-              "Present Tense",
-              "Future Tense",
-              "Imperative"
+              "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+              "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+              "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+              "Command (ಕಮಾಂಡ್)"
             ],
             "correct_index": 1,
             "explanation": "Present Tense."
@@ -18289,10 +18289,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_b1_q2",
             "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "Past Tense",
-              "Present Tense",
-              "Future Tense",
-              "None"
+              "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+              "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+              "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+              "None (ನನ್)"
             ],
             "correct_index": 0,
             "explanation": "Past Tense."
@@ -18301,10 +18301,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_b1_q3",
             "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "Present Tense",
-              "Future Tense",
-              "Past Tense",
-              "Noun"
+              "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+              "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+              "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+              "Noun (ನೌನ್)"
             ],
             "correct_index": 1,
             "explanation": "Future Tense."
@@ -18313,10 +18313,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_b1_q4",
             "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
-              "Present Tense",
-              "Past Tense",
-              "Future Tense",
-              "Adjective"
+              "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+              "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+              "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+              "Adjective (ಅಡ್ಜೆಕ್ಟಿವ್)"
             ],
             "correct_index": 0,
             "explanation": "Present Tense."
@@ -18325,10 +18325,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_b1_q5",
             "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
             "options": [
-              "Eat",
-              "Ate",
-              "Eating",
-              "Eats"
+              "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+              "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+              "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+              "None (ನನ್)"
             ],
             "correct_index": 1,
             "explanation": "Ate is past tense."
@@ -18337,10 +18337,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_b1_q6",
             "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
             "options": [
-              "Read",
-              "Reading",
-              "Will read",
-              "Reads"
+              "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+              "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+              "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+              "Adjective (ಅಡ್ಜೆಕ್ಟಿವ್)"
             ],
             "correct_index": 2,
             "explanation": "Will read is future tense."
@@ -18349,10 +18349,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_b1_q7",
             "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
             "options": [
-              "Present Tense",
-              "Past Tense",
-              "Future Tense",
-              "Noun"
+              "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+              "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+              "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+              "Noun (ನೌನ್)"
             ],
             "correct_index": 0,
             "explanation": "Present Tense."
@@ -18364,10 +18364,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_b1_q1",
           "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "Past Tense",
-            "Present Tense",
-            "Future Tense",
-            "Imperative"
+            "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+            "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+            "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+            "Command (ಕಮಾಂಡ್)"
           ],
           "correct_index": 1,
           "explanation": "Present Tense."
@@ -18376,10 +18376,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_b1_q2",
           "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "Past Tense",
-            "Present Tense",
-            "Future Tense",
-            "None"
+            "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+            "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+            "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+            "None (ನನ್)"
           ],
           "correct_index": 0,
           "explanation": "Past Tense."
@@ -18388,10 +18388,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_b1_q3",
           "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "Present Tense",
-            "Future Tense",
-            "Past Tense",
-            "Noun"
+            "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+            "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+            "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+            "Noun (ನೌನ್)"
           ],
           "correct_index": 1,
           "explanation": "Future Tense."
@@ -18400,10 +18400,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_b1_q4",
           "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
-            "Present Tense",
-            "Past Tense",
-            "Future Tense",
-            "Adjective"
+            "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+            "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+            "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+            "Adjective (ಅಡ್ಜೆಕ್ಟಿವ್)"
           ],
           "correct_index": 0,
           "explanation": "Present Tense."
@@ -18412,10 +18412,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_b1_q5",
           "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
           "options": [
-            "Eat",
-            "Ate",
-            "Eating",
-            "Eats"
+            "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+            "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+            "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+            "None (ನನ್)"
           ],
           "correct_index": 1,
           "explanation": "Ate is past tense."
@@ -18424,10 +18424,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_b1_q6",
           "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
           "options": [
-            "Read",
-            "Reading",
-            "Will read",
-            "Reads"
+            "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+            "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+            "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+            "Adjective (ಅಡ್ಜೆಕ್ಟಿವ್)"
           ],
           "correct_index": 2,
           "explanation": "Will read is future tense."
@@ -18436,10 +18436,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_b1_q7",
           "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
           "options": [
-            "Present Tense",
-            "Past Tense",
-            "Future Tense",
-            "Noun"
+            "Present Tense (ಪ್ರೆಸೆಂಟ್ ಟೆನ್ಸ್)",
+            "Past Tense (ಪಾಸ್ಟ್ ಟೆನ್ಸ್)",
+            "Future Tense (ಫ್ಯೂಚರ್ ಟೆನ್ಸ್)",
+            "Noun (ನೌನ್)"
           ],
           "correct_index": 0,
           "explanation": "Present Tense."
@@ -18466,10 +18466,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_i1_q1",
               "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
               "options": [
-                "But",
-                "And",
-                "Because",
-                "Or"
+                "But (ಬಟ್)",
+                "And (ಆಂಡ್)",
+                "Because (ಬಿಕಾಸ್)",
+                "Or (ಆರ್)"
               ],
               "correct_index": 1,
               "explanation": "And joins ideas."
@@ -18478,10 +18478,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_i1_q2",
               "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
-                "Mother",
-                "And",
-                "Father",
-                "Family"
+                "Mother (ಮದರ್)",
+                "And (ಆಂಡ್)",
+                "Father (ಫಾದರ್)",
+                "In (ಇನ್)"
               ],
               "correct_index": 1,
               "explanation": "And is joining word."
@@ -18490,10 +18490,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_i1_q3",
               "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
-                "But",
-                "Studied",
-                "Pass",
-                "He"
+                "But (బట్ / ಬಟ್)",
+                "Studied (ಸ್ಟಡೀಡ್)",
+                "Pass (ಪಾಸ್)",
+                "Did not (ಡಿಡ್ ನಾಟ್)"
               ],
               "correct_index": 0,
               "explanation": "But is joining word."
@@ -18502,10 +18502,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_i1_q4",
               "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
               "options": [
-                "Conjunction",
-                "Noun",
-                "Verb",
-                "Adjective"
+                "Conjunction (ಕಂಜಂಕ್ಷನ್)",
+                "Noun (ನೌನ್)",
+                "Verb (ವರ್ಬ್)",
+                "Adjective (ಅಡ್ಜೆಕ್ಟಿವ್)"
               ],
               "correct_index": 0,
               "explanation": "And is a Conjunction."
@@ -18514,10 +18514,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_i1_q5",
               "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
               "options": [
-                "To show a reason",
-                "To name a person",
-                "To show an action",
-                "To show time"
+                "Cause & Effect (ಕಾಸ್ ಆಂಡ್ ಎಫೆಕ್ಟ್)",
+                "Noun (ನೌನ್)",
+                "Verb (ವರ್ಬ್)",
+                "Time (ಟೈಮ್)"
               ],
               "correct_index": 0,
               "explanation": "Because shows a reason."
@@ -18526,10 +18526,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_i1_q6",
               "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
-                "And",
-                "House",
-                "Book",
-                "Run"
+                "And (ಆಂಡ್)",
+                "Book (ಬುಕ್)",
+                "House (ಹೌಸ್)",
+                "Run (ರನ್)"
               ],
               "correct_index": 0,
               "explanation": "And is a conjunction."
@@ -18538,10 +18538,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_i1_q7",
               "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
               "options": [
-                "One choice between two options",
-                "A place",
-                "A time",
-                "An action"
+                "Choice between two (ಚಾಯ್ಸ್ ಬಿಟ್ವೀನ್ ಟೂ)",
+                "Time (ಟೈಮ್)",
+                "Place (ಪ್ಲೇಸ್)",
+                "Action (ಆಕ್ಷನ್)"
               ],
               "correct_index": 0,
               "explanation": "Or means choice."
@@ -18556,10 +18556,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_i1_q1",
             "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
             "options": [
-              "But",
-              "And",
-              "Because",
-              "Or"
+              "But (ಬಟ್)",
+              "And (ಆಂಡ್)",
+              "Because (ಬಿಕಾಸ್)",
+              "Or (ಆರ್)"
             ],
             "correct_index": 1,
             "explanation": "And joins ideas."
@@ -18568,10 +18568,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_i1_q2",
             "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
-              "Mother",
-              "And",
-              "Father",
-              "Family"
+              "Mother (ಮದರ್)",
+              "And (ಆಂಡ್)",
+              "Father (ಫಾದರ್)",
+              "In (ಇನ್)"
             ],
             "correct_index": 1,
             "explanation": "And is joining word."
@@ -18580,10 +18580,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_i1_q3",
             "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
-              "But",
-              "Studied",
-              "Pass",
-              "He"
+              "But (బట్ / ಬಟ್)",
+              "Studied (ಸ್ಟಡೀಡ್)",
+              "Pass (ಪಾಸ್)",
+              "Did not (ಡಿಡ್ ನಾಟ್)"
             ],
             "correct_index": 0,
             "explanation": "But is joining word."
@@ -18592,10 +18592,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_i1_q4",
             "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
             "options": [
-              "Conjunction",
-              "Noun",
-              "Verb",
-              "Adjective"
+              "Conjunction (ಕಂಜಂಕ್ಷನ್)",
+              "Noun (ನೌನ್)",
+              "Verb (ವರ್ಬ್)",
+              "Adjective (ಅಡ್ಜೆಕ್ಟಿವ್)"
             ],
             "correct_index": 0,
             "explanation": "And is a Conjunction."
@@ -18604,10 +18604,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_i1_q5",
             "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
             "options": [
-              "To show a reason",
-              "To name a person",
-              "To show an action",
-              "To show time"
+              "Cause & Effect (ಕಾಸ್ ಆಂಡ್ ಎಫೆಕ್ಟ್)",
+              "Noun (ನೌನ್)",
+              "Verb (ವರ್ಬ್)",
+              "Time (ಟೈಮ್)"
             ],
             "correct_index": 0,
             "explanation": "Because shows a reason."
@@ -18616,10 +18616,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_i1_q6",
             "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
-              "And",
-              "House",
-              "Book",
-              "Run"
+              "And (ಆಂಡ್)",
+              "Book (ಬುಕ್)",
+              "House (ಹೌಸ್)",
+              "Run (ರನ್)"
             ],
             "correct_index": 0,
             "explanation": "And is a conjunction."
@@ -18628,10 +18628,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_i1_q7",
             "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
             "options": [
-              "One choice between two options",
-              "A place",
-              "A time",
-              "An action"
+              "Choice between two (ಚಾಯ್ಸ್ ಬಿಟ್ವೀನ್ ಟೂ)",
+              "Time (ಟೈಮ್)",
+              "Place (ಪ್ಲೇಸ್)",
+              "Action (ಆಕ್ಷನ್)"
             ],
             "correct_index": 0,
             "explanation": "Or means choice."
@@ -18643,10 +18643,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_i1_q1",
           "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
           "options": [
-            "But",
-            "And",
-            "Because",
-            "Or"
+            "But (ಬಟ್)",
+            "And (ಆಂಡ್)",
+            "Because (ಬಿಕಾಸ್)",
+            "Or (ಆರ್)"
           ],
           "correct_index": 1,
           "explanation": "And joins ideas."
@@ -18655,10 +18655,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_i1_q2",
           "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
-            "Mother",
-            "And",
-            "Father",
-            "Family"
+            "Mother (ಮದರ್)",
+            "And (ಆಂಡ್)",
+            "Father (ಫಾದರ್)",
+            "In (ಇನ್)"
           ],
           "correct_index": 1,
           "explanation": "And is joining word."
@@ -18667,10 +18667,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_i1_q3",
           "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
-            "But",
-            "Studied",
-            "Pass",
-            "He"
+            "But (బట్ / ಬಟ್)",
+            "Studied (ಸ್ಟಡೀಡ್)",
+            "Pass (ಪಾಸ್)",
+            "Did not (ಡಿಡ್ ನಾಟ್)"
           ],
           "correct_index": 0,
           "explanation": "But is joining word."
@@ -18679,10 +18679,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_i1_q4",
           "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
           "options": [
-            "Conjunction",
-            "Noun",
-            "Verb",
-            "Adjective"
+            "Conjunction (ಕಂಜಂಕ್ಷನ್)",
+            "Noun (ನೌನ್)",
+            "Verb (ವರ್ಬ್)",
+            "Adjective (ಅಡ್ಜೆಕ್ಟಿವ್)"
           ],
           "correct_index": 0,
           "explanation": "And is a Conjunction."
@@ -18691,10 +18691,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_i1_q5",
           "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
           "options": [
-            "To show a reason",
-            "To name a person",
-            "To show an action",
-            "To show time"
+            "Cause & Effect (ಕಾಸ್ ಆಂಡ್ ಎಫೆಕ್ಟ್)",
+            "Noun (ನೌನ್)",
+            "Verb (ವರ್ಬ್)",
+            "Time (ಟೈಮ್)"
           ],
           "correct_index": 0,
           "explanation": "Because shows a reason."
@@ -18703,10 +18703,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_i1_q6",
           "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
-            "And",
-            "House",
-            "Book",
-            "Run"
+            "And (ಆಂಡ್)",
+            "Book (ಬುಕ್)",
+            "House (ಹೌಸ್)",
+            "Run (ರನ್)"
           ],
           "correct_index": 0,
           "explanation": "And is a conjunction."
@@ -18715,10 +18715,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_i1_q7",
           "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
           "options": [
-            "One choice between two options",
-            "A place",
-            "A time",
-            "An action"
+            "Choice between two (ಚಾಯ್ಸ್ ಬಿಟ್ವೀನ್ ಟೂ)",
+            "Time (ಟೈಮ್)",
+            "Place (ಪ್ಲೇಸ್)",
+            "Action (ಆಕ್ಷನ್)"
           ],
           "correct_index": 0,
           "explanation": "Or means choice."
@@ -18745,10 +18745,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_a1_q1",
               "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
               "options": [
-                "Market",
-                "School",
-                "Park",
-                "Home"
+                "Market (ಮಾರ್ಕೆಟ್)",
+                "School (ಸ್ಕೂಲ್)",
+                "Park (ಪಾರ್ಕ್)",
+                "Home (ಹೋಮ್)"
               ],
               "correct_index": 1,
               "explanation": "Rahul goes to School."
@@ -18757,10 +18757,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_a1_q2",
               "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
               "options": [
-                "Playing games",
-                "Reading books",
-                "Sleeping",
-                "Watching TV"
+                "Playing games (ಪ್ಲೇಯಿಂಗ್ ಗೇಮ್ಸ್)",
+                "Reading books (ರೀಡಿಂಗ್ ಬುಕ್ಸ್)",
+                "Sleeping (ಸ್ಲೀಪಿಂಗ್)",
+                "Watching TV (ವಾಚಿಂಗ್ ಟಿವಿ)"
               ],
               "correct_index": 1,
               "explanation": "Rahul likes reading books."
@@ -18769,10 +18769,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_a1_q3",
               "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
               "options": [
-                "Sita",
-                "Rahul",
-                "Mohan",
-                "Riya"
+                "Reena (ರೀನಾ)",
+                "Rahul (ರಾಹುಲ್)",
+                "Mohan (ಮೋಹನ್)",
+                "Seema (ಸೀಮಾ)"
               ],
               "correct_index": 1,
               "explanation": "Passage is about Rahul."
@@ -18781,10 +18781,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_a1_q4",
               "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
               "options": [
-                "Daily",
-                "Yesterday",
-                "Never",
-                "Next week"
+                "Every day (ಎವ್ರಿ ಡೇ)",
+                "Yesterday (ಯೆಸ್ಟರ್ಡೇ)",
+                "Never (ನೆವರ್)",
+                "Next week (ನೆಕ್ಸ್ಟ್ ವೀಕ್)"
               ],
               "correct_index": 0,
               "explanation": "Every day means daily."
@@ -18793,10 +18793,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_a1_q5",
               "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
               "options": [
-                "Goes to school",
-                "Goes to the market",
-                "Stays at home",
-                "Goes to the hospital"
+                "Goes to school (ಗೋಸ್ ಟು ಸ್ಕೂಲ್)",
+                "Goes to market (ಗೋಸ್ ಟು ಮಾರ್ಕೆಟ್)",
+                "Stays home (ಸ್ಟೇಸ್ ಹೋಮ್)",
+                "Goes to hospital (ಗೋಸ್ ಟು ಹಾಸ್ಪಿಟಲ್)"
               ],
               "correct_index": 0,
               "explanation": "Rahul goes to school."
@@ -18805,10 +18805,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_a1_q6",
               "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
               "options": [
-                "Going to school and reading books",
-                "Traveling",
-                "Rain",
-                "Mountains"
+                "Study habit (ಸ್ಟಡಿ ಹ್ಯಾಬಿಟ್)",
+                "Travel (ಟ್ರಾವೆಲ್)",
+                "Rain (ರೈನ್)",
+                "Hills (ಹಿಲ್ಸ್)"
               ],
               "correct_index": 0,
               "explanation": "Main idea is reading & school."
@@ -18817,10 +18817,10 @@ export const BILINGUAL_COURSES = {
               "id": "kn_en_a1_q7",
               "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
               "options": [
-                "Rahul likes reading books.",
-                "Rahul never goes to school.",
-                "Rahul only plays games.",
-                "Rahul does not read books."
+                "Rahul likes reading books (ರಾಹುಲ್ ಲೈಕ್ಸ್ ರೀಡಿಂಗ್ ಬುಕ್ಸ್)",
+                "Rahul does not go to school (ರಾಹುಲ್ ಡಸ್ ನಾಟ್ ಗೋ ಟು ಸ್ಕೂಲ್)",
+                "Rahul only plays (ರಾಹುಲ್ ಓನ್ಲಿ ಪ್ಲೇಸ್)",
+                "Rahul sleeps all day (ರಾಹುಲ್ ಸ್ಲೀಪ್ಸ್ ಆಲ್ ಡೇ)"
               ],
               "correct_index": 0,
               "explanation": "Rahul likes reading books is correct."
@@ -18835,10 +18835,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_a1_q1",
             "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
             "options": [
-              "Market",
-              "School",
-              "Park",
-              "Home"
+              "Market (ಮಾರ್ಕೆಟ್)",
+              "School (ಸ್ಕೂಲ್)",
+              "Park (ಪಾರ್ಕ್)",
+              "Home (ಹೋಮ್)"
             ],
             "correct_index": 1,
             "explanation": "Rahul goes to School."
@@ -18847,10 +18847,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_a1_q2",
             "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
             "options": [
-              "Playing games",
-              "Reading books",
-              "Sleeping",
-              "Watching TV"
+              "Playing games (ಪ್ಲೇಯಿಂಗ್ ಗೇಮ್ಸ್)",
+              "Reading books (ರೀಡಿಂಗ್ ಬುಕ್ಸ್)",
+              "Sleeping (ಸ್ಲೀಪಿಂಗ್)",
+              "Watching TV (ವಾಚಿಂಗ್ ಟಿವಿ)"
             ],
             "correct_index": 1,
             "explanation": "Rahul likes reading books."
@@ -18859,10 +18859,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_a1_q3",
             "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
             "options": [
-              "Sita",
-              "Rahul",
-              "Mohan",
-              "Riya"
+              "Reena (ರೀನಾ)",
+              "Rahul (ರಾಹುಲ್)",
+              "Mohan (ಮೋಹನ್)",
+              "Seema (ಸೀಮಾ)"
             ],
             "correct_index": 1,
             "explanation": "Passage is about Rahul."
@@ -18871,10 +18871,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_a1_q4",
             "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
             "options": [
-              "Daily",
-              "Yesterday",
-              "Never",
-              "Next week"
+              "Every day (ಎವ್ರಿ ಡೇ)",
+              "Yesterday (ಯೆಸ್ಟರ್ಡೇ)",
+              "Never (ನೆವರ್)",
+              "Next week (ನೆಕ್ಸ್ಟ್ ವೀಕ್)"
             ],
             "correct_index": 0,
             "explanation": "Every day means daily."
@@ -18883,10 +18883,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_a1_q5",
             "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
             "options": [
-              "Goes to school",
-              "Goes to the market",
-              "Stays at home",
-              "Goes to the hospital"
+              "Goes to school (ಗೋಸ್ ಟು ಸ್ಕೂಲ್)",
+              "Goes to market (ಗೋಸ್ ಟು ಮಾರ್ಕೆಟ್)",
+              "Stays home (ಸ್ಟೇಸ್ ಹೋಮ್)",
+              "Goes to hospital (ಗೋಸ್ ಟು ಹಾಸ್ಪಿಟಲ್)"
             ],
             "correct_index": 0,
             "explanation": "Rahul goes to school."
@@ -18895,10 +18895,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_a1_q6",
             "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
             "options": [
-              "Going to school and reading books",
-              "Traveling",
-              "Rain",
-              "Mountains"
+              "Study habit (ಸ್ಟಡಿ ಹ್ಯಾಬಿಟ್)",
+              "Travel (ಟ್ರಾವೆಲ್)",
+              "Rain (ರೈನ್)",
+              "Hills (ಹಿಲ್ಸ್)"
             ],
             "correct_index": 0,
             "explanation": "Main idea is reading & school."
@@ -18907,10 +18907,10 @@ export const BILINGUAL_COURSES = {
             "id": "kn_en_a1_q7",
             "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
             "options": [
-              "Rahul likes reading books.",
-              "Rahul never goes to school.",
-              "Rahul only plays games.",
-              "Rahul does not read books."
+              "Rahul likes reading books (ರಾಹುಲ್ ಲೈಕ್ಸ್ ರೀಡಿಂಗ್ ಬುಕ್ಸ್)",
+              "Rahul does not go to school (ರಾಹುಲ್ ಡಸ್ ನಾಟ್ ಗೋ ಟು ಸ್ಕೂಲ್)",
+              "Rahul only plays (ರಾಹುಲ್ ಓನ್ಲಿ ಪ್ಲೇಸ್)",
+              "Rahul sleeps all day (ರಾಹುಲ್ ಸ್ಲೀಪ್ಸ್ ಆಲ್ ಡೇ)"
             ],
             "correct_index": 0,
             "explanation": "Rahul likes reading books is correct."
@@ -18922,10 +18922,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_a1_q1",
           "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
           "options": [
-            "Market",
-            "School",
-            "Park",
-            "Home"
+            "Market (ಮಾರ್ಕೆಟ್)",
+            "School (ಸ್ಕೂಲ್)",
+            "Park (ಪಾರ್ಕ್)",
+            "Home (ಹೋಮ್)"
           ],
           "correct_index": 1,
           "explanation": "Rahul goes to School."
@@ -18934,10 +18934,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_a1_q2",
           "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
           "options": [
-            "Playing games",
-            "Reading books",
-            "Sleeping",
-            "Watching TV"
+            "Playing games (ಪ್ಲೇಯಿಂಗ್ ಗೇಮ್ಸ್)",
+            "Reading books (ರೀಡಿಂಗ್ ಬುಕ್ಸ್)",
+            "Sleeping (ಸ್ಲೀಪಿಂಗ್)",
+            "Watching TV (ವಾಚಿಂಗ್ ಟಿವಿ)"
           ],
           "correct_index": 1,
           "explanation": "Rahul likes reading books."
@@ -18946,10 +18946,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_a1_q3",
           "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
           "options": [
-            "Sita",
-            "Rahul",
-            "Mohan",
-            "Riya"
+            "Reena (ರೀನಾ)",
+            "Rahul (ರಾಹುಲ್)",
+            "Mohan (ಮೋಹನ್)",
+            "Seema (ಸೀಮಾ)"
           ],
           "correct_index": 1,
           "explanation": "Passage is about Rahul."
@@ -18958,10 +18958,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_a1_q4",
           "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
           "options": [
-            "Daily",
-            "Yesterday",
-            "Never",
-            "Next week"
+            "Every day (ಎವ್ರಿ ಡೇ)",
+            "Yesterday (ಯೆಸ್ಟರ್ಡೇ)",
+            "Never (ನೆವರ್)",
+            "Next week (ನೆಕ್ಸ್ಟ್ ವೀಕ್)"
           ],
           "correct_index": 0,
           "explanation": "Every day means daily."
@@ -18970,10 +18970,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_a1_q5",
           "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
           "options": [
-            "Goes to school",
-            "Goes to the market",
-            "Stays at home",
-            "Goes to the hospital"
+            "Goes to school (ಗೋಸ್ ಟು ಸ್ಕೂಲ್)",
+            "Goes to market (ಗೋಸ್ ಟು ಮಾರ್ಕೆಟ್)",
+            "Stays home (ಸ್ಟೇಸ್ ಹೋಮ್)",
+            "Goes to hospital (ಗೋಸ್ ಟು ಹಾಸ್ಪಿಟಲ್)"
           ],
           "correct_index": 0,
           "explanation": "Rahul goes to school."
@@ -18982,10 +18982,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_a1_q6",
           "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
           "options": [
-            "Going to school and reading books",
-            "Traveling",
-            "Rain",
-            "Mountains"
+            "Study habit (ಸ್ಟಡಿ ಹ್ಯಾಬಿಟ್)",
+            "Travel (ಟ್ರಾವೆಲ್)",
+            "Rain (ರೈನ್)",
+            "Hills (ಹಿಲ್ಸ್)"
           ],
           "correct_index": 0,
           "explanation": "Main idea is reading & school."
@@ -18994,10 +18994,10 @@ export const BILINGUAL_COURSES = {
           "id": "kn_en_a1_q7",
           "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
           "options": [
-            "Rahul likes reading books.",
-            "Rahul never goes to school.",
-            "Rahul only plays games.",
-            "Rahul does not read books."
+            "Rahul likes reading books (ರಾಹುಲ್ ಲೈಕ್ಸ್ ರೀಡಿಂಗ್ ಬುಕ್ಸ್)",
+            "Rahul does not go to school (ರಾಹುಲ್ ಡಸ್ ನಾಟ್ ಗೋ ಟು ಸ್ಕೂಲ್)",
+            "Rahul only plays (ರಾಹುಲ್ ಓನ್ಲಿ ಪ್ಲೇಸ್)",
+            "Rahul sleeps all day (ರಾಹುಲ್ ಸ್ಲೀಪ್ಸ್ ಆಲ್ ಡೇ)"
           ],
           "correct_index": 0,
           "explanation": "Rahul likes reading books is correct."
