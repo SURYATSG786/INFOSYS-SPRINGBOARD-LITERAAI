@@ -18,7 +18,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_hi_f1_q1",
-              "question": "Question: हिंदी भाषा में स्वर कितने हैं?",
+              "question": "Question: Which letter does the word Apple begin with?",
               "options": [
                 "10 (10 - Ten))",
                 "11 (11 - Eleven))",
@@ -30,7 +30,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_f1_q2",
-              "question": "Question: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+              "question": "Question: Which word is a Noun?",
               "options": [
                 "क्रिया (Kriya - Verb))",
                 "संज्ञा (Sangya - Noun))",
@@ -42,7 +42,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_f1_q3",
-              "question": "Question: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+              "question": "Question: What is the plural form of the word Tree?",
               "options": [
                 "लड़कियाँ (Ladkiyan - Girls))",
                 "लड़के (Ladke - Boys))",
@@ -54,7 +54,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_f1_q4",
-              "question": "Question: \"सुंदर\" (Sundar) शब्द क्या है?",
+              "question": "Question: Which word is an Adjective?",
               "options": [
                 "विशेषण (Visheshana - Adjective))",
                 "संज्ञा (Sangya - Noun))",
@@ -66,7 +66,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_f1_q5",
-              "question": "Question: \"पढ़ना\" (Padhna) शब्द क्या है?",
+              "question": "Question: Which word is a Verb?",
               "options": [
                 "संज्ञा (Sangya - Noun))",
                 "क्रिया (Kriya - Verb))",
@@ -78,7 +78,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_f1_q6",
-              "question": "Question: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+              "question": "Question: What is the meaning of the word House?",
               "options": [
                 "कलम",
                 "कापी",
@@ -90,7 +90,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_f1_q7",
-              "question": "Question: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
+              "question": "Question: What is the meaning of the word School?",
               "options": [
                 "अस्पताल",
                 "पढ़ने का स्थान (स्कूल)",
@@ -108,7 +108,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_hi_f1_q1",
-            "question": "Question: हिंदी भाषा में स्वर कितने हैं?",
+            "question": "Question: Which letter does the word Apple begin with?",
             "options": [
               "10 (10 - Ten))",
               "11 (11 - Eleven))",
@@ -120,7 +120,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_f1_q2",
-            "question": "Question: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+            "question": "Question: Which word is a Noun?",
             "options": [
               "क्रिया (Kriya - Verb))",
               "संज्ञा (Sangya - Noun))",
@@ -132,7 +132,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_f1_q3",
-            "question": "Question: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+            "question": "Question: What is the plural form of the word Tree?",
             "options": [
               "लड़कियाँ (Ladkiyan - Girls))",
               "लड़के (Ladke - Boys))",
@@ -144,7 +144,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_f1_q4",
-            "question": "Question: \"सुंदर\" (Sundar) शब्द क्या है?",
+            "question": "Question: Which word is an Adjective?",
             "options": [
               "विशेषण (Visheshana - Adjective))",
               "संज्ञा (Sangya - Noun))",
@@ -156,7 +156,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_f1_q5",
-            "question": "Question: \"पढ़ना\" (Padhna) शब्द क्या है?",
+            "question": "Question: Which word is a Verb?",
             "options": [
               "संज्ञा (Sangya - Noun))",
               "क्रिया (Kriya - Verb))",
@@ -168,7 +168,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_f1_q6",
-            "question": "Question: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+            "question": "Question: What is the meaning of the word House?",
             "options": [
               "कलम",
               "कापी",
@@ -180,7 +180,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_f1_q7",
-            "question": "Question: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
+            "question": "Question: What is the meaning of the word School?",
             "options": [
               "अस्पताल",
               "पढ़ने का स्थान (स्कूल)",
@@ -195,7 +195,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_hi_f1_q1",
-          "question": "Question: हिंदी भाषा में स्वर कितने हैं?",
+          "question": "Question: Which letter does the word Apple begin with?",
           "options": [
             "10 (10 - Ten))",
             "11 (11 - Eleven))",
@@ -207,7 +207,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_f1_q2",
-          "question": "Question: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+          "question": "Question: Which word is a Noun?",
           "options": [
             "क्रिया (Kriya - Verb))",
             "संज्ञा (Sangya - Noun))",
@@ -219,7 +219,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_f1_q3",
-          "question": "Question: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+          "question": "Question: What is the plural form of the word Tree?",
           "options": [
             "लड़कियाँ (Ladkiyan - Girls))",
             "लड़के (Ladke - Boys))",
@@ -231,7 +231,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_f1_q4",
-          "question": "Question: \"सुंदर\" (Sundar) शब्द क्या है?",
+          "question": "Question: Which word is an Adjective?",
           "options": [
             "विशेषण (Visheshana - Adjective))",
             "संज्ञा (Sangya - Noun))",
@@ -243,7 +243,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_f1_q5",
-          "question": "Question: \"पढ़ना\" (Padhna) शब्द क्या है?",
+          "question": "Question: Which word is a Verb?",
           "options": [
             "संज्ञा (Sangya - Noun))",
             "क्रिया (Kriya - Verb))",
@@ -255,7 +255,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_f1_q6",
-          "question": "Question: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+          "question": "Question: What is the meaning of the word House?",
           "options": [
             "कलम",
             "कापी",
@@ -267,7 +267,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_f1_q7",
-          "question": "Question: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
+          "question": "Question: What is the meaning of the word School?",
           "options": [
             "अस्पताल",
             "पढ़ने का स्थान (स्कूल)",
@@ -297,7 +297,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_hi_b1_q1",
-              "question": "Question: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+              "question": "Question: \"I am going to school.\" Which tense is this?",
               "options": [
                 "भूतकाल (Bhootkaal - Past Tense))",
                 "वर्तमान काल (Vartamaan Kaal - Present Tense))",
@@ -309,7 +309,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_b1_q2",
-              "question": "Question: \"वह कल आया।\" यह कौन सा काल है?",
+              "question": "Question: \"He came yesterday.\" Which tense is this?",
               "options": [
                 "भूतकाल (Bhootkaal - Past Tense))",
                 "वर्तमान काल (Vartamaan Kaal - Present Tense))",
@@ -321,7 +321,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_b1_q3",
-              "question": "Question: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+              "question": "Question: \"I will go tomorrow.\" Which tense is this?",
               "options": [
                 "वर्तमान काल (Vartamaan Kaal - Present Tense))",
                 "भविष्य काल (Bhavishyat Kaal - Future Tense))",
@@ -333,7 +333,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_b1_q4",
-              "question": "Question: \"वह गा रही है।\" यह कौन सा काल है?",
+              "question": "Question: \"She is singing a song.\" Which tense is this?",
               "options": [
                 "वर्तमान काल (Vartamaan Kaal - Present Tense))",
                 "भूतकाल (Bhootkaal - Past Tense))",
@@ -345,7 +345,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_b1_q5",
-              "question": "Question: कौन सा शब्द भूतकाल दर्शाता है?",
+              "question": "Question: \"Ate\" — Which tense does this indicate?",
               "options": [
                 "खाना",
                 "खाया",
@@ -357,7 +357,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_b1_q6",
-              "question": "Question: कौन सा शब्द भविष्य काल दर्शाता है?",
+              "question": "Question: \"Will read\" — Which tense does this belong to?",
               "options": [
                 "पढ़ना",
                 "पढ़ रहा",
@@ -369,7 +369,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_b1_q7",
-              "question": "Question: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+              "question": "Question: \"Is playing\" — Which tense is this an example of?",
               "options": [
                 "वर्तमान काल (Vartamaan Kaal - Present Tense))",
                 "भूतकाल (Bhootkaal - Past Tense))",
@@ -387,7 +387,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_hi_b1_q1",
-            "question": "Question: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+            "question": "Question: \"I am going to school.\" Which tense is this?",
             "options": [
               "भूतकाल (Bhootkaal - Past Tense))",
               "वर्तमान काल (Vartamaan Kaal - Present Tense))",
@@ -399,7 +399,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_b1_q2",
-            "question": "Question: \"वह कल आया।\" यह कौन सा काल है?",
+            "question": "Question: \"He came yesterday.\" Which tense is this?",
             "options": [
               "भूतकाल (Bhootkaal - Past Tense))",
               "वर्तमान काल (Vartamaan Kaal - Present Tense))",
@@ -411,7 +411,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_b1_q3",
-            "question": "Question: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+            "question": "Question: \"I will go tomorrow.\" Which tense is this?",
             "options": [
               "वर्तमान काल (Vartamaan Kaal - Present Tense))",
               "भविष्य काल (Bhavishyat Kaal - Future Tense))",
@@ -423,7 +423,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_b1_q4",
-            "question": "Question: \"वह गा रही है।\" यह कौन सा काल है?",
+            "question": "Question: \"She is singing a song.\" Which tense is this?",
             "options": [
               "वर्तमान काल (Vartamaan Kaal - Present Tense))",
               "भूतकाल (Bhootkaal - Past Tense))",
@@ -435,7 +435,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_b1_q5",
-            "question": "Question: कौन सा शब्द भूतकाल दर्शाता है?",
+            "question": "Question: \"Ate\" — Which tense does this indicate?",
             "options": [
               "खाना",
               "खाया",
@@ -447,7 +447,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_b1_q6",
-            "question": "Question: कौन सा शब्द भविष्य काल दर्शाता है?",
+            "question": "Question: \"Will read\" — Which tense does this belong to?",
             "options": [
               "पढ़ना",
               "पढ़ रहा",
@@ -459,7 +459,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_b1_q7",
-            "question": "Question: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+            "question": "Question: \"Is playing\" — Which tense is this an example of?",
             "options": [
               "वर्तमान काल (Vartamaan Kaal - Present Tense))",
               "भूतकाल (Bhootkaal - Past Tense))",
@@ -474,7 +474,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_hi_b1_q1",
-          "question": "Question: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+          "question": "Question: \"I am going to school.\" Which tense is this?",
           "options": [
             "भूतकाल (Bhootkaal - Past Tense))",
             "वर्तमान काल (Vartamaan Kaal - Present Tense))",
@@ -486,7 +486,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_b1_q2",
-          "question": "Question: \"वह कल आया।\" यह कौन सा काल है?",
+          "question": "Question: \"He came yesterday.\" Which tense is this?",
           "options": [
             "भूतकाल (Bhootkaal - Past Tense))",
             "वर्तमान काल (Vartamaan Kaal - Present Tense))",
@@ -498,7 +498,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_b1_q3",
-          "question": "Question: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+          "question": "Question: \"I will go tomorrow.\" Which tense is this?",
           "options": [
             "वर्तमान काल (Vartamaan Kaal - Present Tense))",
             "भविष्य काल (Bhavishyat Kaal - Future Tense))",
@@ -510,7 +510,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_b1_q4",
-          "question": "Question: \"वह गा रही है।\" यह कौन सा काल है?",
+          "question": "Question: \"She is singing a song.\" Which tense is this?",
           "options": [
             "वर्तमान काल (Vartamaan Kaal - Present Tense))",
             "भूतकाल (Bhootkaal - Past Tense))",
@@ -522,7 +522,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_b1_q5",
-          "question": "Question: कौन सा शब्द भूतकाल दर्शाता है?",
+          "question": "Question: \"Ate\" — Which tense does this indicate?",
           "options": [
             "खाना",
             "खाया",
@@ -534,7 +534,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_b1_q6",
-          "question": "Question: कौन सा शब्द भविष्य काल दर्शाता है?",
+          "question": "Question: \"Will read\" — Which tense does this belong to?",
           "options": [
             "पढ़ना",
             "पढ़ रहा",
@@ -546,7 +546,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_b1_q7",
-          "question": "Question: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+          "question": "Question: \"Is playing\" — Which tense is this an example of?",
           "options": [
             "वर्तमान काल (Vartamaan Kaal - Present Tense))",
             "भूतकाल (Bhootkaal - Past Tense))",
@@ -576,7 +576,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_hi_i1_q1",
-              "question": "Question: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+              "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
               "options": [
                 "लेकिन (Lekin - But))",
                 "और (Aur - And))",
@@ -588,7 +588,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_i1_q2",
-              "question": "Question: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+              "question": "Question: In \"Mother and Father\", which word is the conjunction?",
               "options": [
                 "माता",
                 "और (Aur - And))",
@@ -600,7 +600,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_i1_q3",
-              "question": "Question: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+              "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
               "options": [
                 "लेकिन (Lekin - But))",
                 "पढ़ाई",
@@ -612,7 +612,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_i1_q4",
-              "question": "Question: \"और\" एक ______ है।",
+              "question": "Question: What part of speech is the word \"And\"?",
               "options": [
                 "संयोजक (Sanyojak - Conjunction))",
                 "संज्ञा (Sangya - Noun))",
@@ -624,7 +624,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_i1_q5",
-              "question": "Question: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+              "question": "Question: When is the word \"Therefore\" used?",
               "options": [
                 "कारण बताने के लिए",
                 "व्यक्ति के नाम के लिए",
@@ -636,7 +636,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_i1_q6",
-              "question": "Question: निम्न में से कौन सा संयोजक है?",
+              "question": "Question: Which of the following is a valid conjunction?",
               "options": [
                 "और (Aur - And))",
                 "घर",
@@ -648,7 +648,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_i1_q7",
-              "question": "Question: \"या\" शब्द का क्या अर्थ है?",
+              "question": "Question: What does the word \"Or\" mean?",
               "options": [
                 "दो विकल्पों में से एक का चयन",
                 "स्थान",
@@ -666,7 +666,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_hi_i1_q1",
-            "question": "Question: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+            "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
             "options": [
               "लेकिन (Lekin - But))",
               "और (Aur - And))",
@@ -678,7 +678,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_i1_q2",
-            "question": "Question: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+            "question": "Question: In \"Mother and Father\", which word is the conjunction?",
             "options": [
               "माता",
               "और (Aur - And))",
@@ -690,7 +690,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_i1_q3",
-            "question": "Question: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+            "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
             "options": [
               "लेकिन (Lekin - But))",
               "पढ़ाई",
@@ -702,7 +702,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_i1_q4",
-            "question": "Question: \"और\" एक ______ है।",
+            "question": "Question: What part of speech is the word \"And\"?",
             "options": [
               "संयोजक (Sanyojak - Conjunction))",
               "संज्ञा (Sangya - Noun))",
@@ -714,7 +714,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_i1_q5",
-            "question": "Question: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+            "question": "Question: When is the word \"Therefore\" used?",
             "options": [
               "कारण बताने के लिए",
               "व्यक्ति के नाम के लिए",
@@ -726,7 +726,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_i1_q6",
-            "question": "Question: निम्न में से कौन सा संयोजक है?",
+            "question": "Question: Which of the following is a valid conjunction?",
             "options": [
               "और (Aur - And))",
               "घर",
@@ -738,7 +738,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_i1_q7",
-            "question": "Question: \"या\" शब्द का क्या अर्थ है?",
+            "question": "Question: What does the word \"Or\" mean?",
             "options": [
               "दो विकल्पों में से एक का चयन",
               "स्थान",
@@ -753,7 +753,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_hi_i1_q1",
-          "question": "Question: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+          "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
           "options": [
             "लेकिन (Lekin - But))",
             "और (Aur - And))",
@@ -765,7 +765,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_i1_q2",
-          "question": "Question: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+          "question": "Question: In \"Mother and Father\", which word is the conjunction?",
           "options": [
             "माता",
             "और (Aur - And))",
@@ -777,7 +777,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_i1_q3",
-          "question": "Question: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+          "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
           "options": [
             "लेकिन (Lekin - But))",
             "पढ़ाई",
@@ -789,7 +789,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_i1_q4",
-          "question": "Question: \"और\" एक ______ है।",
+          "question": "Question: What part of speech is the word \"And\"?",
           "options": [
             "संयोजक (Sanyojak - Conjunction))",
             "संज्ञा (Sangya - Noun))",
@@ -801,7 +801,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_i1_q5",
-          "question": "Question: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+          "question": "Question: When is the word \"Therefore\" used?",
           "options": [
             "कारण बताने के लिए",
             "व्यक्ति के नाम के लिए",
@@ -813,7 +813,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_i1_q6",
-          "question": "Question: निम्न में से कौन सा संयोजक है?",
+          "question": "Question: Which of the following is a valid conjunction?",
           "options": [
             "और (Aur - And))",
             "घर",
@@ -825,7 +825,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_i1_q7",
-          "question": "Question: \"या\" शब्द का क्या अर्थ है?",
+          "question": "Question: What does the word \"Or\" mean?",
           "options": [
             "दो विकल्पों में से एक का चयन",
             "स्थान",
@@ -855,7 +855,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_hi_a1_q1",
-              "question": "Question: राहुल कहाँ जाता है?",
+              "question": "Question: Where does Rahul go?",
               "options": [
                 "बाजार",
                 "स्कूल",
@@ -867,7 +867,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_a1_q2",
-              "question": "Question: राहुल को क्या पसंद है?",
+              "question": "Question: What does Rahul like to do?",
               "options": [
                 "खेल खेलना",
                 "किताबें पढ़ना",
@@ -879,7 +879,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_a1_q3",
-              "question": "Question: यह गद्यांश किसके बारे में है?",
+              "question": "Question: Who is this passage about?",
               "options": [
                 "सीता",
                 "राहुल",
@@ -891,7 +891,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_a1_q4",
-              "question": "Question: \"रोज़ाना\" का क्या अर्थ है?",
+              "question": "Question: What does the term \"Every day\" mean?",
               "options": [
                 "प्रतिदिन (Every day)",
                 "कल",
@@ -903,7 +903,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_a1_q5",
-              "question": "Question: राहुल क्या करता है?",
+              "question": "Question: What does Rahul do every day?",
               "options": [
                 "स्कूल जाता है",
                 "बाजार जाता है",
@@ -915,7 +915,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_a1_q6",
-              "question": "Question: गद्यांश का मुख्य विचार क्या है?",
+              "question": "Question: What is the main idea of this passage?",
               "options": [
                 "स्कूल जाना और पुस्तकें पढ़ना",
                 "यात्रा करना",
@@ -927,7 +927,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_hi_a1_q7",
-              "question": "Question: कौन सा वाक्य सही है?",
+              "question": "Question: Which statement is correct according to the passage?",
               "options": [
                 "राहुल को किताबें पढ़ना पसंद है।",
                 "राहुल कभी स्कूल नहीं जाता।",
@@ -945,7 +945,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_hi_a1_q1",
-            "question": "Question: राहुल कहाँ जाता है?",
+            "question": "Question: Where does Rahul go?",
             "options": [
               "बाजार",
               "स्कूल",
@@ -957,7 +957,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_a1_q2",
-            "question": "Question: राहुल को क्या पसंद है?",
+            "question": "Question: What does Rahul like to do?",
             "options": [
               "खेल खेलना",
               "किताबें पढ़ना",
@@ -969,7 +969,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_a1_q3",
-            "question": "Question: यह गद्यांश किसके बारे में है?",
+            "question": "Question: Who is this passage about?",
             "options": [
               "सीता",
               "राहुल",
@@ -981,7 +981,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_a1_q4",
-            "question": "Question: \"रोज़ाना\" का क्या अर्थ है?",
+            "question": "Question: What does the term \"Every day\" mean?",
             "options": [
               "प्रतिदिन (Every day)",
               "कल",
@@ -993,7 +993,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_a1_q5",
-            "question": "Question: राहुल क्या करता है?",
+            "question": "Question: What does Rahul do every day?",
             "options": [
               "स्कूल जाता है",
               "बाजार जाता है",
@@ -1005,7 +1005,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_a1_q6",
-            "question": "Question: गद्यांश का मुख्य विचार क्या है?",
+            "question": "Question: What is the main idea of this passage?",
             "options": [
               "स्कूल जाना और पुस्तकें पढ़ना",
               "यात्रा करना",
@@ -1017,7 +1017,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_hi_a1_q7",
-            "question": "Question: कौन सा वाक्य सही है?",
+            "question": "Question: Which statement is correct according to the passage?",
             "options": [
               "राहुल को किताबें पढ़ना पसंद है।",
               "राहुल कभी स्कूल नहीं जाता।",
@@ -1032,7 +1032,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_hi_a1_q1",
-          "question": "Question: राहुल कहाँ जाता है?",
+          "question": "Question: Where does Rahul go?",
           "options": [
             "बाजार",
             "स्कूल",
@@ -1044,7 +1044,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_a1_q2",
-          "question": "Question: राहुल को क्या पसंद है?",
+          "question": "Question: What does Rahul like to do?",
           "options": [
             "खेल खेलना",
             "किताबें पढ़ना",
@@ -1056,7 +1056,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_a1_q3",
-          "question": "Question: यह गद्यांश किसके बारे में है?",
+          "question": "Question: Who is this passage about?",
           "options": [
             "सीता",
             "राहुल",
@@ -1068,7 +1068,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_a1_q4",
-          "question": "Question: \"रोज़ाना\" का क्या अर्थ है?",
+          "question": "Question: What does the term \"Every day\" mean?",
           "options": [
             "प्रतिदिन (Every day)",
             "कल",
@@ -1080,7 +1080,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_a1_q5",
-          "question": "Question: राहुल क्या करता है?",
+          "question": "Question: What does Rahul do every day?",
           "options": [
             "स्कूल जाता है",
             "बाजार जाता है",
@@ -1092,7 +1092,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_a1_q6",
-          "question": "Question: गद्यांश का मुख्य विचार क्या है?",
+          "question": "Question: What is the main idea of this passage?",
           "options": [
             "स्कूल जाना और पुस्तकें पढ़ना",
             "यात्रा करना",
@@ -1104,7 +1104,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_hi_a1_q7",
-          "question": "Question: कौन सा वाक्य सही है?",
+          "question": "Question: Which statement is correct according to the passage?",
           "options": [
             "राहुल को किताबें पढ़ना पसंद है।",
             "राहुल कभी स्कूल नहीं जाता।",
@@ -1136,7 +1136,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_ta_f1_q1",
-              "question": "Question: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+              "question": "Question: Which letter does the word Apple begin with?",
               "options": [
                 "14 (14 - Fourteen))",
                 "15 (15 - Fifteen))",
@@ -1148,7 +1148,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_f1_q2",
-              "question": "Question: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+              "question": "Question: Which word is a Noun?",
               "options": [
                 "வினைச்சொல் (Vinaicholl - Verb))",
                 "பெயர்ச்சொல் (Peyarcholl - Noun))",
@@ -1160,7 +1160,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_f1_q3",
-              "question": "Question: \"மரம்\" என்பதன் பன்மை?",
+              "question": "Question: What is the plural form of the word Tree?",
               "options": [
                 "மரம் (Maram - Tree))",
                 "மரங்கள் (Marangal - Trees))",
@@ -1172,7 +1172,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_f1_q4",
-              "question": "Question: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+              "question": "Question: Which word is an Adjective?",
               "options": [
                 "உரிச்சொல் (Uricholl - Adjective))",
                 "பெயர்ச்சொல் (Peyarcholl - Noun))",
@@ -1184,7 +1184,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_f1_q5",
-              "question": "Question: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+              "question": "Question: Which word is a Verb?",
               "options": [
                 "பெயர்ச்சொல் (Peyarcholl - Noun))",
                 "வினைச்சொல் (Vinaicholl - Verb))",
@@ -1196,7 +1196,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_f1_q6",
-              "question": "Question: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+              "question": "Question: What is the meaning of the word House?",
               "options": [
                 "பேனா",
                 "நோட்டு",
@@ -1208,7 +1208,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_f1_q7",
-              "question": "Question: \"பள்ளி\" என்பதன் பொருள் என்ன?",
+              "question": "Question: What is the meaning of the word School?",
               "options": [
                 "மருத்துவமனை",
                 "கற்கும் இடம்",
@@ -1226,7 +1226,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_ta_f1_q1",
-            "question": "Question: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+            "question": "Question: Which letter does the word Apple begin with?",
             "options": [
               "14 (14 - Fourteen))",
               "15 (15 - Fifteen))",
@@ -1238,7 +1238,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_f1_q2",
-            "question": "Question: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+            "question": "Question: Which word is a Noun?",
             "options": [
               "வினைச்சொல் (Vinaicholl - Verb))",
               "பெயர்ச்சொல் (Peyarcholl - Noun))",
@@ -1250,7 +1250,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_f1_q3",
-            "question": "Question: \"மரம்\" என்பதன் பன்மை?",
+            "question": "Question: What is the plural form of the word Tree?",
             "options": [
               "மரம் (Maram - Tree))",
               "மரங்கள் (Marangal - Trees))",
@@ -1262,7 +1262,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_f1_q4",
-            "question": "Question: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+            "question": "Question: Which word is an Adjective?",
             "options": [
               "உரிச்சொல் (Uricholl - Adjective))",
               "பெயர்ச்சொல் (Peyarcholl - Noun))",
@@ -1274,7 +1274,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_f1_q5",
-            "question": "Question: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+            "question": "Question: Which word is a Verb?",
             "options": [
               "பெயர்ச்சொல் (Peyarcholl - Noun))",
               "வினைச்சொல் (Vinaicholl - Verb))",
@@ -1286,7 +1286,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_f1_q6",
-            "question": "Question: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+            "question": "Question: What is the meaning of the word House?",
             "options": [
               "பேனா",
               "நோட்டு",
@@ -1298,7 +1298,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_f1_q7",
-            "question": "Question: \"பள்ளி\" என்பதன் பொருள் என்ன?",
+            "question": "Question: What is the meaning of the word School?",
             "options": [
               "மருத்துவமனை",
               "கற்கும் இடம்",
@@ -1313,7 +1313,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_ta_f1_q1",
-          "question": "Question: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+          "question": "Question: Which letter does the word Apple begin with?",
           "options": [
             "14 (14 - Fourteen))",
             "15 (15 - Fifteen))",
@@ -1325,7 +1325,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_f1_q2",
-          "question": "Question: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+          "question": "Question: Which word is a Noun?",
           "options": [
             "வினைச்சொல் (Vinaicholl - Verb))",
             "பெயர்ச்சொல் (Peyarcholl - Noun))",
@@ -1337,7 +1337,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_f1_q3",
-          "question": "Question: \"மரம்\" என்பதன் பன்மை?",
+          "question": "Question: What is the plural form of the word Tree?",
           "options": [
             "மரம் (Maram - Tree))",
             "மரங்கள் (Marangal - Trees))",
@@ -1349,7 +1349,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_f1_q4",
-          "question": "Question: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+          "question": "Question: Which word is an Adjective?",
           "options": [
             "உரிச்சொல் (Uricholl - Adjective))",
             "பெயர்ச்சொல் (Peyarcholl - Noun))",
@@ -1361,7 +1361,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_f1_q5",
-          "question": "Question: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+          "question": "Question: Which word is a Verb?",
           "options": [
             "பெயர்ச்சொல் (Peyarcholl - Noun))",
             "வினைச்சொல் (Vinaicholl - Verb))",
@@ -1373,7 +1373,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_f1_q6",
-          "question": "Question: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+          "question": "Question: What is the meaning of the word House?",
           "options": [
             "பேனா",
             "நோட்டு",
@@ -1385,7 +1385,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_f1_q7",
-          "question": "Question: \"பள்ளி\" என்பதன் பொருள் என்ன?",
+          "question": "Question: What is the meaning of the word School?",
           "options": [
             "மருத்துவமனை",
             "கற்கும் இடம்",
@@ -1415,7 +1415,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_ta_b1_q1",
-              "question": "Question: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+              "question": "Question: \"I am going to school.\" Which tense is this?",
               "options": [
                 "இறந்தகாலம் (Irandakalam - Past Tense))",
                 "நிகழ்காலம் (Nigazhkalam - Present Tense))",
@@ -1427,7 +1427,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_b1_q2",
-              "question": "Question: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+              "question": "Question: \"He came yesterday.\" Which tense is this?",
               "options": [
                 "இறந்தகாலம் (Irandakalam - Past Tense))",
                 "நிகழ்காலம் (Nigazhkalam - Present Tense))",
@@ -1439,7 +1439,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_b1_q3",
-              "question": "Question: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+              "question": "Question: \"I will go tomorrow.\" Which tense is this?",
               "options": [
                 "நிகழ்காலம் (Nigazhkalam - Present Tense))",
                 "எதிர்காலம் (Edirkalam - Future Tense))",
@@ -1451,7 +1451,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_b1_q4",
-              "question": "Question: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+              "question": "Question: \"She is singing a song.\" Which tense is this?",
               "options": [
                 "நிகழ்காலம் (Nigazhkalam - Present Tense))",
                 "இறந்தகாலம் (Irandakalam - Past Tense))",
@@ -1463,7 +1463,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_b1_q5",
-              "question": "Question: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+              "question": "Question: \"Ate\" — Which tense does this indicate?",
               "options": [
                 "சாப்பிடு",
                 "சாப்பிட்டான்",
@@ -1475,7 +1475,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_b1_q6",
-              "question": "Question: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+              "question": "Question: \"Will read\" — Which tense does this belong to?",
               "options": [
                 "படி",
                 "படிக்கிறான்",
@@ -1487,7 +1487,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_b1_q7",
-              "question": "Question: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+              "question": "Question: \"Is playing\" — Which tense is this an example of?",
               "options": [
                 "நிகழ்காலம் (Nigazhkalam - Present Tense))",
                 "இறந்தகாலம் (Irandakalam - Past Tense))",
@@ -1505,7 +1505,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_ta_b1_q1",
-            "question": "Question: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+            "question": "Question: \"I am going to school.\" Which tense is this?",
             "options": [
               "இறந்தகாலம் (Irandakalam - Past Tense))",
               "நிகழ்காலம் (Nigazhkalam - Present Tense))",
@@ -1517,7 +1517,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_b1_q2",
-            "question": "Question: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+            "question": "Question: \"He came yesterday.\" Which tense is this?",
             "options": [
               "இறந்தகாலம் (Irandakalam - Past Tense))",
               "நிகழ்காலம் (Nigazhkalam - Present Tense))",
@@ -1529,7 +1529,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_b1_q3",
-            "question": "Question: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+            "question": "Question: \"I will go tomorrow.\" Which tense is this?",
             "options": [
               "நிகழ்காலம் (Nigazhkalam - Present Tense))",
               "எதிர்காலம் (Edirkalam - Future Tense))",
@@ -1541,7 +1541,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_b1_q4",
-            "question": "Question: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+            "question": "Question: \"She is singing a song.\" Which tense is this?",
             "options": [
               "நிகழ்காலம் (Nigazhkalam - Present Tense))",
               "இறந்தகாலம் (Irandakalam - Past Tense))",
@@ -1553,7 +1553,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_b1_q5",
-            "question": "Question: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+            "question": "Question: \"Ate\" — Which tense does this indicate?",
             "options": [
               "சாப்பிடு",
               "சாப்பிட்டான்",
@@ -1565,7 +1565,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_b1_q6",
-            "question": "Question: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+            "question": "Question: \"Will read\" — Which tense does this belong to?",
             "options": [
               "படி",
               "படிக்கிறான்",
@@ -1577,7 +1577,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_b1_q7",
-            "question": "Question: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+            "question": "Question: \"Is playing\" — Which tense is this an example of?",
             "options": [
               "நிகழ்காலம் (Nigazhkalam - Present Tense))",
               "இறந்தகாலம் (Irandakalam - Past Tense))",
@@ -1592,7 +1592,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_ta_b1_q1",
-          "question": "Question: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+          "question": "Question: \"I am going to school.\" Which tense is this?",
           "options": [
             "இறந்தகாலம் (Irandakalam - Past Tense))",
             "நிகழ்காலம் (Nigazhkalam - Present Tense))",
@@ -1604,7 +1604,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_b1_q2",
-          "question": "Question: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+          "question": "Question: \"He came yesterday.\" Which tense is this?",
           "options": [
             "இறந்தகாலம் (Irandakalam - Past Tense))",
             "நிகழ்காலம் (Nigazhkalam - Present Tense))",
@@ -1616,7 +1616,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_b1_q3",
-          "question": "Question: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+          "question": "Question: \"I will go tomorrow.\" Which tense is this?",
           "options": [
             "நிகழ்காலம் (Nigazhkalam - Present Tense))",
             "எதிர்காலம் (Edirkalam - Future Tense))",
@@ -1628,7 +1628,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_b1_q4",
-          "question": "Question: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+          "question": "Question: \"She is singing a song.\" Which tense is this?",
           "options": [
             "நிகழ்காலம் (Nigazhkalam - Present Tense))",
             "இறந்தகாலம் (Irandakalam - Past Tense))",
@@ -1640,7 +1640,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_b1_q5",
-          "question": "Question: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+          "question": "Question: \"Ate\" — Which tense does this indicate?",
           "options": [
             "சாப்பிடு",
             "சாப்பிட்டான்",
@@ -1652,7 +1652,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_b1_q6",
-          "question": "Question: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+          "question": "Question: \"Will read\" — Which tense does this belong to?",
           "options": [
             "படி",
             "படிக்கிறான்",
@@ -1664,7 +1664,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_b1_q7",
-          "question": "Question: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+          "question": "Question: \"Is playing\" — Which tense is this an example of?",
           "options": [
             "நிகழ்காலம் (Nigazhkalam - Present Tense))",
             "இறந்தகாலம் (Irandakalam - Past Tense))",
@@ -1694,7 +1694,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_ta_i1_q1",
-              "question": "Question: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+              "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
               "options": [
                 "ஆனால் (Aanaal - But))",
                 "மற்றும் (Mattrum - And))",
@@ -1706,7 +1706,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_i1_q2",
-              "question": "Question: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+              "question": "Question: In \"Mother and Father\", which word is the conjunction?",
               "options": [
                 "அம்மா",
                 "மற்றும் (Mattrum - And))",
@@ -1718,7 +1718,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_i1_q3",
-              "question": "Question: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+              "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
               "options": [
                 "ஆனால் (Aanaal - But))",
                 "படித்தான்",
@@ -1730,7 +1730,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_i1_q4",
-              "question": "Question: \"மற்றும்\" என்பது ஒரு ______.",
+              "question": "Question: What part of speech is the word \"And\"?",
               "options": [
                 "இணைப்புச் சொல் (Inaippucholl - Conjunction))",
                 "பெயர்ச்சொல் (Peyarcholl - Noun))",
@@ -1742,7 +1742,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_i1_q5",
-              "question": "Question: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+              "question": "Question: When is the word \"Therefore\" used?",
               "options": [
                 "காரணம் கூற",
                 "பெயர் கூற",
@@ -1754,7 +1754,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_i1_q6",
-              "question": "Question: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+              "question": "Question: Which of the following is a valid conjunction?",
               "options": [
                 "மற்றும் (Mattrum - And))",
                 "வீடு",
@@ -1766,7 +1766,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_i1_q7",
-              "question": "Question: \"அல்லது\" என்பதன் பொருள் என்ன?",
+              "question": "Question: What does the word \"Or\" mean?",
               "options": [
                 "இரண்டு தேர்வுகளில் ஒன்று",
                 "இடம்",
@@ -1784,7 +1784,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_ta_i1_q1",
-            "question": "Question: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+            "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
             "options": [
               "ஆனால் (Aanaal - But))",
               "மற்றும் (Mattrum - And))",
@@ -1796,7 +1796,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_i1_q2",
-            "question": "Question: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+            "question": "Question: In \"Mother and Father\", which word is the conjunction?",
             "options": [
               "அம்மா",
               "மற்றும் (Mattrum - And))",
@@ -1808,7 +1808,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_i1_q3",
-            "question": "Question: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+            "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
             "options": [
               "ஆனால் (Aanaal - But))",
               "படித்தான்",
@@ -1820,7 +1820,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_i1_q4",
-            "question": "Question: \"மற்றும்\" என்பது ஒரு ______.",
+            "question": "Question: What part of speech is the word \"And\"?",
             "options": [
               "இணைப்புச் சொல் (Inaippucholl - Conjunction))",
               "பெயர்ச்சொல் (Peyarcholl - Noun))",
@@ -1832,7 +1832,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_i1_q5",
-            "question": "Question: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+            "question": "Question: When is the word \"Therefore\" used?",
             "options": [
               "காரணம் கூற",
               "பெயர் கூற",
@@ -1844,7 +1844,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_i1_q6",
-            "question": "Question: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+            "question": "Question: Which of the following is a valid conjunction?",
             "options": [
               "மற்றும் (Mattrum - And))",
               "வீடு",
@@ -1856,7 +1856,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_i1_q7",
-            "question": "Question: \"அல்லது\" என்பதன் பொருள் என்ன?",
+            "question": "Question: What does the word \"Or\" mean?",
             "options": [
               "இரண்டு தேர்வுகளில் ஒன்று",
               "இடம்",
@@ -1871,7 +1871,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_ta_i1_q1",
-          "question": "Question: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+          "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
           "options": [
             "ஆனால் (Aanaal - But))",
             "மற்றும் (Mattrum - And))",
@@ -1883,7 +1883,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_i1_q2",
-          "question": "Question: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+          "question": "Question: In \"Mother and Father\", which word is the conjunction?",
           "options": [
             "அம்மா",
             "மற்றும் (Mattrum - And))",
@@ -1895,7 +1895,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_i1_q3",
-          "question": "Question: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+          "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
           "options": [
             "ஆனால் (Aanaal - But))",
             "படித்தான்",
@@ -1907,7 +1907,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_i1_q4",
-          "question": "Question: \"மற்றும்\" என்பது ஒரு ______.",
+          "question": "Question: What part of speech is the word \"And\"?",
           "options": [
             "இணைப்புச் சொல் (Inaippucholl - Conjunction))",
             "பெயர்ச்சொல் (Peyarcholl - Noun))",
@@ -1919,7 +1919,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_i1_q5",
-          "question": "Question: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+          "question": "Question: When is the word \"Therefore\" used?",
           "options": [
             "காரணம் கூற",
             "பெயர் கூற",
@@ -1931,7 +1931,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_i1_q6",
-          "question": "Question: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+          "question": "Question: Which of the following is a valid conjunction?",
           "options": [
             "மற்றும் (Mattrum - And))",
             "வீடு",
@@ -1943,7 +1943,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_i1_q7",
-          "question": "Question: \"அல்லது\" என்பதன் பொருள் என்ன?",
+          "question": "Question: What does the word \"Or\" mean?",
           "options": [
             "இரண்டு தேர்வுகளில் ஒன்று",
             "இடம்",
@@ -1973,7 +1973,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_ta_a1_q1",
-              "question": "Question: ராகுல் எங்கே செல்கிறான்?",
+              "question": "Question: Where does Rahul go?",
               "options": [
                 "சந்தை",
                 "பள்ளி",
@@ -1985,7 +1985,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_a1_q2",
-              "question": "Question: ராகுலுக்கு என்ன பிடிக்கும்?",
+              "question": "Question: What does Rahul like to do?",
               "options": [
                 "விளையாடுவது",
                 "புத்தகங்கள் படிப்பது",
@@ -1997,7 +1997,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_a1_q3",
-              "question": "Question: இந்தப் பத்தி யாரைப் பற்றியது?",
+              "question": "Question: Who is this passage about?",
               "options": [
                 "சீதா",
                 "ராகுல்",
@@ -2009,7 +2009,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_a1_q4",
-              "question": "Question: \"தினமும்\" என்பதன் பொருள் என்ன?",
+              "question": "Question: What does the term \"Every day\" mean?",
               "options": [
                 "ஒவ்வொரு நாளும்",
                 "நேற்று",
@@ -2021,7 +2021,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_a1_q5",
-              "question": "Question: ராகுல் என்ன செய்கிறான்?",
+              "question": "Question: What does Rahul do every day?",
               "options": [
                 "பள்ளிக்குச் செல்கிறான்",
                 "சந்தைக்குச் செல்கிறான்",
@@ -2033,7 +2033,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_a1_q6",
-              "question": "Question: இந்தப் பத்தியின் முக்கியக் கருத்து என்ன?",
+              "question": "Question: What is the main idea of this passage?",
               "options": [
                 "பள்ளி செல்வது மற்றும் வாசிப்பது",
                 "பயணம்",
@@ -2045,7 +2045,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_ta_a1_q7",
-              "question": "Question: எந்த வாக்கியம் சரியானது?",
+              "question": "Question: Which statement is correct according to the passage?",
               "options": [
                 "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும்.",
                 "ராகுல் பள்ளிக்குச் செல்வதில்லை.",
@@ -2063,7 +2063,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_ta_a1_q1",
-            "question": "Question: ராகுல் எங்கே செல்கிறான்?",
+            "question": "Question: Where does Rahul go?",
             "options": [
               "சந்தை",
               "பள்ளி",
@@ -2075,7 +2075,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_a1_q2",
-            "question": "Question: ராகுலுக்கு என்ன பிடிக்கும்?",
+            "question": "Question: What does Rahul like to do?",
             "options": [
               "விளையாடுவது",
               "புத்தகங்கள் படிப்பது",
@@ -2087,7 +2087,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_a1_q3",
-            "question": "Question: இந்தப் பத்தி யாரைப் பற்றியது?",
+            "question": "Question: Who is this passage about?",
             "options": [
               "சீதா",
               "ராகுல்",
@@ -2099,7 +2099,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_a1_q4",
-            "question": "Question: \"தினமும்\" என்பதன் பொருள் என்ன?",
+            "question": "Question: What does the term \"Every day\" mean?",
             "options": [
               "ஒவ்வொரு நாளும்",
               "நேற்று",
@@ -2111,7 +2111,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_a1_q5",
-            "question": "Question: ராகுல் என்ன செய்கிறான்?",
+            "question": "Question: What does Rahul do every day?",
             "options": [
               "பள்ளிக்குச் செல்கிறான்",
               "சந்தைக்குச் செல்கிறான்",
@@ -2123,7 +2123,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_a1_q6",
-            "question": "Question: இந்தப் பத்தியின் முக்கியக் கருத்து என்ன?",
+            "question": "Question: What is the main idea of this passage?",
             "options": [
               "பள்ளி செல்வது மற்றும் வாசிப்பது",
               "பயணம்",
@@ -2135,7 +2135,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_ta_a1_q7",
-            "question": "Question: எந்த வாக்கியம் சரியானது?",
+            "question": "Question: Which statement is correct according to the passage?",
             "options": [
               "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும்.",
               "ராகுல் பள்ளிக்குச் செல்வதில்லை.",
@@ -2150,7 +2150,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_ta_a1_q1",
-          "question": "Question: ராகுல் எங்கே செல்கிறான்?",
+          "question": "Question: Where does Rahul go?",
           "options": [
             "சந்தை",
             "பள்ளி",
@@ -2162,7 +2162,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_a1_q2",
-          "question": "Question: ராகுலுக்கு என்ன பிடிக்கும்?",
+          "question": "Question: What does Rahul like to do?",
           "options": [
             "விளையாடுவது",
             "புத்தகங்கள் படிப்பது",
@@ -2174,7 +2174,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_a1_q3",
-          "question": "Question: இந்தப் பத்தி யாரைப் பற்றியது?",
+          "question": "Question: Who is this passage about?",
           "options": [
             "சீதா",
             "ராகுல்",
@@ -2186,7 +2186,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_a1_q4",
-          "question": "Question: \"தினமும்\" என்பதன் பொருள் என்ன?",
+          "question": "Question: What does the term \"Every day\" mean?",
           "options": [
             "ஒவ்வொரு நாளும்",
             "நேற்று",
@@ -2198,7 +2198,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_a1_q5",
-          "question": "Question: ராகுல் என்ன செய்கிறான்?",
+          "question": "Question: What does Rahul do every day?",
           "options": [
             "பள்ளிக்குச் செல்கிறான்",
             "சந்தைக்குச் செல்கிறான்",
@@ -2210,7 +2210,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_a1_q6",
-          "question": "Question: இந்தப் பத்தியின் முக்கியக் கருத்து என்ன?",
+          "question": "Question: What is the main idea of this passage?",
           "options": [
             "பள்ளி செல்வது மற்றும் வாசிப்பது",
             "பயணம்",
@@ -2222,7 +2222,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_ta_a1_q7",
-          "question": "Question: எந்த வாக்கியம் சரியானது?",
+          "question": "Question: Which statement is correct according to the passage?",
           "options": [
             "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும்.",
             "ராகுல் பள்ளிக்குச் செல்வதில்லை.",
@@ -2253,7 +2253,7 @@ export const BILINGUAL_COURSES = {
           "image_key": "book",
           "practice_questions": [
             {
-              "question": "Question: How many vowels are there in this alphabet?",
+              "question": "Question: Which letter does the word Apple begin with?",
               "options": [
                 "14 (Fourteen)",
                 "15 (Fifteen)",
@@ -2265,7 +2265,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_te_f_1"
             },
             {
-              "question": "Question: What part of speech is the word \"Mother\" (Amma)?",
+              "question": "Question: Which word is a Noun?",
               "options": [
                 "క్రియ (Verb)",
                 "నామవాచకం (Noun)",
@@ -2277,7 +2277,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_te_f_2"
             },
             {
-              "question": "Question: What is the plural form of the word \"Tree\" (Chettu)?",
+              "question": "Question: What is the plural form of the word Tree?",
               "options": [
                 "చెట్టు (Tree)",
                 "చెట్లు (Trees)",
@@ -2289,7 +2289,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_te_f_3"
             },
             {
-              "question": "Question: What part of speech is the word \"Good\" (Manchi)?",
+              "question": "Question: Which word is an Adjective?",
               "options": [
                 "విశేషణం (Adjective)",
                 "నామవాచకం (Noun)",
@@ -2301,7 +2301,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_te_f_4"
             },
             {
-              "question": "Question: What part of speech is the word \"Reading\" (Chaduvutunnanu)?",
+              "question": "Question: Which word is a Verb?",
               "options": [
                 "నామవాచకం (Noun)",
                 "క్రియ (Verb)",
@@ -2313,7 +2313,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_te_f_5"
             },
             {
-              "question": "Question: What is the meaning of the word \"Book\" (Pustakam)?",
+              "question": "Question: What is the meaning of the word House?",
               "options": [
                 "ఇల్లు (House)",
                 "గ్రంథం (Book)",
@@ -2325,7 +2325,7 @@ export const BILINGUAL_COURSES = {
               "id": "en_te_f_6"
             },
             {
-              "question": "Question: What is the meaning of the word \"School\" (Pathashala)?",
+              "question": "Question: What is the meaning of the word School?",
               "options": [
                 "ఆసుపత్రి (Hospital)",
                 "పాఠాలు నేర్చుకునే స్థలం (Place for learning)",
@@ -2343,7 +2343,7 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "question": "Question: How many vowels are there in this alphabet?",
+            "question": "Question: Which letter does the word Apple begin with?",
             "options": [
               "14 (Fourteen)",
               "15 (Fifteen)",
@@ -2355,7 +2355,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_te_f_1"
           },
           {
-            "question": "Question: What part of speech is the word \"Mother\" (Amma)?",
+            "question": "Question: Which word is a Noun?",
             "options": [
               "క్రియ (Verb)",
               "నామవాచకం (Noun)",
@@ -2367,7 +2367,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_te_f_2"
           },
           {
-            "question": "Question: What is the plural form of the word \"Tree\" (Chettu)?",
+            "question": "Question: What is the plural form of the word Tree?",
             "options": [
               "చెట్టు (Tree)",
               "చెట్లు (Trees)",
@@ -2379,7 +2379,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_te_f_3"
           },
           {
-            "question": "Question: What part of speech is the word \"Good\" (Manchi)?",
+            "question": "Question: Which word is an Adjective?",
             "options": [
               "విశేషణం (Adjective)",
               "నామవాచకం (Noun)",
@@ -2391,7 +2391,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_te_f_4"
           },
           {
-            "question": "Question: What part of speech is the word \"Reading\" (Chaduvutunnanu)?",
+            "question": "Question: Which word is a Verb?",
             "options": [
               "నామవాచకం (Noun)",
               "క్రియ (Verb)",
@@ -2403,7 +2403,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_te_f_5"
           },
           {
-            "question": "Question: What is the meaning of the word \"Book\" (Pustakam)?",
+            "question": "Question: What is the meaning of the word House?",
             "options": [
               "ఇల్లు (House)",
               "గ్రంథం (Book)",
@@ -2415,7 +2415,7 @@ export const BILINGUAL_COURSES = {
             "id": "en_te_f_6"
           },
           {
-            "question": "Question: What is the meaning of the word \"School\" (Pathashala)?",
+            "question": "Question: What is the meaning of the word School?",
             "options": [
               "ఆసుపత్రి (Hospital)",
               "పాఠాలు నేర్చుకునే స్థలం (Place for learning)",
@@ -2430,7 +2430,7 @@ export const BILINGUAL_COURSES = {
       },
       "checkpoint_test": [
         {
-          "question": "Question: How many vowels are there in this alphabet?",
+          "question": "Question: Which letter does the word Apple begin with?",
           "options": [
             "14 (Fourteen)",
             "15 (Fifteen)",
@@ -2442,7 +2442,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_te_f_1"
         },
         {
-          "question": "Question: What part of speech is the word \"Mother\" (Amma)?",
+          "question": "Question: Which word is a Noun?",
           "options": [
             "క్రియ (Verb)",
             "నామవాచకం (Noun)",
@@ -2454,7 +2454,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_te_f_2"
         },
         {
-          "question": "Question: What is the plural form of the word \"Tree\" (Chettu)?",
+          "question": "Question: What is the plural form of the word Tree?",
           "options": [
             "చెట్టు (Tree)",
             "చెట్లు (Trees)",
@@ -2466,7 +2466,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_te_f_3"
         },
         {
-          "question": "Question: What part of speech is the word \"Good\" (Manchi)?",
+          "question": "Question: Which word is an Adjective?",
           "options": [
             "విశేషణం (Adjective)",
             "నామవాచకం (Noun)",
@@ -2478,7 +2478,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_te_f_4"
         },
         {
-          "question": "Question: What part of speech is the word \"Reading\" (Chaduvutunnanu)?",
+          "question": "Question: Which word is a Verb?",
           "options": [
             "నామవాచకం (Noun)",
             "క్రియ (Verb)",
@@ -2490,7 +2490,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_te_f_5"
         },
         {
-          "question": "Question: What is the meaning of the word \"Book\" (Pustakam)?",
+          "question": "Question: What is the meaning of the word House?",
           "options": [
             "ఇల్లు (House)",
             "గ్రంథం (Book)",
@@ -2502,7 +2502,7 @@ export const BILINGUAL_COURSES = {
           "id": "en_te_f_6"
         },
         {
-          "question": "Question: What is the meaning of the word \"School\" (Pathashala)?",
+          "question": "Question: What is the meaning of the word School?",
           "options": [
             "ఆసుపత్రి (Hospital)",
             "పాఠాలు నేర్చుకునే స్థలం (Place for learning)",
@@ -3372,7 +3372,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_kn_f1_q1",
-              "question": "Question: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+              "question": "Question: Which letter does the word Apple begin with?",
               "options": [
                 "12 (12 - Twelve))",
                 "13 (13 - Thirteen))",
@@ -3384,7 +3384,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_f1_q2",
-              "question": "Question: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "Question: Which word is a Noun?",
               "options": [
                 "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
                 "ನಾಮಪದ (Naamapada - Noun))",
@@ -3396,7 +3396,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_f1_q3",
-              "question": "Question: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+              "question": "Question: What is the plural form of the word Tree?",
               "options": [
                 "ಮರ (Mara - Tree))",
                 "ಮರಗಳು (Maragalu - Trees))",
@@ -3408,7 +3408,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_f1_q4",
-              "question": "Question: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+              "question": "Question: Which word is an Adjective?",
               "options": [
                 "ವಿಶೇಷಣ (Viseshana - Adjective))",
                 "ನಾಮಪದ (Naamapada - Noun))",
@@ -3420,7 +3420,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_f1_q5",
-              "question": "Question: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "Question: Which word is a Verb?",
               "options": [
                 "ನಾಮಪದ (Naamapada - Noun))",
                 "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
@@ -3432,7 +3432,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_f1_q6",
-              "question": "Question: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+              "question": "Question: What is the meaning of the word House?",
               "options": [
                 "ಮನೆ",
                 "ಗ್ರಂಥ",
@@ -3444,7 +3444,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_f1_q7",
-              "question": "Question: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+              "question": "Question: What is the meaning of the word School?",
               "options": [
                 "ಆಸ್ಪತ್ರೆ",
                 "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -3462,7 +3462,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_kn_f1_q1",
-            "question": "Question: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+            "question": "Question: Which letter does the word Apple begin with?",
             "options": [
               "12 (12 - Twelve))",
               "13 (13 - Thirteen))",
@@ -3474,7 +3474,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_f1_q2",
-            "question": "Question: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "Question: Which word is a Noun?",
             "options": [
               "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
               "ನಾಮಪದ (Naamapada - Noun))",
@@ -3486,7 +3486,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_f1_q3",
-            "question": "Question: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+            "question": "Question: What is the plural form of the word Tree?",
             "options": [
               "ಮರ (Mara - Tree))",
               "ಮರಗಳು (Maragalu - Trees))",
@@ -3498,7 +3498,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_f1_q4",
-            "question": "Question: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+            "question": "Question: Which word is an Adjective?",
             "options": [
               "ವಿಶೇಷಣ (Viseshana - Adjective))",
               "ನಾಮಪದ (Naamapada - Noun))",
@@ -3510,7 +3510,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_f1_q5",
-            "question": "Question: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "Question: Which word is a Verb?",
             "options": [
               "ನಾಮಪದ (Naamapada - Noun))",
               "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
@@ -3522,7 +3522,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_f1_q6",
-            "question": "Question: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+            "question": "Question: What is the meaning of the word House?",
             "options": [
               "ಮನೆ",
               "ಗ್ರಂಥ",
@@ -3534,7 +3534,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_f1_q7",
-            "question": "Question: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+            "question": "Question: What is the meaning of the word School?",
             "options": [
               "ಆಸ್ಪತ್ರೆ",
               "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -3549,7 +3549,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_kn_f1_q1",
-          "question": "Question: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+          "question": "Question: Which letter does the word Apple begin with?",
           "options": [
             "12 (12 - Twelve))",
             "13 (13 - Thirteen))",
@@ -3561,7 +3561,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_f1_q2",
-          "question": "Question: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "Question: Which word is a Noun?",
           "options": [
             "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
             "ನಾಮಪದ (Naamapada - Noun))",
@@ -3573,7 +3573,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_f1_q3",
-          "question": "Question: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+          "question": "Question: What is the plural form of the word Tree?",
           "options": [
             "ಮರ (Mara - Tree))",
             "ಮರಗಳು (Maragalu - Trees))",
@@ -3585,7 +3585,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_f1_q4",
-          "question": "Question: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+          "question": "Question: Which word is an Adjective?",
           "options": [
             "ವಿಶೇಷಣ (Viseshana - Adjective))",
             "ನಾಮಪದ (Naamapada - Noun))",
@@ -3597,7 +3597,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_f1_q5",
-          "question": "Question: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "Question: Which word is a Verb?",
           "options": [
             "ನಾಮಪದ (Naamapada - Noun))",
             "ಕ್ರಿಯಾಪದ (Kriyapada - Verb))",
@@ -3609,7 +3609,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_f1_q6",
-          "question": "Question: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+          "question": "Question: What is the meaning of the word House?",
           "options": [
             "ಮನೆ",
             "ಗ್ರಂಥ",
@@ -3621,7 +3621,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_f1_q7",
-          "question": "Question: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+          "question": "Question: What is the meaning of the word School?",
           "options": [
             "ಆಸ್ಪತ್ರೆ",
             "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -3651,7 +3651,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_kn_b1_q1",
-              "question": "Question: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "Question: \"I am going to school.\" Which tense is this?",
               "options": [
                 "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
                 "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
@@ -3663,7 +3663,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_b1_q2",
-              "question": "Question: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "Question: \"He came yesterday.\" Which tense is this?",
               "options": [
                 "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
                 "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
@@ -3675,7 +3675,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_b1_q3",
-              "question": "Question: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "Question: \"I will go tomorrow.\" Which tense is this?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
                 "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
@@ -3687,7 +3687,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_b1_q4",
-              "question": "Question: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "Question: \"She is singing a song.\" Which tense is this?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
                 "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
@@ -3699,7 +3699,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_b1_q5",
-              "question": "Question: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+              "question": "Question: \"Ate\" — Which tense does this indicate?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
                 "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
@@ -3711,7 +3711,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_b1_q6",
-              "question": "Question: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "Question: \"Will read\" — Which tense does this belong to?",
               "options": [
                 "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
                 "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
@@ -3723,7 +3723,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_b1_q7",
-              "question": "Question: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+              "question": "Question: \"Is playing\" — Which tense is this an example of?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
                 "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
@@ -3741,7 +3741,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_kn_b1_q1",
-            "question": "Question: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "Question: \"I am going to school.\" Which tense is this?",
             "options": [
               "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
               "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
@@ -3753,7 +3753,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_b1_q2",
-            "question": "Question: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "Question: \"He came yesterday.\" Which tense is this?",
             "options": [
               "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
               "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
@@ -3765,7 +3765,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_b1_q3",
-            "question": "Question: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "Question: \"I will go tomorrow.\" Which tense is this?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
               "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
@@ -3777,7 +3777,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_b1_q4",
-            "question": "Question: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "Question: \"She is singing a song.\" Which tense is this?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
               "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
@@ -3789,7 +3789,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_b1_q5",
-            "question": "Question: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+            "question": "Question: \"Ate\" — Which tense does this indicate?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
               "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
@@ -3801,7 +3801,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_b1_q6",
-            "question": "Question: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "Question: \"Will read\" — Which tense does this belong to?",
             "options": [
               "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
               "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
@@ -3813,7 +3813,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_b1_q7",
-            "question": "Question: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+            "question": "Question: \"Is playing\" — Which tense is this an example of?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
               "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
@@ -3828,7 +3828,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_kn_b1_q1",
-          "question": "Question: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "Question: \"I am going to school.\" Which tense is this?",
           "options": [
             "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
             "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
@@ -3840,7 +3840,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_b1_q2",
-          "question": "Question: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "Question: \"He came yesterday.\" Which tense is this?",
           "options": [
             "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
             "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
@@ -3852,7 +3852,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_b1_q3",
-          "question": "Question: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "Question: \"I will go tomorrow.\" Which tense is this?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
             "ಭವಿಷ್ಯತ್ಕಾಲ (Bhavishyathkala - Future Tense))",
@@ -3864,7 +3864,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_b1_q4",
-          "question": "Question: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "Question: \"She is singing a song.\" Which tense is this?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
             "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
@@ -3876,7 +3876,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_b1_q5",
-          "question": "Question: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+          "question": "Question: \"Ate\" — Which tense does this indicate?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
             "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
@@ -3888,7 +3888,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_b1_q6",
-          "question": "Question: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "Question: \"Will read\" — Which tense does this belong to?",
           "options": [
             "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
             "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
@@ -3900,7 +3900,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_b1_q7",
-          "question": "Question: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+          "question": "Question: \"Is playing\" — Which tense is this an example of?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (Varthamanakala - Present Tense))",
             "ಭೂತಕಾಲ (Bhoothakala - Past Tense))",
@@ -3930,7 +3930,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_kn_i1_q1",
-              "question": "Question: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
               "options": [
                 "ಆದರೆ (Aadare - But))",
                 "ಮತ್ತು (Mattu - And))",
@@ -3942,7 +3942,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_i1_q2",
-              "question": "Question: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "Question: In \"Mother and Father\", which word is the conjunction?",
               "options": [
                 "ಅಮ್ಮ",
                 "ಮತ್ತು (Mattu - And))",
@@ -3954,7 +3954,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_i1_q3",
-              "question": "Question: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
               "options": [
                 "ಆದರೆ (Aadare - But))",
                 "ಓದಿದನು",
@@ -3966,7 +3966,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_i1_q4",
-              "question": "Question: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "Question: What part of speech is the word \"And\"?",
               "options": [
                 "ಸಂಪರ್ಕಪದ",
                 "ನಾಮಪದ (Naamapada - Noun))",
@@ -3978,7 +3978,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_i1_q5",
-              "question": "Question: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+              "question": "Question: When is the word \"Therefore\" used?",
               "options": [
                 "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
                 "ನಾಮಪದವಾಗಿ",
@@ -3990,7 +3990,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_i1_q6",
-              "question": "Question: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "Question: Which of the following is a valid conjunction?",
               "options": [
                 "ಮತ್ತು (Mattu - And))",
                 "ಪುಸ್ತಕ",
@@ -4002,7 +4002,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_i1_q7",
-              "question": "Question: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+              "question": "Question: What does the word \"Or\" mean?",
               "options": [
                 "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
                 "ಸಮಯ",
@@ -4020,7 +4020,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_kn_i1_q1",
-            "question": "Question: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
             "options": [
               "ಆದರೆ (Aadare - But))",
               "ಮತ್ತು (Mattu - And))",
@@ -4032,7 +4032,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_i1_q2",
-            "question": "Question: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "Question: In \"Mother and Father\", which word is the conjunction?",
             "options": [
               "ಅಮ್ಮ",
               "ಮತ್ತು (Mattu - And))",
@@ -4044,7 +4044,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_i1_q3",
-            "question": "Question: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
             "options": [
               "ಆದರೆ (Aadare - But))",
               "ಓದಿದನು",
@@ -4056,7 +4056,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_i1_q4",
-            "question": "Question: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "Question: What part of speech is the word \"And\"?",
             "options": [
               "ಸಂಪರ್ಕಪದ",
               "ನಾಮಪದ (Naamapada - Noun))",
@@ -4068,7 +4068,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_i1_q5",
-            "question": "Question: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+            "question": "Question: When is the word \"Therefore\" used?",
             "options": [
               "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
               "ನಾಮಪದವಾಗಿ",
@@ -4080,7 +4080,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_i1_q6",
-            "question": "Question: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "Question: Which of the following is a valid conjunction?",
             "options": [
               "ಮತ್ತು (Mattu - And))",
               "ಪುಸ್ತಕ",
@@ -4092,7 +4092,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_i1_q7",
-            "question": "Question: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+            "question": "Question: What does the word \"Or\" mean?",
             "options": [
               "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
               "ಸಮಯ",
@@ -4107,7 +4107,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_kn_i1_q1",
-          "question": "Question: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "Question: \"Ram and Ravi went to school.\" Which word is the conjunction?",
           "options": [
             "ಆದರೆ (Aadare - But))",
             "ಮತ್ತು (Mattu - And))",
@@ -4119,7 +4119,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_i1_q2",
-          "question": "Question: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "Question: In \"Mother and Father\", which word is the conjunction?",
           "options": [
             "ಅಮ್ಮ",
             "ಮತ್ತು (Mattu - And))",
@@ -4131,7 +4131,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_i1_q3",
-          "question": "Question: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "Question: \"He studied, but he did not pass.\" Which word is the conjunction?",
           "options": [
             "ಆದರೆ (Aadare - But))",
             "ಓದಿದನು",
@@ -4143,7 +4143,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_i1_q4",
-          "question": "Question: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "Question: What part of speech is the word \"And\"?",
           "options": [
             "ಸಂಪರ್ಕಪದ",
             "ನಾಮಪದ (Naamapada - Noun))",
@@ -4155,7 +4155,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_i1_q5",
-          "question": "Question: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+          "question": "Question: When is the word \"Therefore\" used?",
           "options": [
             "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
             "ನಾಮಪದವಾಗಿ",
@@ -4167,7 +4167,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_i1_q6",
-          "question": "Question: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "Question: Which of the following is a valid conjunction?",
           "options": [
             "ಮತ್ತು (Mattu - And))",
             "ಪುಸ್ತಕ",
@@ -4179,7 +4179,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_i1_q7",
-          "question": "Question: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+          "question": "Question: What does the word \"Or\" mean?",
           "options": [
             "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
             "ಸಮಯ",
@@ -4209,7 +4209,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "en_kn_a1_q1",
-              "question": "Question: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+              "question": "Question: Where does Rahul go?",
               "options": [
                 "ಮಾರುಕಟ್ಟೆ",
                 "ಶಾಲೆ",
@@ -4221,7 +4221,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_a1_q2",
-              "question": "Question: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+              "question": "Question: What does Rahul like to do?",
               "options": [
                 "ಆಟ ಆಡುವುದು",
                 "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -4233,7 +4233,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_a1_q3",
-              "question": "Question: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+              "question": "Question: Who is this passage about?",
               "options": [
                 "ಸೀತಾ",
                 "ರಾಹುಲ್",
@@ -4245,7 +4245,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_a1_q4",
-              "question": "Question: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+              "question": "Question: What does the term \"Every day\" mean?",
               "options": [
                 "ಪ್ರತಿ ದಿನ",
                 "ನಿನ್ನೆ",
@@ -4257,7 +4257,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_a1_q5",
-              "question": "Question: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+              "question": "Question: What does Rahul do every day?",
               "options": [
                 "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
                 "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -4269,7 +4269,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_a1_q6",
-              "question": "Question: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+              "question": "Question: What is the main idea of this passage?",
               "options": [
                 "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
                 "ಪ್ರವಾಸ",
@@ -4281,7 +4281,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "en_kn_a1_q7",
-              "question": "Question: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+              "question": "Question: Which statement is correct according to the passage?",
               "options": [
                 "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
                 "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -4299,7 +4299,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "en_kn_a1_q1",
-            "question": "Question: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+            "question": "Question: Where does Rahul go?",
             "options": [
               "ಮಾರುಕಟ್ಟೆ",
               "ಶಾಲೆ",
@@ -4311,7 +4311,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_a1_q2",
-            "question": "Question: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+            "question": "Question: What does Rahul like to do?",
             "options": [
               "ಆಟ ಆಡುವುದು",
               "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -4323,7 +4323,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_a1_q3",
-            "question": "Question: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+            "question": "Question: Who is this passage about?",
             "options": [
               "ಸೀತಾ",
               "ರಾಹುಲ್",
@@ -4335,7 +4335,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_a1_q4",
-            "question": "Question: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+            "question": "Question: What does the term \"Every day\" mean?",
             "options": [
               "ಪ್ರತಿ ದಿನ",
               "ನಿನ್ನೆ",
@@ -4347,7 +4347,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_a1_q5",
-            "question": "Question: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+            "question": "Question: What does Rahul do every day?",
             "options": [
               "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
               "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -4359,7 +4359,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_a1_q6",
-            "question": "Question: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+            "question": "Question: What is the main idea of this passage?",
             "options": [
               "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
               "ಪ್ರವಾಸ",
@@ -4371,7 +4371,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "en_kn_a1_q7",
-            "question": "Question: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+            "question": "Question: Which statement is correct according to the passage?",
             "options": [
               "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
               "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -4386,7 +4386,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "en_kn_a1_q1",
-          "question": "Question: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+          "question": "Question: Where does Rahul go?",
           "options": [
             "ಮಾರುಕಟ್ಟೆ",
             "ಶಾಲೆ",
@@ -4398,7 +4398,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_a1_q2",
-          "question": "Question: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+          "question": "Question: What does Rahul like to do?",
           "options": [
             "ಆಟ ಆಡುವುದು",
             "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -4410,7 +4410,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_a1_q3",
-          "question": "Question: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+          "question": "Question: Who is this passage about?",
           "options": [
             "ಸೀತಾ",
             "ರಾಹುಲ್",
@@ -4422,7 +4422,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_a1_q4",
-          "question": "Question: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+          "question": "Question: What does the term \"Every day\" mean?",
           "options": [
             "ಪ್ರತಿ ದಿನ",
             "ನಿನ್ನೆ",
@@ -4434,7 +4434,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_a1_q5",
-          "question": "Question: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+          "question": "Question: What does Rahul do every day?",
           "options": [
             "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
             "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -4446,7 +4446,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_a1_q6",
-          "question": "Question: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+          "question": "Question: What is the main idea of this passage?",
           "options": [
             "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
             "ಪ್ರವಾಸ",
@@ -4458,7 +4458,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "en_kn_a1_q7",
-          "question": "Question: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+          "question": "Question: Which statement is correct according to the passage?",
           "options": [
             "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
             "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -4490,7 +4490,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "hi_en_f1_q1",
-              "question": "प्रश्न: Which letter does the word Apple begin with?",
+              "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
               "options": [
                 "B",
                 "A",
@@ -4502,7 +4502,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_f1_q2",
-              "question": "प्रश्न: Which word is a Noun?",
+              "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
               "options": [
                 "Run",
                 "Happy",
@@ -4514,7 +4514,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_f1_q3",
-              "question": "प्रश्न: What is the plural of Tree?",
+              "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
               "options": [
                 "Trees",
                 "Treees",
@@ -4526,7 +4526,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_f1_q4",
-              "question": "प्रश्न: Which word is an Adjective?",
+              "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
               "options": [
                 "Beautiful",
                 "School",
@@ -4538,7 +4538,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_f1_q5",
-              "question": "प्रश्न: Which word is a Verb?",
+              "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
               "options": [
                 "Reading",
                 "Table",
@@ -4550,7 +4550,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_f1_q6",
-              "question": "प्रश्न: What is another word for Book?",
+              "question": "प्रश्न: House शब्द का अर्थ क्या है?",
               "options": [
                 "Pen",
                 "Notebook",
@@ -4562,7 +4562,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_f1_q7",
-              "question": "प्रश्न: What is a School?",
+              "question": "प्रश्न: School शब्द का अर्थ क्या है?",
               "options": [
                 "A hospital",
                 "A place to learn",
@@ -4580,7 +4580,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "hi_en_f1_q1",
-            "question": "प्रश्न: Which letter does the word Apple begin with?",
+            "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
             "options": [
               "B",
               "A",
@@ -4592,7 +4592,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_f1_q2",
-            "question": "प्रश्न: Which word is a Noun?",
+            "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
             "options": [
               "Run",
               "Happy",
@@ -4604,7 +4604,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_f1_q3",
-            "question": "प्रश्न: What is the plural of Tree?",
+            "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
             "options": [
               "Trees",
               "Treees",
@@ -4616,7 +4616,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_f1_q4",
-            "question": "प्रश्न: Which word is an Adjective?",
+            "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
             "options": [
               "Beautiful",
               "School",
@@ -4628,7 +4628,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_f1_q5",
-            "question": "प्रश्न: Which word is a Verb?",
+            "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
             "options": [
               "Reading",
               "Table",
@@ -4640,7 +4640,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_f1_q6",
-            "question": "प्रश्न: What is another word for Book?",
+            "question": "प्रश्न: House शब्द का अर्थ क्या है?",
             "options": [
               "Pen",
               "Notebook",
@@ -4652,7 +4652,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_f1_q7",
-            "question": "प्रश्न: What is a School?",
+            "question": "प्रश्न: School शब्द का अर्थ क्या है?",
             "options": [
               "A hospital",
               "A place to learn",
@@ -4667,7 +4667,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "hi_en_f1_q1",
-          "question": "प्रश्न: Which letter does the word Apple begin with?",
+          "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
           "options": [
             "B",
             "A",
@@ -4679,7 +4679,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_f1_q2",
-          "question": "प्रश्न: Which word is a Noun?",
+          "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
           "options": [
             "Run",
             "Happy",
@@ -4691,7 +4691,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_f1_q3",
-          "question": "प्रश्न: What is the plural of Tree?",
+          "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
           "options": [
             "Trees",
             "Treees",
@@ -4703,7 +4703,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_f1_q4",
-          "question": "प्रश्न: Which word is an Adjective?",
+          "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
           "options": [
             "Beautiful",
             "School",
@@ -4715,7 +4715,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_f1_q5",
-          "question": "प्रश्न: Which word is a Verb?",
+          "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
           "options": [
             "Reading",
             "Table",
@@ -4727,7 +4727,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_f1_q6",
-          "question": "प्रश्न: What is another word for Book?",
+          "question": "प्रश्न: House शब्द का अर्थ क्या है?",
           "options": [
             "Pen",
             "Notebook",
@@ -4739,7 +4739,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_f1_q7",
-          "question": "प्रश्न: What is a School?",
+          "question": "प्रश्न: School शब्द का अर्थ क्या है?",
           "options": [
             "A hospital",
             "A place to learn",
@@ -4769,7 +4769,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "hi_en_b1_q1",
-              "question": "प्रश्न: \"I am going to school.\" Which tense is this?",
+              "question": "प्रश्न: \"मैं स्कूल जा रहा हूँ।\" यह कौन सा काल है?",
               "options": [
                 "Past Tense",
                 "Present Tense",
@@ -4781,7 +4781,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_b1_q2",
-              "question": "प्रश्न: \"He came yesterday.\" Which tense is this?",
+              "question": "प्रश्न: \"वह कल आया था।\" यह कौन सा काल है?",
               "options": [
                 "Past Tense",
                 "Present Tense",
@@ -4793,7 +4793,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_b1_q3",
-              "question": "प्रश्न: \"I will go tomorrow.\" Which tense is this?",
+              "question": "प्रश्न: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
               "options": [
                 "Present Tense",
                 "Future Tense",
@@ -4805,7 +4805,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_b1_q4",
-              "question": "प्रश्न: \"She is singing.\" Which tense is this?",
+              "question": "प्रश्न: \"वह गा रही है।\" यह कौन सा काल है?",
               "options": [
                 "Present Tense",
                 "Past Tense",
@@ -4817,7 +4817,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_b1_q5",
-              "question": "प्रश्न: Which word shows the past tense?",
+              "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
               "options": [
                 "Eat",
                 "Ate",
@@ -4829,7 +4829,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_b1_q6",
-              "question": "प्रश्न: Which word shows the future tense?",
+              "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
               "options": [
                 "Read",
                 "Reading",
@@ -4841,7 +4841,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_b1_q7",
-              "question": "प्रश्न: \"They are playing.\" Which tense is this?",
+              "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
               "options": [
                 "Present Tense",
                 "Past Tense",
@@ -4859,7 +4859,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "hi_en_b1_q1",
-            "question": "प्रश्न: \"I am going to school.\" Which tense is this?",
+            "question": "प्रश्न: \"मैं स्कूल जा रहा हूँ।\" यह कौन सा काल है?",
             "options": [
               "Past Tense",
               "Present Tense",
@@ -4871,7 +4871,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_b1_q2",
-            "question": "प्रश्न: \"He came yesterday.\" Which tense is this?",
+            "question": "प्रश्न: \"वह कल आया था।\" यह कौन सा काल है?",
             "options": [
               "Past Tense",
               "Present Tense",
@@ -4883,7 +4883,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_b1_q3",
-            "question": "प्रश्न: \"I will go tomorrow.\" Which tense is this?",
+            "question": "प्रश्न: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
             "options": [
               "Present Tense",
               "Future Tense",
@@ -4895,7 +4895,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_b1_q4",
-            "question": "प्रश्न: \"She is singing.\" Which tense is this?",
+            "question": "प्रश्न: \"वह गा रही है।\" यह कौन सा काल है?",
             "options": [
               "Present Tense",
               "Past Tense",
@@ -4907,7 +4907,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_b1_q5",
-            "question": "प्रश्न: Which word shows the past tense?",
+            "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
             "options": [
               "Eat",
               "Ate",
@@ -4919,7 +4919,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_b1_q6",
-            "question": "प्रश्न: Which word shows the future tense?",
+            "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
             "options": [
               "Read",
               "Reading",
@@ -4931,7 +4931,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_b1_q7",
-            "question": "प्रश्न: \"They are playing.\" Which tense is this?",
+            "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
             "options": [
               "Present Tense",
               "Past Tense",
@@ -4946,7 +4946,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "hi_en_b1_q1",
-          "question": "प्रश्न: \"I am going to school.\" Which tense is this?",
+          "question": "प्रश्न: \"मैं स्कूल जा रहा हूँ।\" यह कौन सा काल है?",
           "options": [
             "Past Tense",
             "Present Tense",
@@ -4958,7 +4958,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_b1_q2",
-          "question": "प्रश्न: \"He came yesterday.\" Which tense is this?",
+          "question": "प्रश्न: \"वह कल आया था।\" यह कौन सा काल है?",
           "options": [
             "Past Tense",
             "Present Tense",
@@ -4970,7 +4970,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_b1_q3",
-          "question": "प्रश्न: \"I will go tomorrow.\" Which tense is this?",
+          "question": "प्रश्न: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
           "options": [
             "Present Tense",
             "Future Tense",
@@ -4982,7 +4982,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_b1_q4",
-          "question": "प्रश्न: \"She is singing.\" Which tense is this?",
+          "question": "प्रश्न: \"वह गा रही है।\" यह कौन सा काल है?",
           "options": [
             "Present Tense",
             "Past Tense",
@@ -4994,7 +4994,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_b1_q5",
-          "question": "प्रश्न: Which word shows the past tense?",
+          "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
           "options": [
             "Eat",
             "Ate",
@@ -5006,7 +5006,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_b1_q6",
-          "question": "प्रश्न: Which word shows the future tense?",
+          "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
           "options": [
             "Read",
             "Reading",
@@ -5018,7 +5018,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_b1_q7",
-          "question": "प्रश्न: \"They are playing.\" Which tense is this?",
+          "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
           "options": [
             "Present Tense",
             "Past Tense",
@@ -5048,7 +5048,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "hi_en_i1_q1",
-              "question": "प्रश्न: Which word joins two ideas?",
+              "question": "प्रश्न: \"राम और श्याम स्कूल गए।\" इसमें संयोजक शब्द कौन सा है?",
               "options": [
                 "But",
                 "And",
@@ -5060,7 +5060,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_i1_q2",
-              "question": "प्रश्न: In \"Mother and Father\", which is the joining word?",
+              "question": "प्रश्न: \"माता और पिता\" में संयोजक कौन सा है?",
               "options": [
                 "Mother",
                 "And",
@@ -5072,7 +5072,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_i1_q3",
-              "question": "प्रश्न: \"He studied, but he did not pass.\" Which is the joining word?",
+              "question": "प्रश्न: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" इसमें संयोजक शब्द कौन सा है?",
               "options": [
                 "But",
                 "Studied",
@@ -5084,7 +5084,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_i1_q4",
-              "question": "प्रश्न: \"And\" is a ______.",
+              "question": "प्रश्न: \"और\" (And) किस प्रकार का शब्द है?",
               "options": [
                 "Conjunction",
                 "Noun",
@@ -5096,7 +5096,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_i1_q5",
-              "question": "प्रश्न: When do we use because?",
+              "question": "प्रश्न: \"इसलिए\" (Therefore) शब्द का प्रयोग कब किया जाता है?",
               "options": [
                 "To show a reason",
                 "To name a person",
@@ -5108,7 +5108,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_i1_q6",
-              "question": "प्रश्न: Which is a conjunction?",
+              "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
               "options": [
                 "And",
                 "House",
@@ -5120,7 +5120,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_i1_q7",
-              "question": "प्रश्न: What does or mean?",
+              "question": "प्रश्न: \"या\" (Or) का अर्थ क्या है?",
               "options": [
                 "One choice between two options",
                 "A place",
@@ -5138,7 +5138,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "hi_en_i1_q1",
-            "question": "प्रश्न: Which word joins two ideas?",
+            "question": "प्रश्न: \"राम और श्याम स्कूल गए।\" इसमें संयोजक शब्द कौन सा है?",
             "options": [
               "But",
               "And",
@@ -5150,7 +5150,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_i1_q2",
-            "question": "प्रश्न: In \"Mother and Father\", which is the joining word?",
+            "question": "प्रश्न: \"माता और पिता\" में संयोजक कौन सा है?",
             "options": [
               "Mother",
               "And",
@@ -5162,7 +5162,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_i1_q3",
-            "question": "प्रश्न: \"He studied, but he did not pass.\" Which is the joining word?",
+            "question": "प्रश्न: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" इसमें संयोजक शब्द कौन सा है?",
             "options": [
               "But",
               "Studied",
@@ -5174,7 +5174,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_i1_q4",
-            "question": "प्रश्न: \"And\" is a ______.",
+            "question": "प्रश्न: \"और\" (And) किस प्रकार का शब्द है?",
             "options": [
               "Conjunction",
               "Noun",
@@ -5186,7 +5186,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_i1_q5",
-            "question": "प्रश्न: When do we use because?",
+            "question": "प्रश्न: \"इसलिए\" (Therefore) शब्द का प्रयोग कब किया जाता है?",
             "options": [
               "To show a reason",
               "To name a person",
@@ -5198,7 +5198,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_i1_q6",
-            "question": "प्रश्न: Which is a conjunction?",
+            "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
             "options": [
               "And",
               "House",
@@ -5210,7 +5210,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_i1_q7",
-            "question": "प्रश्न: What does or mean?",
+            "question": "प्रश्न: \"या\" (Or) का अर्थ क्या है?",
             "options": [
               "One choice between two options",
               "A place",
@@ -5225,7 +5225,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "hi_en_i1_q1",
-          "question": "प्रश्न: Which word joins two ideas?",
+          "question": "प्रश्न: \"राम और श्याम स्कूल गए।\" इसमें संयोजक शब्द कौन सा है?",
           "options": [
             "But",
             "And",
@@ -5237,7 +5237,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_i1_q2",
-          "question": "प्रश्न: In \"Mother and Father\", which is the joining word?",
+          "question": "प्रश्न: \"माता और पिता\" में संयोजक कौन सा है?",
           "options": [
             "Mother",
             "And",
@@ -5249,7 +5249,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_i1_q3",
-          "question": "प्रश्न: \"He studied, but he did not pass.\" Which is the joining word?",
+          "question": "प्रश्न: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" इसमें संयोजक शब्द कौन सा है?",
           "options": [
             "But",
             "Studied",
@@ -5261,7 +5261,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_i1_q4",
-          "question": "प्रश्न: \"And\" is a ______.",
+          "question": "प्रश्न: \"और\" (And) किस प्रकार का शब्द है?",
           "options": [
             "Conjunction",
             "Noun",
@@ -5273,7 +5273,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_i1_q5",
-          "question": "प्रश्न: When do we use because?",
+          "question": "प्रश्न: \"इसलिए\" (Therefore) शब्द का प्रयोग कब किया जाता है?",
           "options": [
             "To show a reason",
             "To name a person",
@@ -5285,7 +5285,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_i1_q6",
-          "question": "प्रश्न: Which is a conjunction?",
+          "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
           "options": [
             "And",
             "House",
@@ -5297,7 +5297,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_i1_q7",
-          "question": "प्रश्न: What does or mean?",
+          "question": "प्रश्न: \"या\" (Or) का अर्थ क्या है?",
           "options": [
             "One choice between two options",
             "A place",
@@ -5327,7 +5327,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "hi_en_a1_q1",
-              "question": "प्रश्न: Where does Rahul go?",
+              "question": "प्रश्न: राहुल कहाँ जाता है?",
               "options": [
                 "Market",
                 "School",
@@ -5339,7 +5339,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_a1_q2",
-              "question": "प्रश्न: What does Rahul like?",
+              "question": "प्रश्न: राहुल को क्या पसंद है?",
               "options": [
                 "Playing games",
                 "Reading books",
@@ -5351,7 +5351,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_a1_q3",
-              "question": "प्रश्न: Who is the passage about?",
+              "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
               "options": [
                 "Sita",
                 "Rahul",
@@ -5363,7 +5363,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_a1_q4",
-              "question": "प्रश्न: What does every day mean?",
+              "question": "प्रश्न: \"प्रतिदिन\" का अर्थ क्या है?",
               "options": [
                 "Daily",
                 "Yesterday",
@@ -5375,7 +5375,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_a1_q5",
-              "question": "प्रश्न: What does Rahul do?",
+              "question": "प्रश्न: राहुल क्या करता है?",
               "options": [
                 "Goes to school",
                 "Goes to the market",
@@ -5387,7 +5387,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_a1_q6",
-              "question": "प्रश्न: What is the main idea of the passage?",
+              "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
               "options": [
                 "Going to school and reading books",
                 "Traveling",
@@ -5399,7 +5399,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_en_a1_q7",
-              "question": "प्रश्न: Which sentence is correct?",
+              "question": "प्रश्न: सही कथन चुनिए।",
               "options": [
                 "Rahul likes reading books.",
                 "Rahul never goes to school.",
@@ -5417,7 +5417,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "hi_en_a1_q1",
-            "question": "प्रश्न: Where does Rahul go?",
+            "question": "प्रश्न: राहुल कहाँ जाता है?",
             "options": [
               "Market",
               "School",
@@ -5429,7 +5429,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_a1_q2",
-            "question": "प्रश्न: What does Rahul like?",
+            "question": "प्रश्न: राहुल को क्या पसंद है?",
             "options": [
               "Playing games",
               "Reading books",
@@ -5441,7 +5441,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_a1_q3",
-            "question": "प्रश्न: Who is the passage about?",
+            "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
             "options": [
               "Sita",
               "Rahul",
@@ -5453,7 +5453,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_a1_q4",
-            "question": "प्रश्न: What does every day mean?",
+            "question": "प्रश्न: \"प्रतिदिन\" का अर्थ क्या है?",
             "options": [
               "Daily",
               "Yesterday",
@@ -5465,7 +5465,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_a1_q5",
-            "question": "प्रश्न: What does Rahul do?",
+            "question": "प्रश्न: राहुल क्या करता है?",
             "options": [
               "Goes to school",
               "Goes to the market",
@@ -5477,7 +5477,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_a1_q6",
-            "question": "प्रश्न: What is the main idea of the passage?",
+            "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
             "options": [
               "Going to school and reading books",
               "Traveling",
@@ -5489,7 +5489,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_en_a1_q7",
-            "question": "प्रश्न: Which sentence is correct?",
+            "question": "प्रश्न: सही कथन चुनिए।",
             "options": [
               "Rahul likes reading books.",
               "Rahul never goes to school.",
@@ -5504,7 +5504,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "hi_en_a1_q1",
-          "question": "प्रश्न: Where does Rahul go?",
+          "question": "प्रश्न: राहुल कहाँ जाता है?",
           "options": [
             "Market",
             "School",
@@ -5516,7 +5516,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_a1_q2",
-          "question": "प्रश्न: What does Rahul like?",
+          "question": "प्रश्न: राहुल को क्या पसंद है?",
           "options": [
             "Playing games",
             "Reading books",
@@ -5528,7 +5528,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_a1_q3",
-          "question": "प्रश्न: Who is the passage about?",
+          "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
           "options": [
             "Sita",
             "Rahul",
@@ -5540,7 +5540,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_a1_q4",
-          "question": "प्रश्न: What does every day mean?",
+          "question": "प्रश्न: \"प्रतिदिन\" का अर्थ क्या है?",
           "options": [
             "Daily",
             "Yesterday",
@@ -5552,7 +5552,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_a1_q5",
-          "question": "प्रश्न: What does Rahul do?",
+          "question": "प्रश्न: राहुल क्या करता है?",
           "options": [
             "Goes to school",
             "Goes to the market",
@@ -5564,7 +5564,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_a1_q6",
-          "question": "प्रश्न: What is the main idea of the passage?",
+          "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
           "options": [
             "Going to school and reading books",
             "Traveling",
@@ -5576,7 +5576,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_en_a1_q7",
-          "question": "प्रश्न: Which sentence is correct?",
+          "question": "प्रश्न: सही कथन चुनिए।",
           "options": [
             "Rahul likes reading books.",
             "Rahul never goes to school.",
@@ -5607,7 +5607,7 @@ export const BILINGUAL_COURSES = {
           "image_key": "book",
           "practice_questions": [
             {
-              "question": "प्रश्न: इस भाषा में स्वर कितने होते हैं?",
+              "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
               "options": [
                 "10 (दस)",
                 "11 (ग्यारह)",
@@ -5619,7 +5619,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_ta_f_1"
             },
             {
-              "question": "प्रश्न: \"अम्बा / माँ\" (Mother) किस प्रकार का शब्द है?",
+              "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
               "options": [
                 "வினைச்சொல் (क्रिया)",
                 "பெயர்ச்சொல் (संज्ञा)",
@@ -5631,7 +5631,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_ta_f_2"
             },
             {
-              "question": "प्रश्न: \"पेड़\" (Tree) का बहुवचन क्या है?",
+              "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
               "options": [
                 "மரம் (मरम्)",
                 "மரங்கள் (मरंगल)",
@@ -5643,7 +5643,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_ta_f_3"
             },
             {
-              "question": "प्रश्न: \"अच्छा\" (Good) किस प्रकार का शब्द है?",
+              "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
               "options": [
                 "247 (दो सौ सैंतालीस)",
                 "146 (एक सौ छियालीस)",
@@ -5655,7 +5655,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_ta_f_4"
             },
             {
-              "question": "प्रश्न: \"पढ़ रहा हूँ\" (Reading) किस प्रकार का शब्द है?",
+              "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
               "options": [
                 "பெயர்ச்சொல் (संज्ञा)",
                 "வினைச்சொல் (क्रिया)",
@@ -5667,7 +5667,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_ta_f_5"
             },
             {
-              "question": "प्रश्न: \"पुस्तक\" (Book) का अर्थ क्या है?",
+              "question": "प्रश्न: House शब्द का अर्थ क्या है?",
               "options": [
                 "வீடு (घर)",
                 "நூல் (पुस्तक)",
@@ -5679,7 +5679,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_ta_f_6"
             },
             {
-              "question": "प्रश्न: \"स्कूल\" (School) का अर्थ क्या है?",
+              "question": "प्रश्न: School शब्द का अर्थ क्या है?",
               "options": [
                 "மருத்துவமனை (अस्पताल)",
                 "பாடம் கற்கும் இடம் (पढ़ने की जगह / स्कूल)",
@@ -5697,7 +5697,7 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "question": "प्रश्न: इस भाषा में स्वर कितने होते हैं?",
+            "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
             "options": [
               "10 (दस)",
               "11 (ग्यारह)",
@@ -5709,7 +5709,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_ta_f_1"
           },
           {
-            "question": "प्रश्न: \"अम्बा / माँ\" (Mother) किस प्रकार का शब्द है?",
+            "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
             "options": [
               "வினைச்சொல் (क्रिया)",
               "பெயர்ச்சொல் (संज्ञा)",
@@ -5721,7 +5721,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_ta_f_2"
           },
           {
-            "question": "प्रश्न: \"पेड़\" (Tree) का बहुवचन क्या है?",
+            "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
             "options": [
               "மரம் (मरम्)",
               "மரங்கள் (मरंगल)",
@@ -5733,7 +5733,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_ta_f_3"
           },
           {
-            "question": "प्रश्न: \"अच्छा\" (Good) किस प्रकार का शब्द है?",
+            "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
             "options": [
               "247 (दो सौ सैंतालीस)",
               "146 (एक सौ छियालीस)",
@@ -5745,7 +5745,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_ta_f_4"
           },
           {
-            "question": "प्रश्न: \"पढ़ रहा हूँ\" (Reading) किस प्रकार का शब्द है?",
+            "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
             "options": [
               "பெயர்ச்சொல் (संज्ञा)",
               "வினைச்சொல் (क्रिया)",
@@ -5757,7 +5757,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_ta_f_5"
           },
           {
-            "question": "प्रश्न: \"पुस्तक\" (Book) का अर्थ क्या है?",
+            "question": "प्रश्न: House शब्द का अर्थ क्या है?",
             "options": [
               "வீடு (घर)",
               "நூல் (पुस्तक)",
@@ -5769,7 +5769,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_ta_f_6"
           },
           {
-            "question": "प्रश्न: \"स्कूल\" (School) का अर्थ क्या है?",
+            "question": "प्रश्न: School शब्द का अर्थ क्या है?",
             "options": [
               "மருத்துவமனை (अस्पताल)",
               "பாடம் கற்கும் இடம் (पढ़ने की जगह / स्कूल)",
@@ -5784,7 +5784,7 @@ export const BILINGUAL_COURSES = {
       },
       "checkpoint_test": [
         {
-          "question": "प्रश्न: इस भाषा में स्वर कितने होते हैं?",
+          "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
           "options": [
             "10 (दस)",
             "11 (ग्यारह)",
@@ -5796,7 +5796,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_ta_f_1"
         },
         {
-          "question": "प्रश्न: \"अम्बा / माँ\" (Mother) किस प्रकार का शब्द है?",
+          "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
           "options": [
             "வினைச்சொல் (क्रिया)",
             "பெயர்ச்சொல் (संज्ञा)",
@@ -5808,7 +5808,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_ta_f_2"
         },
         {
-          "question": "प्रश्न: \"पेड़\" (Tree) का बहुवचन क्या है?",
+          "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
           "options": [
             "மரம் (मरम्)",
             "மரங்கள் (मरंगल)",
@@ -5820,7 +5820,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_ta_f_3"
         },
         {
-          "question": "प्रश्न: \"अच्छा\" (Good) किस प्रकार का शब्द है?",
+          "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
           "options": [
             "247 (दो सौ सैंतालीस)",
             "146 (एक सौ छियालीस)",
@@ -5832,7 +5832,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_ta_f_4"
         },
         {
-          "question": "प्रश्न: \"पढ़ रहा हूँ\" (Reading) किस प्रकार का शब्द है?",
+          "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
           "options": [
             "பெயர்ச்சொல் (संज्ञा)",
             "வினைச்சொல் (क्रिया)",
@@ -5844,7 +5844,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_ta_f_5"
         },
         {
-          "question": "प्रश्न: \"पुस्तक\" (Book) का अर्थ क्या है?",
+          "question": "प्रश्न: House शब्द का अर्थ क्या है?",
           "options": [
             "வீடு (घर)",
             "நூல் (पुस्तक)",
@@ -5856,7 +5856,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_ta_f_6"
         },
         {
-          "question": "प्रश्न: \"स्कूल\" (School) का अर्थ क्या है?",
+          "question": "प्रश्न: School शब्द का अर्थ क्या है?",
           "options": [
             "மருத்துவமனை (अस्पताल)",
             "பாடம் கற்கும் இடம் (पढ़ने की जगह / स्कूल)",
@@ -5934,7 +5934,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_ta_b_4"
             },
             {
-              "question": "प्रश्न: \"उसने खाया\" कौन सा काल दर्शाता है?",
+              "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
               "options": [
                 "நிகழ்காலம் (वर्तमान काल)",
                 "இறந்த காலம் (भूतकाल)",
@@ -5946,7 +5946,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_ta_b_5"
             },
             {
-              "question": "प्रश्न: \"पढ़ूँगा\" किस काल से संबंधित है?",
+              "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
               "options": [
                 "இறந்த காலம் (भूतकाल)",
                 "நிகழ்காலம் (वर्तमान काल)",
@@ -5958,7 +5958,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_ta_b_6"
             },
             {
-              "question": "प्रश्न: \"खेल रहा है\" किस काल का उदाहरण है?",
+              "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
               "options": [
                 "நிகழ்காலம் (वर्तमान काल)",
                 "இறந்த காலம் (भूतकाल)",
@@ -6024,7 +6024,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_ta_b_4"
           },
           {
-            "question": "प्रश्न: \"उसने खाया\" कौन सा काल दर्शाता है?",
+            "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
             "options": [
               "நிகழ்காலம் (वर्तमान काल)",
               "இறந்த காலம் (भूतकाल)",
@@ -6036,7 +6036,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_ta_b_5"
           },
           {
-            "question": "प्रश्न: \"पढ़ूँगा\" किस काल से संबंधित है?",
+            "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
             "options": [
               "இறந்த காலம் (भूतकाल)",
               "நிகழ்காலம் (वर्तमान काल)",
@@ -6048,7 +6048,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_ta_b_6"
           },
           {
-            "question": "प्रश्न: \"खेल रहा है\" किस काल का उदाहरण है?",
+            "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
             "options": [
               "நிகழ்காலம் (वर्तमान काल)",
               "இறந்த காலம் (भूतकाल)",
@@ -6111,7 +6111,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_ta_b_4"
         },
         {
-          "question": "प्रश्न: \"उसने खाया\" कौन सा काल दर्शाता है?",
+          "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
           "options": [
             "நிகழ்காலம் (वर्तमान काल)",
             "இறந்த காலம் (भूतकाल)",
@@ -6123,7 +6123,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_ta_b_5"
         },
         {
-          "question": "प्रश्न: \"पढ़ूँगा\" किस काल से संबंधित है?",
+          "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
           "options": [
             "இறந்த காலம் (भूतकाल)",
             "நிகழ்காலம் (वर्तमान काल)",
@@ -6135,7 +6135,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_ta_b_6"
         },
         {
-          "question": "प्रश्न: \"खेल रहा है\" किस काल का उदाहरण है?",
+          "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
           "options": [
             "நிகழ்காலம் (वर्तमान काल)",
             "இறந்த காலம் (भूतकाल)",
@@ -6725,7 +6725,7 @@ export const BILINGUAL_COURSES = {
           "image_key": "book",
           "practice_questions": [
             {
-              "question": "प्रश्न: इस भाषा में स्वर कितने होते हैं?",
+              "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
               "options": [
                 "14 (चौदह)",
                 "15 (पंद्रह)",
@@ -6737,7 +6737,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_te_f_1"
             },
             {
-              "question": "प्रश्न: \"अम्बा / माँ\" (Mother) किस प्रकार का शब्द है?",
+              "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
               "options": [
                 "క్రియ (क्रिया)",
                 "నామవాచకం (संज्ञा)",
@@ -6749,7 +6749,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_te_f_2"
             },
             {
-              "question": "प्रश्न: \"पेड़\" (Tree) का बहुवचन क्या है?",
+              "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
               "options": [
                 "చెట్టు (चेट्टू)",
                 "చెట్లు (चेट्लू - पेड़)",
@@ -6761,7 +6761,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_te_f_3"
             },
             {
-              "question": "प्रश्न: \"अच्छा\" (Good) किस प्रकार का शब्द है?",
+              "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
               "options": [
                 "విశేషణం (विशेषण)",
                 "నామవాచకం (संज्ञा)",
@@ -6773,7 +6773,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_te_f_4"
             },
             {
-              "question": "प्रश्न: \"पढ़ रहा हूँ\" (Reading) किस प्रकार का शब्द है?",
+              "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
               "options": [
                 "నామవాచకం (संज्ञा)",
                 "క్రియ (क्रिया)",
@@ -6785,7 +6785,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_te_f_5"
             },
             {
-              "question": "प्रश्न: \"पुस्तक\" (Book) का अर्थ क्या है?",
+              "question": "प्रश्न: House शब्द का अर्थ क्या है?",
               "options": [
                 "ఇల్లు (घर)",
                 "గ్రంథం (पुस्तक)",
@@ -6797,7 +6797,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_te_f_6"
             },
             {
-              "question": "प्रश्न: \"स्कूल\" (School) का अर्थ क्या है?",
+              "question": "प्रश्न: School शब्द का अर्थ क्या है?",
               "options": [
                 "ఆసుపత్రి (अस्पताल)",
                 "పాఠాలు నేర్చుకునే స్థలం (पढ़ने की जगह / स्कूल)",
@@ -6815,7 +6815,7 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "question": "प्रश्न: इस भाषा में स्वर कितने होते हैं?",
+            "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
             "options": [
               "14 (चौदह)",
               "15 (पंद्रह)",
@@ -6827,7 +6827,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_te_f_1"
           },
           {
-            "question": "प्रश्न: \"अम्बा / माँ\" (Mother) किस प्रकार का शब्द है?",
+            "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
             "options": [
               "క్రియ (क्रिया)",
               "నామవాచకం (संज्ञा)",
@@ -6839,7 +6839,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_te_f_2"
           },
           {
-            "question": "प्रश्न: \"पेड़\" (Tree) का बहुवचन क्या है?",
+            "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
             "options": [
               "చెట్టు (चेट्टू)",
               "చెట్లు (चेट्लू - पेड़)",
@@ -6851,7 +6851,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_te_f_3"
           },
           {
-            "question": "प्रश्न: \"अच्छा\" (Good) किस प्रकार का शब्द है?",
+            "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
             "options": [
               "విశేషణం (विशेषण)",
               "నామవాచకం (संज्ञा)",
@@ -6863,7 +6863,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_te_f_4"
           },
           {
-            "question": "प्रश्न: \"पढ़ रहा हूँ\" (Reading) किस प्रकार का शब्द है?",
+            "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
             "options": [
               "నామవాచకం (संज्ञा)",
               "క్రియ (क्रिया)",
@@ -6875,7 +6875,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_te_f_5"
           },
           {
-            "question": "प्रश्न: \"पुस्तक\" (Book) का अर्थ क्या है?",
+            "question": "प्रश्न: House शब्द का अर्थ क्या है?",
             "options": [
               "ఇల్లు (घर)",
               "గ్రంథం (पुस्तक)",
@@ -6887,7 +6887,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_te_f_6"
           },
           {
-            "question": "प्रश्न: \"स्कूल\" (School) का अर्थ क्या है?",
+            "question": "प्रश्न: School शब्द का अर्थ क्या है?",
             "options": [
               "ఆసుపత్రి (अस्पताल)",
               "పాఠాలు నేర్చుకునే స్థలం (पढ़ने की जगह / स्कूल)",
@@ -6902,7 +6902,7 @@ export const BILINGUAL_COURSES = {
       },
       "checkpoint_test": [
         {
-          "question": "प्रश्न: इस भाषा में स्वर कितने होते हैं?",
+          "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
           "options": [
             "14 (चौदह)",
             "15 (पंद्रह)",
@@ -6914,7 +6914,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_te_f_1"
         },
         {
-          "question": "प्रश्न: \"अम्बा / माँ\" (Mother) किस प्रकार का शब्द है?",
+          "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
           "options": [
             "క్రియ (क्रिया)",
             "నామవాచకం (संज्ञा)",
@@ -6926,7 +6926,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_te_f_2"
         },
         {
-          "question": "प्रश्न: \"पेड़\" (Tree) का बहुवचन क्या है?",
+          "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
           "options": [
             "చెట్టు (चेट्टू)",
             "చెట్లు (चेट्लू - पेड़)",
@@ -6938,7 +6938,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_te_f_3"
         },
         {
-          "question": "प्रश्न: \"अच्छा\" (Good) किस प्रकार का शब्द है?",
+          "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
           "options": [
             "విశేషణం (विशेषण)",
             "నామవాచకం (संज्ञा)",
@@ -6950,7 +6950,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_te_f_4"
         },
         {
-          "question": "प्रश्न: \"पढ़ रहा हूँ\" (Reading) किस प्रकार का शब्द है?",
+          "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
           "options": [
             "నామవాచకం (संज्ञा)",
             "క్రియ (क्रिया)",
@@ -6962,7 +6962,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_te_f_5"
         },
         {
-          "question": "प्रश्न: \"पुस्तक\" (Book) का अर्थ क्या है?",
+          "question": "प्रश्न: House शब्द का अर्थ क्या है?",
           "options": [
             "ఇల్లు (घर)",
             "గ్రంథం (पुस्तक)",
@@ -6974,7 +6974,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_te_f_6"
         },
         {
-          "question": "प्रश्न: \"स्कूल\" (School) का अर्थ क्या है?",
+          "question": "प्रश्न: School शब्द का अर्थ क्या है?",
           "options": [
             "ఆసుపత్రి (अस्पताल)",
             "పాఠాలు నేర్చుకునే స్థలం (पढ़ने की जगह / स्कूल)",
@@ -7052,7 +7052,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_te_b_4"
             },
             {
-              "question": "प्रश्न: \"उसने खाया\" कौन सा काल दर्शाता है?",
+              "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
               "options": [
                 "వర్తమాన కాలం (वर्तमान काल)",
                 "భూతకాలం (भूतकाल)",
@@ -7064,7 +7064,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_te_b_5"
             },
             {
-              "question": "प्रश्न: \"पढ़ूँगा\" किस काल से संबंधित है?",
+              "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
               "options": [
                 "భూతకాలం (भूतकाल)",
                 "వర్తమాన కాలం (वर्तमान काल)",
@@ -7076,7 +7076,7 @@ export const BILINGUAL_COURSES = {
               "id": "hi_te_b_6"
             },
             {
-              "question": "प्रश्न: \"खेल रहा है\" किस काल का उदाहरण है?",
+              "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
               "options": [
                 "వర్తమాన కాలం (वर्तमान काल)",
                 "భూతకాలం (भूतकाल)",
@@ -7142,7 +7142,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_te_b_4"
           },
           {
-            "question": "प्रश्न: \"उसने खाया\" कौन सा काल दर्शाता है?",
+            "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
             "options": [
               "వర్తమాన కాలం (वर्तमान काल)",
               "భూతకాలం (भूतकाल)",
@@ -7154,7 +7154,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_te_b_5"
           },
           {
-            "question": "प्रश्न: \"पढ़ूँगा\" किस काल से संबंधित है?",
+            "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
             "options": [
               "భూతకాలం (भूतकाल)",
               "వర్తమాన కాలం (वर्तमान काल)",
@@ -7166,7 +7166,7 @@ export const BILINGUAL_COURSES = {
             "id": "hi_te_b_6"
           },
           {
-            "question": "प्रश्न: \"खेल रहा है\" किस काल का उदाहरण है?",
+            "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
             "options": [
               "వర్తమాన కాలం (वर्तमान काल)",
               "భూతకాలం (भूतकाल)",
@@ -7229,7 +7229,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_te_b_4"
         },
         {
-          "question": "प्रश्न: \"उसने खाया\" कौन सा काल दर्शाता है?",
+          "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
           "options": [
             "వర్తమాన కాలం (वर्तमान काल)",
             "భూతకాలం (भूतकाल)",
@@ -7241,7 +7241,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_te_b_5"
         },
         {
-          "question": "प्रश्न: \"पढ़ूँगा\" किस काल से संबंधित है?",
+          "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
           "options": [
             "భూతకాలం (भूतकाल)",
             "వర్తమాన కాలం (वर्तमान काल)",
@@ -7253,7 +7253,7 @@ export const BILINGUAL_COURSES = {
           "id": "hi_te_b_6"
         },
         {
-          "question": "प्रश्न: \"खेल रहा है\" किस काल का उदाहरण है?",
+          "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
           "options": [
             "వర్తమాన కాలం (वर्तमान काल)",
             "భూతకాలం (भूतकाल)",
@@ -7844,7 +7844,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "hi_kn_f1_q1",
-              "question": "प्रश्न: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+              "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
               "options": [
                 "12",
                 "13",
@@ -7856,7 +7856,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_f1_q2",
-              "question": "प्रश्न: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
               "options": [
                 "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
                 "ನಾಮಪದ (नामपद - संज्ञा))",
@@ -7868,7 +7868,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_f1_q3",
-              "question": "प्रश्न: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+              "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
               "options": [
                 "ಮರ (मर - पेड़))",
                 "ಮರಗಳು (मरगळु - पेड़))",
@@ -7880,7 +7880,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_f1_q4",
-              "question": "प्रश्न: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+              "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
               "options": [
                 "ವಿಶೇಷಣ (विशेषण - विशेषण))",
                 "ನಾಮಪದ (नामपद - संज्ञा))",
@@ -7892,7 +7892,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_f1_q5",
-              "question": "प्रश्न: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
               "options": [
                 "ನಾಮಪದ (नामपद - संज्ञा))",
                 "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
@@ -7904,7 +7904,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_f1_q6",
-              "question": "प्रश्न: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+              "question": "प्रश्न: House शब्द का अर्थ क्या है?",
               "options": [
                 "ಮನೆ",
                 "ಗ್ರಂಥ",
@@ -7916,7 +7916,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_f1_q7",
-              "question": "प्रश्न: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+              "question": "प्रश्न: School शब्द का अर्थ क्या है?",
               "options": [
                 "ಆಸ್ಪತ್ರೆ",
                 "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -7934,7 +7934,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "hi_kn_f1_q1",
-            "question": "प्रश्न: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+            "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
             "options": [
               "12",
               "13",
@@ -7946,7 +7946,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_f1_q2",
-            "question": "प्रश्न: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
             "options": [
               "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
               "ನಾಮಪದ (नामपद - संज्ञा))",
@@ -7958,7 +7958,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_f1_q3",
-            "question": "प्रश्न: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+            "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
             "options": [
               "ಮರ (मर - पेड़))",
               "ಮರಗಳು (मरगळु - पेड़))",
@@ -7970,7 +7970,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_f1_q4",
-            "question": "प्रश्न: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+            "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
             "options": [
               "ವಿಶೇಷಣ (विशेषण - विशेषण))",
               "ನಾಮಪದ (नामपद - संज्ञा))",
@@ -7982,7 +7982,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_f1_q5",
-            "question": "प्रश्न: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
             "options": [
               "ನಾಮಪದ (नामपद - संज्ञा))",
               "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
@@ -7994,7 +7994,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_f1_q6",
-            "question": "प्रश्न: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+            "question": "प्रश्न: House शब्द का अर्थ क्या है?",
             "options": [
               "ಮನೆ",
               "ಗ್ರಂಥ",
@@ -8006,7 +8006,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_f1_q7",
-            "question": "प्रश्न: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+            "question": "प्रश्न: School शब्द का अर्थ क्या है?",
             "options": [
               "ಆಸ್ಪತ್ರೆ",
               "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -8021,7 +8021,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "hi_kn_f1_q1",
-          "question": "प्रश्न: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+          "question": "प्रश्न: Apple शब्द किस अक्षर से शुरू होता है?",
           "options": [
             "12",
             "13",
@@ -8033,7 +8033,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_f1_q2",
-          "question": "प्रश्न: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "प्रश्न: इनमें से संज्ञा (Noun) कौन सा है?",
           "options": [
             "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
             "ನಾಮಪದ (नामपद - संज्ञा))",
@@ -8045,7 +8045,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_f1_q3",
-          "question": "प्रश्न: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+          "question": "प्रश्न: Tree का बहुवचन (Plural) क्या है?",
           "options": [
             "ಮರ (मर - पेड़))",
             "ಮರಗಳು (मरगळु - पेड़))",
@@ -8057,7 +8057,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_f1_q4",
-          "question": "प्रश्न: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+          "question": "प्रश्न: इनमें से विशेषण (Adjective) कौन सा है?",
           "options": [
             "ವಿಶೇಷಣ (विशेषण - विशेषण))",
             "ನಾಮಪದ (नामपद - संज्ञा))",
@@ -8069,7 +8069,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_f1_q5",
-          "question": "प्रश्न: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "प्रश्न: इनमें से क्रिया (Verb) कौन सी है?",
           "options": [
             "ನಾಮಪದ (नामपद - संज्ञा))",
             "ಕ್ರಿಯಾಪದ (क्रियापद - क्रिया))",
@@ -8081,7 +8081,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_f1_q6",
-          "question": "प्रश्न: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+          "question": "प्रश्न: House शब्द का अर्थ क्या है?",
           "options": [
             "ಮನೆ",
             "ಗ್ರಂಥ",
@@ -8093,7 +8093,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_f1_q7",
-          "question": "प्रश्न: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+          "question": "प्रश्न: School शब्द का अर्थ क्या है?",
           "options": [
             "ಆಸ್ಪತ್ರೆ",
             "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -8123,7 +8123,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "hi_kn_b1_q1",
-              "question": "प्रश्न: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "प्रश्न: \"मैं स्कूल जा रहा हूँ।\" यह कौन सा काल है?",
               "options": [
                 "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
                 "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
@@ -8135,7 +8135,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_b1_q2",
-              "question": "प्रश्न: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "प्रश्न: \"वह कल आया था।\" यह कौन सा काल है?",
               "options": [
                 "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
                 "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
@@ -8147,7 +8147,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_b1_q3",
-              "question": "प्रश्न: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "प्रश्न: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
                 "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
@@ -8159,7 +8159,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_b1_q4",
-              "question": "प्रश्न: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "प्रश्न: \"वह गा रही है।\" यह कौन सा काल है?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
                 "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
@@ -8171,7 +8171,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_b1_q5",
-              "question": "प्रश्न: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+              "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
                 "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
@@ -8183,7 +8183,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_b1_q6",
-              "question": "प्रश्न: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
               "options": [
                 "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
                 "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
@@ -8195,7 +8195,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_b1_q7",
-              "question": "प्रश्न: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+              "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
                 "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
@@ -8213,7 +8213,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "hi_kn_b1_q1",
-            "question": "प्रश्न: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "प्रश्न: \"मैं स्कूल जा रहा हूँ।\" यह कौन सा काल है?",
             "options": [
               "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
               "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
@@ -8225,7 +8225,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_b1_q2",
-            "question": "प्रश्न: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "प्रश्न: \"वह कल आया था।\" यह कौन सा काल है?",
             "options": [
               "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
               "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
@@ -8237,7 +8237,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_b1_q3",
-            "question": "प्रश्न: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "प्रश्न: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
               "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
@@ -8249,7 +8249,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_b1_q4",
-            "question": "प्रश्न: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "प्रश्न: \"वह गा रही है।\" यह कौन सा काल है?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
               "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
@@ -8261,7 +8261,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_b1_q5",
-            "question": "प्रश्न: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+            "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
               "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
@@ -8273,7 +8273,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_b1_q6",
-            "question": "प्रश्न: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
             "options": [
               "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
               "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
@@ -8285,7 +8285,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_b1_q7",
-            "question": "प्रश्न: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+            "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
               "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
@@ -8300,7 +8300,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "hi_kn_b1_q1",
-          "question": "प्रश्न: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "प्रश्न: \"मैं स्कूल जा रहा हूँ।\" यह कौन सा काल है?",
           "options": [
             "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
             "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
@@ -8312,7 +8312,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_b1_q2",
-          "question": "प्रश्न: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "प्रश्न: \"वह कल आया था।\" यह कौन सा काल है?",
           "options": [
             "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
             "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
@@ -8324,7 +8324,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_b1_q3",
-          "question": "प्रश्न: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "प्रश्न: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
             "ಭವಿಷ್ಯತ್ಕಾಲ (भविष्यत्काल - भविष्य काल))",
@@ -8336,7 +8336,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_b1_q4",
-          "question": "प्रश्न: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "प्रश्न: \"वह गा रही है।\" यह कौन सा काल है?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
             "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
@@ -8348,7 +8348,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_b1_q5",
-          "question": "प्रश्न: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+          "question": "प्रश्न: \"उसने खाया\" (Ate) कौन सा काल दर्शाता है?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
             "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
@@ -8360,7 +8360,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_b1_q6",
-          "question": "प्रश्न: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "प्रश्न: \"पढ़ूँगा\" (Will read) किस काल से संबंधित है?",
           "options": [
             "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
             "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
@@ -8372,7 +8372,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_b1_q7",
-          "question": "प्रश्न: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+          "question": "प्रश्न: \"खेल रहा है\" (Is playing) किस काल का उदाहरण है?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (वर्तमानकाल - वर्तमान काल))",
             "ಭೂತಕಾಲ (भूतकाल - भूतकाल))",
@@ -8402,7 +8402,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "hi_kn_i1_q1",
-              "question": "प्रश्न: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "प्रश्न: \"राम और श्याम स्कूल गए।\" इसमें संयोजक शब्द कौन सा है?",
               "options": [
                 "ಆದರೆ (आदरे - लेकिन))",
                 "ಮತ್ತು (मत्तु - और))",
@@ -8414,7 +8414,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_i1_q2",
-              "question": "प्रश्न: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "प्रश्न: \"माता और पिता\" में संयोजक कौन सा है?",
               "options": [
                 "ಅಮ್ಮ",
                 "ಮತ್ತು (मत्तु - और))",
@@ -8426,7 +8426,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_i1_q3",
-              "question": "प्रश्न: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "प्रश्न: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" इसमें संयोजक शब्द कौन सा है?",
               "options": [
                 "ಆದರೆ (आदरे - लेकिन))",
                 "ಓದಿದನು",
@@ -8438,7 +8438,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_i1_q4",
-              "question": "प्रश्न: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "प्रश्न: \"और\" (And) किस प्रकार का शब्द है?",
               "options": [
                 "ಸಂಪರ್ಕಪದ",
                 "ನಾಮಪದ (नामपद - संज्ञा))",
@@ -8450,7 +8450,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_i1_q5",
-              "question": "प्रश्न: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+              "question": "प्रश्न: \"इसलिए\" (Therefore) शब्द का प्रयोग कब किया जाता है?",
               "options": [
                 "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
                 "ನಾಮಪದವಾಗಿ",
@@ -8462,7 +8462,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_i1_q6",
-              "question": "प्रश्न: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
               "options": [
                 "ಮತ್ತು (मत्तु - और))",
                 "ಪುಸ್ತಕ",
@@ -8474,7 +8474,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_i1_q7",
-              "question": "प्रश्न: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+              "question": "प्रश्न: \"या\" (Or) का अर्थ क्या है?",
               "options": [
                 "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
                 "ಸಮಯ",
@@ -8492,7 +8492,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "hi_kn_i1_q1",
-            "question": "प्रश्न: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "प्रश्न: \"राम और श्याम स्कूल गए।\" इसमें संयोजक शब्द कौन सा है?",
             "options": [
               "ಆದರೆ (आदरे - लेकिन))",
               "ಮತ್ತು (मत्तु - और))",
@@ -8504,7 +8504,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_i1_q2",
-            "question": "प्रश्न: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "प्रश्न: \"माता और पिता\" में संयोजक कौन सा है?",
             "options": [
               "ಅಮ್ಮ",
               "ಮತ್ತು (मत्तु - और))",
@@ -8516,7 +8516,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_i1_q3",
-            "question": "प्रश्न: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "प्रश्न: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" इसमें संयोजक शब्द कौन सा है?",
             "options": [
               "ಆದರೆ (आदरे - लेकिन))",
               "ಓದಿದನು",
@@ -8528,7 +8528,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_i1_q4",
-            "question": "प्रश्न: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "प्रश्न: \"और\" (And) किस प्रकार का शब्द है?",
             "options": [
               "ಸಂಪರ್ಕಪದ",
               "ನಾಮಪದ (नामपद - संज्ञा))",
@@ -8540,7 +8540,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_i1_q5",
-            "question": "प्रश्न: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+            "question": "प्रश्न: \"इसलिए\" (Therefore) शब्द का प्रयोग कब किया जाता है?",
             "options": [
               "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
               "ನಾಮಪದವಾಗಿ",
@@ -8552,7 +8552,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_i1_q6",
-            "question": "प्रश्न: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
             "options": [
               "ಮತ್ತು (मत्तु - और))",
               "ಪುಸ್ತಕ",
@@ -8564,7 +8564,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_i1_q7",
-            "question": "प्रश्न: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+            "question": "प्रश्न: \"या\" (Or) का अर्थ क्या है?",
             "options": [
               "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
               "ಸಮಯ",
@@ -8579,7 +8579,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "hi_kn_i1_q1",
-          "question": "प्रश्न: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "प्रश्न: \"राम और श्याम स्कूल गए।\" इसमें संयोजक शब्द कौन सा है?",
           "options": [
             "ಆದರೆ (आदरे - लेकिन))",
             "ಮತ್ತು (मत्तु - और))",
@@ -8591,7 +8591,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_i1_q2",
-          "question": "प्रश्न: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "प्रश्न: \"माता और पिता\" में संयोजक कौन सा है?",
           "options": [
             "ಅಮ್ಮ",
             "ಮತ್ತು (मत्तु - और))",
@@ -8603,7 +8603,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_i1_q3",
-          "question": "प्रश्न: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "प्रश्न: \"उसने पढ़ा लेकिन पास नहीं हुआ।\" इसमें संयोजक शब्द कौन सा है?",
           "options": [
             "ಆದರೆ (आदरे - लेकिन))",
             "ಓದಿದನು",
@@ -8615,7 +8615,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_i1_q4",
-          "question": "प्रश्न: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "प्रश्न: \"और\" (And) किस प्रकार का शब्द है?",
           "options": [
             "ಸಂಪರ್ಕಪದ",
             "ನಾಮಪದ (नामपद - संज्ञा))",
@@ -8627,7 +8627,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_i1_q5",
-          "question": "प्रश्न: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+          "question": "प्रश्न: \"इसलिए\" (Therefore) शब्द का प्रयोग कब किया जाता है?",
           "options": [
             "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
             "ನಾಮಪದವಾಗಿ",
@@ -8639,7 +8639,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_i1_q6",
-          "question": "प्रश्न: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "प्रश्न: सही संयोजक शब्द कौन सा है?",
           "options": [
             "ಮತ್ತು (मत्तु - और))",
             "ಪುಸ್ತಕ",
@@ -8651,7 +8651,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_i1_q7",
-          "question": "प्रश्न: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+          "question": "प्रश्न: \"या\" (Or) का अर्थ क्या है?",
           "options": [
             "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
             "ಸಮಯ",
@@ -8681,7 +8681,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "hi_kn_a1_q1",
-              "question": "प्रश्न: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+              "question": "प्रश्न: राहुल कहाँ जाता है?",
               "options": [
                 "ಮಾರುಕಟ್ಟೆ",
                 "ಶಾಲೆ",
@@ -8693,7 +8693,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_a1_q2",
-              "question": "प्रश्न: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+              "question": "प्रश्न: राहुल को क्या पसंद है?",
               "options": [
                 "ಆಟ ಆಡುವುದು",
                 "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -8705,7 +8705,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_a1_q3",
-              "question": "प्रश्न: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+              "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
               "options": [
                 "ಸೀತಾ",
                 "ರಾಹುಲ್",
@@ -8717,7 +8717,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_a1_q4",
-              "question": "प्रश्न: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+              "question": "प्रश्न: \"प्रतिदिन\" का अर्थ क्या है?",
               "options": [
                 "ಪ್ರತಿ ದಿನ",
                 "ನಿನ್ನೆ",
@@ -8729,7 +8729,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_a1_q5",
-              "question": "प्रश्न: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+              "question": "प्रश्न: राहुल क्या करता है?",
               "options": [
                 "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
                 "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -8741,7 +8741,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_a1_q6",
-              "question": "प्रश्न: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+              "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
               "options": [
                 "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
                 "ಪ್ರವಾಸ",
@@ -8753,7 +8753,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "hi_kn_a1_q7",
-              "question": "प्रश्न: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+              "question": "प्रश्न: सही कथन चुनिए।",
               "options": [
                 "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
                 "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -8771,7 +8771,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "hi_kn_a1_q1",
-            "question": "प्रश्न: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+            "question": "प्रश्न: राहुल कहाँ जाता है?",
             "options": [
               "ಮಾರುಕಟ್ಟೆ",
               "ಶಾಲೆ",
@@ -8783,7 +8783,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_a1_q2",
-            "question": "प्रश्न: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+            "question": "प्रश्न: राहुल को क्या पसंद है?",
             "options": [
               "ಆಟ ಆಡುವುದು",
               "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -8795,7 +8795,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_a1_q3",
-            "question": "प्रश्न: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+            "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
             "options": [
               "ಸೀತಾ",
               "ರಾಹುಲ್",
@@ -8807,7 +8807,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_a1_q4",
-            "question": "प्रश्न: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+            "question": "प्रश्न: \"प्रतिदिन\" का अर्थ क्या है?",
             "options": [
               "ಪ್ರತಿ ದಿನ",
               "ನಿನ್ನೆ",
@@ -8819,7 +8819,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_a1_q5",
-            "question": "प्रश्न: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+            "question": "प्रश्न: राहुल क्या करता है?",
             "options": [
               "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
               "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -8831,7 +8831,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_a1_q6",
-            "question": "प्रश्न: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+            "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
             "options": [
               "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
               "ಪ್ರವಾಸ",
@@ -8843,7 +8843,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "hi_kn_a1_q7",
-            "question": "प्रश्न: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+            "question": "प्रश्न: सही कथन चुनिए।",
             "options": [
               "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
               "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -8858,7 +8858,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "hi_kn_a1_q1",
-          "question": "प्रश्न: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+          "question": "प्रश्न: राहुल कहाँ जाता है?",
           "options": [
             "ಮಾರುಕಟ್ಟೆ",
             "ಶಾಲೆ",
@@ -8870,7 +8870,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_a1_q2",
-          "question": "प्रश्न: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+          "question": "प्रश्न: राहुल को क्या पसंद है?",
           "options": [
             "ಆಟ ಆಡುವುದು",
             "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -8882,7 +8882,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_a1_q3",
-          "question": "प्रश्न: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+          "question": "प्रश्न: यह गद्यांश किसके बारे में है?",
           "options": [
             "ಸೀತಾ",
             "ರಾಹುಲ್",
@@ -8894,7 +8894,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_a1_q4",
-          "question": "प्रश्न: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+          "question": "प्रश्न: \"प्रतिदिन\" का अर्थ क्या है?",
           "options": [
             "ಪ್ರತಿ ದಿನ",
             "ನಿನ್ನೆ",
@@ -8906,7 +8906,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_a1_q5",
-          "question": "प्रश्न: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+          "question": "प्रश्न: राहुल क्या करता है?",
           "options": [
             "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
             "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -8918,7 +8918,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_a1_q6",
-          "question": "प्रश्न: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+          "question": "प्रश्न: गद्यांश का मुख्य विचार क्या है?",
           "options": [
             "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
             "ಪ್ರವಾಸ",
@@ -8930,7 +8930,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "hi_kn_a1_q7",
-          "question": "प्रश्न: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+          "question": "प्रश्न: सही कथन चुनिए।",
           "options": [
             "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
             "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -8962,7 +8962,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "ta_en_f1_q1",
-              "question": "கேள்வி: Which letter does the word Apple begin with?",
+              "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
               "options": [
                 "B",
                 "A",
@@ -8974,7 +8974,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_f1_q2",
-              "question": "கேள்வி: Which word is a Noun?",
+              "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
               "options": [
                 "Run",
                 "Happy",
@@ -8986,7 +8986,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_f1_q3",
-              "question": "கேள்வி: What is the plural of Tree?",
+              "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
               "options": [
                 "Trees",
                 "Treees",
@@ -8998,7 +8998,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_f1_q4",
-              "question": "கேள்வி: Which word is an Adjective?",
+              "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
               "options": [
                 "Beautiful",
                 "School",
@@ -9010,7 +9010,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_f1_q5",
-              "question": "கேள்வி: Which word is a Verb?",
+              "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
               "options": [
                 "Reading",
                 "Table",
@@ -9022,7 +9022,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_f1_q6",
-              "question": "கேள்வி: What is another word for Book?",
+              "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
               "options": [
                 "Pen",
                 "Notebook",
@@ -9034,7 +9034,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_f1_q7",
-              "question": "கேள்வி: What is a School?",
+              "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
               "options": [
                 "A hospital",
                 "A place to learn",
@@ -9052,7 +9052,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "ta_en_f1_q1",
-            "question": "கேள்வி: Which letter does the word Apple begin with?",
+            "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
             "options": [
               "B",
               "A",
@@ -9064,7 +9064,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_f1_q2",
-            "question": "கேள்வி: Which word is a Noun?",
+            "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
             "options": [
               "Run",
               "Happy",
@@ -9076,7 +9076,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_f1_q3",
-            "question": "கேள்வி: What is the plural of Tree?",
+            "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
             "options": [
               "Trees",
               "Treees",
@@ -9088,7 +9088,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_f1_q4",
-            "question": "கேள்வி: Which word is an Adjective?",
+            "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
             "options": [
               "Beautiful",
               "School",
@@ -9100,7 +9100,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_f1_q5",
-            "question": "கேள்வி: Which word is a Verb?",
+            "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
             "options": [
               "Reading",
               "Table",
@@ -9112,7 +9112,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_f1_q6",
-            "question": "கேள்வி: What is another word for Book?",
+            "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
             "options": [
               "Pen",
               "Notebook",
@@ -9124,7 +9124,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_f1_q7",
-            "question": "கேள்வி: What is a School?",
+            "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
             "options": [
               "A hospital",
               "A place to learn",
@@ -9139,7 +9139,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "ta_en_f1_q1",
-          "question": "கேள்வி: Which letter does the word Apple begin with?",
+          "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
           "options": [
             "B",
             "A",
@@ -9151,7 +9151,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_f1_q2",
-          "question": "கேள்வி: Which word is a Noun?",
+          "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
           "options": [
             "Run",
             "Happy",
@@ -9163,7 +9163,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_f1_q3",
-          "question": "கேள்வி: What is the plural of Tree?",
+          "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
           "options": [
             "Trees",
             "Treees",
@@ -9175,7 +9175,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_f1_q4",
-          "question": "கேள்வி: Which word is an Adjective?",
+          "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
           "options": [
             "Beautiful",
             "School",
@@ -9187,7 +9187,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_f1_q5",
-          "question": "கேள்வி: Which word is a Verb?",
+          "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
           "options": [
             "Reading",
             "Table",
@@ -9199,7 +9199,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_f1_q6",
-          "question": "கேள்வி: What is another word for Book?",
+          "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
           "options": [
             "Pen",
             "Notebook",
@@ -9211,7 +9211,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_f1_q7",
-          "question": "கேள்வி: What is a School?",
+          "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
           "options": [
             "A hospital",
             "A place to learn",
@@ -9241,7 +9241,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "ta_en_b1_q1",
-              "question": "கேள்வி: \"I am going to school.\" Which tense is this?",
+              "question": "கேள்வி: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
               "options": [
                 "Past Tense",
                 "Present Tense",
@@ -9253,7 +9253,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_b1_q2",
-              "question": "கேள்வி: \"He came yesterday.\" Which tense is this?",
+              "question": "கேள்வி: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
               "options": [
                 "Past Tense",
                 "Present Tense",
@@ -9265,7 +9265,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_b1_q3",
-              "question": "கேள்வி: \"I will go tomorrow.\" Which tense is this?",
+              "question": "கேள்வி: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
               "options": [
                 "Present Tense",
                 "Future Tense",
@@ -9277,7 +9277,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_b1_q4",
-              "question": "கேள்வி: \"She is singing.\" Which tense is this?",
+              "question": "கேள்வி: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
               "options": [
                 "Present Tense",
                 "Past Tense",
@@ -9289,7 +9289,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_b1_q5",
-              "question": "கேள்வி: Which word shows the past tense?",
+              "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
               "options": [
                 "Eat",
                 "Ate",
@@ -9301,7 +9301,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_b1_q6",
-              "question": "கேள்வி: Which word shows the future tense?",
+              "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
               "options": [
                 "Read",
                 "Reading",
@@ -9313,7 +9313,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_b1_q7",
-              "question": "கேள்வி: \"They are playing.\" Which tense is this?",
+              "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
               "options": [
                 "Present Tense",
                 "Past Tense",
@@ -9331,7 +9331,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "ta_en_b1_q1",
-            "question": "கேள்வி: \"I am going to school.\" Which tense is this?",
+            "question": "கேள்வி: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
             "options": [
               "Past Tense",
               "Present Tense",
@@ -9343,7 +9343,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_b1_q2",
-            "question": "கேள்வி: \"He came yesterday.\" Which tense is this?",
+            "question": "கேள்வி: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
             "options": [
               "Past Tense",
               "Present Tense",
@@ -9355,7 +9355,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_b1_q3",
-            "question": "கேள்வி: \"I will go tomorrow.\" Which tense is this?",
+            "question": "கேள்வி: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
             "options": [
               "Present Tense",
               "Future Tense",
@@ -9367,7 +9367,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_b1_q4",
-            "question": "கேள்வி: \"She is singing.\" Which tense is this?",
+            "question": "கேள்வி: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
             "options": [
               "Present Tense",
               "Past Tense",
@@ -9379,7 +9379,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_b1_q5",
-            "question": "கேள்வி: Which word shows the past tense?",
+            "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
             "options": [
               "Eat",
               "Ate",
@@ -9391,7 +9391,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_b1_q6",
-            "question": "கேள்வி: Which word shows the future tense?",
+            "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
             "options": [
               "Read",
               "Reading",
@@ -9403,7 +9403,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_b1_q7",
-            "question": "கேள்வி: \"They are playing.\" Which tense is this?",
+            "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
             "options": [
               "Present Tense",
               "Past Tense",
@@ -9418,7 +9418,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "ta_en_b1_q1",
-          "question": "கேள்வி: \"I am going to school.\" Which tense is this?",
+          "question": "கேள்வி: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
           "options": [
             "Past Tense",
             "Present Tense",
@@ -9430,7 +9430,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_b1_q2",
-          "question": "கேள்வி: \"He came yesterday.\" Which tense is this?",
+          "question": "கேள்வி: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
           "options": [
             "Past Tense",
             "Present Tense",
@@ -9442,7 +9442,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_b1_q3",
-          "question": "கேள்வி: \"I will go tomorrow.\" Which tense is this?",
+          "question": "கேள்வி: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
           "options": [
             "Present Tense",
             "Future Tense",
@@ -9454,7 +9454,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_b1_q4",
-          "question": "கேள்வி: \"She is singing.\" Which tense is this?",
+          "question": "கேள்வி: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
           "options": [
             "Present Tense",
             "Past Tense",
@@ -9466,7 +9466,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_b1_q5",
-          "question": "கேள்வி: Which word shows the past tense?",
+          "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
           "options": [
             "Eat",
             "Ate",
@@ -9478,7 +9478,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_b1_q6",
-          "question": "கேள்வி: Which word shows the future tense?",
+          "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
           "options": [
             "Read",
             "Reading",
@@ -9490,7 +9490,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_b1_q7",
-          "question": "கேள்வி: \"They are playing.\" Which tense is this?",
+          "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
           "options": [
             "Present Tense",
             "Past Tense",
@@ -9520,7 +9520,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "ta_en_i1_q1",
-              "question": "கேள்வி: Which word joins two ideas?",
+              "question": "கேள்வி: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" இதில் இணைப்புச் சொல் எது?",
               "options": [
                 "But",
                 "And",
@@ -9532,7 +9532,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_i1_q2",
-              "question": "கேள்வி: In \"Mother and Father\", which is the joining word?",
+              "question": "கேள்வி: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
               "options": [
                 "Mother",
                 "And",
@@ -9544,7 +9544,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_i1_q3",
-              "question": "கேள்வி: \"He studied, but he did not pass.\" Which is the joining word?",
+              "question": "கேள்வி: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
               "options": [
                 "But",
                 "Studied",
@@ -9556,7 +9556,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_i1_q4",
-              "question": "கேள்வி: \"And\" is a ______.",
+              "question": "கேள்வி: \"மற்றும்\" (And) என்பது எந்த வகைச் சொல்?",
               "options": [
                 "Conjunction",
                 "Noun",
@@ -9568,7 +9568,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_i1_q5",
-              "question": "கேள்வி: When do we use because?",
+              "question": "கேள்வி: \"ஆகையால்\" (Therefore) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
               "options": [
                 "To show a reason",
                 "To name a person",
@@ -9580,7 +9580,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_i1_q6",
-              "question": "கேள்வி: Which is a conjunction?",
+              "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
               "options": [
                 "And",
                 "House",
@@ -9592,7 +9592,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_i1_q7",
-              "question": "கேள்வி: What does or mean?",
+              "question": "கேள்வி: \"அல்லது\" (Or) என்பதன் பொருள் என்ன?",
               "options": [
                 "One choice between two options",
                 "A place",
@@ -9610,7 +9610,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "ta_en_i1_q1",
-            "question": "கேள்வி: Which word joins two ideas?",
+            "question": "கேள்வி: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" இதில் இணைப்புச் சொல் எது?",
             "options": [
               "But",
               "And",
@@ -9622,7 +9622,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_i1_q2",
-            "question": "கேள்வி: In \"Mother and Father\", which is the joining word?",
+            "question": "கேள்வி: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
             "options": [
               "Mother",
               "And",
@@ -9634,7 +9634,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_i1_q3",
-            "question": "கேள்வி: \"He studied, but he did not pass.\" Which is the joining word?",
+            "question": "கேள்வி: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
             "options": [
               "But",
               "Studied",
@@ -9646,7 +9646,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_i1_q4",
-            "question": "கேள்வி: \"And\" is a ______.",
+            "question": "கேள்வி: \"மற்றும்\" (And) என்பது எந்த வகைச் சொல்?",
             "options": [
               "Conjunction",
               "Noun",
@@ -9658,7 +9658,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_i1_q5",
-            "question": "கேள்வி: When do we use because?",
+            "question": "கேள்வி: \"ஆகையால்\" (Therefore) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
             "options": [
               "To show a reason",
               "To name a person",
@@ -9670,7 +9670,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_i1_q6",
-            "question": "கேள்வி: Which is a conjunction?",
+            "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
             "options": [
               "And",
               "House",
@@ -9682,7 +9682,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_i1_q7",
-            "question": "கேள்வி: What does or mean?",
+            "question": "கேள்வி: \"அல்லது\" (Or) என்பதன் பொருள் என்ன?",
             "options": [
               "One choice between two options",
               "A place",
@@ -9697,7 +9697,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "ta_en_i1_q1",
-          "question": "கேள்வி: Which word joins two ideas?",
+          "question": "கேள்வி: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" இதில் இணைப்புச் சொல் எது?",
           "options": [
             "But",
             "And",
@@ -9709,7 +9709,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_i1_q2",
-          "question": "கேள்வி: In \"Mother and Father\", which is the joining word?",
+          "question": "கேள்வி: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
           "options": [
             "Mother",
             "And",
@@ -9721,7 +9721,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_i1_q3",
-          "question": "கேள்வி: \"He studied, but he did not pass.\" Which is the joining word?",
+          "question": "கேள்வி: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
           "options": [
             "But",
             "Studied",
@@ -9733,7 +9733,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_i1_q4",
-          "question": "கேள்வி: \"And\" is a ______.",
+          "question": "கேள்வி: \"மற்றும்\" (And) என்பது எந்த வகைச் சொல்?",
           "options": [
             "Conjunction",
             "Noun",
@@ -9745,7 +9745,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_i1_q5",
-          "question": "கேள்வி: When do we use because?",
+          "question": "கேள்வி: \"ஆகையால்\" (Therefore) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
           "options": [
             "To show a reason",
             "To name a person",
@@ -9757,7 +9757,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_i1_q6",
-          "question": "கேள்வி: Which is a conjunction?",
+          "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
           "options": [
             "And",
             "House",
@@ -9769,7 +9769,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_i1_q7",
-          "question": "கேள்வி: What does or mean?",
+          "question": "கேள்வி: \"அல்லது\" (Or) என்பதன் பொருள் என்ன?",
           "options": [
             "One choice between two options",
             "A place",
@@ -9799,7 +9799,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "ta_en_a1_q1",
-              "question": "கேள்வி: Where does Rahul go?",
+              "question": "கேள்வி: ராஹுல் எங்கே செல்கிறான்?",
               "options": [
                 "Market",
                 "School",
@@ -9811,7 +9811,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_a1_q2",
-              "question": "கேள்வி: What does Rahul like?",
+              "question": "கேள்வி: ராஹுலுக்கு என்ன பிடிக்கும்?",
               "options": [
                 "Playing games",
                 "Reading books",
@@ -9823,7 +9823,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_a1_q3",
-              "question": "கேள்வி: Who is the passage about?",
+              "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
               "options": [
                 "Sita",
                 "Rahul",
@@ -9835,7 +9835,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_a1_q4",
-              "question": "கேள்வி: What does every day mean?",
+              "question": "கேள்வி: \"தினமும்\" என்பதன் பொருள் என்ன?",
               "options": [
                 "Daily",
                 "Yesterday",
@@ -9847,7 +9847,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_a1_q5",
-              "question": "கேள்வி: What does Rahul do?",
+              "question": "கேள்வி: ராஹுல் என்ன செய்கிறான்?",
               "options": [
                 "Goes to school",
                 "Goes to the market",
@@ -9859,7 +9859,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_a1_q6",
-              "question": "கேள்வி: What is the main idea of the passage?",
+              "question": "கேள்வி: பகுதியின் முக்கிய கருத்து என்ன?",
               "options": [
                 "Going to school and reading books",
                 "Traveling",
@@ -9871,7 +9871,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_en_a1_q7",
-              "question": "கேள்வி: Which sentence is correct?",
+              "question": "கேள்வி: சரியான கூற்று எது?",
               "options": [
                 "Rahul likes reading books.",
                 "Rahul never goes to school.",
@@ -9889,7 +9889,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "ta_en_a1_q1",
-            "question": "கேள்வி: Where does Rahul go?",
+            "question": "கேள்வி: ராஹுல் எங்கே செல்கிறான்?",
             "options": [
               "Market",
               "School",
@@ -9901,7 +9901,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_a1_q2",
-            "question": "கேள்வி: What does Rahul like?",
+            "question": "கேள்வி: ராஹுலுக்கு என்ன பிடிக்கும்?",
             "options": [
               "Playing games",
               "Reading books",
@@ -9913,7 +9913,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_a1_q3",
-            "question": "கேள்வி: Who is the passage about?",
+            "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
             "options": [
               "Sita",
               "Rahul",
@@ -9925,7 +9925,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_a1_q4",
-            "question": "கேள்வி: What does every day mean?",
+            "question": "கேள்வி: \"தினமும்\" என்பதன் பொருள் என்ன?",
             "options": [
               "Daily",
               "Yesterday",
@@ -9937,7 +9937,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_a1_q5",
-            "question": "கேள்வி: What does Rahul do?",
+            "question": "கேள்வி: ராஹுல் என்ன செய்கிறான்?",
             "options": [
               "Goes to school",
               "Goes to the market",
@@ -9949,7 +9949,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_a1_q6",
-            "question": "கேள்வி: What is the main idea of the passage?",
+            "question": "கேள்வி: பகுதியின் முக்கிய கருத்து என்ன?",
             "options": [
               "Going to school and reading books",
               "Traveling",
@@ -9961,7 +9961,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_en_a1_q7",
-            "question": "கேள்வி: Which sentence is correct?",
+            "question": "கேள்வி: சரியான கூற்று எது?",
             "options": [
               "Rahul likes reading books.",
               "Rahul never goes to school.",
@@ -9976,7 +9976,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "ta_en_a1_q1",
-          "question": "கேள்வி: Where does Rahul go?",
+          "question": "கேள்வி: ராஹுல் எங்கே செல்கிறான்?",
           "options": [
             "Market",
             "School",
@@ -9988,7 +9988,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_a1_q2",
-          "question": "கேள்வி: What does Rahul like?",
+          "question": "கேள்வி: ராஹுலுக்கு என்ன பிடிக்கும்?",
           "options": [
             "Playing games",
             "Reading books",
@@ -10000,7 +10000,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_a1_q3",
-          "question": "கேள்வி: Who is the passage about?",
+          "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
           "options": [
             "Sita",
             "Rahul",
@@ -10012,7 +10012,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_a1_q4",
-          "question": "கேள்வி: What does every day mean?",
+          "question": "கேள்வி: \"தினமும்\" என்பதன் பொருள் என்ன?",
           "options": [
             "Daily",
             "Yesterday",
@@ -10024,7 +10024,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_a1_q5",
-          "question": "கேள்வி: What does Rahul do?",
+          "question": "கேள்வி: ராஹுல் என்ன செய்கிறான்?",
           "options": [
             "Goes to school",
             "Goes to the market",
@@ -10036,7 +10036,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_a1_q6",
-          "question": "கேள்வி: What is the main idea of the passage?",
+          "question": "கேள்வி: பகுதியின் முக்கிய கருத்து என்ன?",
           "options": [
             "Going to school and reading books",
             "Traveling",
@@ -10048,7 +10048,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_en_a1_q7",
-          "question": "கேள்வி: Which sentence is correct?",
+          "question": "கேள்வி: சரியான கூற்று எது?",
           "options": [
             "Rahul likes reading books.",
             "Rahul never goes to school.",
@@ -10079,7 +10079,7 @@ export const BILINGUAL_COURSES = {
           "image_key": "book",
           "practice_questions": [
             {
-              "question": "கேள்வி: இந்த மொழியில் உயிரெழுத்துகள் எத்தனை?",
+              "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
               "options": [
                 "10 (பத்து)",
                 "11 (பதினொன்று)",
@@ -10091,7 +10091,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_hi_f_1"
             },
             {
-              "question": "கேள்வி: \"அம்மா\" (Mother) என்பது எந்த வகைச் சொல்?",
+              "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
               "options": [
                 "क्रिया (கிரியா - வினை)",
                 "संज्ञा (சங்யா - பெயர்ச்சொல்)",
@@ -10103,7 +10103,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_hi_f_2"
             },
             {
-              "question": "கேள்வி: \"மரம்\" (Tree) என்பதன் பன்மை என்ன?",
+              "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
               "options": [
                 "लड़कियाँ (லட்கியான்)",
                 "लड़के (லட்கே)",
@@ -10115,7 +10115,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_hi_f_3"
             },
             {
-              "question": "கேள்வி: \"நல்ல\" (Good) என்பது எந்த வகைச் சொல்?",
+              "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
               "options": [
                 "विशेषण (விஷேஷண் - உரிச்சொல்)",
                 "संज्ञा (சங்யா - பெயர்ச்சொல்)",
@@ -10127,7 +10127,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_hi_f_4"
             },
             {
-              "question": "கேள்வி: \"படிக்கிறேன்\" (Reading) என்பது எந்த வகைச் சொல்?",
+              "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
               "options": [
                 "संज्ञा (சங்யா - பெயர்ச்சொல்)",
                 "क्रिया (கிரியா - வினை)",
@@ -10139,7 +10139,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_hi_f_5"
             },
             {
-              "question": "கேள்வி: \"புத்தகம்\" (Book) என்பதன் பொருள் என்ன?",
+              "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
               "options": [
                 "घर (கர் - இளி)",
                 "पुस्तक (புஸ்தக் - நூல்/புத்தகம்)",
@@ -10151,7 +10151,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_hi_f_6"
             },
             {
-              "question": "கேள்வி: \"பள்ளி\" (School) என்பதன் பொருள் என்ன?",
+              "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
               "options": [
                 "अस्पताल (அஸ்பதால் - மருத்துவமனை)",
                 "पढ़ने की जगह (பள்ளி - கற்கும் இடம்)",
@@ -10169,7 +10169,7 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "question": "கேள்வி: இந்த மொழியில் உயிரெழுத்துகள் எத்தனை?",
+            "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
             "options": [
               "10 (பத்து)",
               "11 (பதினொன்று)",
@@ -10181,7 +10181,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_hi_f_1"
           },
           {
-            "question": "கேள்வி: \"அம்மா\" (Mother) என்பது எந்த வகைச் சொல்?",
+            "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
             "options": [
               "क्रिया (கிரியா - வினை)",
               "संज्ञा (சங்யா - பெயர்ச்சொல்)",
@@ -10193,7 +10193,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_hi_f_2"
           },
           {
-            "question": "கேள்வி: \"மரம்\" (Tree) என்பதன் பன்மை என்ன?",
+            "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
             "options": [
               "लड़कियाँ (லட்கியான்)",
               "लड़के (லட்கே)",
@@ -10205,7 +10205,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_hi_f_3"
           },
           {
-            "question": "கேள்வி: \"நல்ல\" (Good) என்பது எந்த வகைச் சொல்?",
+            "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
             "options": [
               "विशेषण (விஷேஷண் - உரிச்சொல்)",
               "संज्ञा (சங்யா - பெயர்ச்சொல்)",
@@ -10217,7 +10217,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_hi_f_4"
           },
           {
-            "question": "கேள்வி: \"படிக்கிறேன்\" (Reading) என்பது எந்த வகைச் சொல்?",
+            "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
             "options": [
               "संज्ञा (சங்யா - பெயர்ச்சொல்)",
               "क्रिया (கிரியா - வினை)",
@@ -10229,7 +10229,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_hi_f_5"
           },
           {
-            "question": "கேள்வி: \"புத்தகம்\" (Book) என்பதன் பொருள் என்ன?",
+            "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
             "options": [
               "घर (கர் - இளி)",
               "पुस्तक (புஸ்தக் - நூல்/புத்தகம்)",
@@ -10241,7 +10241,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_hi_f_6"
           },
           {
-            "question": "கேள்வி: \"பள்ளி\" (School) என்பதன் பொருள் என்ன?",
+            "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
             "options": [
               "अस्पताल (அஸ்பதால் - மருத்துவமனை)",
               "पढ़ने की जगह (பள்ளி - கற்கும் இடம்)",
@@ -10256,7 +10256,7 @@ export const BILINGUAL_COURSES = {
       },
       "checkpoint_test": [
         {
-          "question": "கேள்வி: இந்த மொழியில் உயிரெழுத்துகள் எத்தனை?",
+          "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
           "options": [
             "10 (பத்து)",
             "11 (பதினொன்று)",
@@ -10268,7 +10268,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_hi_f_1"
         },
         {
-          "question": "கேள்வி: \"அம்மா\" (Mother) என்பது எந்த வகைச் சொல்?",
+          "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
           "options": [
             "क्रिया (கிரியா - வினை)",
             "संज्ञा (சங்யா - பெயர்ச்சொல்)",
@@ -10280,7 +10280,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_hi_f_2"
         },
         {
-          "question": "கேள்வி: \"மரம்\" (Tree) என்பதன் பன்மை என்ன?",
+          "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
           "options": [
             "लड़कियाँ (லட்கியான்)",
             "लड़के (லட்கே)",
@@ -10292,7 +10292,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_hi_f_3"
         },
         {
-          "question": "கேள்வி: \"நல்ல\" (Good) என்பது எந்த வகைச் சொல்?",
+          "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
           "options": [
             "विशेषण (விஷேஷண் - உரிச்சொல்)",
             "संज्ञा (சங்யா - பெயர்ச்சொல்)",
@@ -10304,7 +10304,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_hi_f_4"
         },
         {
-          "question": "கேள்வி: \"படிக்கிறேன்\" (Reading) என்பது எந்த வகைச் சொல்?",
+          "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
           "options": [
             "संज्ञा (சங்யா - பெயர்ச்சொல்)",
             "क्रिया (கிரியா - வினை)",
@@ -10316,7 +10316,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_hi_f_5"
         },
         {
-          "question": "கேள்வி: \"புத்தகம்\" (Book) என்பதன் பொருள் என்ன?",
+          "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
           "options": [
             "घर (கர் - இளி)",
             "पुस्तक (புஸ்தக் - நூல்/புத்தகம்)",
@@ -10328,7 +10328,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_hi_f_6"
         },
         {
-          "question": "கேள்வி: \"பள்ளி\" (School) என்பதன் பொருள் என்ன?",
+          "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
           "options": [
             "अस्पताल (அஸ்பதால் - மருத்துவமனை)",
             "पढ़ने की जगह (பள்ளி - கற்கும் இடம்)",
@@ -10406,7 +10406,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_hi_b_4"
             },
             {
-              "question": "கேள்வி: \"சாப்பிட்டான்\" என்பது எந்த காலத்தைக் குறிக்கிறது?",
+              "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
               "options": [
                 "वर्तमान काल (வர்த்மான் காள்)",
                 "भूतकाल (பூத்காள் - இறந்தகாலம்)",
@@ -10418,7 +10418,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_hi_b_5"
             },
             {
-              "question": "கேள்வி: \"படிப்பேன்\" என்பது எந்த காலத்தைச் சேர்ந்தது?",
+              "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
               "options": [
                 "भूतकाल (பூத்காள்)",
                 "वर्तमान काल (வர்த்மான் காள்)",
@@ -10430,7 +10430,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_hi_b_6"
             },
             {
-              "question": "கேள்வி: \"விளையாடுகிறான்\" என்பது எந்த காலத்திற்கு உதாரணம்?",
+              "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
               "options": [
                 "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
                 "भूतकाल (பூத்காள்)",
@@ -10496,7 +10496,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_hi_b_4"
           },
           {
-            "question": "கேள்வி: \"சாப்பிட்டான்\" என்பது எந்த காலத்தைக் குறிக்கிறது?",
+            "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
             "options": [
               "वर्तमान काल (வர்த்மான் காள்)",
               "भूतकाल (பூத்காள் - இறந்தகாலம்)",
@@ -10508,7 +10508,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_hi_b_5"
           },
           {
-            "question": "கேள்வி: \"படிப்பேன்\" என்பது எந்த காலத்தைச் சேர்ந்தது?",
+            "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
             "options": [
               "भूतकाल (பூத்காள்)",
               "वर्तमान काल (வர்த்மான் காள்)",
@@ -10520,7 +10520,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_hi_b_6"
           },
           {
-            "question": "கேள்வி: \"விளையாடுகிறான்\" என்பது எந்த காலத்திற்கு உதாரணம்?",
+            "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
             "options": [
               "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
               "भूतकाल (பூத்காள்)",
@@ -10583,7 +10583,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_hi_b_4"
         },
         {
-          "question": "கேள்வி: \"சாப்பிட்டான்\" என்பது எந்த காலத்தைக் குறிக்கிறது?",
+          "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
           "options": [
             "वर्तमान काल (வர்த்மான் காள்)",
             "भूतकाल (பூத்காள் - இறந்தகாலம்)",
@@ -10595,7 +10595,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_hi_b_5"
         },
         {
-          "question": "கேள்வி: \"படிப்பேன்\" என்பது எந்த காலத்தைச் சேர்ந்தது?",
+          "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
           "options": [
             "भूतकाल (பூத்காள்)",
             "वर्तमान काल (வர்த்மான் காள்)",
@@ -10607,7 +10607,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_hi_b_6"
         },
         {
-          "question": "கேள்வி: \"விளையாடுகிறான்\" என்பது எந்த காலத்திற்கு உதாரணம்?",
+          "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
           "options": [
             "वर्तमान काल (வர்த்மான் காள் - நிகழ்காலம்)",
             "भूतकाल (பூத்காள்)",
@@ -11197,7 +11197,7 @@ export const BILINGUAL_COURSES = {
           "image_key": "book",
           "practice_questions": [
             {
-              "question": "கேள்வி: இந்த மொழியில் உயிரெழுத்துகள் எத்தனை?",
+              "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
               "options": [
                 "14 (பதினான்கு)",
                 "15 (பதினைந்து)",
@@ -11209,7 +11209,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_te_f_1"
             },
             {
-              "question": "கேள்வி: \"அம்மா\" (Mother) என்பது எந்த வகைச் சொல்?",
+              "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
               "options": [
                 "క్రియ (கிரியா - வினை)",
                 "నామவாచకం (நாமவாచకం - பெயர்ச்சொல்)",
@@ -11221,7 +11221,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_te_f_2"
             },
             {
-              "question": "கேள்வி: \"மரம்\" (Tree) என்பதன் பன்மை என்ன?",
+              "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
               "options": [
                 "చెట్టు (செட்டு)",
                 "చెట్లు (செட்லு - மரங்கள்)",
@@ -11233,7 +11233,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_te_f_3"
             },
             {
-              "question": "கேள்வி: \"நல்ல\" (Good) என்பது எந்த வகைச் சொல்?",
+              "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
               "options": [
                 "విశேషణం (உரிச்சொல்)",
                 "నామవాచకం (பெயர்ச்சொல்)",
@@ -11245,7 +11245,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_te_f_4"
             },
             {
-              "question": "கேள்வி: \"படிக்கிறேன்\" (Reading) என்பது எந்த வகைச் சொல்?",
+              "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
               "options": [
                 "నామవాచకం (பெயர்ச்சொல்)",
                 "క్రియ (வினைச்சொல்)",
@@ -11257,7 +11257,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_te_f_5"
             },
             {
-              "question": "கேள்வி: \"புத்தகம்\" (Book) என்பதன் பொருள் என்ன?",
+              "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
               "options": [
                 "ఇల్లు (இல் - வீடு)",
                 "గ్రంథம் (கிரந்தம் - நூல்/புத்தகம்)",
@@ -11269,7 +11269,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_te_f_6"
             },
             {
-              "question": "கேள்வி: \"பள்ளி\" (School) என்பதன் பொருள் என்ன?",
+              "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
               "options": [
                 "ఆసుపత్రి (மருத்துவமனை)",
                 "పాఠాలు నేర్చుకునే స్థలం (பள்ளி - கற்கும் இடம்)",
@@ -11287,7 +11287,7 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "question": "கேள்வி: இந்த மொழியில் உயிரெழுத்துகள் எத்தனை?",
+            "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
             "options": [
               "14 (பதினான்கு)",
               "15 (பதினைந்து)",
@@ -11299,7 +11299,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_te_f_1"
           },
           {
-            "question": "கேள்வி: \"அம்மா\" (Mother) என்பது எந்த வகைச் சொல்?",
+            "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
             "options": [
               "క్రియ (கிரியா - வினை)",
               "నామவாచకం (நாமவாచకం - பெயர்ச்சொல்)",
@@ -11311,7 +11311,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_te_f_2"
           },
           {
-            "question": "கேள்வி: \"மரம்\" (Tree) என்பதன் பன்மை என்ன?",
+            "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
             "options": [
               "చెట్టు (செட்டு)",
               "చెట్లు (செட்லு - மரங்கள்)",
@@ -11323,7 +11323,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_te_f_3"
           },
           {
-            "question": "கேள்வி: \"நல்ல\" (Good) என்பது எந்த வகைச் சொல்?",
+            "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
             "options": [
               "విశேషణం (உரிச்சொல்)",
               "నామవాచకం (பெயர்ச்சொல்)",
@@ -11335,7 +11335,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_te_f_4"
           },
           {
-            "question": "கேள்வி: \"படிக்கிறேன்\" (Reading) என்பது எந்த வகைச் சொல்?",
+            "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
             "options": [
               "నామవాచకం (பெயர்ச்சொல்)",
               "క్రియ (வினைச்சொல்)",
@@ -11347,7 +11347,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_te_f_5"
           },
           {
-            "question": "கேள்வி: \"புத்தகம்\" (Book) என்பதன் பொருள் என்ன?",
+            "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
             "options": [
               "ఇల్లు (இல் - வீடு)",
               "గ్రంథம் (கிரந்தம் - நூல்/புத்தகம்)",
@@ -11359,7 +11359,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_te_f_6"
           },
           {
-            "question": "கேள்வி: \"பள்ளி\" (School) என்பதன் பொருள் என்ன?",
+            "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
             "options": [
               "ఆసుపత్రి (மருத்துவமனை)",
               "పాఠాలు నేర్చుకునే స్థలం (பள்ளி - கற்கும் இடம்)",
@@ -11374,7 +11374,7 @@ export const BILINGUAL_COURSES = {
       },
       "checkpoint_test": [
         {
-          "question": "கேள்வி: இந்த மொழியில் உயிரெழுத்துகள் எத்தனை?",
+          "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
           "options": [
             "14 (பதினான்கு)",
             "15 (பதினைந்து)",
@@ -11386,7 +11386,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_te_f_1"
         },
         {
-          "question": "கேள்வி: \"அம்மா\" (Mother) என்பது எந்த வகைச் சொல்?",
+          "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
           "options": [
             "క్రియ (கிரியா - வினை)",
             "నామவாచకం (நாமவாచకం - பெயர்ச்சொல்)",
@@ -11398,7 +11398,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_te_f_2"
         },
         {
-          "question": "கேள்வி: \"மரம்\" (Tree) என்பதன் பன்மை என்ன?",
+          "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
           "options": [
             "చెట్టు (செட்டு)",
             "చెట్లు (செட்லு - மரங்கள்)",
@@ -11410,7 +11410,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_te_f_3"
         },
         {
-          "question": "கேள்வி: \"நல்ல\" (Good) என்பது எந்த வகைச் சொல்?",
+          "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
           "options": [
             "విశேషణం (உரிச்சொல்)",
             "నామవాచకం (பெயர்ச்சொல்)",
@@ -11422,7 +11422,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_te_f_4"
         },
         {
-          "question": "கேள்வி: \"படிக்கிறேன்\" (Reading) என்பது எந்த வகைச் சொல்?",
+          "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
           "options": [
             "నామవాచకం (பெயர்ச்சொல்)",
             "క్రియ (வினைச்சொல்)",
@@ -11434,7 +11434,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_te_f_5"
         },
         {
-          "question": "கேள்வி: \"புத்தகம்\" (Book) என்பதன் பொருள் என்ன?",
+          "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
           "options": [
             "ఇల్లు (இல் - வீடு)",
             "గ్రంథம் (கிரந்தம் - நூல்/புத்தகம்)",
@@ -11446,7 +11446,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_te_f_6"
         },
         {
-          "question": "கேள்வி: \"பள்ளி\" (School) என்பதன் பொருள் என்ன?",
+          "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
           "options": [
             "ఆసుపత్రి (மருத்துவமனை)",
             "పాఠాలు నేర్చుకునే స్థలం (பள்ளி - கற்கும் இடம்)",
@@ -11524,7 +11524,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_te_b_4"
             },
             {
-              "question": "கேள்வி: \"சாப்பிட்டான்\" என்பது எந்த காலத்தைக் குறிக்கிறது?",
+              "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
               "options": [
                 "వర్తమాన కాలం (நிகழ்காலம்)",
                 "భూతకాలம் (இறந்தகாலம்)",
@@ -11536,7 +11536,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_te_b_5"
             },
             {
-              "question": "கேள்வி: \"படிப்பேன்\" என்பது எந்த காலத்தைச் சேர்ந்தது?",
+              "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
               "options": [
                 "భూతకాలம் (இறந்தகாலம்)",
                 "వర్తమాన కాలం (நிகழ்காலம்)",
@@ -11548,7 +11548,7 @@ export const BILINGUAL_COURSES = {
               "id": "ta_te_b_6"
             },
             {
-              "question": "கேள்வி: \"விளையாடுகிறான்\" என்பது எந்த காலத்திற்கு உதாரணம்?",
+              "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
               "options": [
                 "వర్తమాన కాలం (நிகழ்காலம்)",
                 "భూతకాలம் (இறந்தகாலம்)",
@@ -11614,7 +11614,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_te_b_4"
           },
           {
-            "question": "கேள்வி: \"சாப்பிட்டான்\" என்பது எந்த காலத்தைக் குறிக்கிறது?",
+            "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
             "options": [
               "వర్తమాన కాలం (நிகழ்காலம்)",
               "భూతకాలம் (இறந்தகாலம்)",
@@ -11626,7 +11626,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_te_b_5"
           },
           {
-            "question": "கேள்வி: \"படிப்பேன்\" என்பது எந்த காலத்தைச் சேர்ந்தது?",
+            "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
             "options": [
               "భూతకాలம் (இறந்தகாலம்)",
               "వర్తమాన కాలం (நிகழ்காலம்)",
@@ -11638,7 +11638,7 @@ export const BILINGUAL_COURSES = {
             "id": "ta_te_b_6"
           },
           {
-            "question": "கேள்வி: \"விளையாடுகிறான்\" என்பது எந்த காலத்திற்கு உதாரணம்?",
+            "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
             "options": [
               "వర్తమాన కాలం (நிகழ்காலம்)",
               "భూతకాలம் (இறந்தகாலம்)",
@@ -11701,7 +11701,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_te_b_4"
         },
         {
-          "question": "கேள்வி: \"சாப்பிட்டான்\" என்பது எந்த காலத்தைக் குறிக்கிறது?",
+          "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
           "options": [
             "వర్తమాన కాలం (நிகழ்காலம்)",
             "భూతకాలம் (இறந்தகாலம்)",
@@ -11713,7 +11713,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_te_b_5"
         },
         {
-          "question": "கேள்வி: \"படிப்பேன்\" என்பது எந்த காலத்தைச் சேர்ந்தது?",
+          "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
           "options": [
             "భూతకాలம் (இறந்தகாலம்)",
             "వర్తమాన కాలం (நிகழ்காலம்)",
@@ -11725,7 +11725,7 @@ export const BILINGUAL_COURSES = {
           "id": "ta_te_b_6"
         },
         {
-          "question": "கேள்வி: \"விளையாடுகிறான்\" என்பது எந்த காலத்திற்கு உதாரணம்?",
+          "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
           "options": [
             "వర్తమాన కాలం (நிகழ்காலம்)",
             "భూతకాలம் (இறந்தகாலம்)",
@@ -12316,7 +12316,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "ta_kn_f1_q1",
-              "question": "கேள்வி: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+              "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
               "options": [
                 "12 (12 - பன்னிரண்டு))",
                 "13 (13 - பதின்மூன்று))",
@@ -12328,7 +12328,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_f1_q2",
-              "question": "கேள்வி: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
               "options": [
                 "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
                 "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
@@ -12340,7 +12340,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_f1_q3",
-              "question": "கேள்வி: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+              "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
               "options": [
                 "ಮರ (மர - மரம்))",
                 "ಮರಗಳು (மரகளு - மரங்கள்))",
@@ -12352,7 +12352,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_f1_q4",
-              "question": "கேள்வி: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+              "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
               "options": [
                 "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
                 "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
@@ -12364,7 +12364,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_f1_q5",
-              "question": "கேள்வி: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
               "options": [
                 "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
                 "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
@@ -12376,7 +12376,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_f1_q6",
-              "question": "கேள்வி: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+              "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
               "options": [
                 "ಮನೆ",
                 "ಗ್ರಂಥ",
@@ -12388,7 +12388,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_f1_q7",
-              "question": "கேள்வி: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+              "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
               "options": [
                 "ಆಸ್ಪತ್ರೆ",
                 "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -12406,7 +12406,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "ta_kn_f1_q1",
-            "question": "கேள்வி: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+            "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
             "options": [
               "12 (12 - பன்னிரண்டு))",
               "13 (13 - பதின்மூன்று))",
@@ -12418,7 +12418,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_f1_q2",
-            "question": "கேள்வி: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
             "options": [
               "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
               "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
@@ -12430,7 +12430,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_f1_q3",
-            "question": "கேள்வி: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+            "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
             "options": [
               "ಮರ (மர - மரம்))",
               "ಮರಗಳು (மரகளு - மரங்கள்))",
@@ -12442,7 +12442,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_f1_q4",
-            "question": "கேள்வி: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+            "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
             "options": [
               "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
               "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
@@ -12454,7 +12454,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_f1_q5",
-            "question": "கேள்வி: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
             "options": [
               "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
               "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
@@ -12466,7 +12466,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_f1_q6",
-            "question": "கேள்வி: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+            "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
             "options": [
               "ಮನೆ",
               "ಗ್ರಂಥ",
@@ -12478,7 +12478,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_f1_q7",
-            "question": "கேள்வி: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+            "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
             "options": [
               "ಆಸ್ಪತ್ರೆ",
               "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -12493,7 +12493,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "ta_kn_f1_q1",
-          "question": "கேள்வி: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+          "question": "கேள்வி: Apple என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
           "options": [
             "12 (12 - பன்னிரண்டு))",
             "13 (13 - பதின்மூன்று))",
@@ -12505,7 +12505,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_f1_q2",
-          "question": "கேள்வி: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "கேள்வி: இவற்றில் பெயர்ச்சொல் (Noun) எது?",
           "options": [
             "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
             "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
@@ -12517,7 +12517,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_f1_q3",
-          "question": "கேள்வி: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+          "question": "கேள்வி: Tree என்பதன் பன்மை (Plural) என்ன?",
           "options": [
             "ಮರ (மர - மரம்))",
             "ಮರಗಳು (மரகளு - மரங்கள்))",
@@ -12529,7 +12529,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_f1_q4",
-          "question": "கேள்வி: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+          "question": "கேள்வி: இவற்றில் உரிச்சொல் (Adjective) எது?",
           "options": [
             "ವಿಶೇಷಣ (விஷேஷண - உரிச்சொல்))",
             "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
@@ -12541,7 +12541,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_f1_q5",
-          "question": "கேள்வி: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "கேள்வி: இவற்றில் வினைச்சொல் (Verb) எது?",
           "options": [
             "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
             "ಕ್ರಿಯಾಪದ (கிரியாபத - வினைச்சொல்))",
@@ -12553,7 +12553,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_f1_q6",
-          "question": "கேள்வி: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+          "question": "கேள்வி: House என்பதன் பொருள் என்ன?",
           "options": [
             "ಮನೆ",
             "ಗ್ರಂಥ",
@@ -12565,7 +12565,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_f1_q7",
-          "question": "கேள்வி: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+          "question": "கேள்வி: School என்பதன் பொருள் என்ன?",
           "options": [
             "ಆಸ್ಪತ್ರೆ",
             "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -12595,7 +12595,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "ta_kn_b1_q1",
-              "question": "கேள்வி: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "கேள்வி: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
               "options": [
                 "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
                 "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
@@ -12607,7 +12607,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_b1_q2",
-              "question": "கேள்வி: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "கேள்வி: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
               "options": [
                 "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
                 "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
@@ -12619,7 +12619,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_b1_q3",
-              "question": "கேள்வி: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "கேள்வி: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
                 "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
@@ -12631,7 +12631,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_b1_q4",
-              "question": "கேள்வி: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "கேள்வி: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
                 "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
@@ -12643,7 +12643,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_b1_q5",
-              "question": "கேள்வி: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+              "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
                 "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
@@ -12655,7 +12655,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_b1_q6",
-              "question": "கேள்வி: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
               "options": [
                 "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
                 "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
@@ -12667,7 +12667,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_b1_q7",
-              "question": "கேள்வி: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+              "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
                 "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
@@ -12685,7 +12685,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "ta_kn_b1_q1",
-            "question": "கேள்வி: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "கேள்வி: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
             "options": [
               "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
               "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
@@ -12697,7 +12697,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_b1_q2",
-            "question": "கேள்வி: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "கேள்வி: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
             "options": [
               "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
               "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
@@ -12709,7 +12709,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_b1_q3",
-            "question": "கேள்வி: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "கேள்வி: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
               "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
@@ -12721,7 +12721,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_b1_q4",
-            "question": "கேள்வி: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "கேள்வி: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
               "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
@@ -12733,7 +12733,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_b1_q5",
-            "question": "கேள்வி: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+            "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
               "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
@@ -12745,7 +12745,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_b1_q6",
-            "question": "கேள்வி: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
             "options": [
               "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
               "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
@@ -12757,7 +12757,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_b1_q7",
-            "question": "கேள்வி: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+            "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
               "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
@@ -12772,7 +12772,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "ta_kn_b1_q1",
-          "question": "கேள்வி: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "கேள்வி: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
           "options": [
             "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
             "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
@@ -12784,7 +12784,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_b1_q2",
-          "question": "கேள்வி: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "கேள்வி: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
           "options": [
             "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
             "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
@@ -12796,7 +12796,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_b1_q3",
-          "question": "கேள்வி: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "கேள்வி: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
             "ಭವಿಷ್ಯತ್ಕಾಲ (பவிஷ்யத்கால - எதிர்காலம்))",
@@ -12808,7 +12808,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_b1_q4",
-          "question": "கேள்வி: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "கேள்வி: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
             "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
@@ -12820,7 +12820,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_b1_q5",
-          "question": "கேள்வி: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+          "question": "கேள்வி: \"சாப்பிட்டான்\" (Ate) என்பது எந்த காலத்தைக் குறிக்கிறது?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
             "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
@@ -12832,7 +12832,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_b1_q6",
-          "question": "கேள்வி: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "கேள்வி: \"படிப்பேன்\" (Will read) என்பது எந்த காலத்தைச் சேர்ந்தது?",
           "options": [
             "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
             "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
@@ -12844,7 +12844,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_b1_q7",
-          "question": "கேள்வி: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+          "question": "கேள்வி: \"விளையாடுகிறான்\" (Is playing) என்பது எந்த காலத்திற்கு உதாரணம்?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (வர்த்தமானகால - நிகழ்காலம்))",
             "ಭೂತಕಾಲ (பூதகால - இறந்தகாலம்))",
@@ -12874,7 +12874,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "ta_kn_i1_q1",
-              "question": "கேள்வி: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "கேள்வி: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" இதில் இணைப்புச் சொல் எது?",
               "options": [
                 "ಆದರೆ (ஆதரே - ஆனால்))",
                 "ಮತ್ತು (மத்து - மற்றும்))",
@@ -12886,7 +12886,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_i1_q2",
-              "question": "கேள்வி: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "கேள்வி: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
               "options": [
                 "ಅಮ್ಮ",
                 "ಮತ್ತು (மத்து - மற்றும்))",
@@ -12898,7 +12898,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_i1_q3",
-              "question": "கேள்வி: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "கேள்வி: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
               "options": [
                 "ಆದರೆ (ஆதரே - ஆனால்))",
                 "ಓದಿದನು",
@@ -12910,7 +12910,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_i1_q4",
-              "question": "கேள்வி: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "கேள்வி: \"மற்றும்\" (And) என்பது எந்த வகைச் சொல்?",
               "options": [
                 "ಸಂಪರ್ಕಪದ",
                 "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
@@ -12922,7 +12922,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_i1_q5",
-              "question": "கேள்வி: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+              "question": "கேள்வி: \"ஆகையால்\" (Therefore) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
               "options": [
                 "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
                 "ನಾಮಪದವಾಗಿ",
@@ -12934,7 +12934,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_i1_q6",
-              "question": "கேள்வி: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
               "options": [
                 "ಮತ್ತು (மத்து - மற்றும்))",
                 "ಪುಸ್ತಕ",
@@ -12946,7 +12946,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_i1_q7",
-              "question": "கேள்வி: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+              "question": "கேள்வி: \"அல்லது\" (Or) என்பதன் பொருள் என்ன?",
               "options": [
                 "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
                 "ಸಮಯ",
@@ -12964,7 +12964,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "ta_kn_i1_q1",
-            "question": "கேள்வி: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "கேள்வி: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" இதில் இணைப்புச் சொல் எது?",
             "options": [
               "ಆದರೆ (ஆதரே - ஆனால்))",
               "ಮತ್ತು (மத்து - மற்றும்))",
@@ -12976,7 +12976,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_i1_q2",
-            "question": "கேள்வி: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "கேள்வி: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
             "options": [
               "ಅಮ್ಮ",
               "ಮತ್ತು (மத்து - மற்றும்))",
@@ -12988,7 +12988,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_i1_q3",
-            "question": "கேள்வி: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "கேள்வி: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
             "options": [
               "ಆದರೆ (ஆதரே - ஆனால்))",
               "ಓದಿದನು",
@@ -13000,7 +13000,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_i1_q4",
-            "question": "கேள்வி: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "கேள்வி: \"மற்றும்\" (And) என்பது எந்த வகைச் சொல்?",
             "options": [
               "ಸಂಪರ್ಕಪದ",
               "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
@@ -13012,7 +13012,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_i1_q5",
-            "question": "கேள்வி: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+            "question": "கேள்வி: \"ஆகையால்\" (Therefore) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
             "options": [
               "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
               "ನಾಮಪದವಾಗಿ",
@@ -13024,7 +13024,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_i1_q6",
-            "question": "கேள்வி: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
             "options": [
               "ಮತ್ತು (மத்து - மற்றும்))",
               "ಪುಸ್ತಕ",
@@ -13036,7 +13036,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_i1_q7",
-            "question": "கேள்வி: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+            "question": "கேள்வி: \"அல்லது\" (Or) என்பதன் பொருள் என்ன?",
             "options": [
               "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
               "ಸಮಯ",
@@ -13051,7 +13051,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "ta_kn_i1_q1",
-          "question": "கேள்வி: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "கேள்வி: \"ராமும் ரவியும் பள்ளிக்குச் சென்றார்கள்.\" இதில் இணைப்புச் சொல் எது?",
           "options": [
             "ಆದರೆ (ஆதரே - ஆனால்))",
             "ಮತ್ತು (மத்து - மற்றும்))",
@@ -13063,7 +13063,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_i1_q2",
-          "question": "கேள்வி: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "கேள்வி: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
           "options": [
             "ಅಮ್ಮ",
             "ಮತ್ತು (மத்து - மற்றும்))",
@@ -13075,7 +13075,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_i1_q3",
-          "question": "கேள்வி: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "கேள்வி: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
           "options": [
             "ಆದರೆ (ஆதரே - ஆனால்))",
             "ಓದಿದನು",
@@ -13087,7 +13087,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_i1_q4",
-          "question": "கேள்வி: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "கேள்வி: \"மற்றும்\" (And) என்பது எந்த வகைச் சொல்?",
           "options": [
             "ಸಂಪರ್ಕಪದ",
             "ನಾಮಪದ (நாமபத - பெயர்ச்சொல்))",
@@ -13099,7 +13099,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_i1_q5",
-          "question": "கேள்வி: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+          "question": "கேள்வி: \"ஆகையால்\" (Therefore) என்ற சொல் எப்போது பயன்படுத்தப்படுகிறது?",
           "options": [
             "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
             "ನಾಮಪದವಾಗಿ",
@@ -13111,7 +13111,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_i1_q6",
-          "question": "கேள்வி: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "கேள்வி: சரியான இணைப்புச் சொல் எது?",
           "options": [
             "ಮತ್ತು (மத்து - மற்றும்))",
             "ಪುಸ್ತಕ",
@@ -13123,7 +13123,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_i1_q7",
-          "question": "கேள்வி: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+          "question": "கேள்வி: \"அல்லது\" (Or) என்பதன் பொருள் என்ன?",
           "options": [
             "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
             "ಸಮಯ",
@@ -13153,7 +13153,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "ta_kn_a1_q1",
-              "question": "கேள்வி: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+              "question": "கேள்வி: ராஹுல் எங்கே செல்கிறான்?",
               "options": [
                 "ಮಾರುಕಟ್ಟೆ",
                 "ಶಾಲೆ",
@@ -13165,7 +13165,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_a1_q2",
-              "question": "கேள்வி: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+              "question": "கேள்வி: ராஹுலுக்கு என்ன பிடிக்கும்?",
               "options": [
                 "ಆಟ ಆಡುವುದು",
                 "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -13177,7 +13177,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_a1_q3",
-              "question": "கேள்வி: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+              "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
               "options": [
                 "ಸೀತಾ",
                 "ರಾಹುಲ್",
@@ -13189,7 +13189,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_a1_q4",
-              "question": "கேள்வி: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+              "question": "கேள்வி: \"தினமும்\" என்பதன் பொருள் என்ன?",
               "options": [
                 "ಪ್ರತಿ ದಿನ",
                 "ನಿನ್ನೆ",
@@ -13201,7 +13201,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_a1_q5",
-              "question": "கேள்வி: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+              "question": "கேள்வி: ராஹுல் என்ன செய்கிறான்?",
               "options": [
                 "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
                 "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -13213,7 +13213,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_a1_q6",
-              "question": "கேள்வி: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+              "question": "கேள்வி: பகுதியின் முக்கிய கருத்து என்ன?",
               "options": [
                 "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
                 "ಪ್ರವಾಸ",
@@ -13225,7 +13225,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "ta_kn_a1_q7",
-              "question": "கேள்வி: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+              "question": "கேள்வி: சரியான கூற்று எது?",
               "options": [
                 "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
                 "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -13243,7 +13243,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "ta_kn_a1_q1",
-            "question": "கேள்வி: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+            "question": "கேள்வி: ராஹுல் எங்கே செல்கிறான்?",
             "options": [
               "ಮಾರುಕಟ್ಟೆ",
               "ಶಾಲೆ",
@@ -13255,7 +13255,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_a1_q2",
-            "question": "கேள்வி: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+            "question": "கேள்வி: ராஹுலுக்கு என்ன பிடிக்கும்?",
             "options": [
               "ಆಟ ಆಡುವುದು",
               "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -13267,7 +13267,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_a1_q3",
-            "question": "கேள்வி: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+            "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
             "options": [
               "ಸೀತಾ",
               "ರಾಹುಲ್",
@@ -13279,7 +13279,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_a1_q4",
-            "question": "கேள்வி: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+            "question": "கேள்வி: \"தினமும்\" என்பதன் பொருள் என்ன?",
             "options": [
               "ಪ್ರತಿ ದಿನ",
               "ನಿನ್ನೆ",
@@ -13291,7 +13291,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_a1_q5",
-            "question": "கேள்வி: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+            "question": "கேள்வி: ராஹுல் என்ன செய்கிறான்?",
             "options": [
               "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
               "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -13303,7 +13303,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_a1_q6",
-            "question": "கேள்வி: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+            "question": "கேள்வி: பகுதியின் முக்கிய கருத்து என்ன?",
             "options": [
               "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
               "ಪ್ರವಾಸ",
@@ -13315,7 +13315,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "ta_kn_a1_q7",
-            "question": "கேள்வி: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+            "question": "கேள்வி: சரியான கூற்று எது?",
             "options": [
               "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
               "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -13330,7 +13330,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "ta_kn_a1_q1",
-          "question": "கேள்வி: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+          "question": "கேள்வி: ராஹுல் எங்கே செல்கிறான்?",
           "options": [
             "ಮಾರುಕಟ್ಟೆ",
             "ಶಾಲೆ",
@@ -13342,7 +13342,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_a1_q2",
-          "question": "கேள்வி: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+          "question": "கேள்வி: ராஹுலுக்கு என்ன பிடிக்கும்?",
           "options": [
             "ಆಟ ಆಡುವುದು",
             "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -13354,7 +13354,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_a1_q3",
-          "question": "கேள்வி: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+          "question": "கேள்வி: பகுதி யாரைப் பற்றி?",
           "options": [
             "ಸೀತಾ",
             "ರಾಹುಲ್",
@@ -13366,7 +13366,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_a1_q4",
-          "question": "கேள்வி: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+          "question": "கேள்வி: \"தினமும்\" என்பதன் பொருள் என்ன?",
           "options": [
             "ಪ್ರತಿ ದಿನ",
             "ನಿನ್ನೆ",
@@ -13378,7 +13378,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_a1_q5",
-          "question": "கேள்வி: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+          "question": "கேள்வி: ராஹுல் என்ன செய்கிறான்?",
           "options": [
             "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
             "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -13390,7 +13390,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_a1_q6",
-          "question": "கேள்வி: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+          "question": "கேள்வி: பகுதியின் முக்கிய கருத்து என்ன?",
           "options": [
             "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
             "ಪ್ರವಾಸ",
@@ -13402,7 +13402,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "ta_kn_a1_q7",
-          "question": "கேள்வி: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+          "question": "கேள்வி: சரியான கூற்று எது?",
           "options": [
             "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
             "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -13433,7 +13433,7 @@ export const BILINGUAL_COURSES = {
           "image_key": "book",
           "practice_questions": [
             {
-              "question": "ప్రశ్న: ఈ భాషలో అచ్చులు ఎన్ని ఉన్నాయి?",
+              "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
               "options": [
                 "B (బి)",
                 "A (ఎ)",
@@ -13445,7 +13445,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_en_f_1"
             },
             {
-              "question": "ప్రశ్న: \"అమ్మ\" (Mother) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
               "options": [
                 "Run (రన్)",
                 "Happy (హ్యాపీ)",
@@ -13457,7 +13457,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_en_f_2"
             },
             {
-              "question": "ప్రశ్న: \"చెట్టు\" (Tree) పదానికి బహువచనం ఏది?",
+              "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
               "options": [
                 "Trees (ట్రీస్)",
                 "Treees (ట్రీస్)",
@@ -13469,7 +13469,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_en_f_3"
             },
             {
-              "question": "ప్రశ్న: \"మంచి\" (Good) అనేది ఏ పదవర్గం?",
+              "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
               "options": [
                 "Beautiful (బ్యూటిఫుల్)",
                 "School (స్కూల్)",
@@ -13481,7 +13481,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_en_f_4"
             },
             {
-              "question": "ప్రశ్న: \"చదువుతున్నాను\" (Reading) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
               "options": [
                 "Sleep (స్లీప్)",
                 "Book (బుక్)",
@@ -13493,7 +13493,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_en_f_5"
             },
             {
-              "question": "ప్రశ్న: \"పుస్తకం\" (Book) అనే పదానికి అర్థం ఏమిటి?",
+              "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
               "options": [
                 "ఇల్లు (Home / హౌస్)",
                 "తోట (Garden)",
@@ -13505,7 +13505,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_en_f_6"
             },
             {
-              "question": "ప్రశ్న: \"పాఠశాల\" (School) అనే పదానికి అర్థం ఏమిటి?",
+              "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
               "options": [
                 "ఆసుపత్రి (Hospital)",
                 "పాఠశాల (Place for learning)",
@@ -13523,7 +13523,7 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "question": "ప్రశ్న: ఈ భాషలో అచ్చులు ఎన్ని ఉన్నాయి?",
+            "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
             "options": [
               "B (బి)",
               "A (ఎ)",
@@ -13535,7 +13535,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_en_f_1"
           },
           {
-            "question": "ప్రశ్న: \"అమ్మ\" (Mother) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
             "options": [
               "Run (రన్)",
               "Happy (హ్యాపీ)",
@@ -13547,7 +13547,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_en_f_2"
           },
           {
-            "question": "ప్రశ్న: \"చెట్టు\" (Tree) పదానికి బహువచనం ఏది?",
+            "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
             "options": [
               "Trees (ట్రీస్)",
               "Treees (ట్రీస్)",
@@ -13559,7 +13559,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_en_f_3"
           },
           {
-            "question": "ప్రశ్న: \"మంచి\" (Good) అనేది ఏ పదవర్గం?",
+            "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
             "options": [
               "Beautiful (బ్యూటిఫుల్)",
               "School (స్కూల్)",
@@ -13571,7 +13571,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_en_f_4"
           },
           {
-            "question": "ప్రశ్న: \"చదువుతున్నాను\" (Reading) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
             "options": [
               "Sleep (స్లీప్)",
               "Book (బుక్)",
@@ -13583,7 +13583,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_en_f_5"
           },
           {
-            "question": "ప్రశ్న: \"పుస్తకం\" (Book) అనే పదానికి అర్థం ఏమిటి?",
+            "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
             "options": [
               "ఇల్లు (Home / హౌస్)",
               "తోట (Garden)",
@@ -13595,7 +13595,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_en_f_6"
           },
           {
-            "question": "ప్రశ్న: \"పాఠశాల\" (School) అనే పదానికి అర్థం ఏమిటి?",
+            "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
             "options": [
               "ఆసుపత్రి (Hospital)",
               "పాఠశాల (Place for learning)",
@@ -13610,7 +13610,7 @@ export const BILINGUAL_COURSES = {
       },
       "checkpoint_test": [
         {
-          "question": "ప్రశ్న: ఈ భాషలో అచ్చులు ఎన్ని ఉన్నాయి?",
+          "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
           "options": [
             "B (బి)",
             "A (ఎ)",
@@ -13622,7 +13622,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_en_f_1"
         },
         {
-          "question": "ప్రశ్న: \"అమ్మ\" (Mother) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
           "options": [
             "Run (రన్)",
             "Happy (హ్యాపీ)",
@@ -13634,7 +13634,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_en_f_2"
         },
         {
-          "question": "ప్రశ్న: \"చెట్టు\" (Tree) పదానికి బహువచనం ఏది?",
+          "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
           "options": [
             "Trees (ట్రీస్)",
             "Treees (ట్రీస్)",
@@ -13646,7 +13646,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_en_f_3"
         },
         {
-          "question": "ప్రశ్న: \"మంచి\" (Good) అనేది ఏ పదవర్గం?",
+          "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
           "options": [
             "Beautiful (బ్యూటిఫుల్)",
             "School (స్కూల్)",
@@ -13658,7 +13658,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_en_f_4"
         },
         {
-          "question": "ప్రశ్న: \"చదువుతున్నాను\" (Reading) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
           "options": [
             "Sleep (స్లీప్)",
             "Book (బుక్)",
@@ -13670,7 +13670,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_en_f_5"
         },
         {
-          "question": "ప్రశ్న: \"పుస్తకం\" (Book) అనే పదానికి అర్థం ఏమిటి?",
+          "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
           "options": [
             "ఇల్లు (Home / హౌస్)",
             "తోట (Garden)",
@@ -13682,7 +13682,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_en_f_6"
         },
         {
-          "question": "ప్రశ్న: \"పాఠశాల\" (School) అనే పదానికి అర్థం ఏమిటి?",
+          "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
           "options": [
             "ఆసుపత్రి (Hospital)",
             "పాఠశాల (Place for learning)",
@@ -13760,7 +13760,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_en_b_4"
             },
             {
-              "question": "ప్రశ్న: \"తిన్నాడు\" అనేది ఏ కాలాన్ని సూచిస్తుంది?",
+              "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
               "options": [
                 "Present Tense (వర్తమాన కాలం)",
                 "Past Tense (భూతకాలం)",
@@ -13772,7 +13772,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_en_b_5"
             },
             {
-              "question": "ప్రశ్న: \"చదువుతాను\" అనేది ఏ కాలానికి చెందుతుంది?",
+              "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
               "options": [
                 "Past Tense (భూతకాలం)",
                 "Present Tense (వర్తమాన కాలం)",
@@ -13784,7 +13784,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_en_b_6"
             },
             {
-              "question": "ప్రశ్న: \"ఆడుతున్నాడు\" అనేది ఏ కాలానికి ఉదాహరణ?",
+              "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
               "options": [
                 "Present Tense (వర్తమాన కాలం)",
                 "Past Tense (భూతకాలం)",
@@ -13850,7 +13850,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_en_b_4"
           },
           {
-            "question": "ప్రశ్న: \"తిన్నాడు\" అనేది ఏ కాలాన్ని సూచిస్తుంది?",
+            "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
             "options": [
               "Present Tense (వర్తమాన కాలం)",
               "Past Tense (భూతకాలం)",
@@ -13862,7 +13862,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_en_b_5"
           },
           {
-            "question": "ప్రశ్న: \"చదువుతాను\" అనేది ఏ కాలానికి చెందుతుంది?",
+            "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
             "options": [
               "Past Tense (భూతకాలం)",
               "Present Tense (వర్తమాన కాలం)",
@@ -13874,7 +13874,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_en_b_6"
           },
           {
-            "question": "ప్రశ్న: \"ఆడుతున్నాడు\" అనేది ఏ కాలానికి ఉదాహరణ?",
+            "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
             "options": [
               "Present Tense (వర్తమాన కాలం)",
               "Past Tense (భూతకాలం)",
@@ -13937,7 +13937,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_en_b_4"
         },
         {
-          "question": "ప్రశ్న: \"తిన్నాడు\" అనేది ఏ కాలాన్ని సూచిస్తుంది?",
+          "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
           "options": [
             "Present Tense (వర్తమాన కాలం)",
             "Past Tense (భూతకాలం)",
@@ -13949,7 +13949,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_en_b_5"
         },
         {
-          "question": "ప్రశ్న: \"చదువుతాను\" అనేది ఏ కాలానికి చెందుతుంది?",
+          "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
           "options": [
             "Past Tense (భూతకాలం)",
             "Present Tense (వర్తమాన కాలం)",
@@ -13961,7 +13961,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_en_b_6"
         },
         {
-          "question": "ప్రశ్న: \"ఆడుతున్నాడు\" అనేది ఏ కాలానికి ఉదాహరణ?",
+          "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
           "options": [
             "Present Tense (వర్తమాన కాలం)",
             "Past Tense (భూతకాలం)",
@@ -14551,7 +14551,7 @@ export const BILINGUAL_COURSES = {
           "image_key": "book",
           "practice_questions": [
             {
-              "question": "ప్రశ్న: ఈ భాషలో అచ్చులు ఎన్ని ఉన్నాయి?",
+              "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
               "options": [
                 "10 (పది)",
                 "11 (పదకొండు)",
@@ -14563,7 +14563,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_hi_f_1"
             },
             {
-              "question": "ప్రశ్న: \"అమ్మ\" (Mother) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
               "options": [
                 "क्रिया (క్రియా - క్రియ)",
                 "संज्ञा (సంగ్న్యా - నామవాచకం)",
@@ -14575,7 +14575,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_hi_f_2"
             },
             {
-              "question": "ప్రశ్న: \"చెట్టు\" (Tree) పదానికి బహువచనం ఏది?",
+              "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
               "options": [
                 "लड़कियाँ (లడ్కియాన్)",
                 "लड़के (లడ్కే)",
@@ -14587,7 +14587,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_hi_f_3"
             },
             {
-              "question": "ప్రశ్న: \"మంచి\" (Good) అనేది ఏ పదవర్గం?",
+              "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
               "options": [
                 "विशेषण (విశేషణ్ - విశేషణం)",
                 "संज्ञा (సంగ్న్యా - నామవాచకం)",
@@ -14599,7 +14599,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_hi_f_4"
             },
             {
-              "question": "ప్రశ్న: \"చదువుతున్నాను\" (Reading) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
               "options": [
                 "संज्ञा (సంగ్న్యా - నామవాచకం)",
                 "क्रिया (క్రియా - క్రియ)",
@@ -14611,7 +14611,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_hi_f_5"
             },
             {
-              "question": "ప్రశ్న: \"పుస్తకం\" (Book) అనే పదానికి అర్థం ఏమిటి?",
+              "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
               "options": [
                 "घर (ఘర్ - ఇల్లు)",
                 "पुस्तक (పుస్తక్ - గ్రంథం / పుస్తకం)",
@@ -14623,7 +14623,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_hi_f_6"
             },
             {
-              "question": "ప్రశ్న: \"పాఠశాల\" (School) అనే పదానికి అర్థం ఏమిటి?",
+              "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
               "options": [
                 "अस्पताल (అస్పతాల్ - ఆసుపత్రి)",
                 "पढ़ने की जगह (పఠనే కీ జగహ్ - పాఠశాల)",
@@ -14641,7 +14641,7 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "question": "ప్రశ్న: ఈ భాషలో అచ్చులు ఎన్ని ఉన్నాయి?",
+            "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
             "options": [
               "10 (పది)",
               "11 (పదకొండు)",
@@ -14653,7 +14653,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_hi_f_1"
           },
           {
-            "question": "ప్రశ్న: \"అమ్మ\" (Mother) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
             "options": [
               "क्रिया (క్రియా - క్రియ)",
               "संज्ञा (సంగ్న్యా - నామవాచకం)",
@@ -14665,7 +14665,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_hi_f_2"
           },
           {
-            "question": "ప్రశ్న: \"చెట్టు\" (Tree) పదానికి బహువచనం ఏది?",
+            "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
             "options": [
               "लड़कियाँ (లడ్కియాన్)",
               "लड़के (లడ్కే)",
@@ -14677,7 +14677,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_hi_f_3"
           },
           {
-            "question": "ప్రశ్న: \"మంచి\" (Good) అనేది ఏ పదవర్గం?",
+            "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
             "options": [
               "विशेषण (విశేషణ్ - విశేషణం)",
               "संज्ञा (సంగ్న్యా - నామవాచకం)",
@@ -14689,7 +14689,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_hi_f_4"
           },
           {
-            "question": "ప్రశ్న: \"చదువుతున్నాను\" (Reading) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
             "options": [
               "संज्ञा (సంగ్న్యా - నామవాచకం)",
               "क्रिया (క్రియా - క్రియ)",
@@ -14701,7 +14701,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_hi_f_5"
           },
           {
-            "question": "ప్రశ్న: \"పుస్తకం\" (Book) అనే పదానికి అర్థం ఏమిటి?",
+            "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
             "options": [
               "घर (ఘర్ - ఇల్లు)",
               "पुस्तक (పుస్తక్ - గ్రంథం / పుస్తకం)",
@@ -14713,7 +14713,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_hi_f_6"
           },
           {
-            "question": "ప్రశ్న: \"పాఠశాల\" (School) అనే పదానికి అర్థం ఏమిటి?",
+            "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
             "options": [
               "अस्पताल (అస్పతాల్ - ఆసుపత్రి)",
               "पढ़ने की जगह (పఠనే కీ జగహ్ - పాఠశాల)",
@@ -14728,7 +14728,7 @@ export const BILINGUAL_COURSES = {
       },
       "checkpoint_test": [
         {
-          "question": "ప్రశ్న: ఈ భాషలో అచ్చులు ఎన్ని ఉన్నాయి?",
+          "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
           "options": [
             "10 (పది)",
             "11 (పదకొండు)",
@@ -14740,7 +14740,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_hi_f_1"
         },
         {
-          "question": "ప్రశ్న: \"అమ్మ\" (Mother) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
           "options": [
             "क्रिया (క్రియా - క్రియ)",
             "संज्ञा (సంగ్న్యా - నామవాచకం)",
@@ -14752,7 +14752,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_hi_f_2"
         },
         {
-          "question": "ప్రశ్న: \"చెట్టు\" (Tree) పదానికి బహువచనం ఏది?",
+          "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
           "options": [
             "लड़कियाँ (లడ్కియాన్)",
             "लड़के (లడ్కే)",
@@ -14764,7 +14764,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_hi_f_3"
         },
         {
-          "question": "ప్రశ్న: \"మంచి\" (Good) అనేది ఏ పదవర్గం?",
+          "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
           "options": [
             "विशेषण (విశేషణ్ - విశేషణం)",
             "संज्ञा (సంగ్న్యా - నామవాచకం)",
@@ -14776,7 +14776,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_hi_f_4"
         },
         {
-          "question": "ప్రశ్న: \"చదువుతున్నాను\" (Reading) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
           "options": [
             "संज्ञा (సంగ్న్యా - నామవాచకం)",
             "क्रिया (క్రియా - క్రియ)",
@@ -14788,7 +14788,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_hi_f_5"
         },
         {
-          "question": "ప్రశ్న: \"పుస్తకం\" (Book) అనే పదానికి అర్థం ఏమిటి?",
+          "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
           "options": [
             "घर (ఘర్ - ఇల్లు)",
             "पुस्तक (పుస్తక్ - గ్రంథం / పుస్తకం)",
@@ -14800,7 +14800,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_hi_f_6"
         },
         {
-          "question": "ప్రశ్న: \"పాఠశాల\" (School) అనే పదానికి అర్థం ఏమిటి?",
+          "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
           "options": [
             "अस्पताल (అస్పతాల్ - ఆసుపత్రి)",
             "पढ़ने की जगह (పఠనే కీ జగహ్ - పాఠశాల)",
@@ -14878,7 +14878,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_hi_b_4"
             },
             {
-              "question": "ప్రశ్న: \"తిన్నాడు\" అనేది ఏ కాలాన్ని సూచిస్తుంది?",
+              "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
               "options": [
                 "वर्तमान काल (వర్తమాన కాలం)",
                 "भूतकाल (భూతకాలం)",
@@ -14890,7 +14890,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_hi_b_5"
             },
             {
-              "question": "ప్రశ్న: \"చదువుతాను\" అనేది ఏ కాలానికి చెందుతుంది?",
+              "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
               "options": [
                 "भूतकाल (భూతకాలం)",
                 "वर्तमान काल (వర్తమాన కాలం)",
@@ -14902,7 +14902,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_hi_b_6"
             },
             {
-              "question": "ప్రశ్న: \"ఆడుతున్నాడు\" అనేది ఏ కాలానికి ఉదాహరణ?",
+              "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
               "options": [
                 "वर्तमान काल (వర్తమాన కాలం)",
                 "भूतकाल (భూతకాలం)",
@@ -14968,7 +14968,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_hi_b_4"
           },
           {
-            "question": "ప్రశ్న: \"తిన్నాడు\" అనేది ఏ కాలాన్ని సూచిస్తుంది?",
+            "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
             "options": [
               "वर्तमान काल (వర్తమాన కాలం)",
               "भूतकाल (భూతకాలం)",
@@ -14980,7 +14980,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_hi_b_5"
           },
           {
-            "question": "ప్రశ్న: \"చదువుతాను\" అనేది ఏ కాలానికి చెందుతుంది?",
+            "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
             "options": [
               "भूतकाल (భూతకాలం)",
               "वर्तमान काल (వర్తమాన కాలం)",
@@ -14992,7 +14992,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_hi_b_6"
           },
           {
-            "question": "ప్రశ్న: \"ఆడుతున్నాడు\" అనేది ఏ కాలానికి ఉదాహరణ?",
+            "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
             "options": [
               "वर्तमान काल (వర్తమాన కాలం)",
               "भूतकाल (భూతకాలం)",
@@ -15055,7 +15055,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_hi_b_4"
         },
         {
-          "question": "ప్రశ్న: \"తిన్నాడు\" అనేది ఏ కాలాన్ని సూచిస్తుంది?",
+          "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
           "options": [
             "वर्तमान काल (వర్తమాన కాలం)",
             "भूतकाल (భూతకాలం)",
@@ -15067,7 +15067,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_hi_b_5"
         },
         {
-          "question": "ప్రశ్న: \"చదువుతాను\" అనేది ఏ కాలానికి చెందుతుంది?",
+          "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
           "options": [
             "भूतकाल (భూతకాలం)",
             "वर्तमान काल (వర్తమాన కాలం)",
@@ -15079,7 +15079,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_hi_b_6"
         },
         {
-          "question": "ప్రశ్న: \"ఆడుతున్నాడు\" అనేది ఏ కాలానికి ఉదాహరణ?",
+          "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
           "options": [
             "वर्तमान काल (వర్తమాన కాలం)",
             "भूतकाल (భూతకాలం)",
@@ -15669,7 +15669,7 @@ export const BILINGUAL_COURSES = {
           "image_key": "book",
           "practice_questions": [
             {
-              "question": "ప్రశ్న: ఈ భాషలో అచ్చులు ఎన్ని ఉన్నాయి?",
+              "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
               "options": [
                 "10 (పది)",
                 "11 (పదకొండు)",
@@ -15681,7 +15681,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_ta_f_1"
             },
             {
-              "question": "ప్రశ్న: \"అమ్మ\" (Mother) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
               "options": [
                 "வினைச்சொல் (క్రియ)",
                 "பெயர்ச்சொல் (నామవాచకం)",
@@ -15693,7 +15693,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_ta_f_2"
             },
             {
-              "question": "ప్రశ్న: \"చెట్టు\" (Tree) పదానికి బహువచనం ఏది?",
+              "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
               "options": [
                 "மரம் (మరమ్)",
                 "மரங்கள் (మరంగళ)",
@@ -15705,7 +15705,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_ta_f_3"
             },
             {
-              "question": "ప్రశ్న: \"మంచి\" (Good) అనేది ఏ పదవర్గం?",
+              "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
               "options": [
                 "247 (రెండు వందల నలభై ఏడు)",
                 "146 (నూరు నలభై ఆరు)",
@@ -15717,7 +15717,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_ta_f_4"
             },
             {
-              "question": "ప్రశ్న: \"చదువుతున్నాను\" (Reading) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
               "options": [
                 "பெயர்ச்சொல் (నామవాచకం)",
                 "வினைச்சொல் (క్రియ)",
@@ -15729,7 +15729,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_ta_f_5"
             },
             {
-              "question": "ప్రశ్న: \"పుస్తకం\" (Book) అనే పదానికి అర్థం ఏమిటి?",
+              "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
               "options": [
                 "வீடு (ఇల్లు)",
                 "நூல் (గ్రంథం / పుస్తకం)",
@@ -15741,7 +15741,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_ta_f_6"
             },
             {
-              "question": "ప్రశ్న: \"పాఠశాల\" (School) అనే పదానికి అర్థం ఏమిటి?",
+              "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
               "options": [
                 "மருத்துவமனை (ఆసుపత్రి)",
                 "பாடம் கற்கும் இடம் (పాఠశాల)",
@@ -15759,7 +15759,7 @@ export const BILINGUAL_COURSES = {
         "min_pass_score": 70,
         "questions": [
           {
-            "question": "ప్రశ్న: ఈ భాషలో అచ్చులు ఎన్ని ఉన్నాయి?",
+            "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
             "options": [
               "10 (పది)",
               "11 (పదకొండు)",
@@ -15771,7 +15771,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_ta_f_1"
           },
           {
-            "question": "ప్రశ్న: \"అమ్మ\" (Mother) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
             "options": [
               "வினைச்சொல் (క్రియ)",
               "பெயர்ச்சொல் (నామవాచకం)",
@@ -15783,7 +15783,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_ta_f_2"
           },
           {
-            "question": "ప్రశ్న: \"చెట్టు\" (Tree) పదానికి బహువచనం ఏది?",
+            "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
             "options": [
               "மரம் (మరమ్)",
               "மரங்கள் (మరంగళ)",
@@ -15795,7 +15795,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_ta_f_3"
           },
           {
-            "question": "ప్రశ్న: \"మంచి\" (Good) అనేది ఏ పదవర్గం?",
+            "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
             "options": [
               "247 (రెండు వందల నలభై ఏడు)",
               "146 (నూరు నలభై ఆరు)",
@@ -15807,7 +15807,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_ta_f_4"
           },
           {
-            "question": "ప్రశ్న: \"చదువుతున్నాను\" (Reading) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
             "options": [
               "பெயர்ச்சொல் (నామవాచకం)",
               "வினைச்சொல் (క్రియ)",
@@ -15819,7 +15819,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_ta_f_5"
           },
           {
-            "question": "ప్రశ్న: \"పుస్తకం\" (Book) అనే పదానికి అర్థం ఏమిటి?",
+            "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
             "options": [
               "வீடு (ఇల్లు)",
               "நூல் (గ్రంథం / పుస్తకం)",
@@ -15831,7 +15831,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_ta_f_6"
           },
           {
-            "question": "ప్రశ్న: \"పాఠశాల\" (School) అనే పదానికి అర్థం ఏమిటి?",
+            "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
             "options": [
               "மருத்துவமனை (ఆసుపత్రి)",
               "பாடம் கற்கும் இடம் (పాఠశాల)",
@@ -15846,7 +15846,7 @@ export const BILINGUAL_COURSES = {
       },
       "checkpoint_test": [
         {
-          "question": "ప్రశ్న: ఈ భాషలో అచ్చులు ఎన్ని ఉన్నాయి?",
+          "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
           "options": [
             "10 (పది)",
             "11 (పదకొండు)",
@@ -15858,7 +15858,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_ta_f_1"
         },
         {
-          "question": "ప్రశ్న: \"అమ్మ\" (Mother) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
           "options": [
             "வினைச்சொல் (క్రియ)",
             "பெயர்ச்சொல் (నామవాచకం)",
@@ -15870,7 +15870,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_ta_f_2"
         },
         {
-          "question": "ప్రశ్న: \"చెట్టు\" (Tree) పదానికి బహువచనం ఏది?",
+          "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
           "options": [
             "மரம் (మరమ్)",
             "மரங்கள் (మరంగళ)",
@@ -15882,7 +15882,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_ta_f_3"
         },
         {
-          "question": "ప్రశ్న: \"మంచి\" (Good) అనేది ఏ పదవర్గం?",
+          "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
           "options": [
             "247 (రెండు వందల నలభై ఏడు)",
             "146 (నూరు నలభై ఆరు)",
@@ -15894,7 +15894,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_ta_f_4"
         },
         {
-          "question": "ప్రశ్న: \"చదువుతున్నాను\" (Reading) అనేది ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
           "options": [
             "பெயர்ச்சொல் (నామవాచకం)",
             "வினைச்சொல் (క్రియ)",
@@ -15906,7 +15906,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_ta_f_5"
         },
         {
-          "question": "ప్రశ్న: \"పుస్తకం\" (Book) అనే పదానికి అర్థం ఏమిటి?",
+          "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
           "options": [
             "வீடு (ఇల్లు)",
             "நூல் (గ్రంథం / పుస్తకం)",
@@ -15918,7 +15918,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_ta_f_6"
         },
         {
-          "question": "ప్రశ్న: \"పాఠశాల\" (School) అనే పదానికి అర్థం ఏమిటి?",
+          "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
           "options": [
             "மருத்துவமனை (ఆసుపత్రి)",
             "பாடம் கற்கும் இடம் (పాఠశాల)",
@@ -15996,7 +15996,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_ta_b_4"
             },
             {
-              "question": "ప్రశ్న: \"తిన్నాడు\" అనేది ఏ కాలాన్ని సూచిస్తుంది?",
+              "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
               "options": [
                 "நிகழ்காலம் (వర్తమాన కాలం)",
                 "இறந்த காலம் (భూతకాలం)",
@@ -16008,7 +16008,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_ta_b_5"
             },
             {
-              "question": "ప్రశ్న: \"చదువుతాను\" అనేది ఏ కాలానికి చెందుతుంది?",
+              "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
               "options": [
                 "இறந்த காலம் (భూతకాలం)",
                 "நிகழ்காலம் (వర్తమాన కాలం)",
@@ -16020,7 +16020,7 @@ export const BILINGUAL_COURSES = {
               "id": "te_ta_b_6"
             },
             {
-              "question": "ప్రశ్న: \"ఆడుతున్నాడు\" అనేది ఏ కాలానికి ఉదాహరణ?",
+              "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
               "options": [
                 "நிகழ்காலம் (వర్తమాన కాలం)",
                 "இறந்த காலம் (భూతకాలం)",
@@ -16086,7 +16086,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_ta_b_4"
           },
           {
-            "question": "ప్రశ్న: \"తిన్నాడు\" అనేది ఏ కాలాన్ని సూచిస్తుంది?",
+            "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
             "options": [
               "நிகழ்காலம் (వర్తమాన కాలం)",
               "இறந்த காலம் (భూతకాలం)",
@@ -16098,7 +16098,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_ta_b_5"
           },
           {
-            "question": "ప్రశ్న: \"చదువుతాను\" అనేది ఏ కాలానికి చెందుతుంది?",
+            "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
             "options": [
               "இறந்த காலம் (భూతకాలం)",
               "நிகழ்காலம் (వర్తమాన కాలం)",
@@ -16110,7 +16110,7 @@ export const BILINGUAL_COURSES = {
             "id": "te_ta_b_6"
           },
           {
-            "question": "ప్రశ్న: \"ఆడుతున్నాడు\" అనేది ఏ కాలానికి ఉదాహరణ?",
+            "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
             "options": [
               "நிகழ்காலம் (వర్తమాన కాలం)",
               "இறந்த காலம் (భూతకాలం)",
@@ -16173,7 +16173,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_ta_b_4"
         },
         {
-          "question": "ప్రశ్న: \"తిన్నాడు\" అనేది ఏ కాలాన్ని సూచిస్తుంది?",
+          "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
           "options": [
             "நிகழ்காலம் (వర్తమాన కాలం)",
             "இறந்த காலம் (భూతకాలం)",
@@ -16185,7 +16185,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_ta_b_5"
         },
         {
-          "question": "ప్రశ్న: \"చదువుతాను\" అనేది ఏ కాలానికి చెందుతుంది?",
+          "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
           "options": [
             "இறந்த காலம் (భూతకాలం)",
             "நிகழ்காலம் (వర్తమాన కాలం)",
@@ -16197,7 +16197,7 @@ export const BILINGUAL_COURSES = {
           "id": "te_ta_b_6"
         },
         {
-          "question": "ప్రశ్న: \"ఆడుతున్నాడు\" అనేది ఏ కాలానికి ఉదాహరణ?",
+          "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
           "options": [
             "நிகழ்காலம் (వర్తమాన కాలం)",
             "இறந்த காலம் (భూతకాలం)",
@@ -16788,7 +16788,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "te_kn_f1_q1",
-              "question": "ప్రశ్న: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+              "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
               "options": [
                 "12 (12 - పన్నెండు))",
                 "13 (13 - పదమూడు))",
@@ -16800,7 +16800,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_f1_q2",
-              "question": "ప్రశ్న: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
               "options": [
                 "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
                 "ನಾಮಪದ (నామపద - నామవాచకం))",
@@ -16812,7 +16812,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_f1_q3",
-              "question": "ప్రశ్న: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+              "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
               "options": [
                 "ಮರ (మర - చెట్టు))",
                 "ಮರಗಳು (మరగళు - చెట్లు))",
@@ -16824,7 +16824,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_f1_q4",
-              "question": "ప్రశ్న: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+              "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
               "options": [
                 "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
                 "ನಾಮಪದ (నామపద - నామవాచకం))",
@@ -16836,7 +16836,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_f1_q5",
-              "question": "ప్రశ్న: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
               "options": [
                 "ನಾಮಪದ (నామపద - నామవాచకం))",
                 "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
@@ -16848,7 +16848,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_f1_q6",
-              "question": "ప్రశ్న: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+              "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
               "options": [
                 "ಮನೆ",
                 "ಗ್ರಂಥ",
@@ -16860,7 +16860,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_f1_q7",
-              "question": "ప్రశ్న: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+              "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
               "options": [
                 "ಆಸ್ಪತ್ರೆ",
                 "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -16878,7 +16878,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "te_kn_f1_q1",
-            "question": "ప్రశ్న: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+            "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
             "options": [
               "12 (12 - పన్నెండు))",
               "13 (13 - పదమూడు))",
@@ -16890,7 +16890,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_f1_q2",
-            "question": "ప్రశ్న: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
             "options": [
               "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
               "ನಾಮಪದ (నామపద - నామవాచకం))",
@@ -16902,7 +16902,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_f1_q3",
-            "question": "ప్రశ్న: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+            "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
             "options": [
               "ಮರ (మర - చెట్టు))",
               "ಮರಗಳು (మరగళు - చెట్లు))",
@@ -16914,7 +16914,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_f1_q4",
-            "question": "ప్రశ్న: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+            "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
             "options": [
               "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
               "ನಾಮಪದ (నామపద - నామవాచకం))",
@@ -16926,7 +16926,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_f1_q5",
-            "question": "ప్రశ్న: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
             "options": [
               "ನಾಮಪದ (నామపద - నామవాచకం))",
               "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
@@ -16938,7 +16938,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_f1_q6",
-            "question": "ప్రశ్న: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+            "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
             "options": [
               "ಮನೆ",
               "ಗ್ರಂಥ",
@@ -16950,7 +16950,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_f1_q7",
-            "question": "ప్రశ్న: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+            "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
             "options": [
               "ಆಸ್ಪತ್ರೆ",
               "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -16965,7 +16965,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "te_kn_f1_q1",
-          "question": "ప్రశ్న: ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಎಷ್ಟು?",
+          "question": "ప్రశ్న: Apple పదం ఏ అక్షరంతో ప్రారంభమవుతుంది?",
           "options": [
             "12 (12 - పన్నెండు))",
             "13 (13 - పదమూడు))",
@@ -16977,7 +16977,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_f1_q2",
-          "question": "ప్రశ్న: “ಅಮ್ಮ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "ప్రశ్న: వీటిలో నామవాచకం (Noun) ఏది?",
           "options": [
             "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
             "ನಾಮಪದ (నామపద - నామవాచకం))",
@@ -16989,7 +16989,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_f1_q3",
-          "question": "ప్రశ్న: “ಮರ” ಪದದ ಬಹುವಚನ ಯಾವುದು?",
+          "question": "ప్రశ్న: Tree పదానికి బహువచనం (Plural) ఏది?",
           "options": [
             "ಮರ (మర - చెట్టు))",
             "ಮರಗಳು (మరగళు - చెట్లు))",
@@ -17001,7 +17001,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_f1_q4",
-          "question": "ప్రశ్న: “ಒಳ್ಳೆಯ” ಯಾವ ಪದವರ್ಗ?",
+          "question": "ప్రశ్న: వీటిలో విశేషణం (Adjective) ఏది?",
           "options": [
             "ವಿಶೇಷಣ (విశేషణ - విశేషణం))",
             "ನಾಮಪದ (నామపద - నామవాచకం))",
@@ -17013,7 +17013,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_f1_q5",
-          "question": "ప్రశ్న: “ಓದುತ್ತಿದ್ದೇನೆ” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "ప్రశ్న: వీటిలో క్రియ (Verb) ఏది?",
           "options": [
             "ನಾಮಪದ (నామపద - నామవాచకం))",
             "ಕ್ರಿಯಾಪದ (క్రియాపద - క్రియ))",
@@ -17025,7 +17025,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_f1_q6",
-          "question": "ప్రశ్న: “ಪುಸ್ತಕ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+          "question": "ప్రశ్న: House పదానికి అర్థం ఏమిటి?",
           "options": [
             "ಮನೆ",
             "ಗ್ರಂಥ",
@@ -17037,7 +17037,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_f1_q7",
-          "question": "ప్రశ్న: “ಶಾಲೆ” ಎಂಬ ಪದದ ಅರ್ಥವೇನು?",
+          "question": "ప్రశ్న: School పదానికి అర్థం ఏమిటి?",
           "options": [
             "ಆಸ್ಪತ್ರೆ",
             "ಕಲಿಯುವ ಸ್ಥಳ",
@@ -17067,7 +17067,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "te_kn_b1_q1",
-              "question": "ప్రశ్న: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "ప్రశ్న: \"నేను పాఠశాలకు వెళుతున్నాను.\" ఇది ఏ కాలం?",
               "options": [
                 "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
                 "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
@@ -17079,7 +17079,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_b1_q2",
-              "question": "ప్రశ్న: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "ప్రశ్న: \"అతను నిన్న వచ్చాడు.\" ఇది ఏ కాలం?",
               "options": [
                 "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
                 "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
@@ -17091,7 +17091,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_b1_q3",
-              "question": "ప్రశ్న: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "ప్రశ్న: \"నేను రేపు వెళ్తాను.\" ఇది ఏ కాలం?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
                 "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
@@ -17103,7 +17103,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_b1_q4",
-              "question": "ప్రశ్న: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+              "question": "ప్రశ్న: \"ఆమె పాట పాడుతోంది.\" ఇది ఏ కాలం?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
                 "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
@@ -17115,7 +17115,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_b1_q5",
-              "question": "ప్రశ్న: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+              "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
                 "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
@@ -17127,7 +17127,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_b1_q6",
-              "question": "ప్రశ్న: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
               "options": [
                 "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
                 "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
@@ -17139,7 +17139,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_b1_q7",
-              "question": "ప్రశ్న: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+              "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
               "options": [
                 "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
                 "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
@@ -17157,7 +17157,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "te_kn_b1_q1",
-            "question": "ప్రశ్న: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "ప్రశ్న: \"నేను పాఠశాలకు వెళుతున్నాను.\" ఇది ఏ కాలం?",
             "options": [
               "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
               "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
@@ -17169,7 +17169,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_b1_q2",
-            "question": "ప్రశ్న: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "ప్రశ్న: \"అతను నిన్న వచ్చాడు.\" ఇది ఏ కాలం?",
             "options": [
               "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
               "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
@@ -17181,7 +17181,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_b1_q3",
-            "question": "ప్రశ్న: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "ప్రశ్న: \"నేను రేపు వెళ్తాను.\" ఇది ఏ కాలం?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
               "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
@@ -17193,7 +17193,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_b1_q4",
-            "question": "ప్రశ్న: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+            "question": "ప్రశ్న: \"ఆమె పాట పాడుతోంది.\" ఇది ఏ కాలం?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
               "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
@@ -17205,7 +17205,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_b1_q5",
-            "question": "ప్రశ్న: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+            "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
               "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
@@ -17217,7 +17217,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_b1_q6",
-            "question": "ప్రశ్న: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
             "options": [
               "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
               "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
@@ -17229,7 +17229,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_b1_q7",
-            "question": "ప్రశ్న: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+            "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
             "options": [
               "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
               "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
@@ -17244,7 +17244,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "te_kn_b1_q1",
-          "question": "ప్రశ్న: “ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "ప్రశ్న: \"నేను పాఠశాలకు వెళుతున్నాను.\" ఇది ఏ కాలం?",
           "options": [
             "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
             "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
@@ -17256,7 +17256,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_b1_q2",
-          "question": "ప్రశ్న: “ಅವನು ನಿನ್ನೆ ಬಂದನು.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "ప్రశ్న: \"అతను నిన్న వచ్చాడు.\" ఇది ఏ కాలం?",
           "options": [
             "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
             "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
@@ -17268,7 +17268,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_b1_q3",
-          "question": "ప్రశ్న: “ನಾನು ನಾಳೆ ಹೋಗುವೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "ప్రశ్న: \"నేను రేపు వెళ్తాను.\" ఇది ఏ కాలం?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
             "ಭವಿಷ್ಯತ್ಕಾಲ (భవిష్యత్కాల - భవిష్యత్ కాలం))",
@@ -17280,7 +17280,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_b1_q4",
-          "question": "ప్రశ్న: “ಅವಳು ಹಾಡುತ್ತಿದ್ದಾಳೆ.” ಇದು ಯಾವ ಕಾಲ?",
+          "question": "ప్రశ్న: \"ఆమె పాట పాడుతోంది.\" ఇది ఏ కాలం?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
             "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
@@ -17292,7 +17292,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_b1_q5",
-          "question": "ప్రశ్న: “ತಿಂದನು” ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+          "question": "ప్రశ్న: \"తిన్నాడు\" (Ate) అనేది ఏ కాలాన్ని సూచిస్తుంది?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
             "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
@@ -17304,7 +17304,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_b1_q6",
-          "question": "ప్రశ్న: “ಓದುವೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "ప్రశ్న: \"చదువుతాను\" (Will read) అనేది ఏ కాలానికి చెందుతుంది?",
           "options": [
             "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
             "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
@@ -17316,7 +17316,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_b1_q7",
-          "question": "ప్రశ్న: “ಆಡುತ್ತಿದ್ದಾನೆ” ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
+          "question": "ప్రశ్న: \"ఆడుతున్నాడు\" (Is playing) అనేది ఏ కాలానికి ఉదాహరణ?",
           "options": [
             "ವರ್ತಮಾನಕಾಲ (వర్తమానకాల - వర్తమాన కాలం))",
             "ಭೂತಕಾಲ (భూతకాల - భూతకాలం))",
@@ -17346,7 +17346,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "te_kn_i1_q1",
-              "question": "ప్రశ్న: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "ప్రశ్న: \"రాము మరియు రవి పాఠశాలకు వెళ్లారు.\" ఇందులో సంధాన పదం ఏది?",
               "options": [
                 "ಆದರೆ (ఆదరె - కానీ))",
                 "ಮತ್ತು (మత్తు - మరియు))",
@@ -17358,7 +17358,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_i1_q2",
-              "question": "ప్రశ్న: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "ప్రశ్న: \"అమ్మ మరియు నాన్న\" లలో సంధాన పదం ఏది?",
               "options": [
                 "ಅಮ್ಮ",
                 "ಮತ್ತು (మత్తు - మరియు))",
@@ -17370,7 +17370,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_i1_q3",
-              "question": "ప్రశ్న: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "ప్రశ్న: \"అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.\" ఇందులో సంధాన పదం ఏది?",
               "options": [
                 "ಆದರೆ (ఆదరె - కానీ))",
                 "ಓದಿದನು",
@@ -17382,7 +17382,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_i1_q4",
-              "question": "ప్రశ్న: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+              "question": "ప్రశ్న: \"మరియు\" (And) ఏ పదవర్గానికి చెందుతుంది?",
               "options": [
                 "ಸಂಪರ್ಕಪದ",
                 "ನಾಮಪದ (నామపద - నామవాచకం))",
@@ -17394,7 +17394,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_i1_q5",
-              "question": "ప్రశ్న: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+              "question": "ప్రశ్న: \"అందువల్ల\" (Therefore) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
               "options": [
                 "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
                 "ನಾಮಪದವಾಗಿ",
@@ -17406,7 +17406,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_i1_q6",
-              "question": "ప్రశ్న: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+              "question": "ప్రశ్న: సరైన సంధాన పదం ఏది?",
               "options": [
                 "ಮತ್ತು (మత్తు - మరియు))",
                 "ಪುಸ್ತಕ",
@@ -17418,7 +17418,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_i1_q7",
-              "question": "ప్రశ్న: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+              "question": "ప్రశ్న: \"లేదా\" (Or) అంటే ఏమిటి?",
               "options": [
                 "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
                 "ಸಮಯ",
@@ -17436,7 +17436,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "te_kn_i1_q1",
-            "question": "ప్రశ్న: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "ప్రశ్న: \"రాము మరియు రవి పాఠశాలకు వెళ్లారు.\" ఇందులో సంధాన పదం ఏది?",
             "options": [
               "ಆದರೆ (ఆదరె - కానీ))",
               "ಮತ್ತು (మత్తు - మరియు))",
@@ -17448,7 +17448,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_i1_q2",
-            "question": "ప్రశ్న: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "ప్రశ్న: \"అమ్మ మరియు నాన్న\" లలో సంధాన పదం ఏది?",
             "options": [
               "ಅಮ್ಮ",
               "ಮತ್ತು (మత్తు - మరియు))",
@@ -17460,7 +17460,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_i1_q3",
-            "question": "ప్రశ్న: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "ప్రశ్న: \"అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.\" ఇందులో సంధాన పదం ఏది?",
             "options": [
               "ಆದರೆ (ఆదరె - కానీ))",
               "ಓದಿದನು",
@@ -17472,7 +17472,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_i1_q4",
-            "question": "ప్రశ్న: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+            "question": "ప్రశ్న: \"మరియు\" (And) ఏ పదవర్గానికి చెందుతుంది?",
             "options": [
               "ಸಂಪರ್ಕಪದ",
               "ನಾಮಪದ (నామపద - నామవాచకం))",
@@ -17484,7 +17484,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_i1_q5",
-            "question": "ప్రశ్న: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+            "question": "ప్రశ్న: \"అందువల్ల\" (Therefore) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
             "options": [
               "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
               "ನಾಮಪದವಾಗಿ",
@@ -17496,7 +17496,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_i1_q6",
-            "question": "ప్రశ్న: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+            "question": "ప్రశ్న: సరైన సంధాన పదం ఏది?",
             "options": [
               "ಮತ್ತು (మత్తు - మరియు))",
               "ಪುಸ್ತಕ",
@@ -17508,7 +17508,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_i1_q7",
-            "question": "ప్రశ్న: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+            "question": "ప్రశ్న: \"లేదా\" (Or) అంటే ఏమిటి?",
             "options": [
               "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
               "ಸಮಯ",
@@ -17523,7 +17523,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "te_kn_i1_q1",
-          "question": "ప్రశ్న: “ರಾಮ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.” ಇಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "ప్రశ్న: \"రాము మరియు రవి పాఠశాలకు వెళ్లారు.\" ఇందులో సంధాన పదం ఏది?",
           "options": [
             "ಆದರೆ (ఆదరె - కానీ))",
             "ಮತ್ತು (మత్తు - మరియు))",
@@ -17535,7 +17535,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_i1_q2",
-          "question": "ప్రశ్న: “ಅಮ್ಮ ಮತ್ತು ಅಪ್ಪ” ನಲ್ಲಿ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "ప్రశ్న: \"అమ్మ మరియు నాన్న\" లలో సంధాన పదం ఏది?",
           "options": [
             "ಅಮ್ಮ",
             "ಮತ್ತು (మత్తు - మరియు))",
@@ -17547,7 +17547,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_i1_q3",
-          "question": "ప్రశ్న: “ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.” ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "ప్రశ్న: \"అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.\" ఇందులో సంధాన పదం ఏది?",
           "options": [
             "ಆದರೆ (ఆదరె - కానీ))",
             "ಓದಿದನು",
@@ -17559,7 +17559,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_i1_q4",
-          "question": "ప్రశ్న: “ಮತ್ತು” ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+          "question": "ప్రశ్న: \"మరియు\" (And) ఏ పదవర్గానికి చెందుతుంది?",
           "options": [
             "ಸಂಪರ್ಕಪದ",
             "ನಾಮಪದ (నామపద - నామవాచకం))",
@@ -17571,7 +17571,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_i1_q5",
-          "question": "ప్రశ్న: “ಆದ್ದರಿಂದ” ಪದವನ್ನು ಯಾವಾಗ ಬಳಸುತ್ತಾರೆ?",
+          "question": "ప్రశ్న: \"అందువల్ల\" (Therefore) అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
           "options": [
             "ಕಾರಣ ಮತ್ತು ಫಲಿತಾಂಶ ತಿಳಿಸಲು",
             "ನಾಮಪದವಾಗಿ",
@@ -17583,7 +17583,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_i1_q6",
-          "question": "ప్రశ్న: ಸರಿಯಾದ ಸಂಪರ್ಕ ಪದ ಯಾವುದು?",
+          "question": "ప్రశ్న: సరైన సంధాన పదం ఏది?",
           "options": [
             "ಮತ್ತು (మత్తు - మరియు))",
             "ಪುಸ್ತಕ",
@@ -17595,7 +17595,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_i1_q7",
-          "question": "ప్రశ్న: “ಅಥವಾ” ಎಂದರೆ ಏನು?",
+          "question": "ప్రశ్న: \"లేదా\" (Or) అంటే ఏమిటి?",
           "options": [
             "ಎರಡು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದು",
             "ಸಮಯ",
@@ -17625,7 +17625,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "te_kn_a1_q1",
-              "question": "ప్రశ్న: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+              "question": "ప్రశ్న: రాహుల్ ఎక్కడికి వెళ్తాడు?",
               "options": [
                 "ಮಾರುಕಟ್ಟೆ",
                 "ಶಾಲೆ",
@@ -17637,7 +17637,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_a1_q2",
-              "question": "ప్రశ్న: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+              "question": "ప్రశ్న: రాహుల్ కు ఏమి ఇష్టం?",
               "options": [
                 "ಆಟ ಆಡುವುದು",
                 "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -17649,7 +17649,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_a1_q3",
-              "question": "ప్రశ్న: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+              "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
               "options": [
                 "ಸೀತಾ",
                 "ರಾಹುಲ್",
@@ -17661,7 +17661,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_a1_q4",
-              "question": "ప్రశ్న: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+              "question": "ప్రశ్న: \"ప్రతిరోజూ\" అంటే ఏమిటి?",
               "options": [
                 "ಪ್ರತಿ ದಿನ",
                 "ನಿನ್ನೆ",
@@ -17673,7 +17673,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_a1_q5",
-              "question": "ప్రశ్న: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+              "question": "ప్రశ్న: రాహుల్ ఏమి చేస్తాడు?",
               "options": [
                 "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
                 "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -17685,7 +17685,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_a1_q6",
-              "question": "ప్రశ్న: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+              "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
               "options": [
                 "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
                 "ಪ್ರವಾಸ",
@@ -17697,7 +17697,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "te_kn_a1_q7",
-              "question": "ప్రశ్న: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+              "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
               "options": [
                 "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
                 "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -17715,7 +17715,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "te_kn_a1_q1",
-            "question": "ప్రశ్న: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+            "question": "ప్రశ్న: రాహుల్ ఎక్కడికి వెళ్తాడు?",
             "options": [
               "ಮಾರುಕಟ್ಟೆ",
               "ಶಾಲೆ",
@@ -17727,7 +17727,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_a1_q2",
-            "question": "ప్రశ్న: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+            "question": "ప్రశ్న: రాహుల్ కు ఏమి ఇష్టం?",
             "options": [
               "ಆಟ ಆಡುವುದು",
               "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -17739,7 +17739,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_a1_q3",
-            "question": "ప్రశ్న: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+            "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
             "options": [
               "ಸೀತಾ",
               "ರಾಹುಲ್",
@@ -17751,7 +17751,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_a1_q4",
-            "question": "ప్రశ్న: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+            "question": "ప్రశ్న: \"ప్రతిరోజూ\" అంటే ఏమిటి?",
             "options": [
               "ಪ್ರತಿ ದಿನ",
               "ನಿನ್ನೆ",
@@ -17763,7 +17763,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_a1_q5",
-            "question": "ప్రశ్న: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+            "question": "ప్రశ్న: రాహుల్ ఏమి చేస్తాడు?",
             "options": [
               "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
               "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -17775,7 +17775,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_a1_q6",
-            "question": "ప్రశ్న: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+            "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
             "options": [
               "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
               "ಪ್ರವಾಸ",
@@ -17787,7 +17787,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "te_kn_a1_q7",
-            "question": "ప్రశ్న: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+            "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
             "options": [
               "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
               "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -17802,7 +17802,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "te_kn_a1_q1",
-          "question": "ప్రశ్న: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
+          "question": "ప్రశ్న: రాహుల్ ఎక్కడికి వెళ్తాడు?",
           "options": [
             "ಮಾರುಕಟ್ಟೆ",
             "ಶಾಲೆ",
@@ -17814,7 +17814,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_a1_q2",
-          "question": "ప్రశ్న: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
+          "question": "ప్రశ్న: రాహుల్ కు ఏమి ఇష్టం?",
           "options": [
             "ಆಟ ಆಡುವುದು",
             "ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
@@ -17826,7 +17826,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_a1_q3",
-          "question": "ప్రశ్న: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ ಇದೆ?",
+          "question": "ప్రశ్న: ఈ గద్యభాగం ఎవరి గురించి?",
           "options": [
             "ಸೀತಾ",
             "ರಾಹುಲ್",
@@ -17838,7 +17838,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_a1_q4",
-          "question": "ప్రశ్న: “ಪ್ರತಿದಿನ” ಎಂದರೆ ಏನು?",
+          "question": "ప్రశ్న: \"ప్రతిరోజూ\" అంటే ఏమిటి?",
           "options": [
             "ಪ್ರತಿ ದಿನ",
             "ನಿನ್ನೆ",
@@ -17850,7 +17850,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_a1_q5",
-          "question": "ప్రశ్న: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
+          "question": "ప్రశ్న: రాహుల్ ఏమి చేస్తాడు?",
           "options": [
             "ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ",
             "ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಾನೆ",
@@ -17862,7 +17862,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_a1_q6",
-          "question": "ప్రశ్న: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಅರ್ಥವೇನು?",
+          "question": "ప్రశ్న: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
           "options": [
             "ಓದು ಮತ್ತು ಶಾಲೆಯ ಅಭ್ಯಾಸ",
             "ಪ್ರವಾಸ",
@@ -17874,7 +17874,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "te_kn_a1_q7",
-          "question": "ప్రశ్న: ಸರಿಯಾದ ವಾಕ್ಯ ಯಾವುದು?",
+          "question": "ప్రశ్న: సరైన వాక్యం ఏది?",
           "options": [
             "ರಾಹುಲ್ಗೆ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು ಇಷ್ಟ.",
             "ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋಗುವುದಿಲ್ಲ.",
@@ -17906,7 +17906,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_en_f1_q1",
-              "question": "ಪ್ರಶ್ನೆ: Which letter does the word Apple begin with?",
+              "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
               "options": [
                 "B",
                 "A",
@@ -17918,7 +17918,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_f1_q2",
-              "question": "ಪ್ರಶ್ನೆ: Which word is a Noun?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
               "options": [
                 "Run",
                 "Happy",
@@ -17930,7 +17930,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_f1_q3",
-              "question": "ಪ್ರಶ್ನೆ: What is the plural of Tree?",
+              "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
               "options": [
                 "Trees",
                 "Treees",
@@ -17942,7 +17942,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_f1_q4",
-              "question": "ಪ್ರಶ್ನೆ: Which word is an Adjective?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
               "options": [
                 "Beautiful",
                 "School",
@@ -17954,7 +17954,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_f1_q5",
-              "question": "ಪ್ರಶ್ನೆ: Which word is a Verb?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
               "options": [
                 "Reading",
                 "Table",
@@ -17966,7 +17966,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_f1_q6",
-              "question": "ಪ್ರಶ್ನೆ: What is another word for Book?",
+              "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "Pen",
                 "Notebook",
@@ -17978,7 +17978,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_f1_q7",
-              "question": "ಪ್ರಶ್ನೆ: What is a School?",
+              "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "A hospital",
                 "A place to learn",
@@ -17996,7 +17996,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_en_f1_q1",
-            "question": "ಪ್ರಶ್ನೆ: Which letter does the word Apple begin with?",
+            "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
             "options": [
               "B",
               "A",
@@ -18008,7 +18008,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_f1_q2",
-            "question": "ಪ್ರಶ್ನೆ: Which word is a Noun?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
             "options": [
               "Run",
               "Happy",
@@ -18020,7 +18020,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_f1_q3",
-            "question": "ಪ್ರಶ್ನೆ: What is the plural of Tree?",
+            "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
             "options": [
               "Trees",
               "Treees",
@@ -18032,7 +18032,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_f1_q4",
-            "question": "ಪ್ರಶ್ನೆ: Which word is an Adjective?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
             "options": [
               "Beautiful",
               "School",
@@ -18044,7 +18044,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_f1_q5",
-            "question": "ಪ್ರಶ್ನೆ: Which word is a Verb?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
             "options": [
               "Reading",
               "Table",
@@ -18056,7 +18056,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_f1_q6",
-            "question": "ಪ್ರಶ್ನೆ: What is another word for Book?",
+            "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "Pen",
               "Notebook",
@@ -18068,7 +18068,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_f1_q7",
-            "question": "ಪ್ರಶ್ನೆ: What is a School?",
+            "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "A hospital",
               "A place to learn",
@@ -18083,7 +18083,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_en_f1_q1",
-          "question": "ಪ್ರಶ್ನೆ: Which letter does the word Apple begin with?",
+          "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
           "options": [
             "B",
             "A",
@@ -18095,7 +18095,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_f1_q2",
-          "question": "ಪ್ರಶ್ನೆ: Which word is a Noun?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
           "options": [
             "Run",
             "Happy",
@@ -18107,7 +18107,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_f1_q3",
-          "question": "ಪ್ರಶ್ನೆ: What is the plural of Tree?",
+          "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
           "options": [
             "Trees",
             "Treees",
@@ -18119,7 +18119,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_f1_q4",
-          "question": "ಪ್ರಶ್ನೆ: Which word is an Adjective?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
           "options": [
             "Beautiful",
             "School",
@@ -18131,7 +18131,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_f1_q5",
-          "question": "ಪ್ರಶ್ನೆ: Which word is a Verb?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
           "options": [
             "Reading",
             "Table",
@@ -18143,7 +18143,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_f1_q6",
-          "question": "ಪ್ರಶ್ನೆ: What is another word for Book?",
+          "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "Pen",
             "Notebook",
@@ -18155,7 +18155,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_f1_q7",
-          "question": "ಪ್ರಶ್ನೆ: What is a School?",
+          "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "A hospital",
             "A place to learn",
@@ -18185,7 +18185,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_en_b1_q1",
-              "question": "ಪ್ರಶ್ನೆ: \"I am going to school.\" Which tense is this?",
+              "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "Past Tense",
                 "Present Tense",
@@ -18197,7 +18197,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_b1_q2",
-              "question": "ಪ್ರಶ್ನೆ: \"He came yesterday.\" Which tense is this?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "Past Tense",
                 "Present Tense",
@@ -18209,7 +18209,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_b1_q3",
-              "question": "ಪ್ರಶ್ನೆ: \"I will go tomorrow.\" Which tense is this?",
+              "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "Present Tense",
                 "Future Tense",
@@ -18221,7 +18221,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_b1_q4",
-              "question": "ಪ್ರಶ್ನೆ: \"She is singing.\" Which tense is this?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "Present Tense",
                 "Past Tense",
@@ -18233,7 +18233,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_b1_q5",
-              "question": "ಪ್ರಶ್ನೆ: Which word shows the past tense?",
+              "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
               "options": [
                 "Eat",
                 "Ate",
@@ -18245,7 +18245,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_b1_q6",
-              "question": "ಪ್ರಶ್ನೆ: Which word shows the future tense?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
               "options": [
                 "Read",
                 "Reading",
@@ -18257,7 +18257,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_b1_q7",
-              "question": "ಪ್ರಶ್ನೆ: \"They are playing.\" Which tense is this?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
               "options": [
                 "Present Tense",
                 "Past Tense",
@@ -18275,7 +18275,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_en_b1_q1",
-            "question": "ಪ್ರಶ್ನೆ: \"I am going to school.\" Which tense is this?",
+            "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "Past Tense",
               "Present Tense",
@@ -18287,7 +18287,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_b1_q2",
-            "question": "ಪ್ರಶ್ನೆ: \"He came yesterday.\" Which tense is this?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "Past Tense",
               "Present Tense",
@@ -18299,7 +18299,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_b1_q3",
-            "question": "ಪ್ರಶ್ನೆ: \"I will go tomorrow.\" Which tense is this?",
+            "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "Present Tense",
               "Future Tense",
@@ -18311,7 +18311,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_b1_q4",
-            "question": "ಪ್ರಶ್ನೆ: \"She is singing.\" Which tense is this?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "Present Tense",
               "Past Tense",
@@ -18323,7 +18323,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_b1_q5",
-            "question": "ಪ್ರಶ್ನೆ: Which word shows the past tense?",
+            "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
             "options": [
               "Eat",
               "Ate",
@@ -18335,7 +18335,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_b1_q6",
-            "question": "ಪ್ರಶ್ನೆ: Which word shows the future tense?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
             "options": [
               "Read",
               "Reading",
@@ -18347,7 +18347,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_b1_q7",
-            "question": "ಪ್ರಶ್ನೆ: \"They are playing.\" Which tense is this?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
             "options": [
               "Present Tense",
               "Past Tense",
@@ -18362,7 +18362,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_en_b1_q1",
-          "question": "ಪ್ರಶ್ನೆ: \"I am going to school.\" Which tense is this?",
+          "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "Past Tense",
             "Present Tense",
@@ -18374,7 +18374,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_b1_q2",
-          "question": "ಪ್ರಶ್ನೆ: \"He came yesterday.\" Which tense is this?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "Past Tense",
             "Present Tense",
@@ -18386,7 +18386,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_b1_q3",
-          "question": "ಪ್ರಶ್ನೆ: \"I will go tomorrow.\" Which tense is this?",
+          "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "Present Tense",
             "Future Tense",
@@ -18398,7 +18398,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_b1_q4",
-          "question": "ಪ್ರಶ್ನೆ: \"She is singing.\" Which tense is this?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "Present Tense",
             "Past Tense",
@@ -18410,7 +18410,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_b1_q5",
-          "question": "ಪ್ರಶ್ನೆ: Which word shows the past tense?",
+          "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
           "options": [
             "Eat",
             "Ate",
@@ -18422,7 +18422,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_b1_q6",
-          "question": "ಪ್ರಶ್ನೆ: Which word shows the future tense?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
           "options": [
             "Read",
             "Reading",
@@ -18434,7 +18434,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_b1_q7",
-          "question": "ಪ್ರಶ್ನೆ: \"They are playing.\" Which tense is this?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
           "options": [
             "Present Tense",
             "Past Tense",
@@ -18464,7 +18464,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_en_i1_q1",
-              "question": "ಪ್ರಶ್ನೆ: Which word joins two ideas?",
+              "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
               "options": [
                 "But",
                 "And",
@@ -18476,7 +18476,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_i1_q2",
-              "question": "ಪ್ರಶ್ನೆ: In \"Mother and Father\", which is the joining word?",
+              "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "Mother",
                 "And",
@@ -18488,7 +18488,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_i1_q3",
-              "question": "ಪ್ರಶ್ನೆ: \"He studied, but he did not pass.\" Which is the joining word?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "But",
                 "Studied",
@@ -18500,7 +18500,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_i1_q4",
-              "question": "ಪ್ರಶ್ನೆ: \"And\" is a ______.",
+              "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
               "options": [
                 "Conjunction",
                 "Noun",
@@ -18512,7 +18512,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_i1_q5",
-              "question": "ಪ್ರಶ್ನೆ: When do we use because?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
               "options": [
                 "To show a reason",
                 "To name a person",
@@ -18524,7 +18524,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_i1_q6",
-              "question": "ಪ್ರಶ್ನೆ: Which is a conjunction?",
+              "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "And",
                 "House",
@@ -18536,7 +18536,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_i1_q7",
-              "question": "ಪ್ರಶ್ನೆ: What does or mean?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "One choice between two options",
                 "A place",
@@ -18554,7 +18554,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_en_i1_q1",
-            "question": "ಪ್ರಶ್ನೆ: Which word joins two ideas?",
+            "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
             "options": [
               "But",
               "And",
@@ -18566,7 +18566,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_i1_q2",
-            "question": "ಪ್ರಶ್ನೆ: In \"Mother and Father\", which is the joining word?",
+            "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "Mother",
               "And",
@@ -18578,7 +18578,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_i1_q3",
-            "question": "ಪ್ರಶ್ನೆ: \"He studied, but he did not pass.\" Which is the joining word?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "But",
               "Studied",
@@ -18590,7 +18590,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_i1_q4",
-            "question": "ಪ್ರಶ್ನೆ: \"And\" is a ______.",
+            "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
             "options": [
               "Conjunction",
               "Noun",
@@ -18602,7 +18602,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_i1_q5",
-            "question": "ಪ್ರಶ್ನೆ: When do we use because?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
             "options": [
               "To show a reason",
               "To name a person",
@@ -18614,7 +18614,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_i1_q6",
-            "question": "ಪ್ರಶ್ನೆ: Which is a conjunction?",
+            "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "And",
               "House",
@@ -18626,7 +18626,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_i1_q7",
-            "question": "ಪ್ರಶ್ನೆ: What does or mean?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "One choice between two options",
               "A place",
@@ -18641,7 +18641,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_en_i1_q1",
-          "question": "ಪ್ರಶ್ನೆ: Which word joins two ideas?",
+          "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
           "options": [
             "But",
             "And",
@@ -18653,7 +18653,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_i1_q2",
-          "question": "ಪ್ರಶ್ನೆ: In \"Mother and Father\", which is the joining word?",
+          "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "Mother",
             "And",
@@ -18665,7 +18665,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_i1_q3",
-          "question": "ಪ್ರಶ್ನೆ: \"He studied, but he did not pass.\" Which is the joining word?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "But",
             "Studied",
@@ -18677,7 +18677,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_i1_q4",
-          "question": "ಪ್ರಶ್ನೆ: \"And\" is a ______.",
+          "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
           "options": [
             "Conjunction",
             "Noun",
@@ -18689,7 +18689,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_i1_q5",
-          "question": "ಪ್ರಶ್ನೆ: When do we use because?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
           "options": [
             "To show a reason",
             "To name a person",
@@ -18701,7 +18701,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_i1_q6",
-          "question": "ಪ್ರಶ್ನೆ: Which is a conjunction?",
+          "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "And",
             "House",
@@ -18713,7 +18713,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_i1_q7",
-          "question": "ಪ್ರಶ್ನೆ: What does or mean?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "One choice between two options",
             "A place",
@@ -18743,7 +18743,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_en_a1_q1",
-              "question": "ಪ್ರಶ್ನೆ: Where does Rahul go?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
               "options": [
                 "Market",
                 "School",
@@ -18755,7 +18755,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_a1_q2",
-              "question": "ಪ್ರಶ್ನೆ: What does Rahul like?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
               "options": [
                 "Playing games",
                 "Reading books",
@@ -18767,7 +18767,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_a1_q3",
-              "question": "ಪ್ರಶ್ನೆ: Who is the passage about?",
+              "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
               "options": [
                 "Sita",
                 "Rahul",
@@ -18779,7 +18779,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_a1_q4",
-              "question": "ಪ್ರಶ್ನೆ: What does every day mean?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "Daily",
                 "Yesterday",
@@ -18791,7 +18791,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_a1_q5",
-              "question": "ಪ್ರಶ್ನೆ: What does Rahul do?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
               "options": [
                 "Goes to school",
                 "Goes to the market",
@@ -18803,7 +18803,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_a1_q6",
-              "question": "ಪ್ರಶ್ನೆ: What is the main idea of the passage?",
+              "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
               "options": [
                 "Going to school and reading books",
                 "Traveling",
@@ -18815,7 +18815,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_en_a1_q7",
-              "question": "ಪ್ರಶ್ನೆ: Which sentence is correct?",
+              "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
               "options": [
                 "Rahul likes reading books.",
                 "Rahul never goes to school.",
@@ -18833,7 +18833,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_en_a1_q1",
-            "question": "ಪ್ರಶ್ನೆ: Where does Rahul go?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
             "options": [
               "Market",
               "School",
@@ -18845,7 +18845,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_a1_q2",
-            "question": "ಪ್ರಶ್ನೆ: What does Rahul like?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
             "options": [
               "Playing games",
               "Reading books",
@@ -18857,7 +18857,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_a1_q3",
-            "question": "ಪ್ರಶ್ನೆ: Who is the passage about?",
+            "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
             "options": [
               "Sita",
               "Rahul",
@@ -18869,7 +18869,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_a1_q4",
-            "question": "ಪ್ರಶ್ನೆ: What does every day mean?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "Daily",
               "Yesterday",
@@ -18881,7 +18881,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_a1_q5",
-            "question": "ಪ್ರಶ್ನೆ: What does Rahul do?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
             "options": [
               "Goes to school",
               "Goes to the market",
@@ -18893,7 +18893,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_a1_q6",
-            "question": "ಪ್ರಶ್ನೆ: What is the main idea of the passage?",
+            "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
             "options": [
               "Going to school and reading books",
               "Traveling",
@@ -18905,7 +18905,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_en_a1_q7",
-            "question": "ಪ್ರಶ್ನೆ: Which sentence is correct?",
+            "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
             "options": [
               "Rahul likes reading books.",
               "Rahul never goes to school.",
@@ -18920,7 +18920,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_en_a1_q1",
-          "question": "ಪ್ರಶ್ನೆ: Where does Rahul go?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
           "options": [
             "Market",
             "School",
@@ -18932,7 +18932,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_a1_q2",
-          "question": "ಪ್ರಶ್ನೆ: What does Rahul like?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
           "options": [
             "Playing games",
             "Reading books",
@@ -18944,7 +18944,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_a1_q3",
-          "question": "ಪ್ರಶ್ನೆ: Who is the passage about?",
+          "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
           "options": [
             "Sita",
             "Rahul",
@@ -18956,7 +18956,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_a1_q4",
-          "question": "ಪ್ರಶ್ನೆ: What does every day mean?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "Daily",
             "Yesterday",
@@ -18968,7 +18968,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_a1_q5",
-          "question": "ಪ್ರಶ್ನೆ: What does Rahul do?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
           "options": [
             "Goes to school",
             "Goes to the market",
@@ -18980,7 +18980,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_a1_q6",
-          "question": "ಪ್ರಶ್ನೆ: What is the main idea of the passage?",
+          "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
           "options": [
             "Going to school and reading books",
             "Traveling",
@@ -18992,7 +18992,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_en_a1_q7",
-          "question": "ಪ್ರಶ್ನೆ: Which sentence is correct?",
+          "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
           "options": [
             "Rahul likes reading books.",
             "Rahul never goes to school.",
@@ -19024,7 +19024,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_hi_f1_q1",
-              "question": "ಪ್ರಶ್ನೆ: हिंदी भाषा में स्वर कितने हैं?",
+              "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
               "options": [
                 "10 (10 - ಹತ್ತು))",
                 "11 (11 - ಹನ್ನೊಂದು))",
@@ -19036,7 +19036,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_f1_q2",
-              "question": "ಪ್ರಶ್ನೆ: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
               "options": [
                 "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
                 "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
@@ -19048,7 +19048,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_f1_q3",
-              "question": "ಪ್ರಶ್ನೆ: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+              "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
               "options": [
                 "लड़कियाँ (ಲಡ್ಕಿಯಾನ್ - ಹುಡುಗಿಯರು))",
                 "लड़के (ಲಡ್ಕೆ - ಹುಡುಗರು))",
@@ -19060,7 +19060,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_f1_q4",
-              "question": "ಪ್ರಶ್ನೆ: \"सुंदर\" (Sundar) शब्द क्या है?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
               "options": [
                 "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
                 "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
@@ -19072,7 +19072,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_f1_q5",
-              "question": "ಪ್ರಶ್ನೆ: \"पढ़ना\" (Padhna) शब्द क्या है?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
               "options": [
                 "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
                 "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
@@ -19084,7 +19084,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_f1_q6",
-              "question": "ಪ್ರಶ್ನೆ: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+              "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "कलम",
                 "कापी",
@@ -19096,7 +19096,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_f1_q7",
-              "question": "ಪ್ರಶ್ನೆ: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
+              "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "अस्पताल",
                 "पढ़ने का स्थान (स्कूल)",
@@ -19114,7 +19114,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_hi_f1_q1",
-            "question": "ಪ್ರಶ್ನೆ: हिंदी भाषा में स्वर कितने हैं?",
+            "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
             "options": [
               "10 (10 - ಹತ್ತು))",
               "11 (11 - ಹನ್ನೊಂದು))",
@@ -19126,7 +19126,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_f1_q2",
-            "question": "ಪ್ರಶ್ನೆ: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
             "options": [
               "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
               "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
@@ -19138,7 +19138,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_f1_q3",
-            "question": "ಪ್ರಶ್ನೆ: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+            "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
             "options": [
               "लड़कियाँ (ಲಡ್ಕಿಯಾನ್ - ಹುಡುಗಿಯರು))",
               "लड़के (ಲಡ್ಕೆ - ಹುಡುಗರು))",
@@ -19150,7 +19150,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_f1_q4",
-            "question": "ಪ್ರಶ್ನೆ: \"सुंदर\" (Sundar) शब्द क्या है?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
             "options": [
               "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
               "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
@@ -19162,7 +19162,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_f1_q5",
-            "question": "ಪ್ರಶ್ನೆ: \"पढ़ना\" (Padhna) शब्द क्या है?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
             "options": [
               "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
               "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
@@ -19174,7 +19174,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_f1_q6",
-            "question": "ಪ್ರಶ್ನೆ: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+            "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "कलम",
               "कापी",
@@ -19186,7 +19186,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_f1_q7",
-            "question": "ಪ್ರಶ್ನೆ: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
+            "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "अस्पताल",
               "पढ़ने का स्थान (स्कूल)",
@@ -19201,7 +19201,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_hi_f1_q1",
-          "question": "ಪ್ರಶ್ನೆ: हिंदी भाषा में स्वर कितने हैं?",
+          "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
           "options": [
             "10 (10 - ಹತ್ತು))",
             "11 (11 - ಹನ್ನೊಂದು))",
@@ -19213,7 +19213,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_f1_q2",
-          "question": "ಪ್ರಶ್ನೆ: \"माँ\" (Maa) शब्द किस प्रकार का शब्द है?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
           "options": [
             "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
             "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
@@ -19225,7 +19225,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_f1_q3",
-          "question": "ಪ್ರಶ್ನೆ: \"लड़का\" (Ladka) का बहुवचन क्या है?",
+          "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
           "options": [
             "लड़कियाँ (ಲಡ್ಕಿಯಾನ್ - ಹುಡುಗಿಯರು))",
             "लड़के (ಲಡ್ಕೆ - ಹುಡುಗರು))",
@@ -19237,7 +19237,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_f1_q4",
-          "question": "ಪ್ರಶ್ನೆ: \"सुंदर\" (Sundar) शब्द क्या है?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
           "options": [
             "विशेषण (ವಿಶೇಷಣ್ - ವಿಶೇಷಣ))",
             "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
@@ -19249,7 +19249,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_f1_q5",
-          "question": "ಪ್ರಶ್ನೆ: \"पढ़ना\" (Padhna) शब्द क्या है?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
           "options": [
             "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
             "क्रिया (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
@@ -19261,7 +19261,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_f1_q6",
-          "question": "ಪ್ರಶ್ನೆ: \"किताब\" (Kitab) का अन्य अर्थ क्या है?",
+          "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "कलम",
             "कापी",
@@ -19273,7 +19273,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_f1_q7",
-          "question": "ಪ್ರಶ್ನೆ: \"विद्यालय\" (Vidyalaya) का अर्थ क्या है?",
+          "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "अस्पताल",
             "पढ़ने का स्थान (स्कूल)",
@@ -19303,7 +19303,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_hi_b1_q1",
-              "question": "ಪ್ರಶ್ನೆ: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
                 "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -19315,7 +19315,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_b1_q2",
-              "question": "ಪ್ರಶ್ನೆ: \"वह कल आया।\" यह कौन सा काल है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
                 "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -19327,7 +19327,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_b1_q3",
-              "question": "ಪ್ರಶ್ನೆ: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
                 "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
@@ -19339,7 +19339,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_b1_q4",
-              "question": "ಪ್ರಶ್ನೆ: \"वह गा रही है।\" यह कौन सा काल है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
                 "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
@@ -19351,7 +19351,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_b1_q5",
-              "question": "ಪ್ರಶ್ನೆ: कौन सा शब्द भूतकाल दर्शाता है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
               "options": [
                 "खाना",
                 "खाया",
@@ -19363,7 +19363,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_b1_q6",
-              "question": "ಪ್ರಶ್ನೆ: कौन सा शब्द भविष्य काल दर्शाता है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
               "options": [
                 "पढ़ना",
                 "पढ़ रहा",
@@ -19375,7 +19375,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_b1_q7",
-              "question": "ಪ್ರಶ್ನೆ: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
               "options": [
                 "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
                 "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
@@ -19393,7 +19393,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_hi_b1_q1",
-            "question": "ಪ್ರಶ್ನೆ: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
               "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -19405,7 +19405,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_b1_q2",
-            "question": "ಪ್ರಶ್ನೆ: \"वह कल आया।\" यह कौन सा काल है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
               "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -19417,7 +19417,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_b1_q3",
-            "question": "ಪ್ರಶ್ನೆ: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
               "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
@@ -19429,7 +19429,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_b1_q4",
-            "question": "ಪ್ರಶ್ನೆ: \"वह गा रही है।\" यह कौन सा काल है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
               "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
@@ -19441,7 +19441,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_b1_q5",
-            "question": "ಪ್ರಶ್ನೆ: कौन सा शब्द भूतकाल दर्शाता है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
             "options": [
               "खाना",
               "खाया",
@@ -19453,7 +19453,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_b1_q6",
-            "question": "ಪ್ರಶ್ನೆ: कौन सा शब्द भविष्य काल दर्शाता है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
             "options": [
               "पढ़ना",
               "पढ़ रहा",
@@ -19465,7 +19465,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_b1_q7",
-            "question": "ಪ್ರಶ್ನೆ: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
             "options": [
               "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
               "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
@@ -19480,7 +19480,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_hi_b1_q1",
-          "question": "ಪ್ರಶ್ನೆ: \"मैं स्कूल जाता हूँ।\" यह कौन सा काल है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
             "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -19492,7 +19492,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_b1_q2",
-          "question": "ಪ್ರಶ್ನೆ: \"वह कल आया।\" यह कौन सा काल है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
             "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -19504,7 +19504,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_b1_q3",
-          "question": "ಪ್ರಶ್ನೆ: \"मैं कल जाऊँगा।\" यह कौन सा काल है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
             "भविष्य काल (ಭವಿಷ್ಯತ್ ಕಾಲ್ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
@@ -19516,7 +19516,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_b1_q4",
-          "question": "ಪ್ರಶ್ನೆ: \"वह गा रही है।\" यह कौन सा काल है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
             "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
@@ -19528,7 +19528,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_b1_q5",
-          "question": "ಪ್ರಶ್ನೆ: कौन सा शब्द भूतकाल दर्शाता है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
           "options": [
             "खाना",
             "खाया",
@@ -19540,7 +19540,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_b1_q6",
-          "question": "ಪ್ರಶ್ನೆ: कौन सा शब्द भविष्य काल दर्शाता है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
           "options": [
             "पढ़ना",
             "पढ़ रहा",
@@ -19552,7 +19552,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_b1_q7",
-          "question": "ಪ್ರಶ್ನೆ: \"वे खेल रहे हैं।\" यह कौन सा काल है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
           "options": [
             "वर्तमान काल (ವರ್ತಮಾನ್ ಕಾಲ್ - ವರ್ತಮಾನ ಕಾಲ))",
             "भूतकाल (ಭೂತ್‌ಕಾಲ್ - ಭೂತಕಾಲ))",
@@ -19582,7 +19582,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_hi_i1_q1",
-              "question": "ಪ್ರಶ್ನೆ: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
               "options": [
                 "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
                 "और (ಔರ್ - ಮತ್ತು))",
@@ -19594,7 +19594,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_i1_q2",
-              "question": "ಪ್ರಶ್ನೆ: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "माता",
                 "और (ಔರ್ - ಮತ್ತು))",
@@ -19606,7 +19606,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_i1_q3",
-              "question": "ಪ್ರಶ್ನೆ: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
                 "पढ़ाई",
@@ -19618,7 +19618,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_i1_q4",
-              "question": "ಪ್ರಶ್ನೆ: \"और\" एक ______ है।",
+              "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
               "options": [
                 "ಸಂಯೋಜಕ (ಸಂಯೋಜಕ - ಜೋಡಣೆ)",
                 "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
@@ -19630,7 +19630,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_i1_q5",
-              "question": "ಪ್ರಶ್ನೆ: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
               "options": [
                 "कारण बताने के लिए",
                 "व्यक्ति के नाम के लिए",
@@ -19642,7 +19642,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_i1_q6",
-              "question": "ಪ್ರಶ್ನೆ: निम्न में से कौन सा संयोजक है?",
+              "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "और (ಔರ್ - ಮತ್ತು))",
                 "घर",
@@ -19654,7 +19654,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_i1_q7",
-              "question": "ಪ್ರಶ್ನೆ: \"या\" शब्द का क्या अर्थ है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "दो विकल्पों में से एक का चयन",
                 "स्थान",
@@ -19672,7 +19672,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_hi_i1_q1",
-            "question": "ಪ್ರಶ್ನೆ: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
             "options": [
               "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
               "और (ಔರ್ - ಮತ್ತು))",
@@ -19684,7 +19684,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_i1_q2",
-            "question": "ಪ್ರಶ್ನೆ: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "माता",
               "और (ಔರ್ - ಮತ್ತು))",
@@ -19696,7 +19696,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_i1_q3",
-            "question": "ಪ್ರಶ್ನೆ: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
               "पढ़ाई",
@@ -19708,7 +19708,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_i1_q4",
-            "question": "ಪ್ರಶ್ನೆ: \"और\" एक ______ है।",
+            "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
             "options": [
               "ಸಂಯೋಜಕ (ಸಂಯೋಜಕ - ಜೋಡಣೆ)",
               "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
@@ -19720,7 +19720,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_i1_q5",
-            "question": "ಪ್ರಶ್ನೆ: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
             "options": [
               "कारण बताने के लिए",
               "व्यक्ति के नाम के लिए",
@@ -19732,7 +19732,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_i1_q6",
-            "question": "ಪ್ರಶ್ನೆ: निम्न में से कौन सा संयोजक है?",
+            "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "और (ಔರ್ - ಮತ್ತು))",
               "घर",
@@ -19744,7 +19744,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_i1_q7",
-            "question": "ಪ್ರಶ್ನೆ: \"या\" शब्द का क्या अर्थ है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "दो विकल्पों में से एक का चयन",
               "स्थान",
@@ -19759,7 +19759,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_hi_i1_q1",
-          "question": "ಪ್ರಶ್ನೆ: दो विचारों को जोड़ने वाला शब्द कौन सा है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
           "options": [
             "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
             "और (ಔರ್ - ಮತ್ತು))",
@@ -19771,7 +19771,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_i1_q2",
-          "question": "ಪ್ರಶ್ನೆ: \"माता और पिता\" में संयोजक शब्द कौन सा है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "माता",
             "और (ಔರ್ - ಮತ್ತು))",
@@ -19783,7 +19783,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_i1_q3",
-          "question": "ಪ್ರಶ್ನೆ: \"उसने पढ़ाई की, लेकिन पास नहीं हुआ।\" में संयोजक शब्द कौन सा है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "लेकिन (ಲೇಕಿನ್ - ಆದರೆ))",
             "पढ़ाई",
@@ -19795,7 +19795,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_i1_q4",
-          "question": "ಪ್ರಶ್ನೆ: \"और\" एक ______ है।",
+          "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
           "options": [
             "ಸಂಯೋಜಕ (ಸಂಯೋಜಕ - ಜೋಡಣೆ)",
             "संज्ञा (ಸಂಜ್ಞಾ - ನಾಮಪದ))",
@@ -19807,7 +19807,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_i1_q5",
-          "question": "ಪ್ರಶ್ನೆ: \"क्योंकि\" का प्रयोग कब किया जाता है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
           "options": [
             "कारण बताने के लिए",
             "व्यक्ति के नाम के लिए",
@@ -19819,7 +19819,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_i1_q6",
-          "question": "ಪ್ರಶ್ನೆ: निम्न में से कौन सा संयोजक है?",
+          "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "और (ಔರ್ - ಮತ್ತು))",
             "घर",
@@ -19831,7 +19831,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_i1_q7",
-          "question": "ಪ್ರಶ್ನೆ: \"या\" शब्द का क्या अर्थ है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "दो विकल्पों में से एक का चयन",
             "स्थान",
@@ -19861,7 +19861,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_hi_a1_q1",
-              "question": "ಪ್ರಶ್ನೆ: राहुल कहाँ जाता है?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
               "options": [
                 "बाजार",
                 "स्कूल",
@@ -19873,7 +19873,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_a1_q2",
-              "question": "ಪ್ರಶ್ನೆ: राहुल को क्या पसंद है?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
               "options": [
                 "खेल खेलना",
                 "किताबें पढ़ना",
@@ -19885,7 +19885,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_a1_q3",
-              "question": "ಪ್ರಶ್ನೆ: यह गद्यांश किसके बारे में है?",
+              "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
               "options": [
                 "सीता",
                 "राहुल",
@@ -19897,7 +19897,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_a1_q4",
-              "question": "ಪ್ರಶ್ನೆ: \"रोज़ाना\" का क्या अर्थ है?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "ಪ್ರತಿದಿನ (ಪ್ರತಿ ದಿನ - ಹರ್ ದಿನ್)",
                 "कल",
@@ -19909,7 +19909,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_a1_q5",
-              "question": "ಪ್ರಶ್ನೆ: राहुल क्या करता है?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
               "options": [
                 "स्कूल जाता है",
                 "बाजार जाता है",
@@ -19921,7 +19921,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_a1_q6",
-              "question": "ಪ್ರಶ್ನೆ: गद्यांश का मुख्य विचार क्या है?",
+              "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
               "options": [
                 "स्कूल जाना और पुस्तकें पढ़ना",
                 "यात्रा करना",
@@ -19933,7 +19933,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_hi_a1_q7",
-              "question": "ಪ್ರಶ್ನೆ: कौन सा वाक्य सही है?",
+              "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
               "options": [
                 "राहुल को किताबें पढ़ना पसंद है।",
                 "राहुल कभी स्कूल नहीं जाता।",
@@ -19951,7 +19951,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_hi_a1_q1",
-            "question": "ಪ್ರಶ್ನೆ: राहुल कहाँ जाता है?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
             "options": [
               "बाजार",
               "स्कूल",
@@ -19963,7 +19963,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_a1_q2",
-            "question": "ಪ್ರಶ್ನೆ: राहुल को क्या पसंद है?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
             "options": [
               "खेल खेलना",
               "किताबें पढ़ना",
@@ -19975,7 +19975,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_a1_q3",
-            "question": "ಪ್ರಶ್ನೆ: यह गद्यांश किसके बारे में है?",
+            "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
             "options": [
               "सीता",
               "राहुल",
@@ -19987,7 +19987,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_a1_q4",
-            "question": "ಪ್ರಶ್ನೆ: \"रोज़ाना\" का क्या अर्थ है?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "ಪ್ರತಿದಿನ (ಪ್ರತಿ ದಿನ - ಹರ್ ದಿನ್)",
               "कल",
@@ -19999,7 +19999,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_a1_q5",
-            "question": "ಪ್ರಶ್ನೆ: राहुल क्या करता है?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
             "options": [
               "स्कूल जाता है",
               "बाजार जाता है",
@@ -20011,7 +20011,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_a1_q6",
-            "question": "ಪ್ರಶ್ನೆ: गद्यांश का मुख्य विचार क्या है?",
+            "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
             "options": [
               "स्कूल जाना और पुस्तकें पढ़ना",
               "यात्रा करना",
@@ -20023,7 +20023,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_hi_a1_q7",
-            "question": "ಪ್ರಶ್ನೆ: कौन सा वाक्य सही है?",
+            "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
             "options": [
               "राहुल को किताबें पढ़ना पसंद है।",
               "राहुल कभी स्कूल नहीं जाता।",
@@ -20038,7 +20038,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_hi_a1_q1",
-          "question": "ಪ್ರಶ್ನೆ: राहुल कहाँ जाता है?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
           "options": [
             "बाजार",
             "स्कूल",
@@ -20050,7 +20050,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_a1_q2",
-          "question": "ಪ್ರಶ್ನೆ: राहुल को क्या पसंद है?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
           "options": [
             "खेल खेलना",
             "किताबें पढ़ना",
@@ -20062,7 +20062,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_a1_q3",
-          "question": "ಪ್ರಶ್ನೆ: यह गद्यांश किसके बारे में है?",
+          "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
           "options": [
             "सीता",
             "राहुल",
@@ -20074,7 +20074,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_a1_q4",
-          "question": "ಪ್ರಶ್ನೆ: \"रोज़ाना\" का क्या अर्थ है?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "ಪ್ರತಿದಿನ (ಪ್ರತಿ ದಿನ - ಹರ್ ದಿನ್)",
             "कल",
@@ -20086,7 +20086,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_a1_q5",
-          "question": "ಪ್ರಶ್ನೆ: राहुल क्या करता है?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
           "options": [
             "स्कूल जाता है",
             "बाजार जाता है",
@@ -20098,7 +20098,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_a1_q6",
-          "question": "ಪ್ರಶ್ನೆ: गद्यांश का मुख्य विचार क्या है?",
+          "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
           "options": [
             "स्कूल जाना और पुस्तकें पढ़ना",
             "यात्रा करना",
@@ -20110,7 +20110,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_hi_a1_q7",
-          "question": "ಪ್ರಶ್ನೆ: कौन सा वाक्य सही है?",
+          "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
           "options": [
             "राहुल को किताबें पढ़ना पसंद है।",
             "राहुल कभी स्कूल नहीं जाता।",
@@ -20142,7 +20142,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_ta_f1_q1",
-              "question": "ಪ್ರಶ್ನೆ: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+              "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
               "options": [
                 "14 (14 - ಹದಿನಾಲ್ಕು))",
                 "15 (15 - ಹದಿನೈದು))",
@@ -20154,7 +20154,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_f1_q2",
-              "question": "ಪ್ರಶ್ನೆ: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
               "options": [
                 "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
                 "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
@@ -20166,7 +20166,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_f1_q3",
-              "question": "ಪ್ರಶ್ನೆ: \"மரம்\" என்பதன் பன்மை?",
+              "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
               "options": [
                 "மரம் (ಮರಂ - ಮರ))",
                 "மரங்கள் (ಮರಂಗಳ್ - ಮರಗಳು))",
@@ -20178,7 +20178,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_f1_q4",
-              "question": "ಪ್ರಶ್ನೆ: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
               "options": [
                 "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
                 "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
@@ -20190,7 +20190,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_f1_q5",
-              "question": "ಪ್ರಶ್ನೆ: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
               "options": [
                 "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
                 "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
@@ -20202,7 +20202,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_f1_q6",
-              "question": "ಪ್ರಶ್ನೆ: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+              "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "பேனா",
                 "நோட்டு",
@@ -20214,7 +20214,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_f1_q7",
-              "question": "ಪ್ರಶ್ನೆ: \"பள்ளி\" என்பதன் பொருள் என்ன?",
+              "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "மருத்துவமனை",
                 "கற்கும் இடம்",
@@ -20232,7 +20232,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_ta_f1_q1",
-            "question": "ಪ್ರಶ್ನೆ: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+            "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
             "options": [
               "14 (14 - ಹದಿನಾಲ್ಕು))",
               "15 (15 - ಹದಿನೈದು))",
@@ -20244,7 +20244,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_f1_q2",
-            "question": "ಪ್ರಶ್ನೆ: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
             "options": [
               "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
               "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
@@ -20256,7 +20256,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_f1_q3",
-            "question": "ಪ್ರಶ್ನೆ: \"மரம்\" என்பதன் பன்மை?",
+            "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
             "options": [
               "மரம் (ಮರಂ - ಮರ))",
               "மரங்கள் (ಮರಂಗಳ್ - ಮರಗಳು))",
@@ -20268,7 +20268,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_f1_q4",
-            "question": "ಪ್ರಶ್ನೆ: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
             "options": [
               "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
               "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
@@ -20280,7 +20280,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_f1_q5",
-            "question": "ಪ್ರಶ್ನೆ: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
             "options": [
               "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
               "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
@@ -20292,7 +20292,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_f1_q6",
-            "question": "ಪ್ರಶ್ನೆ: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+            "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "பேனா",
               "நோட்டு",
@@ -20304,7 +20304,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_f1_q7",
-            "question": "ಪ್ರಶ್ನೆ: \"பள்ளி\" என்பதன் பொருள் என்ன?",
+            "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "மருத்துவமனை",
               "கற்கும் இடம்",
@@ -20319,7 +20319,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_ta_f1_q1",
-          "question": "ಪ್ರಶ್ನೆ: தமிழ் மொழியில் உயிரெழுத்துகள் எத்தனை?",
+          "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
           "options": [
             "14 (14 - ಹದಿನಾಲ್ಕು))",
             "15 (15 - ಹದಿನೈದು))",
@@ -20331,7 +20331,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_f1_q2",
-          "question": "ಪ್ರಶ್ನೆ: \"அம்மா\" என்பது எந்த வகைச் சொல்?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
           "options": [
             "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
             "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
@@ -20343,7 +20343,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_f1_q3",
-          "question": "ಪ್ರಶ್ನೆ: \"மரம்\" என்பதன் பன்மை?",
+          "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
           "options": [
             "மரம் (ಮರಂ - ಮರ))",
             "மரங்கள் (ಮರಂಗಳ್ - ಮರಗಳು))",
@@ -20355,7 +20355,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_f1_q4",
-          "question": "ಪ್ರಶ್ನೆ: \"அழகான\" என்பது எந்த வகைச் சொல்?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
           "options": [
             "உரிச்சொல் (ಉರಿಚ್‌ಸೊಲ್ - ವಿಶೇಷಣ))",
             "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
@@ -20367,7 +20367,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_f1_q5",
-          "question": "ಪ್ರಶ್ನೆ: \"படிக்கிறான்\" என்பது எந்த வகைச் சொல்?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
           "options": [
             "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
             "வினைச்சொல் (ವಿನೈಚ್‌ಸೊಲ್ - ಕ್ರಿಯಾಪದ))",
@@ -20379,7 +20379,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_f1_q6",
-          "question": "ಪ್ರಶ್ನೆ: \"புத்தகம்\" என்பதன் வேறு சொல்?",
+          "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "பேனா",
             "நோட்டு",
@@ -20391,7 +20391,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_f1_q7",
-          "question": "ಪ್ರಶ್ನೆ: \"பள்ளி\" என்பதன் பொருள் என்ன?",
+          "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "மருத்துவமனை",
             "கற்கும் இடம்",
@@ -20421,7 +20421,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_ta_b1_q1",
-              "question": "ಪ್ರಶ್ನೆ: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+              "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
                 "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -20433,7 +20433,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_b1_q2",
-              "question": "ಪ್ರಶ್ನೆ: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
                 "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -20445,7 +20445,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_b1_q3",
-              "question": "ಪ್ರಶ್ನೆ: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+              "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
                 "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
@@ -20457,7 +20457,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_b1_q4",
-              "question": "ಪ್ರಶ್ನೆ: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
                 "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -20469,7 +20469,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_b1_q5",
-              "question": "ಪ್ರಶ್ನೆ: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+              "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
               "options": [
                 "சாப்பிடு",
                 "சாப்பிட்டான்",
@@ -20481,7 +20481,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_b1_q6",
-              "question": "ಪ್ರಶ್ನೆ: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
               "options": [
                 "படி",
                 "படிக்கிறான்",
@@ -20493,7 +20493,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_b1_q7",
-              "question": "ಪ್ರಶ್ನೆ: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
               "options": [
                 "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
                 "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -20511,7 +20511,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_ta_b1_q1",
-            "question": "ಪ್ರಶ್ನೆ: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+            "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
               "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -20523,7 +20523,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_b1_q2",
-            "question": "ಪ್ರಶ್ನೆ: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
               "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -20535,7 +20535,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_b1_q3",
-            "question": "ಪ್ರಶ್ನೆ: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+            "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
               "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
@@ -20547,7 +20547,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_b1_q4",
-            "question": "ಪ್ರಶ್ನೆ: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
               "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -20559,7 +20559,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_b1_q5",
-            "question": "ಪ್ರಶ್ನೆ: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+            "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
             "options": [
               "சாப்பிடு",
               "சாப்பிட்டான்",
@@ -20571,7 +20571,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_b1_q6",
-            "question": "ಪ್ರಶ್ನೆ: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
             "options": [
               "படி",
               "படிக்கிறான்",
@@ -20583,7 +20583,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_b1_q7",
-            "question": "ಪ್ರಶ್ನೆ: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
             "options": [
               "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
               "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -20598,7 +20598,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_ta_b1_q1",
-          "question": "ಪ್ರಶ್ನೆ: \"நான் பள்ளிக்குச் செல்கிறேன்.\" இது எந்த காலம்?",
+          "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
             "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -20610,7 +20610,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_b1_q2",
-          "question": "ಪ್ರಶ್ನೆ: \"அவன் நேற்று வந்தான்.\" இது எந்த காலம்?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
             "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -20622,7 +20622,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_b1_q3",
-          "question": "ಪ್ರಶ್ನೆ: \"நான் நாளை செல்வேன்.\" இது எந்த காலம்?",
+          "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
             "எதிர்காலம் (ಎದಿರ್ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
@@ -20634,7 +20634,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_b1_q4",
-          "question": "ಪ್ರಶ್ನೆ: \"அவள் பாடுகிறாள்.\" இது எந்த காலம்?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
             "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -20646,7 +20646,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_b1_q5",
-          "question": "ಪ್ರಶ್ನೆ: எந்த சொல் இறந்தகாலத்தைக் காட்டுகிறது?",
+          "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
           "options": [
             "சாப்பிடு",
             "சாப்பிட்டான்",
@@ -20658,7 +20658,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_b1_q6",
-          "question": "ಪ್ರಶ್ನೆ: எந்த சொல் எதிர்காலத்தைக் காட்டுகிறது?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
           "options": [
             "படி",
             "படிக்கிறான்",
@@ -20670,7 +20670,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_b1_q7",
-          "question": "ಪ್ರಶ್ನೆ: \"அவர்கள் விளையாடுகிறார்கள்.\" இது எந்த காலம்?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
           "options": [
             "நிகழ்காலம் (ನಿಗಳ್‌ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
             "இறந்தகாலம் (ಇರಂದಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -20700,7 +20700,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_ta_i1_q1",
-              "question": "ಪ್ರಶ್ನೆ: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+              "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
               "options": [
                 "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
                 "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
@@ -20712,7 +20712,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_i1_q2",
-              "question": "ಪ್ರಶ್ನೆ: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+              "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "அம்மா",
                 "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
@@ -20724,7 +20724,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_i1_q3",
-              "question": "ಪ್ರಶ್ನೆ: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
                 "படித்தான்",
@@ -20736,7 +20736,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_i1_q4",
-              "question": "ಪ್ರಶ್ನೆ: \"மற்றும்\" என்பது ஒரு ______.",
+              "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
               "options": [
                 "இணைப்புச் சொல் (ಇಣೈಪ್ಪುಚ್‌ಸೊಲ್ - ಸಂಪರ್ಕ ಪದ))",
                 "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
@@ -20748,7 +20748,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_i1_q5",
-              "question": "ಪ್ರಶ್ನೆ: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
               "options": [
                 "காரணம் கூற",
                 "பெயர் கூற",
@@ -20760,7 +20760,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_i1_q6",
-              "question": "ಪ್ರಶ್ನೆ: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+              "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
                 "வீடு",
@@ -20772,7 +20772,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_i1_q7",
-              "question": "ಪ್ರಶ್ನೆ: \"அல்லது\" என்பதன் பொருள் என்ன?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "இரண்டு தேர்வுகளில் ஒன்று",
                 "இடம்",
@@ -20790,7 +20790,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_ta_i1_q1",
-            "question": "ಪ್ರಶ್ನೆ: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+            "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
             "options": [
               "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
               "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
@@ -20802,7 +20802,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_i1_q2",
-            "question": "ಪ್ರಶ್ನೆ: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+            "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "அம்மா",
               "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
@@ -20814,7 +20814,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_i1_q3",
-            "question": "ಪ್ರಶ್ನೆ: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
               "படித்தான்",
@@ -20826,7 +20826,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_i1_q4",
-            "question": "ಪ್ರಶ್ನೆ: \"மற்றும்\" என்பது ஒரு ______.",
+            "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
             "options": [
               "இணைப்புச் சொல் (ಇಣೈಪ್ಪುಚ್‌ಸೊಲ್ - ಸಂಪರ್ಕ ಪದ))",
               "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
@@ -20838,7 +20838,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_i1_q5",
-            "question": "ಪ್ರಶ್ನೆ: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
             "options": [
               "காரணம் கூற",
               "பெயர் கூற",
@@ -20850,7 +20850,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_i1_q6",
-            "question": "ಪ್ರಶ್ನೆ: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+            "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
               "வீடு",
@@ -20862,7 +20862,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_i1_q7",
-            "question": "ಪ್ರಶ್ನೆ: \"அல்லது\" என்பதன் பொருள் என்ன?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "இரண்டு தேர்வுகளில் ஒன்று",
               "இடம்",
@@ -20877,7 +20877,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_ta_i1_q1",
-          "question": "ಪ್ರಶ್ನೆ: இரண்டு எண்ணங்களை இணைக்கும் சொல் எது?",
+          "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
           "options": [
             "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
             "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
@@ -20889,7 +20889,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_i1_q2",
-          "question": "ಪ್ರಶ್ನೆ: \"அம்மாவும் அப்பாவும்\" என்பதில் இணைப்புச் சொல் எது?",
+          "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "அம்மா",
             "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
@@ -20901,7 +20901,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_i1_q3",
-          "question": "ಪ್ರಶ್ನೆ: \"அவன் படித்தான், ஆனால் தேர்ச்சி பெறவில்லை.\" இதில் இணைப்புச் சொல் எது?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "ஆனால் (ಆನಾಲ್ - ಆದರೆ))",
             "படித்தான்",
@@ -20913,7 +20913,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_i1_q4",
-          "question": "ಪ್ರಶ್ನೆ: \"மற்றும்\" என்பது ஒரு ______.",
+          "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
           "options": [
             "இணைப்புச் சொல் (ಇಣೈಪ್ಪುಚ್‌ಸೊಲ್ - ಸಂಪರ್ಕ ಪದ))",
             "பெயர்ச்சொல் (ಪೆಯರ್ಚ್‌ಸೊಲ್ - ನಾಮಪದ))",
@@ -20925,7 +20925,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_i1_q5",
-          "question": "ಪ್ರಶ್ನೆ: \"ஏனெனில்\" என்ற சொல் எப்போது பயன்படும்?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
           "options": [
             "காரணம் கூற",
             "பெயர் கூற",
@@ -20937,7 +20937,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_i1_q6",
-          "question": "ಪ್ರಶ್ನೆ: பின்வருவனவற்றில் எது இணைப்புச் சொல்?",
+          "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "மற்றும் (ಮಟ್ರುಮ್ - ಮತ್ತು))",
             "வீடு",
@@ -20949,7 +20949,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_i1_q7",
-          "question": "ಪ್ರಶ್ನೆ: \"அல்லது\" என்பதன் பொருள் என்ன?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "இரண்டு தேர்வுகளில் ஒன்று",
             "இடம்",
@@ -20979,7 +20979,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_ta_a1_q1",
-              "question": "ಪ್ರಶ್ನೆ: ராகுல் எங்கே செல்கிறான்?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
               "options": [
                 "சந்தை",
                 "பள்ளி",
@@ -20991,7 +20991,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_a1_q2",
-              "question": "ಪ್ರಶ್ನೆ: ராகுலுக்கு என்ன பிடிக்கும்?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
               "options": [
                 "விளையாடுவது",
                 "புத்தகங்கள் படிப்பது",
@@ -21003,7 +21003,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_a1_q3",
-              "question": "ಪ್ರಶ್ನೆ: இந்தப் பத்தி யாரைப் பற்றியது?",
+              "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
               "options": [
                 "சீதா",
                 "ராகுல்",
@@ -21015,7 +21015,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_a1_q4",
-              "question": "ಪ್ರಶ್ನೆ: \"தினமும்\" என்பதன் பொருள் என்ன?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "ஒவ்வொரு நாளும்",
                 "நேற்று",
@@ -21027,7 +21027,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_a1_q5",
-              "question": "ಪ್ರಶ್ನೆ: ராகுல் என்ன செய்கிறான்?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
               "options": [
                 "பள்ளிக்குச் செல்கிறான்",
                 "சந்தைக்குச் செல்கிறான்",
@@ -21039,7 +21039,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_a1_q6",
-              "question": "ಪ್ರಶ್ನೆ: இந்தப் பத்தியின் முக்கியக் கருத்து என்ன?",
+              "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
               "options": [
                 "பள்ளி செல்வது மற்றும் வாசிப்பது",
                 "பயணம்",
@@ -21051,7 +21051,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_ta_a1_q7",
-              "question": "ಪ್ರಶ್ನೆ: எந்த வாக்கியம் சரியானது?",
+              "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
               "options": [
                 "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும்.",
                 "ராகுல் பள்ளிக்குச் செல்வதில்லை.",
@@ -21069,7 +21069,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_ta_a1_q1",
-            "question": "ಪ್ರಶ್ನೆ: ராகுல் எங்கே செல்கிறான்?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
             "options": [
               "சந்தை",
               "பள்ளி",
@@ -21081,7 +21081,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_a1_q2",
-            "question": "ಪ್ರಶ್ನೆ: ராகுலுக்கு என்ன பிடிக்கும்?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
             "options": [
               "விளையாடுவது",
               "புத்தகங்கள் படிப்பது",
@@ -21093,7 +21093,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_a1_q3",
-            "question": "ಪ್ರಶ್ನೆ: இந்தப் பத்தி யாரைப் பற்றியது?",
+            "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
             "options": [
               "சீதா",
               "ராகுல்",
@@ -21105,7 +21105,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_a1_q4",
-            "question": "ಪ್ರಶ್ನೆ: \"தினமும்\" என்பதன் பொருள் என்ன?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "ஒவ்வொரு நாளும்",
               "நேற்று",
@@ -21117,7 +21117,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_a1_q5",
-            "question": "ಪ್ರಶ್ನೆ: ராகுல் என்ன செய்கிறான்?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
             "options": [
               "பள்ளிக்குச் செல்கிறான்",
               "சந்தைக்குச் செல்கிறான்",
@@ -21129,7 +21129,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_a1_q6",
-            "question": "ಪ್ರಶ್ನೆ: இந்தப் பத்தியின் முக்கியக் கருத்து என்ன?",
+            "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
             "options": [
               "பள்ளி செல்வது மற்றும் வாசிப்பது",
               "பயணம்",
@@ -21141,7 +21141,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_ta_a1_q7",
-            "question": "ಪ್ರಶ್ನೆ: எந்த வாக்கியம் சரியானது?",
+            "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
             "options": [
               "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும்.",
               "ராகுல் பள்ளிக்குச் செல்வதில்லை.",
@@ -21156,7 +21156,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_ta_a1_q1",
-          "question": "ಪ್ರಶ್ನೆ: ராகுல் எங்கே செல்கிறான்?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
           "options": [
             "சந்தை",
             "பள்ளி",
@@ -21168,7 +21168,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_a1_q2",
-          "question": "ಪ್ರಶ್ನೆ: ராகுலுக்கு என்ன பிடிக்கும்?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
           "options": [
             "விளையாடுவது",
             "புத்தகங்கள் படிப்பது",
@@ -21180,7 +21180,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_a1_q3",
-          "question": "ಪ್ರಶ್ನೆ: இந்தப் பத்தி யாரைப் பற்றியது?",
+          "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
           "options": [
             "சீதா",
             "ராகுல்",
@@ -21192,7 +21192,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_a1_q4",
-          "question": "ಪ್ರಶ್ನೆ: \"தினமும்\" என்பதன் பொருள் என்ன?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "ஒவ்வொரு நாளும்",
             "நேற்று",
@@ -21204,7 +21204,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_a1_q5",
-          "question": "ಪ್ರಶ್ನೆ: ராகுல் என்ன செய்கிறான்?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
           "options": [
             "பள்ளிக்குச் செல்கிறான்",
             "சந்தைக்குச் செல்கிறான்",
@@ -21216,7 +21216,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_a1_q6",
-          "question": "ಪ್ರಶ್ನೆ: இந்தப் பத்தியின் முக்கியக் கருத்து என்ன?",
+          "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
           "options": [
             "பள்ளி செல்வது மற்றும் வாசிப்பது",
             "பயணம்",
@@ -21228,7 +21228,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_ta_a1_q7",
-          "question": "ಪ್ರಶ್ನೆ: எந்த வாக்கியம் சரியானது?",
+          "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
           "options": [
             "ராகுலுக்குப் புத்தகங்கள் படிக்கப் பிடிக்கும்.",
             "ராகுல் பள்ளிக்குச் செல்வதில்லை.",
@@ -21260,7 +21260,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_te_f1_q1",
-              "question": "ಪ್ರಶ್ನೆ: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+              "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
               "options": [
                 "14 (14 - ಹದಿನಾಲ್ಕು))",
                 "15 (15 - ಹದಿನೈದು))",
@@ -21272,7 +21272,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_f1_q2",
-              "question": "ಪ್ರಶ್ನೆ: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
               "options": [
                 "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
                 "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
@@ -21284,7 +21284,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_f1_q3",
-              "question": "ಪ್ರಶ್ನೆ: “చెట్టు” పదానికి బహువచనం ఏది?",
+              "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
               "options": [
                 "చెట్టు (ಚೆಟ್ಟು - ಮರ))",
                 "చెట్లు (ಚೆಟ್ಲು - ಮರಗಳು))",
@@ -21296,7 +21296,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_f1_q4",
-              "question": "ಪ್ರಶ್ನೆ: “మంచి” ఏ పదవర్గం?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
               "options": [
                 "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
                 "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
@@ -21308,7 +21308,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_f1_q5",
-              "question": "ಪ್ರಶ್ನೆ: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
               "options": [
                 "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
                 "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
@@ -21320,7 +21320,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_f1_q6",
-              "question": "ಪ್ರಶ್ನೆ: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+              "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "ఇల్లు",
                 "గ్రంథం",
@@ -21332,7 +21332,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_f1_q7",
-              "question": "ಪ್ರಶ್ನೆ: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+              "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "ఆసుపత్రి",
                 "పాఠాలు నేర్చుకునే స్థలం",
@@ -21350,7 +21350,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_te_f1_q1",
-            "question": "ಪ್ರಶ್ನೆ: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+            "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
             "options": [
               "14 (14 - ಹದಿನಾಲ್ಕು))",
               "15 (15 - ಹದಿನೈದು))",
@@ -21362,7 +21362,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_f1_q2",
-            "question": "ಪ್ರಶ್ನೆ: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
             "options": [
               "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
               "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
@@ -21374,7 +21374,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_f1_q3",
-            "question": "ಪ್ರಶ್ನೆ: “చెట్టు” పదానికి బహువచనం ఏది?",
+            "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
             "options": [
               "చెట్టు (ಚೆಟ್ಟು - ಮರ))",
               "చెట్లు (ಚೆಟ್ಲು - ಮರಗಳು))",
@@ -21386,7 +21386,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_f1_q4",
-            "question": "ಪ್ರಶ್ನೆ: “మంచి” ఏ పదవర్గం?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
             "options": [
               "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
               "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
@@ -21398,7 +21398,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_f1_q5",
-            "question": "ಪ್ರಶ್ನೆ: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
             "options": [
               "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
               "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
@@ -21410,7 +21410,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_f1_q6",
-            "question": "ಪ್ರಶ್ನೆ: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+            "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "ఇల్లు",
               "గ్రంథం",
@@ -21422,7 +21422,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_f1_q7",
-            "question": "ಪ್ರಶ್ನೆ: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+            "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "ఆసుపత్రి",
               "పాఠాలు నేర్చుకునే స్థలం",
@@ -21437,7 +21437,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_te_f1_q1",
-          "question": "ಪ್ರಶ್ನೆ: తెలుగు వర్ణమాలలో అచ్చులు ఎన్ని ఉన్నాయి?",
+          "question": "ಪ್ರಶ್ನೆ: Apple ಪದವು ಯಾವ ಅಕ್ಷರದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?",
           "options": [
             "14 (14 - ಹದಿನಾಲ್ಕು))",
             "15 (15 - ಹದಿನೈದು))",
@@ -21449,7 +21449,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_f1_q2",
-          "question": "ಪ್ರಶ್ನೆ: “అమ్మ” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ನಾಮಪದ (Noun) ಯಾವುದು?",
           "options": [
             "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
             "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
@@ -21461,7 +21461,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_f1_q3",
-          "question": "ಪ್ರಶ್ನೆ: “చెట్టు” పదానికి బహువచనం ఏది?",
+          "question": "ಪ್ರಶ್ನೆ: Tree ಪದದ ಬಹುವಚನ (Plural) ಯಾವುದು?",
           "options": [
             "చెట్టు (ಚೆಟ್ಟು - ಮರ))",
             "చెట్లు (ಚೆಟ್ಲು - ಮರಗಳು))",
@@ -21473,7 +21473,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_f1_q4",
-          "question": "ಪ್ರಶ್ನೆ: “మంచి” ఏ పదవర్గం?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಗುಣವಾಚಕ (Adjective) ಯಾವುದು?",
           "options": [
             "విశేషణం (ವಿಶೇಷಣಂ - ವಿಶೇಷಣ))",
             "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
@@ -21485,7 +21485,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_f1_q5",
-          "question": "ಪ್ರಶ್ನೆ: “చదువుతున్నాను” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "ಪ್ರಶ್ನೆ: ಇವುಗಳಲ್ಲಿ ಕ್ರಿಯಾಪದ (Verb) ಯಾವುದು?",
           "options": [
             "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
             "క్రియ (ಕ್ರಿಯಾ - ಕ್ರಿಯಾಪದ))",
@@ -21497,7 +21497,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_f1_q6",
-          "question": "ಪ್ರಶ್ನೆ: “పుస్తకం” అనే పదానికి అర్థం ఏమిటి?",
+          "question": "ಪ್ರಶ್ನೆ: House ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "ఇల్లు",
             "గ్రంథం",
@@ -21509,7 +21509,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_f1_q7",
-          "question": "ಪ್ರಶ್ನೆ: “పాఠశాల” అనే పదానికి అర్థం ఏమిటి?",
+          "question": "ಪ್ರಶ್ನೆ: School ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "ఆసుపత్రి",
             "పాఠాలు నేర్చుకునే స్థలం",
@@ -21539,7 +21539,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_te_b1_q1",
-              "question": "ಪ್ರಶ್ನೆ: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+              "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
                 "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -21551,7 +21551,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_b1_q2",
-              "question": "ಪ್ರಶ್ನೆ: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
                 "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -21563,7 +21563,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_b1_q3",
-              "question": "ಪ್ರಶ್ನೆ: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+              "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
                 "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
@@ -21575,7 +21575,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_b1_q4",
-              "question": "ಪ್ರಶ್ನೆ: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
               "options": [
                 "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
                 "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -21587,7 +21587,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_b1_q5",
-              "question": "ಪ್ರಶ್ನೆ: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+              "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
               "options": [
                 "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
                 "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -21599,7 +21599,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_b1_q6",
-              "question": "ಪ್ರಶ್ನೆ: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
               "options": [
                 "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
                 "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -21611,7 +21611,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_b1_q7",
-              "question": "ಪ್ರಶ್ನೆ: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
               "options": [
                 "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
                 "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -21629,7 +21629,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_te_b1_q1",
-            "question": "ಪ್ರಶ್ನೆ: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+            "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
               "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -21641,7 +21641,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_b1_q2",
-            "question": "ಪ್ರಶ್ನೆ: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
               "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -21653,7 +21653,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_b1_q3",
-            "question": "ಪ್ರಶ್ನೆ: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+            "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
               "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
@@ -21665,7 +21665,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_b1_q4",
-            "question": "ಪ್ರಶ್ನೆ: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
             "options": [
               "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
               "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -21677,7 +21677,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_b1_q5",
-            "question": "ಪ್ರಶ್ನೆ: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+            "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
             "options": [
               "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
               "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -21689,7 +21689,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_b1_q6",
-            "question": "ಪ್ರಶ್ನೆ: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
             "options": [
               "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
               "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -21701,7 +21701,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_b1_q7",
-            "question": "ಪ್ರಶ್ನೆ: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
             "options": [
               "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
               "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -21716,7 +21716,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_te_b1_q1",
-          "question": "ಪ್ರಶ್ನೆ: “నేను పాఠశాలకు వెళుతున్నాను.” ఇది ఏ కాలం?",
+          "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
             "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -21728,7 +21728,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_b1_q2",
-          "question": "ಪ್ರಶ್ನೆ: “అతను నిన్న వచ్చాడు.” ఇది ఏ కాలం?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ನಿನ್ನೆ ಬಂದನು.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
             "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -21740,7 +21740,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_b1_q3",
-          "question": "ಪ್ರಶ್ನೆ: “నేను రేపు వెళ్తాను.” ఇది ఏ కాలం?",
+          "question": "ಪ್ರಶ್ನೆ: \"ನಾನು ನಾಳೆ ಹೋಗುತ್ತೇನೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
             "భవిష్యత్ కాలం (ಭವಿಷ್ಯತ್ ಕಾಲಂ - ಭವಿಷ್ಯತ್ ಕಾಲ))",
@@ -21752,7 +21752,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_b1_q4",
-          "question": "ಪ್ರಶ್ನೆ: “ఆమె పాట పాడుతోంది.” ఇది ఏ కాలం?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ.\" ಇದು ಯಾವ ಕಾಲ?",
           "options": [
             "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
             "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -21764,7 +21764,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_b1_q5",
-          "question": "ಪ್ರಶ್ನೆ: “తిన్నాడు” ఏ కాలాన్ని సూచిస్తుంది?",
+          "question": "ಪ್ರಶ್ನೆ: \"ತಿಂದನು\" (Ate) ಇದು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
           "options": [
             "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
             "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -21776,7 +21776,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_b1_q6",
-          "question": "ಪ್ರಶ್ನೆ: “చదువుతాను” ఏ కాలానికి చెందుతుంది?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಓದುತ್ತೇನೆ\" (Will read) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರುತ್ತದೆ?",
           "options": [
             "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
             "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
@@ -21788,7 +21788,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_b1_q7",
-          "question": "ಪ್ರಶ್ನೆ: “ఆడుతున్నాడు” ఏ కాలానికి ఉదాహరణ?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಆಡುತ್ತಿದ್ದಾನೆ\" (Is playing) ಇದು ಯಾವ ಕಾಲಕ್ಕೆ ಉದಾಹರಣೆ?",
           "options": [
             "వర్తమాన కాలం (ವರ್ತಮಾನ ಕಾಲಂ - ವರ್ತಮಾನ ಕಾಲ))",
             "భూతకాలం (ಭೂತಕಾಲಂ - ಭೂತಕಾಲ))",
@@ -21818,7 +21818,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_te_i1_q1",
-              "question": "ಪ್ರಶ್ನೆ: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+              "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
               "options": [
                 "కానీ (ಕಾನೀ - ಆದರೆ))",
                 "మరియు (ಮರಿಯು - ಮತ್ತು))",
@@ -21830,7 +21830,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_i1_q2",
-              "question": "ಪ್ರಶ್ನೆ: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+              "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "అమ్మ",
                 "మరియు (ಮರಿಯು - ಮತ್ತು))",
@@ -21842,7 +21842,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_i1_q3",
-              "question": "ಪ್ರಶ್ನೆ: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "కానీ (ಕಾನೀ - ಆದರೆ))",
                 "చదివాడు",
@@ -21854,7 +21854,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_i1_q4",
-              "question": "ಪ್ರಶ್ನೆ: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
               "options": [
                 "సంధాన పదం (ಸಂಧಾನ ಪದಂ - ಸಂಪರ್ಕ ಪದ))",
                 "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
@@ -21866,7 +21866,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_i1_q5",
-              "question": "ಪ್ರಶ್ನೆ: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
               "options": [
                 "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
                 "నామవాచకంగా",
@@ -21878,7 +21878,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_i1_q6",
-              "question": "ಪ್ರಶ್ನೆ: సరైన సంధాన పదం ఏది?",
+              "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
               "options": [
                 "మరియు (ಮರಿಯು - ಮತ್ತು))",
                 "పుస్తకం",
@@ -21890,7 +21890,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_i1_q7",
-              "question": "ಪ್ರಶ್ನೆ: “లేదా” అంటే ఏమిటి?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "రెండు ఎంపికల్లో ఒకటి",
                 "సమయం",
@@ -21908,7 +21908,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_te_i1_q1",
-            "question": "ಪ್ರಶ್ನೆ: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+            "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
             "options": [
               "కానీ (ಕಾನೀ - ಆದರೆ))",
               "మరియు (ಮರಿಯು - ಮತ್ತು))",
@@ -21920,7 +21920,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_i1_q2",
-            "question": "ಪ್ರಶ್ನೆ: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+            "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "అమ్మ",
               "మరియు (ಮರಿಯು - ಮತ್ತು))",
@@ -21932,7 +21932,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_i1_q3",
-            "question": "ಪ್ರಶ್ನೆ: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "కానీ (ಕಾನೀ - ಆದರೆ))",
               "చదివాడు",
@@ -21944,7 +21944,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_i1_q4",
-            "question": "ಪ್ರಶ್ನೆ: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
             "options": [
               "సంధాన పదం (ಸಂಧಾನ ಪದಂ - ಸಂಪರ್ಕ ಪದ))",
               "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
@@ -21956,7 +21956,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_i1_q5",
-            "question": "ಪ್ರಶ್ನೆ: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
             "options": [
               "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
               "నామవాచకంగా",
@@ -21968,7 +21968,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_i1_q6",
-            "question": "ಪ್ರಶ್ನೆ: సరైన సంధాన పదం ఏది?",
+            "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
             "options": [
               "మరియు (ಮರಿಯು - ಮತ್ತು))",
               "పుస్తకం",
@@ -21980,7 +21980,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_i1_q7",
-            "question": "ಪ್ರಶ್ನೆ: “లేదా” అంటే ఏమిటి?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "రెండు ఎంపికల్లో ఒకటి",
               "సమయం",
@@ -21995,7 +21995,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_te_i1_q1",
-          "question": "ಪ್ರಶ್ನೆ: “రాము మరియు రవి పాఠశాలకు వెళ్లారు.” ఇందులో సంధాన పదం ఏది?",
+          "question": "ಪ್ರಶ್ನೆ: \"ರಾಮ್ ಮತ್ತು ರವಿ ಶಾಲೆಗೆ ಹೋದರು.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ (Conjunction) ಯಾವುದು?",
           "options": [
             "కానీ (ಕಾನೀ - ಆದರೆ))",
             "మరియు (ಮರಿಯು - ಮತ್ತು))",
@@ -22007,7 +22007,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_i1_q2",
-          "question": "ಪ್ರಶ್ನೆ: “అమ్మ మరియు నాన్న”లో సంధాన పదం ఏది?",
+          "question": "ಪ್ರಶ್ನೆ: \"ತಾಯಿ ಮತ್ತು ತಂದೆ\" ಎಂಬಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "అమ్మ",
             "మరియు (ಮರಿಯು - ಮತ್ತು))",
@@ -22019,7 +22019,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_i1_q3",
-          "question": "ಪ್ರಶ್ನೆ: “అతను చదివాడు, కానీ ఉత్తీర్ణుడు కాలేదు.” ఇందులో సంధాన పదం ఏది?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅವನು ಓದಿದನು, ಆದರೆ ಉತ್ತೀರ್ಣನಾಗಲಿಲ್ಲ.\" ಇದರಲ್ಲಿ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "కానీ (ಕಾನೀ - ಆದರೆ))",
             "చదివాడు",
@@ -22031,7 +22031,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_i1_q4",
-          "question": "ಪ್ರಶ್ನೆ: “మరియు” ఏ పదవర్గానికి చెందుతుంది?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಮತ್ತು\" (And) ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರುತ್ತದೆ?",
           "options": [
             "సంధాన పదం (ಸಂಧಾನ ಪದಂ - ಸಂಪರ್ಕ ಪದ))",
             "నామవాచకం (ನಾಮವಾಚಕಂ - ನಾಮಪದ))",
@@ -22043,7 +22043,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_i1_q5",
-          "question": "ಪ್ರಶ್ನೆ: “అందువల్ల” అనే పదాన్ని ఎప్పుడు ఉపయోగిస్తారు?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಆದ್ದರಿಂದ\" (Therefore) ಎಂಬ ಪದವನ್ನು ಯಾವಾಗ ಬಳಸಲಾಗುತ್ತದೆ?",
           "options": [
             "కారణం మరియు ఫలితాన్ని తెలియజేయడానికి",
             "నామవాచకంగా",
@@ -22055,7 +22055,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_i1_q6",
-          "question": "ಪ್ರಶ್ನೆ: సరైన సంధాన పదం ఏది?",
+          "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಸಂಯೋಜಕ ಪದ ಯಾವುದು?",
           "options": [
             "మరియు (ಮರಿಯು - ಮತ್ತು))",
             "పుస్తకం",
@@ -22067,7 +22067,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_i1_q7",
-          "question": "ಪ್ರಶ್ನೆ: “లేదా” అంటే ఏమిటి?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಅಥವಾ\" (Or) ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "రెండు ఎంపికల్లో ఒకటి",
             "సమయం",
@@ -22097,7 +22097,7 @@ export const BILINGUAL_COURSES = {
           "practice_questions": [
             {
               "id": "kn_te_a1_q1",
-              "question": "ಪ್ರಶ್ನೆ: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
               "options": [
                 "మార్కెట్",
                 "పాఠశాల",
@@ -22109,7 +22109,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_a1_q2",
-              "question": "ಪ್ರಶ್ನೆ: రాహుల్కు ఏమి ఇష్టం?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
               "options": [
                 "ఆటలు",
                 "పుస్తకాలు చదవడం",
@@ -22121,7 +22121,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_a1_q3",
-              "question": "ಪ್ರಶ್ನೆ: ఈ గద్యభాగం ఎవరి గురించి?",
+              "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
               "options": [
                 "సీత",
                 "రాహుల్",
@@ -22133,7 +22133,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_a1_q4",
-              "question": "ಪ್ರಶ್ನೆ: “ప్రతిరోజూ” అంటే ఏమిటి?",
+              "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
               "options": [
                 "ప్రతి రోజు",
                 "నిన్న",
@@ -22145,7 +22145,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_a1_q5",
-              "question": "ಪ್ರಶ್ನೆ: రాహుల్ ఏమి చేస్తాడు?",
+              "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
               "options": [
                 "పాఠశాలకు వెళ్తాడు",
                 "మార్కెట్కు వెళ్తాడు",
@@ -22157,7 +22157,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_a1_q6",
-              "question": "ಪ್ರಶ್ನೆ: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+              "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
               "options": [
                 "చదువు మరియు పాఠశాల అలవాటు",
                 "ప్రయాణం",
@@ -22169,7 +22169,7 @@ export const BILINGUAL_COURSES = {
             },
             {
               "id": "kn_te_a1_q7",
-              "question": "ಪ್ರಶ್ನೆ: సరైన వాక్యం ఏది?",
+              "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
               "options": [
                 "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
                 "రాహుల్ పాఠశాలకు వెళ్లడు.",
@@ -22187,7 +22187,7 @@ export const BILINGUAL_COURSES = {
         "questions": [
           {
             "id": "kn_te_a1_q1",
-            "question": "ಪ್ರಶ್ನೆ: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
             "options": [
               "మార్కెట్",
               "పాఠశాల",
@@ -22199,7 +22199,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_a1_q2",
-            "question": "ಪ್ರಶ್ನೆ: రాహుల్కు ఏమి ఇష్టం?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
             "options": [
               "ఆటలు",
               "పుస్తకాలు చదవడం",
@@ -22211,7 +22211,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_a1_q3",
-            "question": "ಪ್ರಶ್ನೆ: ఈ గద్యభాగం ఎవరి గురించి?",
+            "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
             "options": [
               "సీత",
               "రాహుల్",
@@ -22223,7 +22223,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_a1_q4",
-            "question": "ಪ್ರಶ್ನೆ: “ప్రతిరోజూ” అంటే ఏమిటి?",
+            "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
             "options": [
               "ప్రతి రోజు",
               "నిన్న",
@@ -22235,7 +22235,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_a1_q5",
-            "question": "ಪ್ರಶ್ನೆ: రాహుల్ ఏమి చేస్తాడు?",
+            "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
             "options": [
               "పాఠశాలకు వెళ్తాడు",
               "మార్కెట్కు వెళ్తాడు",
@@ -22247,7 +22247,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_a1_q6",
-            "question": "ಪ್ರಶ್ನೆ: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+            "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
             "options": [
               "చదువు మరియు పాఠశాల అలవాటు",
               "ప్రయాణం",
@@ -22259,7 +22259,7 @@ export const BILINGUAL_COURSES = {
           },
           {
             "id": "kn_te_a1_q7",
-            "question": "ಪ್ರಶ್ನೆ: సరైన వాక్యం ఏది?",
+            "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
             "options": [
               "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
               "రాహుల్ పాఠశాలకు వెళ్లడు.",
@@ -22274,7 +22274,7 @@ export const BILINGUAL_COURSES = {
       "checkpoint_test": [
         {
           "id": "kn_te_a1_q1",
-          "question": "ಪ್ರಶ್ನೆ: రాహుల్ ఎక్కడికి వెళ్తాడు?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಾನೆ?",
           "options": [
             "మార్కెట్",
             "పాఠశాల",
@@ -22286,7 +22286,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_a1_q2",
-          "question": "ಪ್ರಶ್ನೆ: రాహుల్కు ఏమి ఇష్టం?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ಗೆ ಏನು ಇಷ್ಟ?",
           "options": [
             "ఆటలు",
             "పుస్తకాలు చదవడం",
@@ -22298,7 +22298,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_a1_q3",
-          "question": "ಪ್ರಶ್ನೆ: ఈ గద్యభాగం ఎవరి గురించి?",
+          "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗ ಯಾರ ಬಗ್ಗೆ?",
           "options": [
             "సీత",
             "రాహుల్",
@@ -22310,7 +22310,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_a1_q4",
-          "question": "ಪ್ರಶ್ನೆ: “ప్రతిరోజూ” అంటే ఏమిటి?",
+          "question": "ಪ್ರಶ್ನೆ: \"ಪ್ರತಿದಿನ\" ಪದದ ಅರ್ಥವೇನು?",
           "options": [
             "ప్రతి రోజు",
             "నిన్న",
@@ -22322,7 +22322,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_a1_q5",
-          "question": "ಪ್ರಶ್ನೆ: రాహుల్ ఏమి చేస్తాడు?",
+          "question": "ಪ್ರಶ್ನೆ: ರಾಹುಲ್ ಏನು ಮಾಡುತ್ತಾನೆ?",
           "options": [
             "పాఠశాలకు వెళ్తాడు",
             "మార్కెట్కు వెళ్తాడు",
@@ -22334,7 +22334,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_a1_q6",
-          "question": "ಪ್ರಶ್ನೆ: ఈ గద్యభాగం యొక్క ప్రధాన భావం ఏమిటి?",
+          "question": "ಪ್ರಶ್ನೆ: ಈ ಗದ್ಯಭಾಗದ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
           "options": [
             "చదువు మరియు పాఠశాల అలవాటు",
             "ప్రయాణం",
@@ -22346,7 +22346,7 @@ export const BILINGUAL_COURSES = {
         },
         {
           "id": "kn_te_a1_q7",
-          "question": "ಪ್ರಶ್ನೆ: సరైన వాక్యం ఏది?",
+          "question": "ಪ್ರಶ್ನೆ: ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
           "options": [
             "రాహుల్కు పుస్తకాలు చదవడం ఇష్టం.",
             "రాహుల్ పాఠశాలకు వెళ్లడు.",
